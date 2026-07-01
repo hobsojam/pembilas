@@ -8,6 +8,7 @@
       { "startsWith": ["d"],                  "prefix": "men",  "dropInitial": false },
       { "startsWith": ["t"],                  "prefix": "men",  "dropInitial": true  },
       { "startsWith": ["g", "h"],             "prefix": "meng", "dropInitial": false },
+      { "startsWith": ["kh"],                 "prefix": "meng", "dropInitial": false },
       { "startsWith": ["k"],                  "prefix": "meng", "dropInitial": true  },
       { "startsWith": ["a","e","i","o","u"],  "prefix": "meng", "dropInitial": false },
       { "startsWith": ["s"],                  "prefix": "meny", "dropInitial": true  },

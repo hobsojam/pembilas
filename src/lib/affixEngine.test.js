@@ -10,6 +10,7 @@ describe('nasal assimilation (me- prefix)', () => {
     ['t -> men (dropped)', 'tulis', 'menulis'],
     ['g/h -> meng (no drop)', 'gambar', 'menggambar'],
     ['k -> meng (dropped)', 'kirim', 'mengirim'],
+    ['kh -> meng (no drop, #16)', 'khawatir', 'mengkhawatir'],
     ['vowel -> meng (no drop)', 'ambil', 'mengambil'],
     ['s -> meny (dropped)', 'sapu', 'menyapu'],
     ['l/m/n/r/w/y/ng/ny -> me (no drop)', 'lari', 'melari'],

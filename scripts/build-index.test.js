@@ -48,12 +48,47 @@ describe('buildIndex', () => {
   })
 })
 
-describe('real gunung data (#16 regression)', () => {
-  it('data/annotations.json overrides gunung.pe_an to the irregular pegunungan', () => {
+describe('real irregular-word data (#16 regression)', () => {
+  it('gunung.pe_an is overridden to the irregular pegunungan', () => {
     expect(realAnnotations.gunung.pe_an).toEqual({
       state: 'valid',
       gloss: 'mountain range',
       form: 'pegunungan',
     })
+  })
+
+  it('tahu.me_i is overridden to the irregular mengetahui', () => {
+    expect(realAnnotations.tahu.me_i.state).toBe('valid')
+    expect(realAnnotations.tahu.me_i.form).toBe('mengetahui')
+  })
+
+  it('percaya.me_i is overridden to the irregular mempercayai', () => {
+    expect(realAnnotations.percaya.me_i.state).toBe('valid')
+    expect(realAnnotations.percaya.me_i.form).toBe('mempercayai')
+  })
+
+  it('arti.pe_an is overridden to the irregular pengertian', () => {
+    expect(realAnnotations.arti.pe_an.state).toBe('valid')
+    expect(realAnnotations.arti.pe_an.form).toBe('pengertian')
+  })
+
+  it('mulai.per_an is overridden to the irregular permulaan', () => {
+    expect(realAnnotations.mulai.per_an.state).toBe('valid')
+    expect(realAnnotations.mulai.per_an.form).toBe('permulaan')
+  })
+
+  it('kerja.pe is overridden to the irregular pekerja', () => {
+    expect(realAnnotations.kerja.pe.state).toBe('valid')
+    expect(realAnnotations.kerja.pe.form).toBe('pekerja')
+  })
+
+  it('khawatir.me_kan is fixed via the new "kh" nasal-assimilation rule, no override needed', () => {
+    // Unlike the other five, khawatir turned out to be a missing phonological
+    // rule (the "kh" digraph never drops before nasal prefixes) rather than
+    // a truly lexical irregularity, so this one has no `form` override --
+    // deriveForm() computes "mengkhawatirkan" correctly on its own now.
+    expect(realAnnotations.khawatir.me_kan.state).toBe('valid')
+    expect(realAnnotations.khawatir.me_kan.form).toBeUndefined()
+    expect(deriveForm('khawatir', 'me_kan', rules)).toBe('mengkhawatirkan')
   })
 })
