@@ -1861,8 +1861,9 @@
       "gloss": "to interpret; to define; to mean (causative)"
     },
     "pe_an": {
-      "state": "unused",
-      "gloss": ""
+      "state": "valid",
+      "gloss": "understanding; comprehension",
+      "form": "pengertian"
     },
     "me": {
       "state": "unused",
@@ -2123,8 +2124,9 @@
       "gloss": "to prank; to trick; to fool (informal)"
     },
     "pe": {
-      "state": "unused",
-      "gloss": ""
+      "state": "valid",
+      "gloss": "worker",
+      "form": "pekerja"
     },
     "pe_an": {
       "state": "valid",
@@ -2573,6 +2575,11 @@
     "pe_an": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "beginning; start",
+      "form": "permulaan"
     },
     "ber": {
       "state": "unused",
@@ -5185,8 +5192,9 @@
       "gloss": ""
     },
     "me_i": {
-      "state": "unused",
-      "gloss": ""
+      "state": "valid",
+      "gloss": "to know (something); to find out; to be aware of",
+      "form": "mengetahui"
     },
     "di": {
       "state": "unused",
@@ -5393,8 +5401,9 @@
       "gloss": ""
     },
     "me_i": {
-      "state": "unused",
-      "gloss": ""
+      "state": "valid",
+      "gloss": "to believe in; to trust (someone or something)",
+      "form": "mempercayai"
     },
     "ber": {
       "state": "unused",
@@ -7999,8 +8008,8 @@
       "gloss": ""
     },
     "me_kan": {
-      "state": "unused",
-      "gloss": ""
+      "state": "valid",
+      "gloss": "to worry (someone); to be worrying, alarming"
     },
     "ber": {
       "state": "unused",
