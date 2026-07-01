@@ -19,5 +19,12 @@ export default defineConfig(({ command }) => ({
   test: {
     environment: 'jsdom',
     setupFiles: ['./vitest-setup.js'],
+    coverage: {
+      provider: 'v8',
+      reporter: ['text', 'lcov'],
+      reportsDirectory: './coverage',
+      include: ['src/**/*.{js,svelte}'],
+      exclude: ['src/**/*.test.js'],
+    },
   },
 }))

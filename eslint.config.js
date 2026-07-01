@@ -4,7 +4,7 @@ import globals from 'globals'
 
 export default [
   {
-    ignores: ['dist/**', 'data/search-index.json'],
+    ignores: ['dist/**', 'coverage/**', 'data/search-index.json'],
   },
   js.configs.recommended,
   ...svelte.configs.recommended,
