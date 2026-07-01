@@ -8574,5 +8574,35 @@
       "state": "valid",
       "gloss": "to smooth a surface by rubbing (cloth, wood); to remove wrinkles or roughen"
     }
+  },
+  "bilas": {
+    "me": {
+      "state": "valid",
+      "gloss": "to rinse (something)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be rinsed"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "rinsing agent; something that rinses (e.g. air pembilas, rinse aid)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a rinse; rinse water"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "the act or process of rinsing"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to rinse off with clean water after bathing/swimming (e.g. in the sea or a pool), as a second wash"
+    },
+    "ke_an": {
+      "state": "unused",
+      "gloss": ""
+    }
   }
 }
