@@ -6,7 +6,7 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
     "source_version": "2025.11.23",
     "generated": "2026-06-30",
-    "count": 9394
+    "count": 9395
   },
   "words": [
     {
@@ -6993,6 +6993,11 @@
       "root": "bilangan",
       "pos": "word",
       "gloss": "numbers"
+    },
+    {
+      "root": "bilas",
+      "pos": "word",
+      "gloss": "rinse"
     },
     {
       "root": "bilier",
