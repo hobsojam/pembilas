@@ -137,7 +137,10 @@
         >
           <span class="root">{r.root}</span>
           {#if r.via}
-            <span class="via">via {r.via}{#if r.ambiguous}<span class="unverified">{' · unverified'}</span>{/if}</span>
+            <span class="via">via {r.via}</span>
+          {/if}
+          {#if r.ambiguous}
+            <span class="unverified">· unverified</span>
           {/if}
           <span class="gloss">{r.gloss}</span>
         </li>
@@ -198,6 +201,6 @@
 
   .root  { font-weight: 600; }
   .via   { font-size: 0.8rem; color: #666; }
-  .unverified { font-style: italic; color: #7a5f12; }
+  .unverified { font-size: 0.8rem; font-style: italic; color: #7a5f12; }
   .gloss { font-size: 0.9rem; color: #555; margin-left: auto; }
 </style>

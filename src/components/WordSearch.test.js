@@ -84,7 +84,8 @@ describe('WordSearch', () => {
 
       // Unverified collider (tang) is explicitly marked
       expect(options[1]).toHaveTextContent('tang')
-      expect(options[1]).toHaveTextContent('via ber-...-an · unverified')
+      expect(options[1]).toHaveTextContent('via ber-...-an')
+      expect(options[1]).toHaveTextContent('· unverified')
     })
 
     it('does not mark an unverified form that has no verified collision', async () => {
