@@ -8738,5 +8738,190 @@
       "gloss": "",
       "notes": "the real verb \"memperhatikan\" (to pay attention to) is the compound mem-per-...-kan; no single affix id in data/affixes.json models a stacked per-+kan circumfix, so this can't be derived or overridden correctly"
     }
+  },
+  "ana": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mechanical anakan collides with anak + -an; ana (slang pronoun) does not take -kan"
+    }
+  },
+  "tang": {
+    "ber_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mechanical bertangan collides with tangan + ber-; tang (pliers) has no ber-...-an form"
+    }
+  },
+  "rubah": {
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): berubah is from ubah; rubah (fox) has no ber- verb (the colloquial merubah spelling also derives from ubah, not fox)"
+    }
+  },
+  "ketua": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): real ketuaan is ke- + tua + -an ('too old'); ketua + -an is not a word"
+    }
+  },
+  "parah": {
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memarahi is from marah; worsening something is memperparah (per- causative, not modeled by this affix set)"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memarahkan is from marah; worsening something is memperparah (per- causative, not modeled by this affix set)"
+    },
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pemarah (hot-tempered person) is from marah, not parah"
+    }
+  },
+  "bel": {
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): membeli is from beli; ringing a bell is membunyikan bel, membeli from bel is not a word"
+    }
+  },
+  "asar": {
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengasarkan is from kasar; asar (the afternoon prayer) takes no verb forms"
+    }
+  },
+  "kotak": {
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengotaki is from otak (to mastermind); the kotak verb is the reduplicated mengotak-ngotakkan, which this affix set does not model"
+    }
+  },
+  "kubah": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengubah is from ubah; there is no verb 'to dome' from kubah"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengubahkan is from ubah; there is no verb 'to dome' from kubah"
+    },
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengubah (one who changes) is from ubah, not kubah"
+    },
+    "pe_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengubahan (alteration) is from ubah, not kubah"
+    }
+  },
+  "nipis": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menipis is from tipis; nipis is a Malay/regional variant of tipis (as in jeruk nipis) and does not take Indonesian verb affixes on its own"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menipiskan is from tipis; nipis is a Malay/regional variant of tipis and does not take Indonesian verb affixes on its own"
+    }
+  },
+  "sering": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): seringan is se- + ringan ('as light as'); the colloquial comparative sering-an ('more often') is nonstandard Jakarta speech"
+    }
+  },
+  "memulai": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memulai is itself a derived form (me- + mulai) sitting in words.json as a root; double-affixing it duplicates mulai + me-...-kan"
+    }
+  },
+  "menari": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menari is itself a derived form (me- + tari); double-affixing it duplicates tari + me-...-kan"
+    }
+  },
+  "menarik": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menarik is itself a derived form (me- + tarik); menarikan is tari + me-...-kan, not menarik + -an"
+    }
+  },
+  "menyamak": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menyamak is itself a derived form (me- + samak); the tanning noun is penyamakan, not menyamak + -an"
+    }
+  },
+  "menyanyi": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menyanyi is itself a derived form (me- + nyanyi); double-affixing it duplicates nyanyi + me-...-kan"
+    }
+  },
+  "peminum": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): peminum is itself a derived form (pe- + minum); peminuman duplicates minum + pe-...-an"
+    }
+  },
+  "pinta": {
+    "me": {
+      "state": "valid",
+      "gloss": "to request, ask for",
+      "notes": "collision triage (#48): KBBI derives meminta from pinta as well as minta; both roots are legitimate"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to ask something of (someone)",
+      "notes": "collision triage (#48): parallel to minta + me-...-i; both roots are legitimate"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to request on behalf of (someone)",
+      "notes": "collision triage (#48): parallel to minta + me-...-kan; both roots are legitimate"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "one who requests (cf. peminta-minta, beggar)",
+      "notes": "collision triage (#48): parallel to minta + pe-; both roots are legitimate"
+    }
+  },
+  "pena": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pen; his/her pen (possessive clitic)",
+      "notes": "collision triage (#48): -nya is fully productive on nouns; kept valid because penanya is a genuine homograph with tanya + pe- (questioner)"
+    }
+  },
+  "masa": {
+    "kan": {
+      "state": "valid",
+      "gloss": "how could it possibly be? (expresses disbelief; literary)",
+      "notes": "collision triage (#48): from the interjection sense of masa, not the 'period' sense glossed in words.json; judgment call, see issue discussion"
+    }
   }
 }
