@@ -1,47 +1,13 @@
 import affixData from '../../data/affixes.json'
+import { deriveForm as derive } from './derive.js'
 
 const { rules } = affixData.nasalAssimilation
 
-function applyNasal(root) {
-  for (const rule of rules) {
-    for (const s of rule.startsWith) {
-      if (root.toLowerCase().startsWith(s)) {
-        const stem = rule.dropInitial ? root.slice(s.length) : root
-        return rule.prefix + stem
-      }
-    }
-  }
-  return 'me' + root
-}
-
-function applyPeNasal(root) {
-  // pe- follows the same assimilation as me- but with pe/pem/pen/peng/peny
-  const meForm = applyNasal(root)
-  return meForm.replace(/^me/, 'pe')
-}
-
+// The derivation logic itself lives in derive.js (shared with
+// scripts/build-index.mjs, see #60); this module just binds the
+// nasal-assimilation rules from affixes.json.
 export function deriveForm(root, affixId) {
-  switch (affixId) {
-    case 'me':     return applyNasal(root)
-    case 'ber':    return root.startsWith('r') ? 'be' + root : 'ber' + root
-    case 'di':     return 'di' + root
-    case 'ter':    return root.startsWith('r') ? 'te' + root : 'ter' + root
-    case 'ke':     return 'ke' + root
-    case 'se':     return 'se' + root
-    case 'pe':     return applyPeNasal(root)
-    case 'an':     return root + 'an'
-    case 'kan':    return root + 'kan'
-    case 'i':      return root + 'i'
-    case 'nya':    return root + 'nya'
-    case 'lah':    return root + 'lah'
-    case 'me_kan': return applyNasal(root) + 'kan'
-    case 'me_i':   return applyNasal(root) + 'i'
-    case 'pe_an':  return applyPeNasal(root) + 'an'
-    case 'ke_an':  return 'ke' + root + 'an'
-    case 'ber_an': return (root.startsWith('r') ? 'be' : 'ber') + root + 'an'
-    case 'per_an': return (root.startsWith('r') ? 'pe' : 'per') + root + 'an'
-    default:       return root
-  }
+  return derive(root, affixId, rules)
 }
 
 export const affixes = affixData.affixes
