@@ -21,6 +21,12 @@ The data was inverted (English→Indonesian to Indonesian→English) and reforma
 
 The script only rewrites glosses that still byte-match the naive inversion — hand-curated glosses are never overwritten. Roots added by annotation batches (with hand-written glosses) are not part of the inversion at all.
 
+## frequency-id-50k.txt
+
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Indonesian word-frequency list (50,000 entries) from [HermitDave/FrequencyWords](https://github.com/hermitdave/FrequencyWords) (2018 dataset), derived from the [OpenSubtitles](https://www.opensubtitles.org/) corpus. Used by `scripts/frequency-rank.py` to target annotation batches at the highest-frequency uncovered roots (issue #14, frequency-driven mode). The spoken-subtitle register suits the learner audience.
+
 ## affixes.json
 
 **License:** authored by the project contributors.
