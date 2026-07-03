@@ -630,6 +630,11 @@
       "gloss": "ouch"
     },
     {
+      "root": "aduk",
+      "pos": "word",
+      "gloss": "stir, mix"
+    },
+    {
       "root": "aduksi",
       "pos": "word",
       "gloss": "adduction"
@@ -9240,6 +9245,11 @@
       "gloss": "weather"
     },
     {
+      "root": "cuci",
+      "pos": "word",
+      "gloss": "wash"
+    },
+    {
       "root": "cucian",
       "pos": "word",
       "gloss": "laundry"
@@ -14890,6 +14900,11 @@
       "gloss": "curtain"
     },
     {
+      "root": "goreng",
+      "pos": "word",
+      "gloss": "fry, fried"
+    },
+    {
       "root": "gorontalo",
       "pos": "word",
       "gloss": "gorontalo"
@@ -15887,7 +15902,7 @@
     {
       "root": "hidang",
       "pos": "word",
-      "gloss": "dish"
+      "gloss": "serve (food)"
     },
     {
       "root": "hidran",
@@ -24655,6 +24670,11 @@
       "gloss": "cock-a-doodle-doo"
     },
     {
+      "root": "kukus",
+      "pos": "word",
+      "gloss": "steam (cooking)"
+    },
+    {
       "root": "kuli",
       "pos": "word",
       "gloss": "coolie"
@@ -24813,6 +24833,11 @@
       "root": "kupang",
       "pos": "word",
       "gloss": "kupang"
+    },
+    {
+      "root": "kupas",
+      "pos": "word",
+      "gloss": "peel"
     },
     {
       "root": "kupyansk",
@@ -31850,6 +31875,11 @@
       "gloss": "occupancy"
     },
     {
+      "root": "olah",
+      "pos": "word",
+      "gloss": "process, work on"
+    },
+    {
       "root": "olahraga",
       "pos": "word",
       "gloss": "sport, work out"
@@ -32748,6 +32778,11 @@
       "root": "pangeran",
       "pos": "word",
       "gloss": "prince"
+    },
+    {
+      "root": "panggang",
+      "pos": "word",
+      "gloss": "roast, grill"
     },
     {
       "root": "panggil",
@@ -38125,6 +38160,11 @@
       "gloss": "bamboo shoot"
     },
     {
+      "root": "rebus",
+      "pos": "word",
+      "gloss": "boil, boiled"
+    },
+    {
       "root": "receh",
       "pos": "adjective",
       "gloss": "tacky"
@@ -39620,6 +39660,11 @@
       "gloss": "aphthous ulcer"
     },
     {
+      "root": "saring",
+      "pos": "word",
+      "gloss": "filter, strain"
+    },
+    {
       "root": "sarira",
       "pos": "word",
       "gloss": "śarīra"
@@ -39853,6 +39898,11 @@
       "root": "sedot",
       "pos": "word",
       "gloss": "suck up, siphon"
+    },
+    {
+      "root": "seduh",
+      "pos": "word",
+      "gloss": "brew, steep"
     },
     {
       "root": "segala",
