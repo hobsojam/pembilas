@@ -39,6 +39,10 @@ export function buildIndex({ words, affixes, annotations, rules }) {
 
   for (const word of words) {
     add(word.root, word.root, null, true)
+    // Proper nouns (pos "proper", tagged from the upstream dictionary's
+    // proper-noun-only headwords — #62) stay searchable as themselves but
+    // get no mechanical affix derivations: bertanganyika isn't a word.
+    if (word.pos === 'proper') continue
     for (const affix of affixes) {
       const ann = annotations[word.root]?.[affix.id]
       if (ann?.state === 'unused') continue

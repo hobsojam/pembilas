@@ -59,6 +59,19 @@ describe('buildIndex', () => {
     expect(entries).toContainEqual(['tulis', 'tulis', null, 1])
   })
 
+  it('gives proper-noun roots a self-entry but no affix derivations (#62)', () => {
+    const entries = buildIndex({
+      words: [{ root: 'toronto', pos: 'proper' }, { root: 'tulis', pos: 'word' }],
+      affixes: [{ id: 'me', label: 'me-' }],
+      annotations: {},
+      rules,
+    })
+    expect(entries).toContainEqual(['toronto', 'toronto', null, 1])
+    expect(entries.filter(([, root]) => root === 'toronto')).toHaveLength(1)
+    // non-proper roots still derive
+    expect(entries).toContainEqual(['menulis', 'tulis', 'me'])
+  })
+
   describe('headword collisions (#52)', () => {
     // "beli" + me- mechanically derives "membeli"; make "membeli" itself a
     // headword to simulate the derived-form-as-root noise from #52.
