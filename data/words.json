@@ -2332,7 +2332,7 @@
     {
       "root": "ana",
       "pos": "word",
-      "gloss": "ane"
+      "gloss": "(slang) I, me"
     },
     {
       "root": "anabaptisme",
@@ -4037,7 +4037,7 @@
     {
       "root": "asi",
       "pos": "word",
-      "gloss": "ation, breast milk"
+      "gloss": "breast milk (ASI)"
     },
     {
       "root": "asia",
@@ -8363,11 +8363,6 @@
       "root": "busur",
       "pos": "word",
       "gloss": "bow, circular arc"
-    },
-    {
-      "root": "but",
-      "pos": "word",
-      "gloss": "boot, bootstrap"
     },
     {
       "root": "buta",
@@ -16520,11 +16515,6 @@
       "gloss": "mother"
     },
     {
-      "root": "icu",
-      "pos": "word",
-      "gloss": "icu"
-    },
-    {
       "root": "ide",
       "pos": "word",
       "gloss": "idea"
@@ -23882,7 +23872,7 @@
     {
       "root": "kop",
       "pos": "word",
-      "gloss": "header"
+      "gloss": "letterhead (kop surat)"
     },
     {
       "root": "kopenhagen",
@@ -26417,7 +26407,7 @@
     {
       "root": "luar",
       "pos": "word",
-      "gloss": "exit, outer"
+      "gloss": "outside, exterior"
     },
     {
       "root": "luas",
@@ -33495,11 +33485,6 @@
       "gloss": "rural"
     },
     {
-      "root": "pedia",
-      "pos": "word",
-      "gloss": "pedia"
-    },
-    {
       "root": "pediatri",
       "pos": "word",
       "gloss": "pediatrics"
@@ -33807,7 +33792,7 @@
     {
       "root": "pemalu",
       "pos": "word",
-      "gloss": "sheep"
+      "gloss": "shy, timid (person)"
     },
     {
       "root": "pemampu",
@@ -39822,7 +39807,7 @@
     {
       "root": "sedot",
       "pos": "word",
-      "gloss": "download"
+      "gloss": "suck up, siphon"
     },
     {
       "root": "segala",
@@ -40757,7 +40742,7 @@
     {
       "root": "seru",
       "pos": "word",
-      "gloss": "trumpet"
+      "gloss": "exclaim; (colloq.) exciting, intense"
     },
     {
       "root": "serum",
@@ -45692,7 +45677,7 @@
     {
       "root": "ubah",
       "pos": "word",
-      "gloss": "turn"
+      "gloss": "change, alter"
     },
     {
       "root": "ubi",

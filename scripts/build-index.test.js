@@ -13,6 +13,17 @@ describe('deriveForm', () => {
   it('falls back to the root for an unknown affix id', () => {
     expect(deriveForm('tulis', 'bogus', rules)).toBe('tulis')
   })
+
+  // The script's deriveForm mirrors src/lib/affixEngine.js; these two cases
+  // had drifted out of sync with it (#52 review) -- keep them covered.
+  it('elides the doubled r for ter- on r-initial roots, like affixEngine.js', () => {
+    expect(deriveForm('rusak', 'ter', rules)).toBe('terusak')
+  })
+
+  it('derives per-...-an with r-elision, like affixEngine.js', () => {
+    expect(deriveForm('tanya', 'per_an', rules)).toBe('pertanyaan')
+    expect(deriveForm('runding', 'per_an', rules)).toBe('perundingan')
+  })
 })
 
 describe('buildIndex', () => {
@@ -45,6 +56,30 @@ describe('buildIndex', () => {
     const entries = buildIndex({ words, affixes, annotations: {}, rules })
     expect(entries).toContainEqual(['gunung', 'gunung', null, 1])
     expect(entries).toContainEqual(['tulis', 'tulis', null, 1])
+  })
+
+  describe('headword collisions (#52)', () => {
+    // "beli" + me- mechanically derives "membeli"; make "membeli" itself a
+    // headword to simulate the derived-form-as-root noise from #52.
+    const collidingWords = [{ root: 'beli' }, { root: 'membeli' }]
+    const meOnly = [{ id: 'me', label: 'me-' }]
+
+    it('drops an unverified mechanical derivation that equals a headword', () => {
+      const entries = buildIndex({ words: collidingWords, affixes: meOnly, annotations: {}, rules })
+      expect(entries.filter(([form]) => form === 'membeli')).toEqual([
+        ['membeli', 'membeli', null, 1],
+      ])
+    })
+
+    it('keeps a curated valid derivation alongside the headword it equals (#56 un-shadowing)', () => {
+      const annotations = { beli: { me: { state: 'valid', gloss: 'to buy' } } }
+      const entries = buildIndex({ words: collidingWords, affixes: meOnly, annotations, rules })
+      // The headword's own entry ranks first, the curated derived reading follows.
+      expect(entries.filter(([form]) => form === 'membeli')).toEqual([
+        ['membeli', 'membeli', null, 1],
+        ['membeli', 'beli', 'me-', 1],
+      ])
+    })
   })
 
   describe('provenance flag (#48)', () => {
