@@ -9851,5 +9851,300 @@
       "gloss": "",
       "notes": "collision triage (#48/#56): timbangan is itself timbang + -an sitting in words.json as a root (#52); penimbangan is timbang + pe-...-an"
     }
+  },
+  "untung": {
+    "ber": {
+      "state": "valid",
+      "gloss": "lucky, fortunate (beruntung)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "profit; advantage (keuntungan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "profitable; to benefit (menguntungkan)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "untungan is not a word; untung-untungan (taking a chance) is reduplication, which isn't modeled"
+    }
+  },
+  "rugi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to make a loss, operate at a loss (merugi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to harm, put at a disadvantage (merugikan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a loss; damage (kerugian)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "the passive is dirugikan (di-...-kan, not a modeled slot)"
+    }
+  },
+  "utang": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to be in debt, to owe (berutang; also spelled berhutang)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to lend money to (mengutangi)",
+      "notes": "less common than meminjamkan"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "utangan is colloquial at best; piutang (receivables) uses the pi- prefix, which isn't modeled"
+    }
+  },
+  "dagang": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to trade, do business (berdagang)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "merchant, trader (pedagang)",
+      "form": "pedagang",
+      "notes": "irregular: no nasal (the rule would give pendagang), like pekerja"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "trade, commerce (perdagangan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "merchandise, goods for sale (dagangan)"
+    }
+  },
+  "belanja": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to shop (berbelanja)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to spend (money) on (membelanjakan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "shopping (pusat perbelanjaan = shopping mall)"
+    }
+  },
+  "tabung": {
+    "me": {
+      "state": "valid",
+      "gloss": "to save money (menabung)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "savings; savings account (tabungan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "saver, depositor (penabung)"
+    }
+  },
+  "hemat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to economize, be frugal (berhemat)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to save, conserve, cut down on (menghemat)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "cost-saving, cutback (penghematan)"
+    }
+  },
+  "boros": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to squander, waste (memboroskan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "wastage, wasteful spending (pemborosan)"
+    }
+  },
+  "laba": {
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "berlaba is rare; 'profitable' is menguntungkan. nirlaba (nonprofit) uses the nir- prefix, which isn't modeled"
+    }
+  },
+  "upah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to hire for pay, engage for wages (mengupah)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "hired hand; done for wages (upahan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "wage-setting, remuneration (pengupahan)"
+    }
+  },
+  "gaji": {
+    "me": {
+      "state": "valid",
+      "gloss": "to employ on a salary, to pay (menggaji)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(colloq.) payday (gajian)",
+      "notes": "informal register"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "payroll, salary administration (penggajian)"
+    }
+  },
+  "modal": {
+    "ber": {
+      "state": "valid",
+      "gloss": "having capital of; armed with (bermodal nekat = armed with sheer nerve)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "investor, financier (pemodal)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to fund, bankroll (memodali)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "capitalization, financing (permodalan)"
+    }
+  },
+  "biaya": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to finance, fund (membiayai)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "financing, funding (pembiayaan)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "the passive is dibiayai (di-...-i, not a modeled slot)"
+    }
+  },
+  "usaha": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to try, strive, make an effort (berusaha)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to arrange for, endeavor to provide (mengusahakan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "entrepreneur, businessperson (pengusaha)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "company, enterprise (perusahaan)"
+    }
+  },
+  "nilai": {
+    "me": {
+      "state": "valid",
+      "gloss": "to assess, judge, grade (menilai)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "assessment, evaluation (penilaian)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "valuable; having a value of (bernilai)"
+    },
+    "ter": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "ternilai only appears in the fixed phrase tak ternilai (priceless)"
+    }
+  },
+  "cicil": {
+    "me": {
+      "state": "valid",
+      "gloss": "to pay in installments (mencicil)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "an installment (cicilan)"
+    }
+  },
+  "mahal": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "(colloq.) overpriced, too expensive (kemahalan)",
+      "notes": "informal register"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "the most expensive (termahal)"
+    }
+  },
+  "murah": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "generosity (kemurahan hati)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "the cheapest (termurah)"
+    }
+  },
+  "kursi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "seated in, equipped with (berkursi roda = in a wheelchair)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "kursian is not a word"
+    }
+  },
+  "kasur": {
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "berkasur is not standard usage"
+    }
+  },
+  "nila": {
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menilai is from nilai; nila (indigo) has no me-...-i verb"
+    }
+  },
+  "penilai": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): penilai is itself nilai + pe- sitting in words.json as a root (#52); penilaian is nilai + pe-...-an"
+    }
   }
 }
