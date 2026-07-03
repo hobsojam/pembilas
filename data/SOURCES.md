@@ -14,7 +14,12 @@ This file is derived from the **English-Bahasa Indonesia FreeDict+WikDict dictio
 The original dictionary was downloaded from:
 `https://download.freedict.org/dictionaries/eng-ind/2025.11.23/freedict-eng-ind-2025.11.23.src.tar.xz`
 
-The data was inverted (English→Indonesian to Indonesian→English) and reformatted as JSON using the extraction script at `scripts/extract_dict.py`.
+The data was inverted (English→Indonesian to Indonesian→English) and reformatted as JSON. The original one-off inversion script was never committed; `scripts/extract-dict.py` is the committed, reproducible replacement (issue #61). It re-derives glosses from the TEI source with two refinements over the naive inversion:
+
+- English headwords that are proper nouns (TEI pos `pn`, or capitalized) are excluded from a gloss unless they are the word's only source; roots whose *only* sources are proper nouns carry `pos: "proper"` (issue #62)
+- remaining English headwords are ranked by their total sense count across the dictionary (an in-corpus commonness proxy) and capped at 3 per gloss
+
+The script only rewrites glosses that still byte-match the naive inversion — hand-curated glosses are never overwritten. Roots added by annotation batches (with hand-written glosses) are not part of the inversion at all.
 
 ## affixes.json
 
