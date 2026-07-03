@@ -10494,5 +10494,279 @@
       "gloss": "",
       "notes": "collision triage (#48): perasan is from peras (to squeeze); ras (race) has no per-...-an form either (the r-elision makes both affixes land on the same string)"
     }
+  },
+  "lompat": {
+    "me": {
+      "state": "valid",
+      "gloss": "to jump, leap (melompat)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to jump over (melompati)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a jump, a leap (lompatan)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "jumping about (of many things: berlompatan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "to jump involuntarily, be startled into jumping (terlompat)"
+    }
+  },
+  "terbang": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to fly something; to blow away (menerbangkan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "pilot, aviator (penerbang)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "flight; aviation (penerbangan)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "flying about (of many things: beterbangan)",
+      "form": "beterbangan",
+      "notes": "irregular: the r drops (beterbangan, not berterbangan)"
+    }
+  },
+  "renang": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to swim (berenang)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "swimmer (perenang)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to swim across (merenangi)"
+    }
+  },
+  "daki": {
+    "me": {
+      "state": "valid",
+      "gloss": "to climb, ascend a mountain (mendaki)",
+      "notes": "daki also means body grime — this entry covers the climbing sense"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "climber, hiker (pendaki)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "ascent, climb (pendakian)"
+    }
+  },
+  "pergi": {
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to travel, go on a trip (bepergian)",
+      "form": "bepergian",
+      "notes": "irregular: the r drops (bepergian, not berpergian)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "departure; (euphemism) someone's passing (kepergian)"
+    }
+  },
+  "jelajah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to explore; to browse (menjelajah)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to explore, roam through (menjelajahi)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "explorer; (computing) browser (penjelajah)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "exploration (penjelajahan)"
+    }
+  },
+  "kunjung": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to visit (mengunjungi)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to pay a visit (berkunjung)",
+      "notes": "bare kunjung mostly survives in the idiom tak kunjung (never comes to pass)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a visit (kunjungan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "visitor (pengunjung)"
+    }
+  },
+  "langkah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to step, stride (melangkah)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to step over; to bypass, go over someone's head (melangkahi)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "a step (selangkah demi selangkah = step by step)"
+    }
+  },
+  "selam": {
+    "me": {
+      "state": "valid",
+      "gloss": "to dive (menyelam)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "diver (penyelam)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "diving (penyelaman)"
+    }
+  },
+  "layar": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to sail (berlayar)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "voyage; shipping (pelayaran)"
+    },
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "sailors are pelaut (from laut); pelayar is rare"
+    }
+  },
+  "dayung": {
+    "me": {
+      "state": "valid",
+      "gloss": "to row, paddle; to pedal (mendayung)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "rower, oarsman (pendayung)"
+    }
+  },
+  "singgah": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to stop by at, call at (menyinggahi)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "stopover, waystation (persinggahan)"
+    }
+  },
+  "arah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to head toward, tend toward (mengarah)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to direct, aim, steer (mengarahkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "briefing, direction (pengarahan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "directed, focused (terarah)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "in the same direction (searah)"
+    }
+  },
+  "kelana": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to wander, roam (berkelana)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "wanderer (pengelana)"
+    }
+  },
+  "sesat": {
+    "ter": {
+      "state": "valid",
+      "gloss": "lost, gone astray (tersesat)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "misleading; to lead astray (menyesatkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "error, deviancy (kesesatan)"
+    }
+  },
+  "wisata": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to go sightseeing, take a trip (berwisata)"
+    },
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "tourists are wisatawan (the -wan suffix, which isn't modeled)"
+    }
+  },
+  "seberang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to cross (a road: menyeberang)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to cross (a river, a sea: menyeberangi)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "crossing (place or act: penyeberangan)"
+    }
+  },
+  "panjat": {
+    "me": {
+      "state": "valid",
+      "gloss": "to climb (a tree, wall: memanjat)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "climber (pemanjat)"
+    }
+  },
+  "tempuh": {
+    "me": {
+      "state": "valid",
+      "gloss": "to cover (a distance); to undergo, take (a path, an exam: menempuh)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be covered, traversed (passive)"
+    }
   }
 }

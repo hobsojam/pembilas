@@ -9405,6 +9405,11 @@
       "gloss": "demon"
     },
     {
+      "root": "daki",
+      "pos": "word",
+      "gloss": "climb (a mountain)"
+    },
+    {
       "root": "dakriosistitis",
       "pos": "word",
       "gloss": "dacryocystitis"
@@ -18327,7 +18332,7 @@
     {
       "root": "jelajah",
       "pos": "word",
-      "gloss": "explorer"
+      "gloss": "explore"
     },
     {
       "root": "jelantah",
@@ -20857,7 +20862,7 @@
     {
       "root": "kelana",
       "pos": "word",
-      "gloss": "odyssey"
+      "gloss": "wander, roam"
     },
     {
       "root": "kelangkang",
@@ -25517,7 +25522,7 @@
     {
       "root": "layar",
       "pos": "word",
-      "gloss": "display, monitor, sail"
+      "gloss": "sail; screen"
     },
     {
       "root": "layung",
@@ -32845,6 +32850,11 @@
       "gloss": "down payment"
     },
     {
+      "root": "panjat",
+      "pos": "word",
+      "gloss": "climb (vertically)"
+    },
+    {
       "root": "panji",
       "pos": "word",
       "gloss": "panji, pennant, pennon"
@@ -35327,7 +35337,7 @@
     {
       "root": "pergi",
       "pos": "word",
-      "gloss": "get lost, go"
+      "gloss": "go, leave"
     },
     {
       "root": "perhatian",
@@ -39845,6 +39855,11 @@
       "gloss": "awhile"
     },
     {
+      "root": "seberang",
+      "pos": "word",
+      "gloss": "across, opposite side"
+    },
+    {
       "root": "sebut",
       "pos": "word",
       "gloss": "name"
@@ -40865,6 +40880,11 @@
       "gloss": "service"
     },
     {
+      "root": "sesat",
+      "pos": "word",
+      "gloss": "astray, misguided"
+    },
+    {
       "root": "seseorang",
       "pos": "noun",
       "gloss": "someone"
@@ -41367,7 +41387,7 @@
     {
       "root": "singgah",
       "pos": "word",
-      "gloss": "layover"
+      "gloss": "stop by, call in"
     },
     {
       "root": "singgasana",
@@ -44018,6 +44038,11 @@
       "root": "tempolong",
       "pos": "word",
       "gloss": "spittoon"
+    },
+    {
+      "root": "tempuh",
+      "pos": "word",
+      "gloss": "cover (a distance), undergo"
     },
     {
       "root": "tempurung",
@@ -46888,6 +46913,11 @@
       "root": "wirausaha",
       "pos": "word",
       "gloss": "entrepreneur"
+    },
+    {
+      "root": "wisata",
+      "pos": "word",
+      "gloss": "tour, travel"
     },
     {
       "root": "wisatawan",
