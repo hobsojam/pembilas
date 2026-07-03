@@ -10146,5 +10146,353 @@
       "gloss": "",
       "notes": "collision triage (#48): penilai is itself nilai + pe- sitting in words.json as a root (#52); penilaian is nilai + pe-...-an"
     }
+  },
+  "goreng": {
+    "me": {
+      "state": "valid",
+      "gloss": "to fry (menggoreng)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "fried food, fritters (gorengan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be fried (passive)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "frying (process); frying pan (penggorengan)"
+    }
+  },
+  "rebus": {
+    "me": {
+      "state": "valid",
+      "gloss": "to boil (merebus)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "boiled food (rebusan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be boiled (passive)"
+    }
+  },
+  "panggang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to roast, grill, bake (memanggang)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "grilled food; grill, rack (panggangan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be roasted, grilled (passive)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "roaster, toaster (pemanggang roti)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "roasting, grilling (process) (pemanggangan)"
+    }
+  },
+  "kukus": {
+    "me": {
+      "state": "valid",
+      "gloss": "to steam (mengukus)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "steamed food; steamer basket (kukusan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be steamed (passive)"
+    }
+  },
+  "tumis": {
+    "me": {
+      "state": "valid",
+      "gloss": "to sauté, stir-fry (menumis)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a stir-fried dish (tumisan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be sautéed (passive)"
+    }
+  },
+  "bakar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to burn; to grill over fire (membakar)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be burned; grilled (passive)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "burned, on fire (terbakar)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a fire (the disaster: kebakaran)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "burning, combustion (pembakaran)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(colloq.) grilled things, a barbecue (bakaran)",
+      "notes": "informal register"
+    }
+  },
+  "iris": {
+    "me": {
+      "state": "valid",
+      "gloss": "to slice (mengiris)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a slice (irisan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be sliced (passive)"
+    }
+  },
+  "aduk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to stir, mix (mengaduk)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a mix, batter (adukan semen = cement mix)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "stirrer, mixer (pengaduk)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be stirred (passive)"
+    }
+  },
+  "cuci": {
+    "me": {
+      "state": "valid",
+      "gloss": "to wash (mencuci)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "laundry, the washing (cucian)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be washed (passive)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "washer; pencuci mulut = dessert (lit. mouth-washer)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "washing (process) (pencucian)"
+    }
+  },
+  "kupas": {
+    "me": {
+      "state": "valid",
+      "gloss": "to peel; (fig.) to dissect, analyze a topic (mengupas)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(fig.) an analysis, a critique (kupasan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be peeled (passive)"
+    }
+  },
+  "saring": {
+    "me": {
+      "state": "valid",
+      "gloss": "to filter, strain; to screen (menyaring)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "filter, sieve; a selection round (saringan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "filtration, screening (penyaringan)"
+    }
+  },
+  "olah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to process, work on (mengolah)",
+      "notes": "olahraga (sport, olah + raga) is a compound outside the affix system"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "processed product (makanan olahan = processed food)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "processing (pengolahan data/limbah)"
+    }
+  },
+  "seduh": {
+    "me": {
+      "state": "valid",
+      "gloss": "to brew, steep (menyeduh kopi)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a brew, infusion (seduhan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be brewed (passive)"
+    }
+  },
+  "peras": {
+    "me": {
+      "state": "valid",
+      "gloss": "to squeeze, press out; (fig.) to extort (memeras)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "pressings, extracted juice (air perasan jeruk)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "extortionist (pemeras)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "squeezing; (fig.) extortion (pemerasan)"
+    }
+  },
+  "tabur": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to sprinkle, scatter (menaburkan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to sprinkle onto (menaburi)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "sprinkles, topping (taburan)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "scattered all over (bertaburan)"
+    }
+  },
+  "didih": {
+    "me": {
+      "state": "valid",
+      "gloss": "to boil, come to a boil (mendidih)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to bring to a boil (mendidihkan)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "didihan is not commonly used"
+    }
+  },
+  "hidang": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to serve food (menghidangkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a dish, a serving (hidangan)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "the passive is dihidangkan (di-...-kan, not a modeled slot)"
+    }
+  },
+  "bumbu": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to season, spice; (fig.) to embellish a story (membumbui)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "seasoned with (berbumbu)"
+    }
+  },
+  "garam": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to salt (menggarami)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "salted, containing salt (bergaram)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "garaman isn't used; pickles are asinan (from asin)"
+    }
+  },
+  "gula": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to sweeten with sugar (menggulai)",
+      "notes": "homograph of menggulai 'to cook gulai (curry)'; gulai isn't a root in words.json, so no index collision"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "sugared, containing sugar (bergula)"
+    }
+  },
+  "adu": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): the bare imperative adukan! (report it!) collides with adukan (a mix, from aduk + -an); mengadukan already covers the verb"
+    }
+  },
+  "cucian": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): cucian is itself cuci + -an sitting in words.json as a root (#52); pencucian is cuci + pe-...-an"
+    }
+  },
+  "ras": {
+    "pe_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): perasan is from peras (to squeeze); ras (race) has no pe-...-an form"
+    },
+    "per_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): perasan is from peras (to squeeze); ras (race) has no per-...-an form either (the r-elision makes both affixes land on the same string)"
+    }
   }
 }
