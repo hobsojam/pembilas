@@ -9239,5 +9239,414 @@
       "gloss": "",
       "notes": "jaman is a nonstandard spelling of zaman (era), not jam + -an"
     }
+  },
+  "sebut": {
+    "me": {
+      "state": "valid",
+      "gloss": "to mention, refer to"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to mention, state (menyebutkan nama)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be called, mentioned (passive)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "aforementioned, said (very common in formal writing)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "designation, way of referring (sebutan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "the act of mentioning; pronunciation of a term (penyebutan)"
+    }
+  },
+  "pesan": {
+    "me": {
+      "state": "valid",
+      "gloss": "to order, book (memesan makanan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to order on someone's behalf"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be ordered, booked (passive)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "an order (pesanan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to leave word, give parting advice (berpesan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "ordering, booking (pemesanan tiket)"
+    }
+  },
+  "telepon": {
+    "me": {
+      "state": "valid",
+      "gloss": "to phone, call (menelepon)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be phoned (passive)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(colloq.) talking on the phone with each other (teleponan)",
+      "notes": "informal register"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "caller (penelepon)"
+    }
+  },
+  "salam": {
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to shake hands, exchange greetings (bersalaman)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to greet, shake hands with (menyalami)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(colloq.) a handshake (salaman)",
+      "notes": "informal register"
+    }
+  },
+  "nasihat": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to advise (menasihati)",
+      "notes": "spelling variant nasehat is common but nonstandard"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "advisor (penasihat)"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "menasihati is the usual form; menasihatkan is rare"
+    }
+  },
+  "umum": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to announce (mengumumkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "announcement (pengumuman)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "the passive is diumumkan (di-...-kan, not a modeled slot); bare diumum isn't used"
+    }
+  },
+  "diskusi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to hold a discussion (berdiskusi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to discuss (mendiskusikan)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "the passive is didiskusikan (di-...-kan, not a modeled slot)"
+    }
+  },
+  "tutur": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to speak, tell (bertutur)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "utterance (tuturan — linguistics)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "speaker (penutur asli = native speaker)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to relate, recount (menuturkan)"
+    }
+  },
+  "bahas": {
+    "me": {
+      "state": "valid",
+      "gloss": "to discuss, examine (membahas)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be discussed (passive)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "discussion material, coverage (bahasan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "discussion, analysis (pembahasan)"
+    }
+  },
+  "ucap": {
+    "me": {
+      "state": "valid",
+      "gloss": "to say, recite (mengucap syukur)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to say, express (mengucapkan terima kasih)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "expression, greeting (ucapan selamat)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "pronunciation (pengucapan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "uttered, spoken (terucap)"
+    }
+  },
+  "bisik": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to whisper (berbisik)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to whisper something to someone (membisikkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a whisper; inner voice (bisikan hati)"
+    }
+  },
+  "lapor": {
+    "me": {
+      "state": "valid",
+      "gloss": "to report, check in (melapor ke polisi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to report something (melaporkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a report (laporan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "complainant, person who files a report (pelapor)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "the reported party (terlapor)",
+      "notes": "legal register"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "reporting (pelaporan)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "the passive is dilaporkan (di-...-kan, not a modeled slot); bare dilapor is informal at best"
+    }
+  },
+  "undang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to invite (mengundang)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be invited (diundang)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "invitation (undangan)",
+      "notes": "undang-undang (law, statute) is reduplication, not undang + a modeled affix"
+    }
+  },
+  "janji": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to promise (berjanji)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to promise something; promising (menjanjikan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "agreement, treaty (perjanjian)",
+      "form": "perjanjian"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(colloq.) an arrangement to meet up (janjian)",
+      "notes": "informal register"
+    },
+    "ber_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "berjanjian is not standard; mutual promising is expressed with saling berjanji or perjanjian"
+    }
+  },
+  "puji": {
+    "me": {
+      "state": "valid",
+      "gloss": "to praise (memuji)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be praised (dipuji)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "praise, compliment (pujian)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "praiseworthy, commendable (terpuji)"
+    }
+  },
+  "keluh": {
+    "me": {
+      "state": "valid",
+      "gloss": "to complain (mengeluh)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to complain about (mengeluhkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a complaint (keluhan)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "only in the fixed phrase berkeluh kesah (to pour out one's troubles)"
+    }
+  },
+  "tegur": {
+    "me": {
+      "state": "valid",
+      "gloss": "to admonish, reprimand; to address, greet (menegur)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be reprimanded (ditegur)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a warning, reprimand (teguran)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "mostly in the phrase bertegur sapa (to be on speaking terms)"
+    }
+  },
+  "saran": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to suggest, recommend (menyarankan)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "the passive is disarankan (di-...-kan, not a modeled slot)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "saranan is Malay, not standard Indonesian"
+    }
+  },
+  "usul": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to propose (mengusulkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a proposal (usulan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "proposer, mover of a motion (pengusul)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "the passive is diusulkan (di-...-kan, not a modeled slot)"
+    }
+  },
+  "ajak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to invite along, ask someone to join (mengajak)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be invited along (diajak)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "an appeal, call to action (ajakan)"
+    }
+  },
+  "pes": {
+    "ber_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): berpesan is from pesan; pes (plague) has no ber-...-an form"
+    }
+  },
+  "laporan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): laporan is itself lapor + -an sitting in words.json as a root (#52); pelaporan is lapor + pe-...-an"
+    }
+  },
+  "pelapor": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pelapor is itself lapor + pe- sitting in words.json as a root (#52); pelaporan is lapor + pe-...-an"
+    }
+  },
+  "bahasan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): bahasan is itself bahas + -an sitting in words.json as a root (#52); pembahasan is bahas + pe-...-an"
+    }
   }
 }

@@ -1030,6 +1030,11 @@
       "gloss": "magic, magical"
     },
     {
+      "root": "ajak",
+      "pos": "word",
+      "gloss": "urge, invite along"
+    },
+    {
       "root": "ajar",
       "pos": "adjective",
       "gloss": "learned, teach"
@@ -4965,6 +4970,11 @@
       "gloss": "marine"
     },
     {
+      "root": "bahas",
+      "pos": "word",
+      "gloss": "discuss"
+    },
+    {
       "root": "bahasa",
       "pos": "word",
       "gloss": "language"
@@ -7313,6 +7323,11 @@
       "root": "bishkek",
       "pos": "word",
       "gloss": "bishkek"
+    },
+    {
+      "root": "bisik",
+      "pos": "word",
+      "gloss": "whisper"
     },
     {
       "root": "bisikan",
@@ -18080,6 +18095,11 @@
       "gloss": "fetus"
     },
     {
+      "root": "janji",
+      "pos": "word",
+      "gloss": "promise"
+    },
+    {
       "root": "jantan",
       "pos": "adjective",
       "gloss": "male, manly"
@@ -20868,6 +20888,11 @@
       "root": "keluarga",
       "pos": "word",
       "gloss": "family"
+    },
+    {
+      "root": "keluh",
+      "pos": "word",
+      "gloss": "complaint, sigh"
     },
     {
       "root": "kelunakan",
@@ -25198,6 +25223,11 @@
       "root": "laparoskopi",
       "pos": "word",
       "gloss": "laparoscopy"
+    },
+    {
+      "root": "lapor",
+      "pos": "word",
+      "gloss": "report"
     },
     {
       "root": "laporan",
@@ -35637,7 +35667,7 @@
     {
       "root": "pesan",
       "pos": "word",
-      "gloss": "book, message, prompt"
+      "gloss": "message, order"
     },
     {
       "root": "pesarium",
@@ -37238,6 +37268,11 @@
       "root": "pujasera",
       "pos": "word",
       "gloss": "food court"
+    },
+    {
+      "root": "puji",
+      "pos": "word",
+      "gloss": "praise"
     },
     {
       "root": "pujian",
@@ -39348,6 +39383,11 @@
       "root": "sarajevo",
       "pos": "word",
       "gloss": "sarajevo"
+    },
+    {
+      "root": "saran",
+      "pos": "word",
+      "gloss": "suggestion, advice"
     },
     {
       "root": "sarang",
@@ -43435,6 +43475,11 @@
       "gloss": "firm, unwavering"
     },
     {
+      "root": "tegur",
+      "pos": "word",
+      "gloss": "rebuke, greeting"
+    },
+    {
       "root": "teguran",
       "pos": "word",
       "gloss": "admonishment"
@@ -45377,7 +45422,7 @@
     {
       "root": "tutur",
       "pos": "word",
-      "gloss": "parole"
+      "gloss": "speech, utterance"
     },
     {
       "root": "tuvalu",
@@ -45413,6 +45458,11 @@
       "root": "ubikitinasi",
       "pos": "word",
       "gloss": "ubiquitin"
+    },
+    {
+      "root": "ucap",
+      "pos": "word",
+      "gloss": "say, utter"
     },
     {
       "root": "udang",
@@ -45563,6 +45613,11 @@
       "root": "una",
       "pos": "word",
       "gloss": "yne"
+    },
+    {
+      "root": "undang",
+      "pos": "word",
+      "gloss": "invite"
     },
     {
       "root": "undangan",
@@ -45788,6 +45843,11 @@
       "root": "ustaz",
       "pos": "word",
       "gloss": "hodja"
+    },
+    {
+      "root": "usul",
+      "pos": "word",
+      "gloss": "proposal, suggestion"
     },
     {
       "root": "usus",
