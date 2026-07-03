@@ -76,7 +76,7 @@
     },
     {
       "root": "abbas",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "abbas"
     },
     {
@@ -96,12 +96,12 @@
     },
     {
       "root": "abdul",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "abdul"
     },
     {
       "root": "abdullah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "abdullah"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "root": "abidjan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "abidjan"
     },
     {
@@ -132,11 +132,11 @@
     {
       "root": "abjad",
       "pos": "word",
-      "gloss": "abjad, alphabet"
+      "gloss": "alphabet, abjad"
     },
     {
       "root": "abkhazia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "abkhazia"
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "root": "abraham",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "abraham"
     },
     {
@@ -282,7 +282,7 @@
     {
       "root": "abu",
       "pos": "word",
-      "gloss": "ash, gray"
+      "gloss": "gray, ash"
     },
     {
       "root": "abugida",
@@ -316,17 +316,17 @@
     },
     {
       "root": "accra",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "accra"
     },
     {
       "root": "aceh",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "aceh"
     },
     {
       "root": "achilles",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "achilles"
     },
     {
@@ -351,7 +351,7 @@
     },
     {
       "root": "adam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "adam"
     },
     {
@@ -376,7 +376,7 @@
     },
     {
       "root": "adar",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "adar"
     },
     {
@@ -396,7 +396,7 @@
     },
     {
       "root": "aden",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "aden"
     },
     {
@@ -552,11 +552,11 @@
     {
       "root": "adiraja",
       "pos": "word",
-      "gloss": "high king, overking"
+      "gloss": "overking"
     },
     {
       "root": "aditi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "aditi"
     },
     {
@@ -641,7 +641,7 @@
     },
     {
       "root": "adven",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "advent"
     },
     {
@@ -651,7 +651,7 @@
     },
     {
       "root": "adventisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "adventism"
     },
     {
@@ -771,12 +771,12 @@
     },
     {
       "root": "afrika",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "africa"
     },
     {
       "root": "afrikans",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "afrikaans"
     },
     {
@@ -881,7 +881,7 @@
     },
     {
       "root": "agni",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "agni"
     },
     {
@@ -966,17 +966,17 @@
     },
     {
       "root": "agustus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "august"
     },
     {
       "root": "ahad",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sunday"
     },
     {
       "root": "ahasyweros",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ahasuerus, xerxes"
     },
     {
@@ -991,22 +991,22 @@
     },
     {
       "root": "ahmad",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ahmed"
     },
     {
       "root": "aias",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ajax"
     },
     {
       "root": "aids",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "aids"
     },
     {
       "root": "aigion",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "aigio"
     },
     {
@@ -1021,17 +1021,17 @@
     },
     {
       "root": "airawata",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "airavata"
     },
     {
       "root": "aisakos",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "aesacus"
     },
     {
       "root": "aiskhines",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "aeschines"
     },
     {
@@ -1047,7 +1047,7 @@
     {
       "root": "ajar",
       "pos": "adjective",
-      "gloss": "learned, teach"
+      "gloss": "teach, learned"
     },
     {
       "root": "ajudan",
@@ -1421,7 +1421,7 @@
     },
     {
       "root": "akuarius",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "aquarius"
     },
     {
@@ -1531,7 +1531,7 @@
     },
     {
       "root": "alaska",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "alaska"
     },
     {
@@ -1556,7 +1556,7 @@
     },
     {
       "root": "albania",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "albania, albanian"
     },
     {
@@ -1571,7 +1571,7 @@
     },
     {
       "root": "alberta",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "alberta"
     },
     {
@@ -1586,7 +1586,7 @@
     },
     {
       "root": "aldebaran",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "aldebaran"
     },
     {
@@ -1606,7 +1606,7 @@
     },
     {
       "root": "aleksandria",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "alexandria"
     },
     {
@@ -1616,7 +1616,7 @@
     },
     {
       "root": "alektrion",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "alectryon"
     },
     {
@@ -1677,7 +1677,7 @@
     {
       "root": "alias",
       "pos": "word",
-      "gloss": "aka, alias"
+      "gloss": "alias"
     },
     {
       "root": "alibi",
@@ -1736,12 +1736,12 @@
     },
     {
       "root": "aljazair",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "algeria"
     },
     {
       "root": "aljir",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "algiers"
     },
     {
@@ -1811,7 +1811,7 @@
     },
     {
       "root": "allah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "allah"
     },
     {
@@ -1832,7 +1832,7 @@
     {
       "root": "almarhum",
       "pos": "adjective",
-      "gloss": "deceased, late"
+      "gloss": "late, deceased"
     },
     {
       "root": "aloi",
@@ -1861,7 +1861,7 @@
     },
     {
       "root": "alpen",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "alps"
     },
     {
@@ -1876,12 +1876,12 @@
     },
     {
       "root": "alsace",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "alsace"
     },
     {
       "root": "altair",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "altair"
     },
     {
@@ -1971,13 +1971,13 @@
     },
     {
       "root": "amazon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "amazon"
     },
     {
       "root": "ambang",
       "pos": "word",
-      "gloss": "threshold, verge"
+      "gloss": "verge, threshold"
     },
     {
       "root": "amber",
@@ -1997,7 +1997,7 @@
     {
       "root": "ambil",
       "pos": "word",
-      "gloss": "get, take"
+      "gloss": "take, get"
     },
     {
       "root": "ambing",
@@ -2021,7 +2021,7 @@
     },
     {
       "root": "ambon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ambon"
     },
     {
@@ -2056,12 +2056,12 @@
     },
     {
       "root": "amerika",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "americas"
     },
     {
       "root": "amerikanisasi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "americanisation"
     },
     {
@@ -2166,7 +2166,7 @@
     },
     {
       "root": "amman",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "amman"
     },
     {
@@ -2221,7 +2221,7 @@
     },
     {
       "root": "amor",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cupid"
     },
     {
@@ -2312,11 +2312,11 @@
     {
       "root": "amsal",
       "pos": "word",
-      "gloss": "proverbs, saw"
+      "gloss": "saw"
     },
     {
       "root": "amsterdam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "amsterdam"
     },
     {
@@ -2341,7 +2341,7 @@
     },
     {
       "root": "anabaptisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "anabaptism"
     },
     {
@@ -2426,7 +2426,7 @@
     },
     {
       "root": "ananias",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ananias"
     },
     {
@@ -2481,7 +2481,7 @@
     },
     {
       "root": "anatolia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "anatolia"
     },
     {
@@ -2511,7 +2511,7 @@
     },
     {
       "root": "andorra",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "andorra"
     },
     {
@@ -2521,7 +2521,7 @@
     },
     {
       "root": "andreas",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "andrew"
     },
     {
@@ -2536,7 +2536,7 @@
     },
     {
       "root": "android",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "android"
     },
     {
@@ -2616,7 +2616,7 @@
     },
     {
       "root": "anggada",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "angada"
     },
     {
@@ -2657,12 +2657,12 @@
     {
       "root": "anggun",
       "pos": "adjective",
-      "gloss": "decorous, gorgeous"
+      "gloss": "gorgeous, decorous"
     },
     {
       "root": "anggur",
       "pos": "word",
-      "gloss": "grape, wine"
+      "gloss": "wine, grape"
     },
     {
       "root": "angin",
@@ -2736,12 +2736,12 @@
     },
     {
       "root": "anglikanisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "anglicanism"
     },
     {
       "root": "angola",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "angola"
     },
     {
@@ -2752,7 +2752,7 @@
     {
       "root": "angsa",
       "pos": "word",
-      "gloss": "goose, swan"
+      "gloss": "swan, goose"
     },
     {
       "root": "anhidrosis",
@@ -2761,7 +2761,7 @@
     },
     {
       "root": "anhui",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "anhui"
     },
     {
@@ -2826,7 +2826,7 @@
     },
     {
       "root": "ankara",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ankara"
     },
     {
@@ -2981,7 +2981,7 @@
     },
     {
       "root": "antartika",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "antarctica"
     },
     {
@@ -3161,7 +3161,7 @@
     },
     {
       "root": "antiokhia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "antioch"
     },
     {
@@ -3406,12 +3406,12 @@
     },
     {
       "root": "apd",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ppe"
     },
     {
       "root": "apec",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "apec"
     },
     {
@@ -3476,7 +3476,7 @@
     },
     {
       "root": "apolinariansme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "apollinarism"
     },
     {
@@ -3527,7 +3527,7 @@
     {
       "root": "apoteker",
       "pos": "word",
-      "gloss": "pharmacist, pharmacy"
+      "gloss": "pharmacy, pharmacist"
     },
     {
       "root": "apotema",
@@ -3541,7 +3541,7 @@
     },
     {
       "root": "appalachia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "appalachia"
     },
     {
@@ -3556,7 +3556,7 @@
     },
     {
       "root": "april",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "april"
     },
     {
@@ -3576,7 +3576,7 @@
     },
     {
       "root": "apus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "apus"
     },
     {
@@ -3586,8 +3586,8 @@
     },
     {
       "root": "arab",
-      "pos": "word",
-      "gloss": "arabia, arabic"
+      "pos": "proper",
+      "gloss": "arabic, arabia"
     },
     {
       "root": "arabik",
@@ -3601,7 +3601,7 @@
     },
     {
       "root": "arabisasi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "arabisation"
     },
     {
@@ -3621,7 +3621,7 @@
     },
     {
       "root": "aram",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "aram"
     },
     {
@@ -3671,12 +3671,12 @@
     },
     {
       "root": "arfid",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "arfid"
     },
     {
       "root": "argentina",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "argentina"
     },
     {
@@ -3701,7 +3701,7 @@
     },
     {
       "root": "arianisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "arianism"
     },
     {
@@ -3741,7 +3741,7 @@
     },
     {
       "root": "arjuna",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "arjuna"
     },
     {
@@ -3752,7 +3752,7 @@
     {
       "root": "arkade",
       "pos": "word",
-      "gloss": "amusement arcade, arcade"
+      "gloss": "arcade, amusement arcade"
     },
     {
       "root": "arkais",
@@ -3766,7 +3766,7 @@
     },
     {
       "root": "arkansas",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "arkansas"
     },
     {
@@ -3786,7 +3786,7 @@
     },
     {
       "root": "arktik",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "arctic"
     },
     {
@@ -3811,12 +3811,12 @@
     },
     {
       "root": "armenia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "armenia"
     },
     {
       "root": "arminianisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "arminianism"
     },
     {
@@ -3862,7 +3862,7 @@
     {
       "root": "arti",
       "pos": "word",
-      "gloss": "meaning, sense"
+      "gloss": "sense, meaning"
     },
     {
       "root": "artikel",
@@ -3942,7 +3942,7 @@
     {
       "root": "asam",
       "pos": "adjective",
-      "gloss": "acid, acidic, sour"
+      "gloss": "acid, sour, acidic"
     },
     {
       "root": "asana",
@@ -3961,7 +3961,7 @@
     },
     {
       "root": "asatru",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "asatru"
     },
     {
@@ -3976,7 +3976,7 @@
     },
     {
       "root": "asean",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "asean"
     },
     {
@@ -4036,7 +4036,7 @@
     },
     {
       "root": "ashgabat",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ashgabat"
     },
     {
@@ -4046,7 +4046,7 @@
     },
     {
       "root": "asia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "asia"
     },
     {
@@ -4072,7 +4072,7 @@
     {
       "root": "asimilasi",
       "pos": "word",
-      "gloss": "assimilate, assimilation"
+      "gloss": "assimilation, assimilate"
     },
     {
       "root": "asimtomatik",
@@ -4111,7 +4111,7 @@
     },
     {
       "root": "asiriologi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "assyriology"
     },
     {
@@ -4151,12 +4151,12 @@
     },
     {
       "root": "asmr",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "asmr"
     },
     {
       "root": "asoka",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ashoka"
     },
     {
@@ -4236,7 +4236,7 @@
     },
     {
       "root": "astana",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "astana"
     },
     {
@@ -4341,12 +4341,12 @@
     },
     {
       "root": "asyur",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "assyria"
     },
     {
       "root": "asyura",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ashura"
     },
     {
@@ -4391,7 +4391,7 @@
     },
     {
       "root": "athena",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "athena, athens"
     },
     {
@@ -4476,13 +4476,13 @@
     },
     {
       "root": "attikisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "atticism"
     },
     {
       "root": "atur",
       "pos": "word",
-      "gloss": "law, regular, set"
+      "gloss": "law, set, regular"
     },
     {
       "root": "aubade",
@@ -4541,17 +4541,17 @@
     },
     {
       "root": "australia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "australia"
     },
     {
       "root": "austria",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "austria"
     },
     {
       "root": "austronesia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "austronesia"
     },
     {
@@ -4666,7 +4666,7 @@
     },
     {
       "root": "averoisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "averroism"
     },
     {
@@ -4676,7 +4676,7 @@
     },
     {
       "root": "avesta",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "avesta"
     },
     {
@@ -4772,7 +4772,7 @@
     {
       "root": "ayat",
       "pos": "word",
-      "gloss": "ayah, entry"
+      "gloss": "entry, ayah"
     },
     {
       "root": "ayatullah",
@@ -4796,17 +4796,17 @@
     },
     {
       "root": "ayurweda",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ayurveda"
     },
     {
       "root": "ayyavazhi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ayyavazhi"
     },
     {
       "root": "ayyub",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "job"
     },
     {
@@ -4821,7 +4821,7 @@
     },
     {
       "root": "azerbaijan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "azerbaijan, azerbaijani"
     },
     {
@@ -4851,7 +4851,7 @@
     },
     {
       "root": "babel",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "babel, babylon"
     },
     {
@@ -4936,7 +4936,7 @@
     },
     {
       "root": "bafomet",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "baphomet"
     },
     {
@@ -4952,11 +4952,11 @@
     {
       "root": "bagasi",
       "pos": "word",
-      "gloss": "luggage, trunk"
+      "gloss": "trunk, luggage"
     },
     {
       "root": "bagdad",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "baghdad"
     },
     {
@@ -4971,7 +4971,7 @@
     },
     {
       "root": "bahama",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bahamas"
     },
     {
@@ -5017,11 +5017,11 @@
     {
       "root": "bahlul",
       "pos": "word",
-      "gloss": "dumbass, moron"
+      "gloss": "moron, dumbass"
     },
     {
       "root": "bahrain",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bahrain"
     },
     {
@@ -5056,7 +5056,7 @@
     },
     {
       "root": "baitulharam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "masjid al-haram"
     },
     {
@@ -5081,7 +5081,7 @@
     },
     {
       "root": "bajrayana",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tibetan buddhism"
     },
     {
@@ -5157,7 +5157,7 @@
     {
       "root": "bakso",
       "pos": "word",
-      "gloss": "bakso, meatball"
+      "gloss": "meatball, bakso"
     },
     {
       "root": "bakteremia",
@@ -5261,7 +5261,7 @@
     },
     {
       "root": "bali",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bali"
     },
     {
@@ -5277,11 +5277,11 @@
     {
       "root": "balik",
       "pos": "word",
-      "gloss": "come back, return"
+      "gloss": "return, come back"
     },
     {
       "root": "balikpapan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "balikpapan"
     },
     {
@@ -5296,12 +5296,12 @@
     },
     {
       "root": "balkan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "balkans"
     },
     {
       "root": "balkanisasi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "balkanization"
     },
     {
@@ -5367,7 +5367,7 @@
     {
       "root": "banci",
       "pos": "adjective",
-      "gloss": "effeminate, queen, transvestite"
+      "gloss": "queen, transvestite, effeminate"
     },
     {
       "root": "bandana",
@@ -5387,7 +5387,7 @@
     {
       "root": "banding",
       "pos": "word",
-      "gloss": "appeal, comparison, to"
+      "gloss": "to, appeal, comparison"
     },
     {
       "root": "bandit",
@@ -5402,11 +5402,11 @@
     {
       "root": "bandul",
       "pos": "word",
-      "gloss": "crankshaft, pendulum, swing"
+      "gloss": "swing, crankshaft, pendulum"
     },
     {
       "root": "bandung",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bandung"
     },
     {
@@ -5436,7 +5436,7 @@
     },
     {
       "root": "bangkok",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bangkok"
     },
     {
@@ -5451,7 +5451,7 @@
     },
     {
       "root": "bangladesh",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bangladesh"
     },
     {
@@ -5481,12 +5481,12 @@
     },
     {
       "root": "banjarbaru",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "banjarbaru"
     },
     {
       "root": "banjarmasin",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "banjarmasin"
     },
     {
@@ -5516,7 +5516,7 @@
     },
     {
       "root": "banten",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "banten"
     },
     {
@@ -5582,7 +5582,7 @@
     {
       "root": "barangkali",
       "pos": "word",
-      "gloss": "may, maybe, perhaps"
+      "gloss": "may, perhaps, maybe"
     },
     {
       "root": "barase",
@@ -5592,7 +5592,7 @@
     {
       "root": "barat",
       "pos": "word",
-      "gloss": "bharat, west"
+      "gloss": "west"
     },
     {
       "root": "barbeku",
@@ -5647,7 +5647,7 @@
     {
       "root": "baring",
       "pos": "word",
-      "gloss": "lain, lie"
+      "gloss": "lie, lain"
     },
     {
       "root": "baris",
@@ -5686,7 +5686,7 @@
     },
     {
       "root": "bartolomeus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bartholomew"
     },
     {
@@ -5696,12 +5696,12 @@
     },
     {
       "root": "barukh",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "baruch"
     },
     {
       "root": "baruna",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "varuna"
     },
     {
@@ -5772,7 +5772,7 @@
     {
       "root": "batal",
       "pos": "word",
-      "gloss": "repeal, void"
+      "gloss": "void, repeal"
     },
     {
       "root": "batalyon",
@@ -5781,7 +5781,7 @@
     },
     {
       "root": "batam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "batam"
     },
     {
@@ -5836,12 +5836,12 @@
     },
     {
       "root": "baubau",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "baubau"
     },
     {
       "root": "bautzen",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bautzen"
     },
     {
@@ -5852,7 +5852,7 @@
     {
       "root": "bawah",
       "pos": "word",
-      "gloss": "bottom, down, under"
+      "gloss": "bottom, under, down"
     },
     {
       "root": "bawang",
@@ -5886,7 +5886,7 @@
     },
     {
       "root": "bayu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vayu"
     },
     {
@@ -5896,7 +5896,7 @@
     },
     {
       "root": "bcg",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bcg"
     },
     {
@@ -5922,7 +5922,7 @@
     {
       "root": "bebal",
       "pos": "adjective",
-      "gloss": "ignorant, stupid"
+      "gloss": "stupid, ignorant"
     },
     {
       "root": "bebas",
@@ -5967,7 +5967,7 @@
     {
       "root": "beda",
       "pos": "word",
-      "gloss": "differ, difference, different"
+      "gloss": "difference, different, differ"
     },
     {
       "root": "bedah",
@@ -6021,7 +6021,7 @@
     },
     {
       "root": "beirut",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "beirut"
     },
     {
@@ -6036,7 +6036,7 @@
     },
     {
       "root": "bekasi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bekasi"
     },
     {
@@ -6087,7 +6087,7 @@
     {
       "root": "belajar",
       "pos": "word",
-      "gloss": "learn, study"
+      "gloss": "study, learn"
     },
     {
       "root": "belakang",
@@ -6126,7 +6126,7 @@
     },
     {
       "root": "belarus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "belarus"
     },
     {
@@ -6151,12 +6151,12 @@
     },
     {
       "root": "belfast",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "belfast"
     },
     {
       "root": "belgia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "belgium"
     },
     {
@@ -6171,7 +6171,7 @@
     },
     {
       "root": "belinyu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "belinyu"
     },
     {
@@ -6186,13 +6186,13 @@
     },
     {
       "root": "belize",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "belize"
     },
     {
       "root": "belok",
       "pos": "word",
-      "gloss": "bend, turn"
+      "gloss": "turn, bend"
     },
     {
       "root": "beludak",
@@ -6227,7 +6227,7 @@
     {
       "root": "benar",
       "pos": "word",
-      "gloss": "be right, right, true"
+      "gloss": "right, be right, true"
     },
     {
       "root": "bencana",
@@ -6242,7 +6242,7 @@
     {
       "root": "benda",
       "pos": "word",
-      "gloss": "item, thing"
+      "gloss": "thing, item"
     },
     {
       "root": "bendahara",
@@ -6261,17 +6261,17 @@
     },
     {
       "root": "benelux",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "benelux"
     },
     {
       "root": "benggala",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bengal"
     },
     {
       "root": "benghazi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "benghazi"
     },
     {
@@ -6296,7 +6296,7 @@
     },
     {
       "root": "bengkulu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bengkulu"
     },
     {
@@ -6311,7 +6311,7 @@
     },
     {
       "root": "benin",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "benin"
     },
     {
@@ -6352,7 +6352,7 @@
     {
       "root": "bentur",
       "pos": "word",
-      "gloss": "bump, knock, rebuke"
+      "gloss": "knock, bump, rebuke"
     },
     {
       "root": "benua",
@@ -6371,7 +6371,7 @@
     },
     {
       "root": "beograd",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "belgrade"
     },
     {
@@ -6412,7 +6412,7 @@
     {
       "root": "berapa",
       "pos": "word",
-      "gloss": "how many, how much"
+      "gloss": "how much, how many"
     },
     {
       "root": "beras",
@@ -6512,7 +6512,7 @@
     {
       "root": "berhala",
       "pos": "word",
-      "gloss": "god, idol"
+      "gloss": "idol, god"
     },
     {
       "root": "berhemat",
@@ -6621,7 +6621,7 @@
     },
     {
       "root": "berlin",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "berlin"
     },
     {
@@ -6641,12 +6641,12 @@
     },
     {
       "root": "bermuda",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bermuda"
     },
     {
       "root": "bern",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bern"
     },
     {
@@ -6796,13 +6796,13 @@
     },
     {
       "root": "betelgeuse",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "betelgeuse"
     },
     {
       "root": "betina",
       "pos": "adjective",
-      "gloss": "female, queen, womanly"
+      "gloss": "queen, female, womanly"
     },
     {
       "root": "betis",
@@ -6811,7 +6811,7 @@
     },
     {
       "root": "betlehem",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bethlehem"
     },
     {
@@ -6831,7 +6831,7 @@
     },
     {
       "root": "bhutan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bhutan"
     },
     {
@@ -6847,7 +6847,7 @@
     {
       "root": "biara",
       "pos": "word",
-      "gloss": "abbey, monastery"
+      "gloss": "monastery, abbey"
     },
     {
       "root": "biarawan",
@@ -7046,12 +7046,12 @@
     },
     {
       "root": "bima",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bima"
     },
     {
       "root": "bimasakti",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "milky way"
     },
     {
@@ -7101,13 +7101,13 @@
     },
     {
       "root": "binjai",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "binjai"
     },
     {
       "root": "bintang",
       "pos": "word",
-      "gloss": "ace, asterisk, star"
+      "gloss": "star, ace, asterisk"
     },
     {
       "root": "bintara",
@@ -7276,7 +7276,7 @@
     },
     {
       "root": "birma",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "burma"
     },
     {
@@ -7336,7 +7336,7 @@
     },
     {
       "root": "bishkek",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bishkek"
     },
     {
@@ -7352,7 +7352,7 @@
     {
       "root": "biskuit",
       "pos": "word",
-      "gloss": "biscuit, cookie"
+      "gloss": "cookie, biscuit"
     },
     {
       "root": "bisnis",
@@ -7391,12 +7391,12 @@
     },
     {
       "root": "bitola",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bitola, monastir"
     },
     {
       "root": "bitung",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bitung"
     },
     {
@@ -7446,12 +7446,12 @@
     },
     {
       "root": "blitar",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "blitar"
     },
     {
       "root": "bloemfontein",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bloemfontein"
     },
     {
@@ -7526,7 +7526,7 @@
     },
     {
       "root": "bogor",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bogor"
     },
     {
@@ -7541,7 +7541,7 @@
     },
     {
       "root": "bohol",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bohol"
     },
     {
@@ -7577,7 +7577,7 @@
     {
       "root": "bola",
       "pos": "word",
-      "gloss": "ball, sphere"
+      "gloss": "sphere, ball"
     },
     {
       "root": "boleh",
@@ -7586,7 +7586,7 @@
     },
     {
       "root": "bolivia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bolivia"
     },
     {
@@ -7621,18 +7621,18 @@
     },
     {
       "root": "bonapartis",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bonapartist"
     },
     {
       "root": "bonaventura",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bonaventure"
     },
     {
       "root": "boneka",
       "pos": "word",
-      "gloss": "doll, puppet"
+      "gloss": "puppet, doll"
     },
     {
       "root": "bong",
@@ -7651,7 +7651,7 @@
     },
     {
       "root": "bontang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bontang"
     },
     {
@@ -7676,13 +7676,13 @@
     },
     {
       "root": "borduria",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "borduria"
     },
     {
       "root": "borgol",
       "pos": "word",
-      "gloss": "handcuff, handcuffs"
+      "gloss": "handcuffs, handcuff"
     },
     {
       "root": "borjuis",
@@ -7726,7 +7726,7 @@
     },
     {
       "root": "bosnia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bosnia"
     },
     {
@@ -7776,7 +7776,7 @@
     },
     {
       "root": "brahma",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "brahman"
     },
     {
@@ -7826,12 +7826,12 @@
     },
     {
       "root": "brasil",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "brazil"
     },
     {
       "root": "bratislava",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bratislava"
     },
     {
@@ -7846,7 +7846,7 @@
     },
     {
       "root": "bretagne",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "brittany"
     },
     {
@@ -7861,7 +7861,7 @@
     },
     {
       "root": "britania",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "britain"
     },
     {
@@ -7876,7 +7876,7 @@
     },
     {
       "root": "brokskat",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "brokskat"
     },
     {
@@ -7946,12 +7946,12 @@
     },
     {
       "root": "brunei",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "brunei"
     },
     {
       "root": "brusel",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "brussels"
     },
     {
@@ -7966,7 +7966,7 @@
     },
     {
       "root": "bsod",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bsod"
     },
     {
@@ -8016,7 +8016,7 @@
     },
     {
       "root": "budapest",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "budapest"
     },
     {
@@ -8026,7 +8026,7 @@
     },
     {
       "root": "buddha",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "buddha"
     },
     {
@@ -8101,7 +8101,7 @@
     },
     {
       "root": "bukares",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bucharest"
     },
     {
@@ -8116,7 +8116,7 @@
     },
     {
       "root": "bukittinggi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bukittinggi"
     },
     {
@@ -8161,7 +8161,7 @@
     },
     {
       "root": "bulgaria",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "bulgaria"
     },
     {
@@ -8177,7 +8177,7 @@
     {
       "root": "bulu",
       "pos": "word",
-      "gloss": "feather, fur, hair"
+      "gloss": "hair, feather, fur"
     },
     {
       "root": "bumbu",
@@ -8196,7 +8196,7 @@
     },
     {
       "root": "bumn",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "soe"
     },
     {
@@ -8217,7 +8217,7 @@
     {
       "root": "bundar",
       "pos": "word",
-      "gloss": "circle, circular, round"
+      "gloss": "round, circle, circular"
     },
     {
       "root": "bundel",
@@ -8327,12 +8327,12 @@
     {
       "root": "buruh",
       "pos": "word",
-      "gloss": "laborer, worker"
+      "gloss": "worker, laborer"
     },
     {
       "root": "buruk",
       "pos": "adjective",
-      "gloss": "bad, poor, ugly"
+      "gloss": "bad, ugly, poor"
     },
     {
       "root": "burung",
@@ -8341,7 +8341,7 @@
     },
     {
       "root": "buryatia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "buryatia"
     },
     {
@@ -8401,12 +8401,12 @@
     },
     {
       "root": "byblos",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "byblos"
     },
     {
       "root": "byzantium",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "byzantium"
     },
     {
@@ -8461,7 +8461,7 @@
     },
     {
       "root": "caesar",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "caesar"
     },
     {
@@ -8472,7 +8472,7 @@
     {
       "root": "cair",
       "pos": "adjective",
-      "gloss": "fluid, liquid"
+      "gloss": "liquid, fluid"
     },
     {
       "root": "caisim",
@@ -8521,7 +8521,7 @@
     },
     {
       "root": "calapan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "calapan"
     },
     {
@@ -8542,7 +8542,7 @@
     {
       "root": "cambuk",
       "pos": "word",
-      "gloss": "cat-o'-nine-tails, whip"
+      "gloss": "whip, cat-o'-nine-tails"
     },
     {
       "root": "camilan",
@@ -8571,7 +8571,7 @@
     },
     {
       "root": "canberra",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "canberra"
     },
     {
@@ -8632,7 +8632,7 @@
     {
       "root": "capai",
       "pos": "word",
-      "gloss": "achieve, arrive"
+      "gloss": "arrive, achieve"
     },
     {
       "root": "capcai",
@@ -8646,7 +8646,7 @@
     },
     {
       "root": "capil",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "asian conical hat"
     },
     {
@@ -8717,12 +8717,12 @@
     {
       "root": "cawan",
       "pos": "word",
-      "gloss": "chalice, teacup"
+      "gloss": "teacup, chalice"
     },
     {
       "root": "cawat",
       "pos": "word",
-      "gloss": "loincloth, pants, underpants"
+      "gloss": "pants, loincloth, underpants"
     },
     {
       "root": "cebol",
@@ -8731,7 +8731,7 @@
     },
     {
       "root": "cebu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cebu"
     },
     {
@@ -8771,13 +8771,13 @@
     },
     {
       "root": "ceko",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "czech, czechia"
     },
     {
       "root": "cekung",
       "pos": "adjective",
-      "gloss": "concave, niche"
+      "gloss": "niche, concave"
     },
     {
       "root": "cela",
@@ -8902,7 +8902,7 @@
     {
       "root": "cerah",
       "pos": "adjective",
-      "gloss": "bright, clear, sunny"
+      "gloss": "clear, bright, sunny"
     },
     {
       "root": "cerdas",
@@ -8916,7 +8916,7 @@
     },
     {
       "root": "ceres",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ceres"
     },
     {
@@ -8962,7 +8962,7 @@
     {
       "root": "cerpelai",
       "pos": "word",
-      "gloss": "mongoose, weasel"
+      "gloss": "weasel, mongoose"
     },
     {
       "root": "ceruk",
@@ -8981,12 +8981,12 @@
     },
     {
       "root": "ceylon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ceylon"
     },
     {
       "root": "chagatai",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chagatai"
     },
     {
@@ -9001,22 +9001,22 @@
     },
     {
       "root": "chemnitz",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chemnitz"
     },
     {
       "root": "chetral",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chitral"
     },
     {
       "root": "chicago",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chicago"
     },
     {
       "root": "chili",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chile"
     },
     {
@@ -9026,7 +9026,7 @@
     },
     {
       "root": "cicero",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cicero"
     },
     {
@@ -9066,7 +9066,7 @@
     },
     {
       "root": "cilegon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cilegon"
     },
     {
@@ -9076,7 +9076,7 @@
     },
     {
       "root": "cina",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chink"
     },
     {
@@ -9091,7 +9091,7 @@
     },
     {
       "root": "cinderella",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cinderella"
     },
     {
@@ -9111,7 +9111,7 @@
     },
     {
       "root": "cirebon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cirebon"
     },
     {
@@ -9142,7 +9142,7 @@
     {
       "root": "coba",
       "pos": "word",
-      "gloss": "attempt, experiment, test"
+      "gloss": "attempt, test, experiment"
     },
     {
       "root": "cobek",
@@ -9166,7 +9166,7 @@
     },
     {
       "root": "coimbra",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "coimbra"
     },
     {
@@ -9312,7 +9312,7 @@
     {
       "root": "dada",
       "pos": "word",
-      "gloss": "breast, chest"
+      "gloss": "chest, breast"
     },
     {
       "root": "dadah",
@@ -9326,7 +9326,7 @@
     },
     {
       "root": "dadap",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "indian coral tree"
     },
     {
@@ -9386,7 +9386,7 @@
     },
     {
       "root": "dahomey",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "dahomey"
     },
     {
@@ -9461,12 +9461,12 @@
     },
     {
       "root": "damaskus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "damascus"
     },
     {
       "root": "dammam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "dammam"
     },
     {
@@ -9486,7 +9486,7 @@
     },
     {
       "root": "danbo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "danbo"
     },
     {
@@ -9537,7 +9537,7 @@
     {
       "root": "dari",
       "pos": "word",
-      "gloss": "from, of, since"
+      "gloss": "since, of, from"
     },
     {
       "root": "daring",
@@ -9606,7 +9606,7 @@
     },
     {
       "root": "daud",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "david"
     },
     {
@@ -9616,7 +9616,7 @@
     },
     {
       "root": "davao",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "davao city"
     },
     {
@@ -9681,7 +9681,7 @@
     },
     {
       "root": "deepavali",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "diwali"
     },
     {
@@ -9807,7 +9807,7 @@
     {
       "root": "dekat",
       "pos": "adjective",
-      "gloss": "close, closely, near"
+      "gloss": "close, near, closely"
     },
     {
       "root": "dekil",
@@ -9861,7 +9861,7 @@
     },
     {
       "root": "delhi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "delhi"
     },
     {
@@ -9897,7 +9897,7 @@
     {
       "root": "demam",
       "pos": "word",
-      "gloss": "fever, feverish, temperature"
+      "gloss": "temperature, fever, feverish"
     },
     {
       "root": "demarkasi",
@@ -9951,7 +9951,7 @@
     },
     {
       "root": "demokreitos",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "democritus"
     },
     {
@@ -10017,7 +10017,7 @@
     {
       "root": "dengar",
       "pos": "word",
-      "gloss": "hear, listen"
+      "gloss": "listen, hear"
     },
     {
       "root": "dengki",
@@ -10036,7 +10036,7 @@
     },
     {
       "root": "denmark",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "danish, denmark"
     },
     {
@@ -10046,7 +10046,7 @@
     },
     {
       "root": "denpasar",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "denpasar"
     },
     {
@@ -10091,7 +10091,7 @@
     },
     {
       "root": "depok",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "depok"
     },
     {
@@ -10206,7 +10206,7 @@
     },
     {
       "root": "desember",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "december"
     },
     {
@@ -10362,7 +10362,7 @@
     {
       "root": "deuterokanonika",
       "pos": "word",
-      "gloss": "deuterocanon, deuterocanonical"
+      "gloss": "deuterocanonical"
     },
     {
       "root": "developer",
@@ -10396,7 +10396,7 @@
     },
     {
       "root": "dewanagari",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "devanagari"
     },
     {
@@ -10412,7 +10412,7 @@
     {
       "root": "dia",
       "pos": "noun",
-      "gloss": "he, she, they"
+      "gloss": "they, he, she"
     },
     {
       "root": "diabetes",
@@ -10661,7 +10661,7 @@
     },
     {
       "root": "diocletianus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "diocletian"
     },
     {
@@ -10992,7 +10992,7 @@
     {
       "root": "doa",
       "pos": "word",
-      "gloss": "du'a', prayer"
+      "gloss": "prayer, du'a'"
     },
     {
       "root": "dobel",
@@ -11016,7 +11016,7 @@
     },
     {
       "root": "doha",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "doha"
     },
     {
@@ -11057,7 +11057,7 @@
     {
       "root": "dokumen",
       "pos": "word",
-      "gloss": "document, paper"
+      "gloss": "paper, document"
     },
     {
       "root": "dokumentalis",
@@ -11131,7 +11131,7 @@
     },
     {
       "root": "donau",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "danube"
     },
     {
@@ -11182,7 +11182,7 @@
     {
       "root": "dosen",
       "pos": "word",
-      "gloss": "docent, lecturer"
+      "gloss": "lecturer, docent"
     },
     {
       "root": "dosir",
@@ -11216,7 +11216,7 @@
     },
     {
       "root": "drakor",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "k-drama"
     },
     {
@@ -11227,7 +11227,7 @@
     {
       "root": "drama",
       "pos": "word",
-      "gloss": "drama, play"
+      "gloss": "play, drama"
     },
     {
       "root": "drastis",
@@ -11261,7 +11261,7 @@
     },
     {
       "root": "druze",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "druze"
     },
     {
@@ -11291,7 +11291,7 @@
     },
     {
       "root": "dublin",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "dublin"
     },
     {
@@ -11346,7 +11346,7 @@
     },
     {
       "root": "dumai",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "dumai"
     },
     {
@@ -11361,7 +11361,7 @@
     },
     {
       "root": "dunhuang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "dunhuang"
     },
     {
@@ -11401,7 +11401,7 @@
     },
     {
       "root": "dushanbe",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "dushanbe"
     },
     {
@@ -11481,7 +11481,7 @@
     },
     {
       "root": "edinburgh",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "edinburgh"
     },
     {
@@ -11496,7 +11496,7 @@
     },
     {
       "root": "edmonton",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "edmonton"
     },
     {
@@ -11526,7 +11526,7 @@
     },
     {
       "root": "efesus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ephesians, ephesus"
     },
     {
@@ -11536,12 +11536,12 @@
     },
     {
       "root": "efraim",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ephraim"
     },
     {
       "root": "efrat",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "euphrates"
     },
     {
@@ -11596,7 +11596,7 @@
     },
     {
       "root": "ekaristi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "eucharist"
     },
     {
@@ -11657,7 +11657,7 @@
     {
       "root": "ekonomi",
       "pos": "word",
-      "gloss": "economics, economy"
+      "gloss": "economy, economics"
     },
     {
       "root": "ekor",
@@ -11951,7 +11951,7 @@
     },
     {
       "root": "ekuador",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ecuador"
     },
     {
@@ -12062,7 +12062,7 @@
     {
       "root": "elektronik",
       "pos": "adjective",
-      "gloss": "electronic, electronics"
+      "gloss": "electronics, electronic"
     },
     {
       "root": "elektronika",
@@ -12081,12 +12081,12 @@
     },
     {
       "root": "eli",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "eli"
     },
     {
       "root": "elisabet",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "elizabeth"
     },
     {
@@ -12101,18 +12101,18 @@
     },
     {
       "root": "elsagate",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "elsagate"
     },
     {
       "root": "elul",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "elul"
     },
     {
       "root": "elus",
       "pos": "word",
-      "gloss": "caress, stroke"
+      "gloss": "stroke, caress"
     },
     {
       "root": "email",
@@ -12161,7 +12161,7 @@
     },
     {
       "root": "emilia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "emily"
     },
     {
@@ -12172,7 +12172,7 @@
     {
       "root": "emisi",
       "pos": "word",
-      "gloss": "emission, issue"
+      "gloss": "issue, emission"
     },
     {
       "root": "emoji",
@@ -12446,7 +12446,7 @@
     },
     {
       "root": "epimetheus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "epimetheus"
     },
     {
@@ -12521,7 +12521,7 @@
     },
     {
       "root": "eris",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "eris"
     },
     {
@@ -12536,7 +12536,7 @@
     },
     {
       "root": "eritrea",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "eritrea"
     },
     {
@@ -12551,7 +12551,7 @@
     },
     {
       "root": "eropa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "europe"
     },
     {
@@ -12636,7 +12636,7 @@
     },
     {
       "root": "estonia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "estonia"
     },
     {
@@ -12646,7 +12646,7 @@
     },
     {
       "root": "eswatini",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "eswatini"
     },
     {
@@ -12681,7 +12681,7 @@
     },
     {
       "root": "etiopia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ethiopia"
     },
     {
@@ -12721,7 +12721,7 @@
     },
     {
       "root": "euboia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "euboea"
     },
     {
@@ -12751,7 +12751,7 @@
     },
     {
       "root": "eurasia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "eurasia"
     },
     {
@@ -12761,7 +12761,7 @@
     },
     {
       "root": "eurovision",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "eurovision"
     },
     {
@@ -12931,7 +12931,7 @@
     },
     {
       "root": "farisi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pharisee"
     },
     {
@@ -12961,12 +12961,12 @@
     },
     {
       "root": "faro",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "faroese"
     },
     {
       "root": "farsi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "persian"
     },
     {
@@ -12977,7 +12977,7 @@
     {
       "root": "fase",
       "pos": "word",
-      "gloss": "phase, stage"
+      "gloss": "stage, phase"
     },
     {
       "root": "faset",
@@ -13027,7 +13027,7 @@
     {
       "root": "fatamorgana",
       "pos": "word",
-      "gloss": "fata morgana, mirage"
+      "gloss": "mirage"
     },
     {
       "root": "fatis",
@@ -13051,12 +13051,12 @@
     },
     {
       "root": "fbi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "fbi"
     },
     {
       "root": "februari",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "february"
     },
     {
@@ -13067,7 +13067,7 @@
     {
       "root": "federasi",
       "pos": "word",
-      "gloss": "federacy, federation"
+      "gloss": "federation, federacy"
     },
     {
       "root": "fedora",
@@ -13081,7 +13081,7 @@
     },
     {
       "root": "felix",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "felix"
     },
     {
@@ -13196,7 +13196,7 @@
     },
     {
       "root": "fiji",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "fiji"
     },
     {
@@ -13236,7 +13236,7 @@
     },
     {
       "root": "filemon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "philemon"
     },
     {
@@ -13246,23 +13246,23 @@
     },
     {
       "root": "filipi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "philippians"
     },
     {
       "root": "filipina",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "philippines"
     },
     {
       "root": "filipus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "philip"
     },
     {
       "root": "film",
       "pos": "word",
-      "gloss": "movie, picture"
+      "gloss": "picture, movie"
     },
     {
       "root": "filologi",
@@ -13301,7 +13301,7 @@
     },
     {
       "root": "finlandia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "finland"
     },
     {
@@ -13321,7 +13321,7 @@
     },
     {
       "root": "firenze",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "florence"
     },
     {
@@ -13406,7 +13406,7 @@
     },
     {
       "root": "flandria",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "flanders"
     },
     {
@@ -13442,7 +13442,7 @@
     {
       "root": "fokus",
       "pos": "word",
-      "gloss": "focus, zoom"
+      "gloss": "zoom, focus"
     },
     {
       "root": "folder",
@@ -13457,7 +13457,7 @@
     {
       "root": "fon",
       "pos": "word",
-      "gloss": "font, phone"
+      "gloss": "phone, font"
     },
     {
       "root": "fonemis",
@@ -13486,7 +13486,7 @@
     },
     {
       "root": "fordisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "fordism"
     },
     {
@@ -13616,12 +13616,12 @@
     },
     {
       "root": "frankfurt",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "frankfurt"
     },
     {
       "root": "fransiskus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "francis"
     },
     {
@@ -13671,7 +13671,7 @@
     },
     {
       "root": "fujian",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "fujian"
     },
     {
@@ -13696,7 +13696,7 @@
     },
     {
       "root": "fung",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "feng, fung"
     },
     {
@@ -13761,7 +13761,7 @@
     },
     {
       "root": "gabon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gabon"
     },
     {
@@ -13772,7 +13772,7 @@
     {
       "root": "gabungan",
       "pos": "word",
-      "gloss": "assemblage, union"
+      "gloss": "union, assemblage"
     },
     {
       "root": "gabus",
@@ -13807,12 +13807,12 @@
     {
       "root": "gadungan",
       "pos": "adjective",
-      "gloss": "bogus, fake, quack"
+      "gloss": "quack, fake, bogus"
     },
     {
       "root": "gagal",
       "pos": "word",
-      "gloss": "fail, failure"
+      "gloss": "failure, fail"
     },
     {
       "root": "gagang",
@@ -13826,7 +13826,7 @@
     },
     {
       "root": "gagauzia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gagauzia"
     },
     {
@@ -13871,7 +13871,7 @@
     },
     {
       "root": "galatia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "galatians"
     },
     {
@@ -13886,12 +13886,12 @@
     },
     {
       "root": "galikanisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gallicanism"
     },
     {
       "root": "gallipoli",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gallipoli"
     },
     {
@@ -13906,7 +13906,7 @@
     },
     {
       "root": "gambia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gambia"
     },
     {
@@ -13961,7 +13961,7 @@
     },
     {
       "root": "gangga",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ganges"
     },
     {
@@ -13982,7 +13982,7 @@
     {
       "root": "ganja",
       "pos": "word",
-      "gloss": "cannabis, marijuana"
+      "gloss": "marijuana, cannabis"
     },
     {
       "root": "ganjil",
@@ -14012,7 +14012,7 @@
     {
       "root": "gantung",
       "pos": "word",
-      "gloss": "cling, hang"
+      "gloss": "hang, cling"
     },
     {
       "root": "gapah",
@@ -14036,7 +14036,7 @@
     },
     {
       "root": "garhwal",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "garhwal"
     },
     {
@@ -14117,7 +14117,7 @@
     {
       "root": "gaya",
       "pos": "word",
-      "gloss": "force, style"
+      "gloss": "style, force"
     },
     {
       "root": "gaydar",
@@ -14366,7 +14366,7 @@
     },
     {
       "root": "geneveva",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "genevieve"
     },
     {
@@ -14396,7 +14396,7 @@
     },
     {
       "root": "genoa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "genoa"
     },
     {
@@ -14416,7 +14416,7 @@
     },
     {
       "root": "gent",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ghent"
     },
     {
@@ -14471,7 +14471,7 @@
     },
     {
       "root": "georgia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "georgia"
     },
     {
@@ -14486,7 +14486,7 @@
     },
     {
       "root": "geppeto",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "geppetto"
     },
     {
@@ -14542,7 +14542,7 @@
     {
       "root": "gergaji",
       "pos": "word",
-      "gloss": "handsaw, saw"
+      "gloss": "saw, handsaw"
     },
     {
       "root": "gergasi",
@@ -14567,7 +14567,7 @@
     {
       "root": "gerimis",
       "pos": "word",
-      "gloss": "drizzle, drizzly, shower"
+      "gloss": "shower, drizzle, drizzly"
     },
     {
       "root": "geringsing",
@@ -14626,17 +14626,17 @@
     },
     {
       "root": "ggl",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "emf"
     },
     {
       "root": "ghana",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ghana"
     },
     {
       "root": "ghibellin",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ghibelline"
     },
     {
@@ -14646,7 +14646,7 @@
     },
     {
       "root": "gibraltar",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gibraltar"
     },
     {
@@ -14676,7 +14676,7 @@
     },
     {
       "root": "gilgal",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gilgal"
     },
     {
@@ -14781,7 +14781,7 @@
     },
     {
       "root": "gnb",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nam"
     },
     {
@@ -14791,7 +14791,7 @@
     },
     {
       "root": "goa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "goa"
     },
     {
@@ -14816,12 +14816,12 @@
     },
     {
       "root": "golgota",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "golgotha"
     },
     {
       "root": "goliat",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "goliath"
     },
     {
@@ -14861,7 +14861,7 @@
     },
     {
       "root": "gondwana",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gondwana"
     },
     {
@@ -14881,7 +14881,7 @@
     },
     {
       "root": "google",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "google"
     },
     {
@@ -14896,7 +14896,7 @@
     },
     {
       "root": "gorbachev",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gorbachev"
     },
     {
@@ -14911,7 +14911,7 @@
     },
     {
       "root": "gorontalo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gorontalo"
     },
     {
@@ -14982,7 +14982,7 @@
     {
       "root": "grafis",
       "pos": "word",
-      "gloss": "graphic, graphical"
+      "gloss": "graphical, graphic"
     },
     {
       "root": "gram",
@@ -15007,7 +15007,7 @@
     {
       "root": "gratis",
       "pos": "word",
-      "gloss": "for free, free, free of charge"
+      "gloss": "free, for free, free of charge"
     },
     {
       "root": "graupel",
@@ -15031,12 +15031,12 @@
     },
     {
       "root": "greenland",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "greenland"
     },
     {
       "root": "grenada",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "grenada"
     },
     {
@@ -15057,7 +15057,7 @@
     {
       "root": "grup",
       "pos": "word",
-      "gloss": "band, group"
+      "gloss": "group, band"
     },
     {
       "root": "gua",
@@ -15066,12 +15066,12 @@
     },
     {
       "root": "guangdong",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "guangdong"
     },
     {
       "root": "guatemala",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "guatemala"
     },
     {
@@ -15096,17 +15096,17 @@
     },
     {
       "root": "guelf",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "guelph"
     },
     {
       "root": "guernsey",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "guernsey"
     },
     {
       "root": "gufi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "goofy"
     },
     {
@@ -15117,16 +15117,16 @@
     {
       "root": "gugus",
       "pos": "word",
-      "gloss": "cluster, group"
+      "gloss": "group, cluster"
     },
     {
       "root": "guinea",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "guinea"
     },
     {
       "root": "gujarati",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gujarati"
     },
     {
@@ -15196,7 +15196,7 @@
     },
     {
       "root": "gunungsitoli",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gunungsitoli"
     },
     {
@@ -15246,7 +15246,7 @@
     },
     {
       "root": "guyana",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "guyana"
     },
     {
@@ -15301,7 +15301,7 @@
     },
     {
       "root": "hagai",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "haggai"
     },
     {
@@ -15321,7 +15321,7 @@
     },
     {
       "root": "haiti",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "haiti"
     },
     {
@@ -15337,7 +15337,7 @@
     {
       "root": "hak",
       "pos": "word",
-      "gloss": "retractor, right"
+      "gloss": "right, retractor"
     },
     {
       "root": "hakim",
@@ -15351,7 +15351,7 @@
     },
     {
       "root": "halahala",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "halahala"
     },
     {
@@ -15367,7 +15367,7 @@
     {
       "root": "halangan",
       "pos": "word",
-      "gloss": "hindrance, roadblock"
+      "gloss": "roadblock, hindrance"
     },
     {
       "root": "haleluya",
@@ -15386,7 +15386,7 @@
     },
     {
       "root": "halmahera",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "halmahera"
     },
     {
@@ -15421,7 +15421,7 @@
     },
     {
       "root": "hamas",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hamas"
     },
     {
@@ -15476,7 +15476,7 @@
     },
     {
       "root": "hanas",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "annas"
     },
     {
@@ -15506,7 +15506,7 @@
     },
     {
       "root": "hansard",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hansard"
     },
     {
@@ -15516,7 +15516,7 @@
     },
     {
       "root": "hanukah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hanukkah"
     },
     {
@@ -15526,7 +15526,7 @@
     },
     {
       "root": "hanzi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chinese character"
     },
     {
@@ -15586,7 +15586,7 @@
     },
     {
       "root": "harmagedon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "armageddon"
     },
     {
@@ -15621,7 +15621,7 @@
     },
     {
       "root": "harun",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "aaron"
     },
     {
@@ -15666,12 +15666,12 @@
     },
     {
       "root": "hava",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "eve"
     },
     {
       "root": "havana",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "havana"
     },
     {
@@ -15706,7 +15706,7 @@
     },
     {
       "root": "hektor",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hector"
     },
     {
@@ -15736,7 +15736,7 @@
     },
     {
       "root": "helsinki",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "helsinki"
     },
     {
@@ -15762,7 +15762,7 @@
     {
       "root": "hemisfer",
       "pos": "word",
-      "gloss": "cerebral hemisphere, hemisphere"
+      "gloss": "hemisphere, cerebral hemisphere"
     },
     {
       "root": "hemoglobin",
@@ -15812,7 +15812,7 @@
     {
       "root": "henti",
       "pos": "word",
-      "gloss": "quit, stop"
+      "gloss": "stop, quit"
     },
     {
       "root": "hepatektomi",
@@ -15856,7 +15856,7 @@
     },
     {
       "root": "herodes",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "herod"
     },
     {
@@ -15871,7 +15871,7 @@
     },
     {
       "root": "het",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hittite"
     },
     {
@@ -16011,7 +16011,7 @@
     },
     {
       "root": "hijrah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hijra"
     },
     {
@@ -16027,7 +16027,7 @@
     {
       "root": "hilang",
       "pos": "word",
-      "gloss": "disappear, lose, lost"
+      "gloss": "lose, disappear, lost"
     },
     {
       "root": "hiliran",
@@ -16037,7 +16037,7 @@
     {
       "root": "himpunan",
       "pos": "word",
-      "gloss": "assemblage, set"
+      "gloss": "set, assemblage"
     },
     {
       "root": "hina",
@@ -16046,12 +16046,12 @@
     },
     {
       "root": "hinayana",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hinayana"
     },
     {
       "root": "hindi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hindi"
     },
     {
@@ -16061,7 +16061,7 @@
     },
     {
       "root": "hinomaru",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hinomaru"
     },
     {
@@ -16226,12 +16226,12 @@
     },
     {
       "root": "hizbullah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hezbollah"
     },
     {
       "root": "hmong",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hmong"
     },
     {
@@ -16256,12 +16256,12 @@
     },
     {
       "root": "hokkaido",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hokkaido"
     },
     {
       "root": "holandia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "holland"
     },
     {
@@ -16271,7 +16271,7 @@
     },
     {
       "root": "holocaust",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "holocaust"
     },
     {
@@ -16346,7 +16346,7 @@
     },
     {
       "root": "honduras",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "honduras"
     },
     {
@@ -16356,7 +16356,7 @@
     },
     {
       "root": "hongaria",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hungary"
     },
     {
@@ -16382,7 +16382,7 @@
     {
       "root": "hormat",
       "pos": "word",
-      "gloss": "respect, salute"
+      "gloss": "salute, respect"
     },
     {
       "root": "hormon",
@@ -16406,7 +16406,7 @@
     },
     {
       "root": "hosea",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hosea"
     },
     {
@@ -16422,7 +16422,7 @@
     {
       "root": "hosti",
       "pos": "word",
-      "gloss": "communion wafer, host"
+      "gloss": "host, communion wafer"
     },
     {
       "root": "hotel",
@@ -16516,17 +16516,17 @@
     },
     {
       "root": "husitisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hussitism"
     },
     {
       "root": "hutan",
       "pos": "word",
-      "gloss": "forest, wood"
+      "gloss": "wood, forest"
     },
     {
       "root": "hvidovre",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hvidovre"
     },
     {
@@ -16536,12 +16536,12 @@
     },
     {
       "root": "ibrahim",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "abraham"
     },
     {
       "root": "ibrani",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hebrew"
     },
     {
@@ -16687,7 +16687,7 @@
     {
       "root": "iklan",
       "pos": "word",
-      "gloss": "advertisement, commercial"
+      "gloss": "commercial, advertisement"
     },
     {
       "root": "iklim",
@@ -16766,7 +16766,7 @@
     },
     {
       "root": "iloilo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "iloilo"
     },
     {
@@ -16807,7 +16807,7 @@
     {
       "root": "imamat",
       "pos": "word",
-      "gloss": "leviticus, priesthood"
+      "gloss": "priesthood"
     },
     {
       "root": "iman",
@@ -16816,7 +16816,7 @@
     },
     {
       "root": "imanuel",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "immanuel"
     },
     {
@@ -16841,7 +16841,7 @@
     },
     {
       "root": "imlek",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lunar new year"
     },
     {
@@ -17021,17 +17021,17 @@
     },
     {
       "root": "india",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "india"
     },
     {
       "root": "indian",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "indian"
     },
     {
       "root": "indianapolis",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "indianapolis"
     },
     {
@@ -17046,7 +17046,7 @@
     },
     {
       "root": "indochina",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "indochina"
     },
     {
@@ -17062,12 +17062,12 @@
     {
       "root": "indonesia",
       "pos": "word",
-      "gloss": "indonesia, indonesian, neural network"
+      "gloss": "neural network"
     },
     {
       "root": "indra",
       "pos": "word",
-      "gloss": "indra, sense"
+      "gloss": "sense"
     },
     {
       "root": "indraja",
@@ -17076,7 +17076,7 @@
     },
     {
       "root": "indramayu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "indramayu"
     },
     {
@@ -17096,7 +17096,7 @@
     },
     {
       "root": "indus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "indus"
     },
     {
@@ -17211,7 +17211,7 @@
     },
     {
       "root": "inggristis",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "english"
     },
     {
@@ -17372,7 +17372,7 @@
     {
       "root": "insisi",
       "pos": "word",
-      "gloss": "incision, issue"
+      "gloss": "issue, incision"
     },
     {
       "root": "inspeksi",
@@ -17386,7 +17386,7 @@
     },
     {
       "root": "instagram",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "instagram"
     },
     {
@@ -17397,7 +17397,7 @@
     {
       "root": "instalasi",
       "pos": "word",
-      "gloss": "fixture, installation"
+      "gloss": "installation, fixture"
     },
     {
       "root": "instan",
@@ -17551,7 +17551,7 @@
     },
     {
       "root": "internet",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "internet"
     },
     {
@@ -17701,7 +17701,7 @@
     },
     {
       "root": "ipm",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hdi"
     },
     {
@@ -17711,12 +17711,12 @@
     },
     {
       "root": "irak",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "iraq"
     },
     {
       "root": "iran",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "iran"
     },
     {
@@ -17756,8 +17756,8 @@
     },
     {
       "root": "irlandia",
-      "pos": "word",
-      "gloss": "ireland, irish"
+      "pos": "proper",
+      "gloss": "irish, ireland"
     },
     {
       "root": "ironi",
@@ -17766,7 +17766,7 @@
     },
     {
       "root": "irrawaddy",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "irrawaddy"
     },
     {
@@ -17781,7 +17781,7 @@
     },
     {
       "root": "isfahan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "isfahan"
     },
     {
@@ -17801,7 +17801,7 @@
     },
     {
       "root": "iskandar",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "alexander"
     },
     {
@@ -17811,32 +17811,32 @@
     },
     {
       "root": "islam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "islam, islamic"
     },
     {
       "root": "islamabad",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "islamabad"
     },
     {
       "root": "islamisasi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "islamization"
     },
     {
       "root": "islamisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "islamism"
     },
     {
       "root": "islamofobia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "islamophobia"
     },
     {
       "root": "islandia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "iceland"
     },
     {
@@ -17881,12 +17881,12 @@
     },
     {
       "root": "israel",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "israel"
     },
     {
       "root": "istambul",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "istanbul"
     },
     {
@@ -17907,7 +17907,7 @@
     {
       "root": "istirahat",
       "pos": "word",
-      "gloss": "call it a day, rest"
+      "gloss": "rest, call it a day"
     },
     {
       "root": "istri",
@@ -17931,7 +17931,7 @@
     },
     {
       "root": "italia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "italy"
     },
     {
@@ -17947,7 +17947,7 @@
     {
       "root": "itik",
       "pos": "word",
-      "gloss": "duck, duckling, teal"
+      "gloss": "duck, teal, duckling"
     },
     {
       "root": "itil",
@@ -17961,12 +17961,12 @@
     },
     {
       "root": "ivalo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ivalo"
     },
     {
       "root": "iyar",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "iyar"
     },
     {
@@ -17977,7 +17977,7 @@
     {
       "root": "jadi",
       "pos": "word",
-      "gloss": "become, so"
+      "gloss": "so, become"
     },
     {
       "root": "jadwal",
@@ -18031,7 +18031,7 @@
     },
     {
       "root": "jaipur",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jaipur"
     },
     {
@@ -18051,8 +18051,8 @@
     },
     {
       "root": "jakarta",
-      "pos": "word",
-      "gloss": "jakarta, jakartan"
+      "pos": "proper",
+      "gloss": "jakartan, jakarta"
     },
     {
       "root": "jaket",
@@ -18066,7 +18066,7 @@
     },
     {
       "root": "jakun",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "adam's apple"
     },
     {
@@ -18106,7 +18106,7 @@
     },
     {
       "root": "jamaika",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jamaica"
     },
     {
@@ -18126,7 +18126,7 @@
     },
     {
       "root": "jambi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jambi"
     },
     {
@@ -18201,12 +18201,12 @@
     },
     {
       "root": "januari",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "january"
     },
     {
       "root": "japanofilia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "japanophilia"
     },
     {
@@ -18261,7 +18261,7 @@
     },
     {
       "root": "jatim",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "east java"
     },
     {
@@ -18272,7 +18272,7 @@
     {
       "root": "jauh",
       "pos": "adjective",
-      "gloss": "distant, far, ultimate"
+      "gloss": "ultimate, far, distant"
     },
     {
       "root": "jauhar",
@@ -18291,7 +18291,7 @@
     },
     {
       "root": "jayapura",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jayapura"
     },
     {
@@ -18307,11 +18307,11 @@
     {
       "root": "jeda",
       "pos": "word",
-      "gloss": "pausa, pause"
+      "gloss": "pause, pausa"
     },
     {
       "root": "jeddah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jeddah"
     },
     {
@@ -18391,7 +18391,7 @@
     },
     {
       "root": "jenewa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "geneva"
     },
     {
@@ -18401,7 +18401,7 @@
     },
     {
       "root": "jengki",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "yankee"
     },
     {
@@ -18426,8 +18426,8 @@
     },
     {
       "root": "jepang",
-      "pos": "word",
-      "gloss": "japan, japanese"
+      "pos": "proper",
+      "gloss": "japanese, japan"
     },
     {
       "root": "jeram",
@@ -18477,7 +18477,7 @@
     {
       "root": "jeruk",
       "pos": "word",
-      "gloss": "citrus, citrus fruit, orange"
+      "gloss": "orange, citrus, citrus fruit"
     },
     {
       "root": "jihad",
@@ -18517,7 +18517,7 @@
     {
       "root": "jin",
       "pos": "word",
-      "gloss": "genie, jinn"
+      "gloss": "jinn, genie"
     },
     {
       "root": "jinak",
@@ -18576,7 +18576,7 @@
     },
     {
       "root": "jogja",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "yogyakarta"
     },
     {
@@ -18606,7 +18606,7 @@
     },
     {
       "root": "juba",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "juba"
     },
     {
@@ -18627,7 +18627,7 @@
     {
       "root": "juga",
       "pos": "adverb",
-      "gloss": "also, as well, too"
+      "gloss": "too, also, as well"
     },
     {
       "root": "jujitsu",
@@ -18637,11 +18637,11 @@
     {
       "root": "jujur",
       "pos": "word",
-      "gloss": "candor, honest"
+      "gloss": "honest, candor"
     },
     {
       "root": "juli",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "july"
     },
     {
@@ -18651,18 +18651,18 @@
     },
     {
       "root": "jumadilakhir",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jumada ii"
     },
     {
       "root": "jumat",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "friday"
     },
     {
       "root": "jumlah",
       "pos": "word",
-      "gloss": "amount, quantity, total"
+      "gloss": "total, quantity, amount"
     },
     {
       "root": "jung",
@@ -18671,7 +18671,7 @@
     },
     {
       "root": "juni",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "june"
     },
     {
@@ -18681,13 +18681,13 @@
     },
     {
       "root": "jupiter",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jupiter"
     },
     {
       "root": "jurang",
       "pos": "word",
-      "gloss": "chasm, gulf"
+      "gloss": "gulf, chasm"
     },
     {
       "root": "juri",
@@ -18726,7 +18726,7 @@
     },
     {
       "root": "juruselamat",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "savior"
     },
     {
@@ -18781,7 +18781,7 @@
     },
     {
       "root": "kabul",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kabul"
     },
     {
@@ -18892,7 +18892,7 @@
     {
       "root": "kafir",
       "pos": "word",
-      "gloss": "giaour, infidel, kafir"
+      "gloss": "infidel, giaour, kafir"
     },
     {
       "root": "kaftan",
@@ -18916,27 +18916,27 @@
     },
     {
       "root": "kaimana",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kaimana"
     },
     {
       "root": "kain",
       "pos": "word",
-      "gloss": "cloth, fabric"
+      "gloss": "fabric, cloth"
     },
     {
       "root": "kairo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cairo"
     },
     {
       "root": "kaisar",
       "pos": "word",
-      "gloss": "caesar, emperor, maharaja"
+      "gloss": "emperor, maharaja"
     },
     {
       "root": "kaisarisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "caesarism"
     },
     {
@@ -18962,7 +18962,7 @@
     {
       "root": "kakap",
       "pos": "word",
-      "gloss": "bass, bigwig"
+      "gloss": "bigwig, bass"
     },
     {
       "root": "kakek",
@@ -19022,12 +19022,12 @@
     {
       "root": "kaleng",
       "pos": "word",
-      "gloss": "can, tin, tube"
+      "gloss": "can, tube, tin"
     },
     {
       "root": "kali",
       "pos": "word",
-      "gloss": "kali, times"
+      "gloss": "times"
     },
     {
       "root": "kalibrasi",
@@ -19046,7 +19046,7 @@
     },
     {
       "root": "kalimantan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "borneo"
     },
     {
@@ -19081,7 +19081,7 @@
     },
     {
       "root": "kalliope",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "calliope"
     },
     {
@@ -19126,7 +19126,7 @@
     },
     {
       "root": "kalvinisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "calvinism"
     },
     {
@@ -19146,7 +19146,7 @@
     },
     {
       "root": "kamboja",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cambodia"
     },
     {
@@ -19166,7 +19166,7 @@
     },
     {
       "root": "kamerun",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cameroon"
     },
     {
@@ -19176,7 +19176,7 @@
     },
     {
       "root": "kamis",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "thursday"
     },
     {
@@ -19236,7 +19236,7 @@
     },
     {
       "root": "kanada",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "canada"
     },
     {
@@ -19331,7 +19331,7 @@
     },
     {
       "root": "kannada",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kannada"
     },
     {
@@ -19361,7 +19361,7 @@
     },
     {
       "root": "kanser",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cancer"
     },
     {
@@ -19431,7 +19431,7 @@
     },
     {
       "root": "kapernaum",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "capernaum"
     },
     {
@@ -19696,7 +19696,7 @@
     },
     {
       "root": "karina",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "carina"
     },
     {
@@ -19711,7 +19711,7 @@
     },
     {
       "root": "karnataka",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "karnataka"
     },
     {
@@ -19722,7 +19722,7 @@
     {
       "root": "karoseri",
       "pos": "word",
-      "gloss": "bodywork, coachwork"
+      "gloss": "coachwork, bodywork"
     },
     {
       "root": "karosi",
@@ -19751,7 +19751,7 @@
     },
     {
       "root": "kartago",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "carthage"
     },
     {
@@ -19761,7 +19761,7 @@
     },
     {
       "root": "kartika",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pleiades"
     },
     {
@@ -19782,7 +19782,7 @@
     {
       "root": "karton",
       "pos": "word",
-      "gloss": "cardboard, carton"
+      "gloss": "carton, cardboard"
     },
     {
       "root": "kartu",
@@ -19801,7 +19801,7 @@
     },
     {
       "root": "karun",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "korah"
     },
     {
@@ -19896,7 +19896,7 @@
     },
     {
       "root": "kastroisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "castrism"
     },
     {
@@ -19932,7 +19932,7 @@
     {
       "root": "kata",
       "pos": "word",
-      "gloss": "tell, word"
+      "gloss": "word, tell"
     },
     {
       "root": "katafrak",
@@ -20026,7 +20026,7 @@
     },
     {
       "root": "kathmandu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kathmandu"
     },
     {
@@ -20046,7 +20046,7 @@
     },
     {
       "root": "katolikisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "catholicism"
     },
     {
@@ -20076,7 +20076,7 @@
     },
     {
       "root": "kaukasus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "caucasus"
     },
     {
@@ -20131,13 +20131,13 @@
     },
     {
       "root": "kayafas",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "caiaphas"
     },
     {
       "root": "kayak",
       "pos": "word",
-      "gloss": "kayak, like"
+      "gloss": "like, kayak"
     },
     {
       "root": "kayu",
@@ -20151,7 +20151,7 @@
     },
     {
       "root": "kazakhstan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kazakhstan"
     },
     {
@@ -20227,12 +20227,12 @@
     {
       "root": "kebajikan",
       "pos": "word",
-      "gloss": "arete, virtue"
+      "gloss": "virtue, arete"
     },
     {
       "root": "kebakaran",
       "pos": "word",
-      "gloss": "conflagration, fire"
+      "gloss": "fire, conflagration"
     },
     {
       "root": "kebangkitan",
@@ -20496,7 +20496,7 @@
     },
     {
       "root": "kediri",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kediri"
     },
     {
@@ -20641,7 +20641,7 @@
     },
     {
       "root": "keinggrisan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "englishness"
     },
     {
@@ -20672,7 +20672,7 @@
     {
       "root": "kejang",
       "pos": "word",
-      "gloss": "convulse, cramp, seizure"
+      "gloss": "cramp, seizure, convulse"
     },
     {
       "root": "kejantanan",
@@ -20792,7 +20792,7 @@
     {
       "root": "kekuatan",
       "pos": "word",
-      "gloss": "force, power"
+      "gloss": "power, force"
     },
     {
       "root": "kekucingan",
@@ -20802,7 +20802,7 @@
     {
       "root": "kekurangan",
       "pos": "word",
-      "gloss": "deficiency, poverty"
+      "gloss": "poverty, deficiency"
     },
     {
       "root": "kelabang",
@@ -20871,7 +20871,7 @@
     },
     {
       "root": "kelantan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kelantan, kelantanese"
     },
     {
@@ -21032,7 +21032,7 @@
     {
       "root": "kemalasan",
       "pos": "word",
-      "gloss": "laziness, sloth"
+      "gloss": "sloth, laziness"
     },
     {
       "root": "kemampuadilan",
@@ -21116,7 +21116,7 @@
     },
     {
       "root": "kemelayuan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "malayness"
     },
     {
@@ -21132,7 +21132,7 @@
     {
       "root": "kementerian",
       "pos": "word",
-      "gloss": "ministration, ministry"
+      "gloss": "ministry, ministration"
     },
     {
       "root": "kemenyan",
@@ -21206,7 +21206,7 @@
     },
     {
       "root": "kempetai",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kenpeitai"
     },
     {
@@ -21361,13 +21361,13 @@
     },
     {
       "root": "kenya",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kenya"
     },
     {
       "root": "kenyamanan",
       "pos": "word",
-      "gloss": "amenity, comfort"
+      "gloss": "comfort, amenity"
     },
     {
       "root": "kenyang",
@@ -21677,7 +21677,7 @@
     {
       "root": "kerja",
       "pos": "word",
-      "gloss": "labour, work"
+      "gloss": "work, labour"
     },
     {
       "root": "kerjasama",
@@ -21787,7 +21787,7 @@
     {
       "root": "kesamaan",
       "pos": "word",
-      "gloss": "equality, parity"
+      "gloss": "parity, equality"
     },
     {
       "root": "kesarjanaan",
@@ -22202,7 +22202,7 @@
     {
       "root": "ketika",
       "pos": "word",
-      "gloss": "during, when"
+      "gloss": "when, during"
     },
     {
       "root": "ketilang",
@@ -22316,7 +22316,7 @@
     },
     {
       "root": "keyahudian",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jewishness"
     },
     {
@@ -22356,12 +22356,12 @@
     },
     {
       "root": "kharon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "charon"
     },
     {
       "root": "khartoum",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "khartoum"
     },
     {
@@ -22396,12 +22396,12 @@
     },
     {
       "root": "khimaira",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chimera"
     },
     {
       "root": "khinalug",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "khinalug"
     },
     {
@@ -22411,7 +22411,7 @@
     },
     {
       "root": "khorasan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "khorasan"
     },
     {
@@ -22452,7 +22452,7 @@
     {
       "root": "kiblat",
       "pos": "word",
-      "gloss": "mecca, qibla"
+      "gloss": "qibla"
     },
     {
       "root": "kibor",
@@ -22481,7 +22481,7 @@
     },
     {
       "root": "kiev",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kyiv"
     },
     {
@@ -22517,7 +22517,7 @@
     {
       "root": "kilau",
       "pos": "word",
-      "gloss": "luminosity, luster"
+      "gloss": "luster, luminosity"
     },
     {
       "root": "kilodetik",
@@ -22636,12 +22636,12 @@
     },
     {
       "root": "kirene",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cyrene"
     },
     {
       "root": "kirgizstan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kyrgyzstan"
     },
     {
@@ -22651,12 +22651,12 @@
     },
     {
       "root": "kiribati",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kiribati"
     },
     {
       "root": "kiril",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cyrillic"
     },
     {
@@ -22671,7 +22671,7 @@
     },
     {
       "root": "kislew",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kislev"
     },
     {
@@ -22746,7 +22746,7 @@
     },
     {
       "root": "klaukkala",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "klaukkala"
     },
     {
@@ -22836,7 +22836,7 @@
     },
     {
       "root": "knkt",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "knkt"
     },
     {
@@ -23031,12 +23031,12 @@
     },
     {
       "root": "kolombia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "colombia"
     },
     {
       "root": "kolombo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "colombo"
     },
     {
@@ -23066,7 +23066,7 @@
     },
     {
       "root": "koloseum",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "colosseum"
     },
     {
@@ -23082,7 +23082,7 @@
     {
       "root": "koma",
       "pos": "word",
-      "gloss": "coma, comma, point"
+      "gloss": "point, coma, comma"
     },
     {
       "root": "komandan",
@@ -23186,7 +23186,7 @@
     },
     {
       "root": "komodo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "komodo dragon"
     },
     {
@@ -23201,7 +23201,7 @@
     },
     {
       "root": "komotini",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "komotini"
     },
     {
@@ -23332,7 +23332,7 @@
     {
       "root": "komputasi",
       "pos": "word",
-      "gloss": "computation, computing"
+      "gloss": "computing, computation"
     },
     {
       "root": "komputer",
@@ -23701,7 +23701,7 @@
     },
     {
       "root": "konstantinopel",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "constantinople"
     },
     {
@@ -23791,7 +23791,7 @@
     },
     {
       "root": "konte",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "conté"
     },
     {
@@ -23921,7 +23921,7 @@
     },
     {
       "root": "kopenhagen",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "copenhagen"
     },
     {
@@ -23971,7 +23971,7 @@
     },
     {
       "root": "koptik",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "coptic"
     },
     {
@@ -24111,7 +24111,7 @@
     },
     {
       "root": "korsika",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "corsican"
     },
     {
@@ -24166,7 +24166,7 @@
     },
     {
       "root": "kosovo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kosovo"
     },
     {
@@ -24187,11 +24187,11 @@
     {
       "root": "kotak",
       "pos": "word",
-      "gloss": "box, check, square"
+      "gloss": "check, square, box"
     },
     {
       "root": "kotamobagu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kotamobagu"
     },
     {
@@ -24211,7 +24211,7 @@
     },
     {
       "root": "kotte",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sri jayawardenepura kotte"
     },
     {
@@ -24236,7 +24236,7 @@
     },
     {
       "root": "krasnoyarsk",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "krasnoyarsk"
     },
     {
@@ -24277,7 +24277,7 @@
     {
       "root": "krem",
       "pos": "word",
-      "gloss": "beige, cream, peach"
+      "gloss": "cream, peach, beige"
     },
     {
       "root": "kremasi",
@@ -24296,7 +24296,7 @@
     },
     {
       "root": "kresna",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "krishna"
     },
     {
@@ -24347,7 +24347,7 @@
     {
       "root": "krisma",
       "pos": "word",
-      "gloss": "chrism, confirmation"
+      "gloss": "confirmation, chrism"
     },
     {
       "root": "krisolit",
@@ -24361,7 +24361,7 @@
     },
     {
       "root": "kristadelfianisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "christadelphian"
     },
     {
@@ -24371,12 +24371,12 @@
     },
     {
       "root": "kristenisasi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "christianization"
     },
     {
       "root": "kristofer",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "christopher"
     },
     {
@@ -24396,7 +24396,7 @@
     },
     {
       "root": "kroasia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "croatia, croatian"
     },
     {
@@ -24561,7 +24561,7 @@
     },
     {
       "root": "kuba",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cuba"
     },
     {
@@ -24661,13 +24661,13 @@
     },
     {
       "root": "kuki",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "http cookie"
     },
     {
       "root": "kuku",
       "pos": "word",
-      "gloss": "fingernail, hoof, nail"
+      "gloss": "nail, fingernail, hoof"
     },
     {
       "root": "kukuruyuk",
@@ -24702,7 +24702,7 @@
     {
       "root": "kulit",
       "pos": "word",
-      "gloss": "leather, shell, skin"
+      "gloss": "shell, skin, leather"
     },
     {
       "root": "kulkas",
@@ -24782,7 +24782,7 @@
     {
       "root": "kunci",
       "pos": "word",
-      "gloss": "clef, key, lock"
+      "gloss": "key, lock, clef"
     },
     {
       "root": "kungfu",
@@ -24836,7 +24836,7 @@
     },
     {
       "root": "kupang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kupang"
     },
     {
@@ -24846,7 +24846,7 @@
     },
     {
       "root": "kupyansk",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kupiansk"
     },
     {
@@ -24886,12 +24886,12 @@
     },
     {
       "root": "kurdi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kurdish"
     },
     {
       "root": "kurdistan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kurdistan"
     },
     {
@@ -24947,7 +24947,7 @@
     {
       "root": "kurus",
       "pos": "adjective",
-      "gloss": "bony, skinny, thin"
+      "gloss": "bony, thin, skinny"
     },
     {
       "root": "kurva",
@@ -25021,7 +25021,7 @@
     },
     {
       "root": "kuwait",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kuwait"
     },
     {
@@ -25031,7 +25031,7 @@
     },
     {
       "root": "kyoto",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "kyoto"
     },
     {
@@ -25062,7 +25062,7 @@
     {
       "root": "labu",
       "pos": "word",
-      "gloss": "chayote, flask, pumpkin"
+      "gloss": "pumpkin, chayote, flask"
     },
     {
       "root": "laci",
@@ -25141,7 +25141,7 @@
     },
     {
       "root": "laksmi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lakshmi"
     },
     {
@@ -25171,7 +25171,7 @@
     },
     {
       "root": "lalibela",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lalibela"
     },
     {
@@ -25197,7 +25197,7 @@
     {
       "root": "lambang",
       "pos": "word",
-      "gloss": "coat of arms, emblem, seal"
+      "gloss": "seal, emblem, coat of arms"
     },
     {
       "root": "lambat",
@@ -25206,7 +25206,7 @@
     },
     {
       "root": "lamboya",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "laboya"
     },
     {
@@ -25231,7 +25231,7 @@
     },
     {
       "root": "lampion",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chinese lantern"
     },
     {
@@ -25272,7 +25272,7 @@
     {
       "root": "langkah",
       "pos": "word",
-      "gloss": "step, stroke"
+      "gloss": "stroke, step"
     },
     {
       "root": "langkat",
@@ -25281,7 +25281,7 @@
     },
     {
       "root": "langsa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "langsa"
     },
     {
@@ -25336,7 +25336,7 @@
     },
     {
       "root": "laokoon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "laocoön"
     },
     {
@@ -25381,7 +25381,7 @@
     },
     {
       "root": "laputa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "laputa"
     },
     {
@@ -25392,7 +25392,7 @@
     {
       "root": "lari",
       "pos": "word",
-      "gloss": "lari, run"
+      "gloss": "run, lari"
     },
     {
       "root": "laring",
@@ -25431,7 +25431,7 @@
     },
     {
       "root": "lasik",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lasik"
     },
     {
@@ -25456,17 +25456,17 @@
     },
     {
       "root": "latium",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lazio"
     },
     {
       "root": "latta",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "allat"
     },
     {
       "root": "latvia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "latvia"
     },
     {
@@ -25476,7 +25476,7 @@
     },
     {
       "root": "laurasia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "laurasia"
     },
     {
@@ -25546,7 +25546,7 @@
     },
     {
       "root": "lebanon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lebanon"
     },
     {
@@ -25617,7 +25617,7 @@
     {
       "root": "legislasi",
       "pos": "word",
-      "gloss": "lawmaking, legislation"
+      "gloss": "legislation, lawmaking"
     },
     {
       "root": "legislatif",
@@ -25712,7 +25712,7 @@
     {
       "root": "lemak",
       "pos": "word",
-      "gloss": "fat, grease"
+      "gloss": "grease, fat"
     },
     {
       "root": "lemari",
@@ -25786,17 +25786,17 @@
     },
     {
       "root": "lenin",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lenin"
     },
     {
       "root": "leningrad",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "leningrad"
     },
     {
       "root": "leninisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "leninism"
     },
     {
@@ -25811,7 +25811,7 @@
     },
     {
       "root": "leo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "leo"
     },
     {
@@ -25841,7 +25841,7 @@
     },
     {
       "root": "lesotho",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lesotho"
     },
     {
@@ -25901,12 +25901,12 @@
     },
     {
       "root": "leyte",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "leyte"
     },
     {
       "root": "lhokseumawe",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lhokseumawe"
     },
     {
@@ -25931,7 +25931,7 @@
     },
     {
       "root": "liberia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "liberia"
     },
     {
@@ -25951,7 +25951,7 @@
     },
     {
       "root": "libya",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "libya"
     },
     {
@@ -25971,7 +25971,7 @@
     },
     {
       "root": "liechtenstein",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "liechtenstein"
     },
     {
@@ -26012,7 +26012,7 @@
     {
       "root": "lihat",
       "pos": "word",
-      "gloss": "behold, browse, show"
+      "gloss": "browse, show, behold"
     },
     {
       "root": "likeur",
@@ -26097,7 +26097,7 @@
     {
       "root": "lindi",
       "pos": "word",
-      "gloss": "leachate, lye"
+      "gloss": "lye, leachate"
     },
     {
       "root": "lindung",
@@ -26107,7 +26107,7 @@
     {
       "root": "lingga",
       "pos": "word",
-      "gloss": "lingam, phallus"
+      "gloss": "phallus, lingam"
     },
     {
       "root": "linggis",
@@ -26122,7 +26122,7 @@
     {
       "root": "lingkungan",
       "pos": "word",
-      "gloss": "environment, neighborhood"
+      "gloss": "neighborhood, environment"
     },
     {
       "root": "lingkup",
@@ -26156,12 +26156,12 @@
     },
     {
       "root": "linux",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "linux"
     },
     {
       "root": "liong",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chinese dragon"
     },
     {
@@ -26207,7 +26207,7 @@
     {
       "root": "listrik",
       "pos": "adjective",
-      "gloss": "electric, electricity"
+      "gloss": "electricity, electric"
     },
     {
       "root": "litani",
@@ -26216,7 +26216,7 @@
     },
     {
       "root": "litbang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "r&d"
     },
     {
@@ -26241,7 +26241,7 @@
     },
     {
       "root": "lithuania",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lithuania"
     },
     {
@@ -26271,12 +26271,12 @@
     },
     {
       "root": "liu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "liu"
     },
     {
       "root": "ljubljana",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ljubljana"
     },
     {
@@ -26412,7 +26412,7 @@
     {
       "root": "lompat",
       "pos": "word",
-      "gloss": "jump, leap"
+      "gloss": "leap, jump"
     },
     {
       "root": "lompok",
@@ -26421,7 +26421,7 @@
     },
     {
       "root": "london",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "london"
     },
     {
@@ -26432,7 +26432,7 @@
     {
       "root": "lontar",
       "pos": "word",
-      "gloss": "palm-leaf manuscript, throw"
+      "gloss": "throw, palm-leaf manuscript"
     },
     {
       "root": "loon",
@@ -26441,7 +26441,7 @@
     },
     {
       "root": "lorraine",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lorraine"
     },
     {
@@ -26461,7 +26461,7 @@
     },
     {
       "root": "louvre",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "louvre"
     },
     {
@@ -26486,7 +26486,7 @@
     },
     {
       "root": "lubuklinggau",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lubuklinggau"
     },
     {
@@ -26507,11 +26507,11 @@
     {
       "root": "luka",
       "pos": "adjective",
-      "gloss": "hurt, injury, wound"
+      "gloss": "wound, hurt, injury"
     },
     {
       "root": "lukas",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "luke"
     },
     {
@@ -26521,7 +26521,7 @@
     },
     {
       "root": "luksemburg",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "luxembourg"
     },
     {
@@ -26606,7 +26606,7 @@
     },
     {
       "root": "luteranisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lutheranism"
     },
     {
@@ -26621,12 +26621,12 @@
     },
     {
       "root": "luzon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "luzon"
     },
     {
       "root": "lyon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lyon"
     },
     {
@@ -26636,13 +26636,13 @@
     },
     {
       "root": "mabes",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "hq"
     },
     {
       "root": "mabuk",
       "pos": "adjective",
-      "gloss": "drunk, drunken, motion sickness"
+      "gloss": "drunk, motion sickness, drunken"
     },
     {
       "root": "mad",
@@ -26661,7 +26661,7 @@
     },
     {
       "root": "madinah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "medina"
     },
     {
@@ -26686,12 +26686,12 @@
     },
     {
       "root": "magelang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "magelang"
     },
     {
       "root": "maghrib",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "maghreb"
     },
     {
@@ -26702,7 +26702,7 @@
     {
       "root": "magister",
       "pos": "word",
-      "gloss": "magister, master, master's degree"
+      "gloss": "master, magister, master's degree"
     },
     {
       "root": "magistrat",
@@ -26751,7 +26751,7 @@
     },
     {
       "root": "mahabharata",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mahabharata"
     },
     {
@@ -26791,7 +26791,7 @@
     },
     {
       "root": "mahayana",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mahayana"
     },
     {
@@ -26881,7 +26881,7 @@
     },
     {
       "root": "makabe",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "maccabee"
     },
     {
@@ -26906,12 +26906,12 @@
     },
     {
       "root": "makassar",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "makassar"
     },
     {
       "root": "makau",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "macau"
     },
     {
@@ -26927,16 +26927,16 @@
     {
       "root": "makhluk",
       "pos": "word",
-      "gloss": "being, creature, thing"
+      "gloss": "thing, being, creature"
     },
     {
       "root": "makiavelisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "machiavellianism"
     },
     {
       "root": "makkah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mecca"
     },
     {
@@ -26976,7 +26976,7 @@
     },
     {
       "root": "maladewa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "maldives"
     },
     {
@@ -27026,28 +27026,28 @@
     },
     {
       "root": "malawi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "malawi"
     },
     {
       "root": "malaysia",
-      "pos": "word",
-      "gloss": "malaysia, malaysian"
+      "pos": "proper",
+      "gloss": "malaysian, malaysia"
     },
     {
       "root": "maleakhi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "malachi"
     },
     {
       "root": "mali",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mali"
     },
     {
       "root": "maling",
       "pos": "word",
-      "gloss": "burglar, crook"
+      "gloss": "crook, burglar"
     },
     {
       "root": "malong",
@@ -27056,7 +27056,7 @@
     },
     {
       "root": "malta",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "malta"
     },
     {
@@ -27071,7 +27071,7 @@
     },
     {
       "root": "maluku",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "maluku"
     },
     {
@@ -27086,7 +27086,7 @@
     },
     {
       "root": "mamalik",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mameluke"
     },
     {
@@ -27101,7 +27101,7 @@
     },
     {
       "root": "manado",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "manado"
     },
     {
@@ -27116,12 +27116,12 @@
     },
     {
       "root": "manama",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "manama"
     },
     {
       "root": "manchuria",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "manchuria"
     },
     {
@@ -27142,7 +27142,7 @@
     {
       "root": "mandi",
       "pos": "word",
-      "gloss": "bathe, shower"
+      "gloss": "shower, bathe"
     },
     {
       "root": "mandiri",
@@ -27226,7 +27226,7 @@
     },
     {
       "root": "manila",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "manila"
     },
     {
@@ -27251,7 +27251,7 @@
     },
     {
       "root": "manjusri",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mañjuśrī"
     },
     {
@@ -27262,7 +27262,7 @@
     {
       "root": "mantan",
       "pos": "word",
-      "gloss": "ex, ex-boyfriend, former"
+      "gloss": "former, ex, ex-boyfriend"
     },
     {
       "root": "mantel",
@@ -27282,7 +27282,7 @@
     {
       "root": "mantra",
       "pos": "word",
-      "gloss": "mantra, spell"
+      "gloss": "spell, mantra"
     },
     {
       "root": "manufaktur",
@@ -27306,7 +27306,7 @@
     },
     {
       "root": "maoisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "maoism"
     },
     {
@@ -27336,7 +27336,7 @@
     },
     {
       "root": "maret",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "march"
     },
     {
@@ -27356,7 +27356,7 @@
     },
     {
       "root": "mariam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mary, miriam"
     },
     {
@@ -27381,7 +27381,7 @@
     },
     {
       "root": "markesywan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cheshvan"
     },
     {
@@ -27391,7 +27391,7 @@
     },
     {
       "root": "markus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mark"
     },
     {
@@ -27416,7 +27416,7 @@
     },
     {
       "root": "mars",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mars"
     },
     {
@@ -27446,7 +27446,7 @@
     },
     {
       "root": "marxisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "marxism"
     },
     {
@@ -27467,7 +27467,7 @@
     {
       "root": "masalah",
       "pos": "word",
-      "gloss": "problem, thing"
+      "gloss": "thing, problem"
     },
     {
       "root": "masdar",
@@ -27561,7 +27561,7 @@
     },
     {
       "root": "mataram",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mataram"
     },
     {
@@ -27591,7 +27591,7 @@
     },
     {
       "root": "matius",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "matthew"
     },
     {
@@ -27616,7 +27616,7 @@
     },
     {
       "root": "matrioska",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "russian doll"
     },
     {
@@ -27631,7 +27631,7 @@
     },
     {
       "root": "mauritania",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mauritania"
     },
     {
@@ -27686,7 +27686,7 @@
     },
     {
       "root": "medeia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "medea"
     },
     {
@@ -27706,7 +27706,7 @@
     },
     {
       "root": "mediterania",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mediterranean"
     },
     {
@@ -27731,7 +27731,7 @@
     },
     {
       "root": "mei",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "may"
     },
     {
@@ -27746,7 +27746,7 @@
     },
     {
       "root": "mejikuhibiniu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "roy g. biv"
     },
     {
@@ -27776,7 +27776,7 @@
     },
     {
       "root": "meksiko",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mexico"
     },
     {
@@ -27836,7 +27836,7 @@
     },
     {
       "root": "melayu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "malay"
     },
     {
@@ -27876,7 +27876,7 @@
     },
     {
       "root": "melenasia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "melanesia"
     },
     {
@@ -27952,7 +27952,7 @@
     {
       "root": "memadai",
       "pos": "adjective",
-      "gloss": "conclusive, enough"
+      "gloss": "enough, conclusive"
     },
     {
       "root": "memagari",
@@ -28192,7 +28192,7 @@
     {
       "root": "memfungsikan",
       "pos": "word",
-      "gloss": "enable, work"
+      "gloss": "work, enable"
     },
     {
       "root": "memijah",
@@ -28207,7 +28207,7 @@
     {
       "root": "memilih",
       "pos": "word",
-      "gloss": "choose, select"
+      "gloss": "select, choose"
     },
     {
       "root": "memilukan",
@@ -28362,7 +28362,7 @@
     {
       "root": "menafsirkan",
       "pos": "word",
-      "gloss": "interpret, render"
+      "gloss": "render, interpret"
     },
     {
       "root": "menahan",
@@ -28427,7 +28427,7 @@
     {
       "root": "menara",
       "pos": "word",
-      "gloss": "minaret, tower"
+      "gloss": "tower, minaret"
     },
     {
       "root": "menari",
@@ -28532,7 +28532,7 @@
     {
       "root": "menculik",
       "pos": "word",
-      "gloss": "abduct, kidnap"
+      "gloss": "kidnap, abduct"
     },
     {
       "root": "mencuplik",
@@ -28637,7 +28637,7 @@
     {
       "root": "menemukan",
       "pos": "word",
-      "gloss": "figure out, find"
+      "gloss": "find, figure out"
     },
     {
       "root": "menenggelamkan",
@@ -28697,7 +28697,7 @@
     {
       "root": "mengalahkan",
       "pos": "word",
-      "gloss": "defeat, whip"
+      "gloss": "whip, defeat"
     },
     {
       "root": "mengalihkan",
@@ -28797,7 +28797,7 @@
     {
       "root": "mengejar",
       "pos": "word",
-      "gloss": "chase, pursue, pursuit"
+      "gloss": "pursue, chase, pursuit"
     },
     {
       "root": "mengejutkan",
@@ -28957,7 +28957,7 @@
     {
       "root": "mengikuti",
       "pos": "word",
-      "gloss": "according to, pursue"
+      "gloss": "pursue, according to"
     },
     {
       "root": "mengiler",
@@ -28966,7 +28966,7 @@
     },
     {
       "root": "mengindonesiakan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "indonesianize"
     },
     {
@@ -29032,7 +29032,7 @@
     {
       "root": "mengontrol",
       "pos": "word",
-      "gloss": "control, manage"
+      "gloss": "manage, control"
     },
     {
       "root": "mengoptimalkan",
@@ -29062,7 +29062,7 @@
     {
       "root": "menguap",
       "pos": "word",
-      "gloss": "evaporate, vaporize, yawn"
+      "gloss": "yawn, evaporate, vaporize"
     },
     {
       "root": "menguji",
@@ -29107,12 +29107,12 @@
     {
       "root": "menikah",
       "pos": "word",
-      "gloss": "get married, marry"
+      "gloss": "marry, get married"
     },
     {
       "root": "menikmati",
       "pos": "word",
-      "gloss": "enjoy, savour"
+      "gloss": "savour, enjoy"
     },
     {
       "root": "menimbulkan",
@@ -29232,7 +29232,7 @@
     {
       "root": "mentah",
       "pos": "adjective",
-      "gloss": "crude, raw"
+      "gloss": "raw, crude"
     },
     {
       "root": "mental",
@@ -29252,7 +29252,7 @@
     {
       "root": "menteri",
       "pos": "word",
-      "gloss": "minister, queen, secretary"
+      "gloss": "queen, secretary, minister"
     },
     {
       "root": "mentor",
@@ -29286,7 +29286,7 @@
     },
     {
       "root": "menusantara",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "indonesianize"
     },
     {
@@ -29332,7 +29332,7 @@
     {
       "root": "menyebabkan",
       "pos": "word",
-      "gloss": "cause, render"
+      "gloss": "render, cause"
     },
     {
       "root": "menyebar",
@@ -29551,7 +29551,7 @@
     },
     {
       "root": "merkurius",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mercury"
     },
     {
@@ -29596,7 +29596,7 @@
     },
     {
       "root": "mesias",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "messiah"
     },
     {
@@ -29606,7 +29606,7 @@
     },
     {
       "root": "mesir",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "egypt"
     },
     {
@@ -29621,7 +29621,7 @@
     },
     {
       "root": "mesopotamia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mesopotamia"
     },
     {
@@ -29736,7 +29736,7 @@
     },
     {
       "root": "metro",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "metro"
     },
     {
@@ -29746,7 +29746,7 @@
     },
     {
       "root": "metusalah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "methuselah"
     },
     {
@@ -29826,7 +29826,7 @@
     },
     {
       "root": "mikronesia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "micronesia"
     },
     {
@@ -29842,11 +29842,11 @@
     {
       "root": "mil",
       "pos": "word",
-      "gloss": "mijl, mile"
+      "gloss": "mile, mijl"
     },
     {
       "root": "milan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "milan"
     },
     {
@@ -29891,7 +29891,7 @@
     },
     {
       "root": "minangkabau",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "minangkabau"
     },
     {
@@ -30026,12 +30026,12 @@
     },
     {
       "root": "mississippi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mississippi"
     },
     {
       "root": "missouri",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "missouri"
     },
     {
@@ -30071,7 +30071,7 @@
     },
     {
       "root": "mizo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mizo"
     },
     {
@@ -30141,7 +30141,7 @@
     },
     {
       "root": "mogadishu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mogadishu"
     },
     {
@@ -30156,7 +30156,7 @@
     },
     {
       "root": "mojokerto",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mojokerto"
     },
     {
@@ -30186,7 +30186,7 @@
     },
     {
       "root": "moldova",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "moldova"
     },
     {
@@ -30211,12 +30211,12 @@
     },
     {
       "root": "momos",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "momus"
     },
     {
       "root": "monako",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "monaco"
     },
     {
@@ -30241,12 +30241,12 @@
     },
     {
       "root": "mongolia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mongolia"
     },
     {
       "root": "monika",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "monica"
     },
     {
@@ -30306,7 +30306,7 @@
     },
     {
       "root": "montenegro",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "montenegro"
     },
     {
@@ -30361,7 +30361,7 @@
     },
     {
       "root": "mormonisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mormonism"
     },
     {
@@ -30391,7 +30391,7 @@
     },
     {
       "root": "moskwa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "moscow"
     },
     {
@@ -30401,7 +30401,7 @@
     },
     {
       "root": "mosul",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mosul"
     },
     {
@@ -30426,7 +30426,7 @@
     },
     {
       "root": "mozambik",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mozambique"
     },
     {
@@ -30466,7 +30466,7 @@
     },
     {
       "root": "muenchen",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "munich"
     },
     {
@@ -30481,7 +30481,7 @@
     },
     {
       "root": "muhammad",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "muhammad"
     },
     {
@@ -30501,7 +30501,7 @@
     },
     {
       "root": "mukha",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mocha"
     },
     {
@@ -30521,7 +30521,7 @@
     },
     {
       "root": "muktazilah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mu'tazila"
     },
     {
@@ -30597,7 +30597,7 @@
     {
       "root": "mundur",
       "pos": "adverb",
-      "gloss": "aback, back, retreat"
+      "gloss": "back, retreat, aback"
     },
     {
       "root": "mungkin",
@@ -30622,7 +30622,7 @@
     {
       "root": "murid",
       "pos": "word",
-      "gloss": "disciple, student"
+      "gloss": "student, disciple"
     },
     {
       "root": "murka",
@@ -30641,7 +30641,7 @@
     },
     {
       "root": "musa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "moses"
     },
     {
@@ -30681,7 +30681,7 @@
     },
     {
       "root": "muskat",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "muscat"
     },
     {
@@ -30751,7 +30751,7 @@
     },
     {
       "root": "myanmar",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "myanmar"
     },
     {
@@ -30786,7 +30786,7 @@
     },
     {
       "root": "nagoya",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nagoya"
     },
     {
@@ -30806,7 +30806,7 @@
     },
     {
       "root": "nakba",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nakba"
     },
     {
@@ -30821,7 +30821,7 @@
     },
     {
       "root": "namibia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "namibia"
     },
     {
@@ -30906,7 +30906,7 @@
     },
     {
       "root": "narnia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "narnia"
     },
     {
@@ -30971,13 +30971,13 @@
     },
     {
       "root": "natal",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "christmas, noel"
     },
     {
       "root": "nato",
       "pos": "word",
-      "gloss": "nato, natto"
+      "gloss": "natto"
     },
     {
       "root": "natrium",
@@ -30991,7 +30991,7 @@
     },
     {
       "root": "nauru",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nauru"
     },
     {
@@ -31001,12 +31001,12 @@
     },
     {
       "root": "navalny",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "navalny"
     },
     {
       "root": "navarra",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "navarre"
     },
     {
@@ -31016,7 +31016,7 @@
     },
     {
       "root": "naypyidaw",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "naypyidaw"
     },
     {
@@ -31031,12 +31031,12 @@
     },
     {
       "root": "nazi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nazi"
     },
     {
       "root": "nazisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nazism"
     },
     {
@@ -31071,7 +31071,7 @@
     },
     {
       "root": "nehemia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nehemiah"
     },
     {
@@ -31121,7 +31121,7 @@
     },
     {
       "root": "nepal",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nepal"
     },
     {
@@ -31131,7 +31131,7 @@
     },
     {
       "root": "neptunus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "neptune"
     },
     {
@@ -31146,7 +31146,7 @@
     },
     {
       "root": "nestorianisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nestorianism"
     },
     {
@@ -31191,7 +31191,7 @@
     },
     {
       "root": "ngawi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ngawi"
     },
     {
@@ -31221,12 +31221,12 @@
     },
     {
       "root": "nice",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nice"
     },
     {
       "root": "nigeria",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nigeria"
     },
     {
@@ -31246,7 +31246,7 @@
     },
     {
       "root": "nikaragua",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nicaragua"
     },
     {
@@ -31261,7 +31261,7 @@
     },
     {
       "root": "nikosia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nicosia"
     },
     {
@@ -31271,7 +31271,7 @@
     },
     {
       "root": "nil",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nile"
     },
     {
@@ -31302,7 +31302,7 @@
     {
       "root": "nimbus",
       "pos": "word",
-      "gloss": "halo, nimbus"
+      "gloss": "nimbus, halo"
     },
     {
       "root": "ninja",
@@ -31356,7 +31356,7 @@
     },
     {
       "root": "nisan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nisan"
     },
     {
@@ -31371,7 +31371,7 @@
     },
     {
       "root": "nivkh",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nivkh"
     },
     {
@@ -31397,7 +31397,7 @@
     {
       "root": "nol",
       "pos": "noun",
-      "gloss": "nothing, zero"
+      "gloss": "zero, nothing"
     },
     {
       "root": "nomi",
@@ -31456,17 +31456,17 @@
     },
     {
       "root": "normandia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "normandy"
     },
     {
       "root": "norouz",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nowruz"
     },
     {
       "root": "norwegia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "norway"
     },
     {
@@ -31516,7 +31516,7 @@
     },
     {
       "root": "november",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "november"
     },
     {
@@ -31526,7 +31526,7 @@
     },
     {
       "root": "novorossiysk",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "novorossiysk"
     },
     {
@@ -31541,7 +31541,7 @@
     },
     {
       "root": "nubia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nubia"
     },
     {
@@ -31551,7 +31551,7 @@
     },
     {
       "root": "nugini",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "new guinea"
     },
     {
@@ -31576,12 +31576,12 @@
     },
     {
       "root": "nursultan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nur-sultan"
     },
     {
       "root": "nutella",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "nutella"
     },
     {
@@ -31592,7 +31592,7 @@
     {
       "root": "nyala",
       "pos": "word",
-      "gloss": "flame, light"
+      "gloss": "light, flame"
     },
     {
       "root": "nyam",
@@ -31716,7 +31716,7 @@
     },
     {
       "root": "octavia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "octavia"
     },
     {
@@ -31736,7 +31736,7 @@
     },
     {
       "root": "ofiotaur",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ophiotaurus"
     },
     {
@@ -31751,7 +31751,7 @@
     },
     {
       "root": "oghuz",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "oghuz"
     },
     {
@@ -31761,7 +31761,7 @@
     },
     {
       "root": "oidipus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "oedipus"
     },
     {
@@ -31781,7 +31781,7 @@
     },
     {
       "root": "oke",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ok"
     },
     {
@@ -31791,7 +31791,7 @@
     },
     {
       "root": "oki",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "oic"
     },
     {
@@ -31846,7 +31846,7 @@
     },
     {
       "root": "oksitan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "occitan"
     },
     {
@@ -31861,7 +31861,7 @@
     },
     {
       "root": "oktober",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "october"
     },
     {
@@ -31921,12 +31921,12 @@
     },
     {
       "root": "olimpiade",
-      "pos": "word",
-      "gloss": "olympiad, olympic games, olympics"
+      "pos": "proper",
+      "gloss": "olympiad, olympics, olympic games"
     },
     {
       "root": "oliver",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "oliver"
     },
     {
@@ -31936,7 +31936,7 @@
     },
     {
       "root": "oman",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "oman"
     },
     {
@@ -32057,7 +32057,7 @@
     {
       "root": "opsi",
       "pos": "word",
-      "gloss": "option, warrant"
+      "gloss": "warrant, option"
     },
     {
       "root": "optika",
@@ -32126,7 +32126,7 @@
     },
     {
       "root": "orfeus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "orpheus"
     },
     {
@@ -32206,12 +32206,12 @@
     },
     {
       "root": "osaka",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "osaka"
     },
     {
       "root": "oseania",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "oceania"
     },
     {
@@ -32221,7 +32221,7 @@
     },
     {
       "root": "osh",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "osh"
     },
     {
@@ -32236,12 +32236,12 @@
     },
     {
       "root": "ositania",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "occitania"
     },
     {
       "root": "oslo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "oslo"
     },
     {
@@ -32281,7 +32281,7 @@
     },
     {
       "root": "otniel",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "othniel"
     },
     {
@@ -32361,12 +32361,12 @@
     },
     {
       "root": "ottawa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ottawa"
     },
     {
       "root": "ouagadougou",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ouagadougou"
     },
     {
@@ -32401,7 +32401,7 @@
     },
     {
       "root": "owenisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "owenism"
     },
     {
@@ -32417,7 +32417,7 @@
     {
       "root": "pabrik",
       "pos": "word",
-      "gloss": "factory, mill"
+      "gloss": "mill, factory"
     },
     {
       "root": "pacar",
@@ -32427,7 +32427,7 @@
     {
       "root": "padah",
       "pos": "word",
-      "gloss": "foreshadow, signal"
+      "gloss": "signal, foreshadow"
     },
     {
       "root": "padahal",
@@ -32462,7 +32462,7 @@
     {
       "root": "pagar",
       "pos": "word",
-      "gloss": "fence, railing, square"
+      "gloss": "square, fence, railing"
     },
     {
       "root": "pagi",
@@ -32521,7 +32521,7 @@
     },
     {
       "root": "pakistan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pakistan"
     },
     {
@@ -32532,7 +32532,7 @@
     {
       "root": "paku",
       "pos": "word",
-      "gloss": "fern, nail"
+      "gloss": "nail, fern"
     },
     {
       "root": "pala",
@@ -32551,12 +32551,12 @@
     },
     {
       "root": "palau",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "palau"
     },
     {
       "root": "palembang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "palembang"
     },
     {
@@ -32576,7 +32576,7 @@
     },
     {
       "root": "palestina",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "palestine"
     },
     {
@@ -32606,12 +32606,12 @@
     },
     {
       "root": "pallawa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pallava"
     },
     {
       "root": "palopo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "palopo"
     },
     {
@@ -32656,7 +32656,7 @@
     },
     {
       "root": "pan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pan"
     },
     {
@@ -32666,12 +32666,12 @@
     },
     {
       "root": "panaitan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "panaitan"
     },
     {
       "root": "panama",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "panama"
     },
     {
@@ -32696,7 +32696,7 @@
     },
     {
       "root": "panay",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "panay"
     },
     {
@@ -32711,7 +32711,7 @@
     },
     {
       "root": "pancasila",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "five precepts"
     },
     {
@@ -32746,7 +32746,7 @@
     },
     {
       "root": "pandeglang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pandeglang"
     },
     {
@@ -32806,7 +32806,7 @@
     },
     {
       "root": "pangkalpinang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pangkal pinang"
     },
     {
@@ -32886,7 +32886,7 @@
     },
     {
       "root": "pantekostalisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pentecostalism"
     },
     {
@@ -32981,7 +32981,7 @@
     },
     {
       "root": "paraguay",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "paraguay"
     },
     {
@@ -33066,7 +33066,7 @@
     },
     {
       "root": "parepare",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "parepare"
     },
     {
@@ -33096,12 +33096,12 @@
     },
     {
       "root": "pariaman",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pariaman"
     },
     {
       "root": "paris",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "paris"
     },
     {
@@ -33176,7 +33176,7 @@
     },
     {
       "root": "parsi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "parsi"
     },
     {
@@ -33196,7 +33196,7 @@
     },
     {
       "root": "parthia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "parthia"
     },
     {
@@ -33237,7 +33237,7 @@
     {
       "root": "pasar",
       "pos": "word",
-      "gloss": "bazaar, market"
+      "gloss": "market, bazaar"
     },
     {
       "root": "pasase",
@@ -33291,7 +33291,7 @@
     },
     {
       "root": "pasionis",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "passionist"
     },
     {
@@ -33301,7 +33301,7 @@
     },
     {
       "root": "paskah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "easter, passover"
     },
     {
@@ -33346,12 +33346,12 @@
     },
     {
       "root": "pasuruan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pasuruan"
     },
     {
       "root": "patagonia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "patagonia"
     },
     {
@@ -33436,7 +33436,7 @@
     },
     {
       "root": "paud",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ece"
     },
     {
@@ -33451,7 +33451,7 @@
     },
     {
       "root": "pavia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pavia"
     },
     {
@@ -33467,11 +33467,11 @@
     {
       "root": "payah",
       "pos": "adjective",
-      "gloss": "pathetic, useless"
+      "gloss": "useless, pathetic"
     },
     {
       "root": "payakumbuh",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "payakumbuh"
     },
     {
@@ -33491,7 +33491,7 @@
     },
     {
       "root": "pbb",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "un"
     },
     {
@@ -33516,12 +33516,12 @@
     },
     {
       "root": "pecinan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chinatown"
     },
     {
       "root": "pecun",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "dragon boat festival"
     },
     {
@@ -33646,12 +33646,12 @@
     },
     {
       "root": "pekalongan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pekalongan"
     },
     {
       "root": "pekanbaru",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pekanbaru"
     },
     {
@@ -33667,7 +33667,7 @@
     {
       "root": "pelabuhan",
       "pos": "word",
-      "gloss": "harbor, port"
+      "gloss": "port, harbor"
     },
     {
       "root": "pelacur",
@@ -33697,7 +33697,7 @@
     {
       "root": "pelanggar",
       "pos": "word",
-      "gloss": "offender, violator"
+      "gloss": "violator, offender"
     },
     {
       "root": "pelangi",
@@ -33921,7 +33921,7 @@
     },
     {
       "root": "pematangsiantar",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pematangsiantar"
     },
     {
@@ -33967,7 +33967,7 @@
     {
       "root": "pemberontakan",
       "pos": "word",
-      "gloss": "rebellion, revolt"
+      "gloss": "revolt, rebellion"
     },
     {
       "root": "pembiakan",
@@ -34192,7 +34192,7 @@
     {
       "root": "penanganan",
       "pos": "word",
-      "gloss": "handling, treatment"
+      "gloss": "treatment, handling"
     },
     {
       "root": "penanggalan",
@@ -34242,7 +34242,7 @@
     {
       "root": "pencampur",
       "pos": "word",
-      "gloss": "blender, mixer"
+      "gloss": "mixer, blender"
     },
     {
       "root": "pencangkokan",
@@ -34657,7 +34657,7 @@
     {
       "root": "penghinaan",
       "pos": "word",
-      "gloss": "abasement, humiliation"
+      "gloss": "humiliation, abasement"
     },
     {
       "root": "penghujat",
@@ -34677,7 +34677,7 @@
     {
       "root": "pengisah",
       "pos": "word",
-      "gloss": "storyteller, teller"
+      "gloss": "teller, storyteller"
     },
     {
       "root": "pengkhianatan",
@@ -34851,7 +34851,7 @@
     },
     {
       "root": "pentakosta",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pentecost, whitsunday"
     },
     {
@@ -34861,7 +34861,7 @@
     },
     {
       "root": "pentateukh",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pentateuch"
     },
     {
@@ -34912,7 +34912,7 @@
     {
       "root": "penyangga",
       "pos": "word",
-      "gloss": "buffer, support"
+      "gloss": "support, buffer"
     },
     {
       "root": "penyangkalan",
@@ -35062,7 +35062,7 @@
     {
       "root": "penyusup",
       "pos": "word",
-      "gloss": "intruder, mole"
+      "gloss": "mole, intruder"
     },
     {
       "root": "penziarahan",
@@ -35107,12 +35107,12 @@
     {
       "root": "perairan",
       "pos": "word",
-      "gloss": "body of water, water"
+      "gloss": "water, body of water"
     },
     {
       "root": "perak",
       "pos": "word",
-      "gloss": "argent, silver"
+      "gloss": "silver, argent"
     },
     {
       "root": "perakitan",
@@ -35122,7 +35122,7 @@
     {
       "root": "peralatan",
       "pos": "word",
-      "gloss": "apparatus, equipment, hardware"
+      "gloss": "apparatus, hardware, equipment"
     },
     {
       "root": "peralihan",
@@ -35277,7 +35277,7 @@
     {
       "root": "perdagangan",
       "pos": "word",
-      "gloss": "commerce, trade"
+      "gloss": "trade, commerce"
     },
     {
       "root": "perdamaian",
@@ -35397,7 +35397,7 @@
     {
       "root": "peringatan",
       "pos": "word",
-      "gloss": "commemoration, warning"
+      "gloss": "warning, commemoration"
     },
     {
       "root": "peringkat",
@@ -35452,7 +35452,7 @@
     {
       "root": "perkebunan",
       "pos": "word",
-      "gloss": "farm, plantation"
+      "gloss": "plantation, farm"
     },
     {
       "root": "perkemahan",
@@ -35497,17 +35497,17 @@
     {
       "root": "perlu",
       "pos": "adjective",
-      "gloss": "necessary, need"
+      "gloss": "need, necessary"
     },
     {
       "root": "perm",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "perm"
     },
     {
       "root": "permainan",
       "pos": "word",
-      "gloss": "game, play"
+      "gloss": "play, game"
     },
     {
       "root": "permaisuri",
@@ -35691,7 +35691,7 @@
     },
     {
       "root": "persia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "persia"
     },
     {
@@ -35811,7 +35811,7 @@
     },
     {
       "root": "pertiwi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mother earth"
     },
     {
@@ -35831,7 +35831,7 @@
     },
     {
       "root": "peru",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "peru"
     },
     {
@@ -35961,7 +35961,7 @@
     },
     {
       "root": "petrus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "peter"
     },
     {
@@ -35972,7 +35972,7 @@
     {
       "root": "pewaris",
       "pos": "word",
-      "gloss": "heir, successor"
+      "gloss": "successor, heir"
     },
     {
       "root": "pho",
@@ -35986,7 +35986,7 @@
     },
     {
       "root": "phung",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "phung"
     },
     {
@@ -36021,7 +36021,7 @@
     },
     {
       "root": "pikacu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pikachu"
     },
     {
@@ -36081,23 +36081,23 @@
     },
     {
       "root": "pilatus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pilate"
     },
     {
       "root": "pilek",
       "pos": "word",
-      "gloss": "cold, common cold, rheum"
+      "gloss": "cold, rheum, common cold"
     },
     {
       "root": "pilih",
       "pos": "word",
-      "gloss": "choose, select"
+      "gloss": "select, choose"
     },
     {
       "root": "pilihan",
       "pos": "word",
-      "gloss": "option, select"
+      "gloss": "select, option"
     },
     {
       "root": "pilin",
@@ -36166,7 +36166,7 @@
     },
     {
       "root": "pinokio",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pinocchio"
     },
     {
@@ -36321,7 +36321,7 @@
     },
     {
       "root": "pkc",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ccp"
     },
     {
@@ -36431,7 +36431,7 @@
     },
     {
       "root": "pluto",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pluto"
     },
     {
@@ -36441,7 +36441,7 @@
     },
     {
       "root": "pms",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "std"
     },
     {
@@ -36461,7 +36461,7 @@
     },
     {
       "root": "pohang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pohang"
     },
     {
@@ -36481,12 +36481,12 @@
     },
     {
       "root": "polandia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "poland"
     },
     {
       "root": "polaris",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "polaris"
     },
     {
@@ -36561,7 +36561,7 @@
     },
     {
       "root": "polinesia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "polynesia"
     },
     {
@@ -36626,7 +36626,7 @@
     },
     {
       "root": "polotsk",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "polotsk"
     },
     {
@@ -36661,7 +36661,7 @@
     },
     {
       "root": "pontianak",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pontianak"
     },
     {
@@ -36716,7 +36716,7 @@
     },
     {
       "root": "portugal",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "portugal"
     },
     {
@@ -36726,7 +36726,7 @@
     },
     {
       "root": "porvorim",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "porvorim"
     },
     {
@@ -36766,7 +36766,7 @@
     },
     {
       "root": "ppn",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vat"
     },
     {
@@ -36776,7 +36776,7 @@
     },
     {
       "root": "prabumulih",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "prabumulih"
     },
     {
@@ -36801,7 +36801,7 @@
     },
     {
       "root": "praha",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "prague"
     },
     {
@@ -36876,7 +36876,7 @@
     },
     {
       "root": "prancis",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "france"
     },
     {
@@ -36886,7 +36886,7 @@
     },
     {
       "root": "prapaskah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lent"
     },
     {
@@ -37011,7 +37011,7 @@
     },
     {
       "root": "presbiterianisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "presbyterianism"
     },
     {
@@ -37051,7 +37051,7 @@
     },
     {
       "root": "pretoria",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pretoria"
     },
     {
@@ -37121,12 +37121,12 @@
     },
     {
       "root": "pristina",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pristina"
     },
     {
       "root": "probolinggo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "probolinggo"
     },
     {
@@ -37211,7 +37211,7 @@
     },
     {
       "root": "prometheus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "prometheus"
     },
     {
@@ -37311,12 +37311,12 @@
     },
     {
       "root": "protestan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "protestant"
     },
     {
       "root": "protestantisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "protestantism"
     },
     {
@@ -37351,7 +37351,7 @@
     },
     {
       "root": "provence",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "provence"
     },
     {
@@ -37391,7 +37391,7 @@
     },
     {
       "root": "prusia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "prussia"
     },
     {
@@ -37412,7 +37412,7 @@
     {
       "root": "psikologis",
       "pos": "adjective",
-      "gloss": "psychologic, psychological"
+      "gloss": "psychological, psychologic"
     },
     {
       "root": "psikopat",
@@ -37471,7 +37471,7 @@
     },
     {
       "root": "puebla",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "puebla"
     },
     {
@@ -37546,7 +37546,7 @@
     },
     {
       "root": "punjabi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "punjabi"
     },
     {
@@ -37651,7 +37651,7 @@
     },
     {
       "root": "putin",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "putin"
     },
     {
@@ -37661,7 +37661,7 @@
     },
     {
       "root": "putrajaya",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "putrajaya"
     },
     {
@@ -37676,12 +37676,12 @@
     },
     {
       "root": "pyongyang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pyongyang"
     },
     {
       "root": "pythagoras",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "pythagoras"
     },
     {
@@ -37691,12 +37691,12 @@
     },
     {
       "root": "qatar",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "qatar"
     },
     {
       "root": "quakerisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "quakerism"
     },
     {
@@ -37706,7 +37706,7 @@
     },
     {
       "root": "quraisy",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "quraysh"
     },
     {
@@ -37726,12 +37726,12 @@
     },
     {
       "root": "rabiulakhir",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "rabi ii"
     },
     {
       "root": "rabiulawal",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "rabi i"
     },
     {
@@ -37831,12 +37831,12 @@
     },
     {
       "root": "rahwana",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ravana"
     },
     {
       "root": "raimundus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "raymond"
     },
     {
@@ -37846,7 +37846,7 @@
     },
     {
       "root": "rajab",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "rajab"
     },
     {
@@ -37916,12 +37916,12 @@
     },
     {
       "root": "rama",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "father, ramah"
     },
     {
       "root": "ramadan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ramadan"
     },
     {
@@ -37937,7 +37937,7 @@
     {
       "root": "ramal",
       "pos": "word",
-      "gloss": "divination, forecast"
+      "gloss": "forecast, divination"
     },
     {
       "root": "ramban",
@@ -38092,11 +38092,11 @@
     {
       "root": "rata",
       "pos": "adjective",
-      "gloss": "even, flat"
+      "gloss": "flat, even"
     },
     {
       "root": "ratapan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "lamentations"
     },
     {
@@ -38121,12 +38121,12 @@
     },
     {
       "root": "rdj",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "gdr"
     },
     {
       "root": "rdk",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "drc"
     },
     {
@@ -38271,7 +38271,7 @@
     },
     {
       "root": "rehabeam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "rehoboam"
     },
     {
@@ -38286,7 +38286,7 @@
     },
     {
       "root": "rejang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "rejang"
     },
     {
@@ -38442,7 +38442,7 @@
     {
       "root": "remas",
       "pos": "word",
-      "gloss": "squeeze, wring"
+      "gloss": "wring, squeeze"
     },
     {
       "root": "rematologi",
@@ -38461,7 +38461,7 @@
     },
     {
       "root": "renaisans",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "renaissance"
     },
     {
@@ -38711,7 +38711,7 @@
     },
     {
       "root": "rhein",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "rhine"
     },
     {
@@ -38741,7 +38741,7 @@
     },
     {
       "root": "riga",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "riga"
     },
     {
@@ -38846,7 +38846,7 @@
     },
     {
       "root": "riyadh",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "riyadh"
     },
     {
@@ -38856,12 +38856,12 @@
     },
     {
       "root": "rmby",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "fyrom"
     },
     {
       "root": "roblox",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "roblox"
     },
     {
@@ -38907,7 +38907,7 @@
     {
       "root": "rokok",
       "pos": "word",
-      "gloss": "cigarette, smoke"
+      "gloss": "smoke, cigarette"
     },
     {
       "root": "rolade",
@@ -38921,12 +38921,12 @@
     },
     {
       "root": "rom",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "roma"
     },
     {
       "root": "roma",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "rome"
     },
     {
@@ -38936,12 +38936,12 @@
     },
     {
       "root": "romanisasi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "romanization"
     },
     {
       "root": "romanov",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "romanoff"
     },
     {
@@ -39001,22 +39001,22 @@
     },
     {
       "root": "rpl",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "rpl"
     },
     {
       "root": "rrdk",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "dprk"
     },
     {
       "root": "rrm",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mpr"
     },
     {
       "root": "rrt",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "prc"
     },
     {
@@ -39067,11 +39067,11 @@
     {
       "root": "rumah",
       "pos": "word",
-      "gloss": "home, house"
+      "gloss": "house, home"
     },
     {
       "root": "rumania",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "romania"
     },
     {
@@ -39111,7 +39111,7 @@
     },
     {
       "root": "rus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "rus"
     },
     {
@@ -39121,8 +39121,8 @@
     },
     {
       "root": "rusia",
-      "pos": "word",
-      "gloss": "russia, russian"
+      "pos": "proper",
+      "gloss": "russian, russia"
     },
     {
       "root": "rusuk",
@@ -39131,7 +39131,7 @@
     },
     {
       "root": "rut",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ruth"
     },
     {
@@ -39156,7 +39156,7 @@
     },
     {
       "root": "rwanda",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "rwanda"
     },
     {
@@ -39167,11 +39167,11 @@
     {
       "root": "saat",
       "pos": "word",
-      "gloss": "moment, when"
+      "gloss": "when, moment"
     },
     {
       "root": "sabang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sabang"
     },
     {
@@ -39181,7 +39181,7 @@
     },
     {
       "root": "sabat",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sabbath"
     },
     {
@@ -39191,7 +39191,7 @@
     },
     {
       "root": "sabtu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "saturday"
     },
     {
@@ -39231,7 +39231,7 @@
     },
     {
       "root": "safar",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "safar"
     },
     {
@@ -39267,7 +39267,7 @@
     {
       "root": "saham",
       "pos": "word",
-      "gloss": "share, stock"
+      "gloss": "stock, share"
     },
     {
       "root": "sahur",
@@ -39376,7 +39376,7 @@
     },
     {
       "root": "salatiga",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "salatiga"
     },
     {
@@ -39461,7 +39461,7 @@
     },
     {
       "root": "samarinda",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "samarinda"
     },
     {
@@ -39631,7 +39631,7 @@
     },
     {
       "root": "sarajevo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sarajevo"
     },
     {
@@ -39656,7 +39656,7 @@
     },
     {
       "root": "saraswati",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sarasvati"
     },
     {
@@ -39746,7 +39746,7 @@
     },
     {
       "root": "saturnus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "saturn"
     },
     {
@@ -39776,18 +39776,18 @@
     },
     {
       "root": "sawahlunto",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sawahlunto"
     },
     {
       "root": "sawan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "shraavana"
     },
     {
       "root": "saya",
       "pos": "noun",
-      "gloss": "i, me, my"
+      "gloss": "me, my"
     },
     {
       "root": "sayang",
@@ -39826,7 +39826,7 @@
     },
     {
       "root": "scheherezade",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "scheherazade"
     },
     {
@@ -39872,7 +39872,7 @@
     {
       "root": "sedang",
       "pos": "adverb",
-      "gloss": "currently, medium"
+      "gloss": "medium, currently"
     },
     {
       "root": "sedap",
@@ -39892,7 +39892,7 @@
     {
       "root": "sedikit",
       "pos": "adverb",
-      "gloss": "a little, few, little"
+      "gloss": "little, few, a little"
     },
     {
       "root": "sedimen",
@@ -39906,7 +39906,7 @@
     },
     {
       "root": "sedna",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sedna"
     },
     {
@@ -39971,7 +39971,7 @@
     },
     {
       "root": "seine",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "seine"
     },
     {
@@ -39996,7 +39996,7 @@
     },
     {
       "root": "sejong",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sejong"
     },
     {
@@ -40162,7 +40162,7 @@
     {
       "root": "selai",
       "pos": "word",
-      "gloss": "jam, jelly"
+      "gloss": "jelly, jam"
     },
     {
       "root": "selam",
@@ -40312,7 +40312,7 @@
     {
       "root": "semangat",
       "pos": "word",
-      "gloss": "good luck, spirit"
+      "gloss": "spirit, good luck"
     },
     {
       "root": "semanggi",
@@ -40336,7 +40336,7 @@
     },
     {
       "root": "semarang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "semarang"
     },
     {
@@ -40392,7 +40392,7 @@
     {
       "root": "sementara",
       "pos": "adjective",
-      "gloss": "interim, volatile, while"
+      "gloss": "volatile, interim, while"
     },
     {
       "root": "semesta",
@@ -40591,7 +40591,7 @@
     },
     {
       "root": "senozoikum",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cenozoic"
     },
     {
@@ -40666,12 +40666,12 @@
     },
     {
       "root": "seogwipo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "seogwipo"
     },
     {
       "root": "seoul",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "seoul"
     },
     {
@@ -40707,7 +40707,7 @@
     {
       "root": "seperti",
       "pos": "adverb",
-      "gloss": "as, like"
+      "gloss": "like, as"
     },
     {
       "root": "sepi",
@@ -40721,7 +40721,7 @@
     },
     {
       "root": "september",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "september"
     },
     {
@@ -40731,7 +40731,7 @@
     },
     {
       "root": "septuaginta",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "septuagint"
     },
     {
@@ -40772,7 +40772,7 @@
     {
       "root": "serap",
       "pos": "word",
-      "gloss": "absorb, absorption"
+      "gloss": "absorption, absorb"
     },
     {
       "root": "serat",
@@ -40791,7 +40791,7 @@
     },
     {
       "root": "serbia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "serbia"
     },
     {
@@ -40817,7 +40817,7 @@
     {
       "root": "serikat",
       "pos": "adjective",
-      "gloss": "federal, union"
+      "gloss": "union, federal"
     },
     {
       "root": "sering",
@@ -40916,12 +40916,12 @@
     },
     {
       "root": "setanisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "satanism"
     },
     {
       "root": "setanyahu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "satanyahu"
     },
     {
@@ -40947,7 +40947,7 @@
     {
       "root": "setiap",
       "pos": "word",
-      "gloss": "each, every, whenever"
+      "gloss": "whenever, each, every"
     },
     {
       "root": "setom",
@@ -40957,7 +40957,7 @@
     {
       "root": "setrika",
       "pos": "word",
-      "gloss": "clothes iron, iron"
+      "gloss": "iron, clothes iron"
     },
     {
       "root": "setrum",
@@ -40991,7 +40991,7 @@
     },
     {
       "root": "seychelles",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "seychelles"
     },
     {
@@ -41006,17 +41006,17 @@
     },
     {
       "root": "shambala",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "shambhala"
     },
     {
       "root": "shinto",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "shinto"
     },
     {
       "root": "shota",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "shota"
     },
     {
@@ -41061,7 +41061,7 @@
     },
     {
       "root": "siberia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "siberia"
     },
     {
@@ -41071,7 +41071,7 @@
     },
     {
       "root": "sibolga",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sibolga"
     },
     {
@@ -41086,7 +41086,7 @@
     },
     {
       "root": "sidon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sidon"
     },
     {
@@ -41146,7 +41146,7 @@
     },
     {
       "root": "sikhisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sikhism"
     },
     {
@@ -41257,7 +41257,7 @@
     {
       "root": "simetris",
       "pos": "adjective",
-      "gloss": "symmetrical, symmetry"
+      "gloss": "symmetry, symmetrical"
     },
     {
       "root": "simit",
@@ -41266,13 +41266,13 @@
     },
     {
       "root": "simon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "simon"
     },
     {
       "root": "simpan",
       "pos": "word",
-      "gloss": "keep, save"
+      "gloss": "save, keep"
     },
     {
       "root": "simpanse",
@@ -41311,7 +41311,7 @@
     },
     {
       "root": "simson",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "samson"
     },
     {
@@ -41376,7 +41376,7 @@
     },
     {
       "root": "singapura",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "singapore"
     },
     {
@@ -41406,7 +41406,7 @@
     },
     {
       "root": "singkawang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "singkawang"
     },
     {
@@ -41456,7 +41456,7 @@
     },
     {
       "root": "sinologi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chinese studies"
     },
     {
@@ -41481,7 +41481,7 @@
     },
     {
       "root": "sinta",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sita"
     },
     {
@@ -41491,7 +41491,7 @@
     },
     {
       "root": "sinterklas",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "santa claus"
     },
     {
@@ -41527,7 +41527,7 @@
     {
       "root": "sipir",
       "pos": "word",
-      "gloss": "jailer, prison guard, screw"
+      "gloss": "screw, jailer, prison guard"
     },
     {
       "root": "sipit",
@@ -41536,7 +41536,7 @@
     },
     {
       "root": "siprus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "cyprus"
     },
     {
@@ -41547,7 +41547,7 @@
     {
       "root": "siram",
       "pos": "word",
-      "gloss": "flush, water"
+      "gloss": "water, flush"
     },
     {
       "root": "sirene",
@@ -41566,7 +41566,7 @@
     },
     {
       "root": "sirius",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sirius"
     },
     {
@@ -41592,11 +41592,11 @@
     {
       "root": "sisik",
       "pos": "word",
-      "gloss": "scale, shell"
+      "gloss": "shell, scale"
     },
     {
       "root": "sisilia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sicily"
     },
     {
@@ -41671,12 +41671,12 @@
     },
     {
       "root": "siwa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "shiva"
     },
     {
       "root": "siwan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sivan"
     },
     {
@@ -41756,7 +41756,7 @@
     },
     {
       "root": "skotlandia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "scotland"
     },
     {
@@ -41772,7 +41772,7 @@
     {
       "root": "sks",
       "pos": "word",
-      "gloss": "course credit, credit"
+      "gloss": "credit, course credit"
     },
     {
       "root": "skuas",
@@ -41811,12 +41811,12 @@
     },
     {
       "root": "slovenia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "slovenia"
     },
     {
       "root": "slowakia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "slovakia"
     },
     {
@@ -41831,7 +41831,7 @@
     },
     {
       "root": "snoopy",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "snoopy"
     },
     {
@@ -41851,12 +41851,12 @@
     },
     {
       "root": "sochi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sochi"
     },
     {
       "root": "sofia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sofia"
     },
     {
@@ -41906,12 +41906,12 @@
     },
     {
       "root": "solo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "surakarta"
     },
     {
       "root": "solok",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "solok"
     },
     {
@@ -41921,7 +41921,7 @@
     },
     {
       "root": "somalia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "somalia"
     },
     {
@@ -41956,7 +41956,7 @@
     },
     {
       "root": "sorbia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sorbian"
     },
     {
@@ -41976,12 +41976,12 @@
     },
     {
       "root": "sorong",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sorong"
     },
     {
       "root": "sorsogon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sorsogon"
     },
     {
@@ -42041,12 +42041,12 @@
     },
     {
       "root": "sovietisasi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sovietisation, sovietization"
     },
     {
       "root": "soyuz",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "soyuz"
     },
     {
@@ -42061,17 +42061,17 @@
     },
     {
       "root": "spanyol",
-      "pos": "word",
-      "gloss": "spain, spanish"
+      "pos": "proper",
+      "gloss": "spanish, spain"
     },
     {
       "root": "sparta",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sparta"
     },
     {
       "root": "spartakus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "spartacus"
     },
     {
@@ -42246,12 +42246,12 @@
     },
     {
       "root": "stalin",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "stalin"
     },
     {
       "root": "stalinisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "stalinism"
     },
     {
@@ -42301,7 +42301,7 @@
     },
     {
       "root": "stefani",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "stephanie"
     },
     {
@@ -42346,7 +42346,7 @@
     },
     {
       "root": "stockholm",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "stockholm"
     },
     {
@@ -42437,7 +42437,7 @@
     {
       "root": "suara",
       "pos": "word",
-      "gloss": "voice, vote"
+      "gloss": "vote, voice"
     },
     {
       "root": "suarabakti",
@@ -42446,7 +42446,7 @@
     },
     {
       "root": "subali",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vali"
     },
     {
@@ -42516,7 +42516,7 @@
     },
     {
       "root": "subulussalam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "subulussalam"
     },
     {
@@ -42551,7 +42551,7 @@
     },
     {
       "root": "sudan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sudan"
     },
     {
@@ -42561,7 +42561,7 @@
     },
     {
       "root": "sudra",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "shudra"
     },
     {
@@ -42576,7 +42576,7 @@
     },
     {
       "root": "sufisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sufism"
     },
     {
@@ -42591,7 +42591,7 @@
     },
     {
       "root": "sukabumi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sukabumi"
     },
     {
@@ -42626,7 +42626,7 @@
     },
     {
       "root": "sulaiman",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "solomon"
     },
     {
@@ -42636,7 +42636,7 @@
     },
     {
       "root": "sulawesi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sulawesi"
     },
     {
@@ -42647,7 +42647,7 @@
     {
       "root": "sulit",
       "pos": "adjective",
-      "gloss": "difficult, hard, uneasy"
+      "gloss": "hard, uneasy, difficult"
     },
     {
       "root": "sultan",
@@ -42666,7 +42666,7 @@
     },
     {
       "root": "sumatera",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sumatra"
     },
     {
@@ -42681,7 +42681,7 @@
     },
     {
       "root": "sumbawa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sumbawa"
     },
     {
@@ -42796,7 +42796,7 @@
     },
     {
       "root": "surabaya",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "surabaya"
     },
     {
@@ -42836,12 +42836,12 @@
     },
     {
       "root": "suriah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "syria"
     },
     {
       "root": "suriname",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "suriname"
     },
     {
@@ -42901,7 +42901,7 @@
     },
     {
       "root": "suva",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "suva"
     },
     {
@@ -42951,22 +42951,22 @@
     },
     {
       "root": "swaziland",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "swaziland"
     },
     {
       "root": "swedenborgianisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "swedenborgianism"
     },
     {
       "root": "swedia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sweden"
     },
     {
       "root": "swiss",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "switzerland"
     },
     {
@@ -42996,7 +42996,7 @@
     },
     {
       "root": "syahla",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "shahla"
     },
     {
@@ -43011,7 +43011,7 @@
     },
     {
       "root": "syakban",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sha'ban"
     },
     {
@@ -43021,7 +43021,7 @@
     },
     {
       "root": "syam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "levant"
     },
     {
@@ -43036,7 +43036,7 @@
     },
     {
       "root": "syebat",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "shevat"
     },
     {
@@ -43051,7 +43051,7 @@
     },
     {
       "root": "syldavia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "syldavia"
     },
     {
@@ -43061,7 +43061,7 @@
     },
     {
       "root": "syracuse",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "syracuse"
     },
     {
@@ -43071,7 +43071,7 @@
     },
     {
       "root": "tabasco",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tabasco"
     },
     {
@@ -43121,7 +43121,7 @@
     },
     {
       "root": "tadeus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "thaddaeus"
     },
     {
@@ -43136,7 +43136,7 @@
     },
     {
       "root": "taganrog",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "taganrog"
     },
     {
@@ -43167,7 +43167,7 @@
     {
       "root": "tahi",
       "pos": "word",
-      "gloss": "excrement, shit"
+      "gloss": "shit, excrement"
     },
     {
       "root": "tahil",
@@ -43191,12 +43191,12 @@
     },
     {
       "root": "taipei",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "taipei"
     },
     {
       "root": "taiwan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "taiwan"
     },
     {
@@ -43211,7 +43211,7 @@
     },
     {
       "root": "tajikistan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tajikistan"
     },
     {
@@ -43307,7 +43307,7 @@
     {
       "root": "talang",
       "pos": "word",
-      "gloss": "eavestrough, gutter"
+      "gloss": "gutter, eavestrough"
     },
     {
       "root": "talenan",
@@ -43321,7 +43321,7 @@
     },
     {
       "root": "taliban",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "taliban"
     },
     {
@@ -43331,7 +43331,7 @@
     },
     {
       "root": "tallinn",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tallinn"
     },
     {
@@ -43342,7 +43342,7 @@
     {
       "root": "taman",
       "pos": "word",
-      "gloss": "garden, park"
+      "gloss": "park, garden"
     },
     {
       "root": "tamat",
@@ -43396,7 +43396,7 @@
     },
     {
       "root": "tamus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tammuz"
     },
     {
@@ -43422,7 +43422,7 @@
     {
       "root": "tanduk",
       "pos": "word",
-      "gloss": "antler, horn"
+      "gloss": "horn, antler"
     },
     {
       "root": "tandus",
@@ -43441,12 +43441,12 @@
     },
     {
       "root": "tanganyika",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tanganyika"
     },
     {
       "root": "tangerang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tangerang"
     },
     {
@@ -43487,16 +43487,16 @@
     {
       "root": "tanjung",
       "pos": "word",
-      "gloss": "bulletwood, cape"
+      "gloss": "cape, bulletwood"
     },
     {
       "root": "tanjungbalai",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tanjungbalai"
     },
     {
       "root": "tanjungpinang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tanjungpinang"
     },
     {
@@ -43541,7 +43541,7 @@
     },
     {
       "root": "tanzania",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tanzania"
     },
     {
@@ -43551,7 +43551,7 @@
     },
     {
       "root": "taoisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "taoism"
     },
     {
@@ -43576,7 +43576,7 @@
     },
     {
       "root": "tarakan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tarakan"
     },
     {
@@ -43621,17 +43621,17 @@
     },
     {
       "root": "tashkent",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tashkent"
     },
     {
       "root": "tasikmalaya",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tasikmalaya"
     },
     {
       "root": "tasmania",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tasmania"
     },
     {
@@ -43661,7 +43661,7 @@
     },
     {
       "root": "taurat",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "torah"
     },
     {
@@ -43681,7 +43681,7 @@
     },
     {
       "root": "tawarikh",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "chronicles"
     },
     {
@@ -43706,12 +43706,12 @@
     },
     {
       "root": "tbilisi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tbilisi"
     },
     {
       "root": "tchaikovsky",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tchaikovsky"
     },
     {
@@ -43731,7 +43731,7 @@
     },
     {
       "root": "tebet",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tevet"
     },
     {
@@ -43756,7 +43756,7 @@
     },
     {
       "root": "tegal",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tegal"
     },
     {
@@ -43776,7 +43776,7 @@
     },
     {
       "root": "tegucigalpa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tegucigalpa"
     },
     {
@@ -43936,7 +43936,7 @@
     },
     {
       "root": "telugu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "telugu"
     },
     {
@@ -43957,7 +43957,7 @@
     {
       "root": "teman",
       "pos": "word",
-      "gloss": "accompany, friend"
+      "gloss": "friend, accompany"
     },
     {
       "root": "tembaga",
@@ -44007,7 +44007,7 @@
     {
       "root": "tempat",
       "pos": "word",
-      "gloss": "place, where"
+      "gloss": "where, place"
     },
     {
       "root": "tempe",
@@ -44286,7 +44286,7 @@
     },
     {
       "root": "terengganu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "terengganu"
     },
     {
@@ -44406,7 +44406,7 @@
     },
     {
       "root": "ternate",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ternate"
     },
     {
@@ -44466,7 +44466,7 @@
     },
     {
       "root": "terpsikhore",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "terpsichore"
     },
     {
@@ -44581,7 +44581,7 @@
     },
     {
       "root": "tetragrammaton",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tetragrammaton"
     },
     {
@@ -44611,27 +44611,27 @@
     },
     {
       "root": "thailand",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "thailand"
     },
     {
       "root": "therawada",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "theravada"
     },
     {
       "root": "thessaloniki",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "thessaloniki"
     },
     {
       "root": "thimphu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "thimphu"
     },
     {
       "root": "tht",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ent"
     },
     {
@@ -44646,7 +44646,7 @@
     },
     {
       "root": "tiberius",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tiberius"
     },
     {
@@ -44656,7 +44656,7 @@
     },
     {
       "root": "tidore",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tidore"
     },
     {
@@ -44676,7 +44676,7 @@
     },
     {
       "root": "tigris",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tigris"
     },
     {
@@ -44726,12 +44726,12 @@
     },
     {
       "root": "timika",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "timika"
     },
     {
       "root": "timotius",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "timothy"
     },
     {
@@ -44801,7 +44801,7 @@
     },
     {
       "root": "tiongkok",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "china"
     },
     {
@@ -44846,7 +44846,7 @@
     },
     {
       "root": "tirana",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tirana"
     },
     {
@@ -44871,7 +44871,7 @@
     },
     {
       "root": "tisyri",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tishrei"
     },
     {
@@ -44882,7 +44882,7 @@
     {
       "root": "titik",
       "pos": "word",
-      "gloss": "full stop, middle, point"
+      "gloss": "point, middle, full stop"
     },
     {
       "root": "titin",
@@ -44901,7 +44901,7 @@
     },
     {
       "root": "titus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "titus"
     },
     {
@@ -44956,7 +44956,7 @@
     },
     {
       "root": "tokyo",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tokyo"
     },
     {
@@ -44981,7 +44981,7 @@
     },
     {
       "root": "tomas",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "thomas"
     },
     {
@@ -44997,7 +44997,7 @@
     {
       "root": "tombol",
       "pos": "word",
-      "gloss": "button, key, nub"
+      "gloss": "key, button, nub"
     },
     {
       "root": "tombong",
@@ -45006,7 +45006,7 @@
     },
     {
       "root": "tomohon",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tomohon"
     },
     {
@@ -45037,7 +45037,7 @@
     {
       "root": "tongkat",
       "pos": "word",
-      "gloss": "staff, stick"
+      "gloss": "stick, staff"
     },
     {
       "root": "tongkol",
@@ -45096,7 +45096,7 @@
     },
     {
       "root": "toronto",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "toronto"
     },
     {
@@ -45216,7 +45216,7 @@
     },
     {
       "root": "transbaikal",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "transbaikal"
     },
     {
@@ -45241,7 +45241,7 @@
     },
     {
       "root": "transilvania",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "transylvania"
     },
     {
@@ -45266,7 +45266,7 @@
     },
     {
       "root": "transnistria",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "transnistria"
     },
     {
@@ -45366,7 +45366,7 @@
     },
     {
       "root": "trinitarian",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "trinitarian"
     },
     {
@@ -45386,7 +45386,7 @@
     },
     {
       "root": "tripoli",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tripoli"
     },
     {
@@ -45476,7 +45476,7 @@
     },
     {
       "root": "troya",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "troy"
     },
     {
@@ -45511,7 +45511,7 @@
     },
     {
       "root": "tual",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tual"
     },
     {
@@ -45552,7 +45552,7 @@
     {
       "root": "tuhan",
       "pos": "word",
-      "gloss": "god, lord"
+      "gloss": "god"
     },
     {
       "root": "tuju",
@@ -45681,18 +45681,18 @@
     },
     {
       "root": "tunis",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tunis"
     },
     {
       "root": "tunisia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tunisia"
     },
     {
       "root": "tunjangan",
       "pos": "word",
-      "gloss": "allowance, support"
+      "gloss": "support, allowance"
     },
     {
       "root": "tunjuk",
@@ -45731,12 +45731,12 @@
     },
     {
       "root": "turki",
-      "pos": "word",
-      "gloss": "turkey, turkish"
+      "pos": "proper",
+      "gloss": "turkish, turkey"
     },
     {
       "root": "turkmenistan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "turkmenistan"
     },
     {
@@ -45776,12 +45776,12 @@
     },
     {
       "root": "tuvalu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tuvalu"
     },
     {
       "root": "tuzla",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "tuzla"
     },
     {
@@ -45836,12 +45836,12 @@
     },
     {
       "root": "uea",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "uae"
     },
     {
       "root": "uganda",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "uganda"
     },
     {
@@ -45851,13 +45851,13 @@
     },
     {
       "root": "ukm",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "sbm, sme"
     },
     {
       "root": "ukraina",
-      "pos": "word",
-      "gloss": "ukraine, ukrainian"
+      "pos": "proper",
+      "gloss": "ukrainian, ukraine"
     },
     {
       "root": "ukulele",
@@ -45876,7 +45876,7 @@
     },
     {
       "root": "ulangan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "deuteronomy"
     },
     {
@@ -45926,7 +45926,7 @@
     },
     {
       "root": "uluru",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "uluru"
     },
     {
@@ -45952,7 +45952,7 @@
     {
       "root": "umum",
       "pos": "adjective",
-      "gloss": "common, general, public"
+      "gloss": "general, public, common"
     },
     {
       "root": "umumnya",
@@ -46011,7 +46011,7 @@
     },
     {
       "root": "unicode",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "unicode"
     },
     {
@@ -46051,7 +46051,7 @@
     },
     {
       "root": "unitarianisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "unitarianism"
     },
     {
@@ -46131,7 +46131,7 @@
     },
     {
       "root": "uranus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "uranus"
     },
     {
@@ -46166,7 +46166,7 @@
     },
     {
       "root": "uruguay",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "uruguay"
     },
     {
@@ -46246,7 +46246,7 @@
     },
     {
       "root": "utraqisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "utraquism"
     },
     {
@@ -46256,12 +46256,12 @@
     },
     {
       "root": "uzbekistan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "uzbekistan"
     },
     {
       "root": "vaduz",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vaduz"
     },
     {
@@ -46296,7 +46296,7 @@
     },
     {
       "root": "valletta",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "valletta"
     },
     {
@@ -46316,7 +46316,7 @@
     },
     {
       "root": "vanuatu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vanuatu"
     },
     {
@@ -46356,7 +46356,7 @@
     },
     {
       "root": "vatikan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vatican, vatican city"
     },
     {
@@ -46371,12 +46371,12 @@
     },
     {
       "root": "venesia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "venice"
     },
     {
       "root": "venezuela",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "venezuela"
     },
     {
@@ -46391,17 +46391,17 @@
     },
     {
       "root": "venus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "venus"
     },
     {
       "root": "veracruz",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "veracruz"
     },
     {
       "root": "vergilius",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "virgil"
     },
     {
@@ -46436,7 +46436,7 @@
     },
     {
       "root": "vicenza",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vicenza"
     },
     {
@@ -46461,12 +46461,12 @@
     },
     {
       "root": "vientiane",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vientiane"
     },
     {
       "root": "vietnam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vietnam"
     },
     {
@@ -46481,7 +46481,7 @@
     },
     {
       "root": "vilnius",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vilnius"
     },
     {
@@ -46581,7 +46581,7 @@
     },
     {
       "root": "vulgata",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vulgate"
     },
     {
@@ -46626,7 +46626,7 @@
     },
     {
       "root": "waisak",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vesak"
     },
     {
@@ -46661,7 +46661,7 @@
     },
     {
       "root": "wales",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "wales"
     },
     {
@@ -46741,12 +46741,12 @@
     },
     {
       "root": "warnet",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "internet cafe"
     },
     {
       "root": "warsawa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "warsaw"
     },
     {
@@ -46806,7 +46806,7 @@
     },
     {
       "root": "watergate",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "watergate"
     },
     {
@@ -46846,7 +46846,7 @@
     },
     {
       "root": "weda",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "veda"
     },
     {
@@ -46856,7 +46856,7 @@
     },
     {
       "root": "weser",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "weser"
     },
     {
@@ -46886,17 +46886,17 @@
     },
     {
       "root": "wikikamus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "wiktionary"
     },
     {
       "root": "wikipedia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "wikipedia"
     },
     {
       "root": "wikipediawan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "wikipedian"
     },
     {
@@ -46906,7 +46906,7 @@
     },
     {
       "root": "wina",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vienna"
     },
     {
@@ -46931,7 +46931,7 @@
     },
     {
       "root": "wisnu",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "vishnu"
     },
     {
@@ -46956,7 +46956,7 @@
     },
     {
       "root": "wolfgang",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "wolfgang"
     },
     {
@@ -46981,7 +46981,7 @@
     },
     {
       "root": "wrehaspati",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "brihaspati"
     },
     {
@@ -47001,12 +47001,12 @@
     },
     {
       "root": "www",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "www"
     },
     {
       "root": "wyoming",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "wyoming"
     },
     {
@@ -47036,12 +47036,12 @@
     },
     {
       "root": "yahudi",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jew, jewish"
     },
     {
       "root": "yahwe",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "yahweh"
     },
     {
@@ -47061,27 +47061,27 @@
     },
     {
       "root": "yakobus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "james"
     },
     {
       "root": "yakub",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jacob"
     },
     {
       "root": "yakut",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "yakut"
     },
     {
       "root": "yalta",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "yalta"
     },
     {
       "root": "yaman",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "yemen"
     },
     {
@@ -47096,22 +47096,22 @@
     },
     {
       "root": "yanus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "janus"
     },
     {
       "root": "yap",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "yap"
     },
     {
       "root": "yehezkiel",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "ezekiel"
     },
     {
       "root": "yehuwa",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jehovah"
     },
     {
@@ -47121,37 +47121,37 @@
     },
     {
       "root": "yeremia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jeremiah"
     },
     {
       "root": "yerevan",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "yerevan"
     },
     {
       "root": "yerikho",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jericho"
     },
     {
       "root": "yerobeam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jeroboam"
     },
     {
       "root": "yerusalem",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jerusalem"
     },
     {
       "root": "yesaya",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "isaiah"
     },
     {
       "root": "yesus",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jesus"
     },
     {
@@ -47176,7 +47176,7 @@
     },
     {
       "root": "yohanes",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "john"
     },
     {
@@ -47186,12 +47186,12 @@
     },
     {
       "root": "yordania",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jordan"
     },
     {
       "root": "yosef",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "joseph"
     },
     {
@@ -47206,12 +47206,12 @@
     },
     {
       "root": "yudas",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "judas"
     },
     {
       "root": "yudea",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "judea"
     },
     {
@@ -47221,17 +47221,17 @@
     },
     {
       "root": "yugoslavia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "yugoslavia"
     },
     {
       "root": "yunani",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "greece"
     },
     {
       "root": "yupiter",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "jupiter"
     },
     {
@@ -47246,22 +47246,22 @@
     },
     {
       "root": "yusha",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "joshua"
     },
     {
       "root": "yusuf",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "joseph"
     },
     {
       "root": "zabaniah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "zabaniyah"
     },
     {
       "root": "zagreb",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "zagreb"
     },
     {
@@ -47276,8 +47276,8 @@
     },
     {
       "root": "zakharia",
-      "pos": "word",
-      "gloss": "zachary, zechariah"
+      "pos": "proper",
+      "gloss": "zechariah, zachary"
     },
     {
       "root": "zaman",
@@ -47286,7 +47286,7 @@
     },
     {
       "root": "zambia",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "zambia"
     },
     {
@@ -47296,7 +47296,7 @@
     },
     {
       "root": "zamzam",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "zamzam"
     },
     {
@@ -47316,12 +47316,12 @@
     },
     {
       "root": "zee",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "eez"
     },
     {
       "root": "zefanya",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "zephaniah"
     },
     {
@@ -47351,7 +47351,7 @@
     },
     {
       "root": "zimbabwe",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "zimbabwe"
     },
     {
@@ -47401,12 +47401,12 @@
     },
     {
       "root": "zoroastrianisme",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "zoroastrianism"
     },
     {
       "root": "zoroastris",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "zoroastrian"
     },
     {
@@ -47421,12 +47421,12 @@
     },
     {
       "root": "zulhijah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "dhu'l-hijja"
     },
     {
       "root": "zulkaidah",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "dhu'l-qa'da"
     }
   ]
