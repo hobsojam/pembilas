@@ -30,7 +30,7 @@ export function deriveForm(word, affixId, rules) {
     case 'me':     return applyNasal(word, rules)
     case 'ber':    return word.startsWith('r') ? 'be' + word : 'ber' + word
     case 'di':     return 'di' + word
-    case 'ter':    return 'ter' + word
+    case 'ter':    return word.startsWith('r') ? 'te' + word : 'ter' + word
     case 'ke':     return 'ke' + word
     case 'se':     return 'se' + word
     case 'pe':     return applyPeNasal(word, rules)
@@ -44,6 +44,7 @@ export function deriveForm(word, affixId, rules) {
     case 'pe_an':  return applyPeNasal(word, rules) + 'an'
     case 'ke_an':  return 'ke' + word + 'an'
     case 'ber_an': return (word.startsWith('r') ? 'be' : 'ber') + word + 'an'
+    case 'per_an': return (word.startsWith('r') ? 'pe' : 'per') + word + 'an'
     default:       return word
   }
 }
@@ -83,15 +84,27 @@ export function buildIndex({ words, affixes, annotations, rules }) {
       // irregular derivations (see affixEngine.js / #16).
       const form = ann?.form ?? deriveForm(word.root, affix.id, rules)
       if (form === word.root) continue
-      if (rootWords.has(form)) continue // collides with an unrelated dictionary headword
+      const verified = ann?.state === 'valid'
+      // A mechanical derivation that collides with a dictionary headword is
+      // dropped (the headword's own entry wins), but a curated one is kept:
+      // many headwords are themselves lexicalized derivations (menarik,
+      // berteriak, laporan, ...), and hiding the annotated parse shadowed
+      // 173 curated slots from search entirely (#52/#56).
+      if (rootWords.has(form) && !verified) continue
 
-      add(form, word.root, affix.label, ann?.state === 'valid')
+      add(form, word.root, affix.label, verified)
     }
   }
 
-  // Verified entries sort before unverified ones for the same form, so the
-  // search UI's prefix scan surfaces curated derivations first.
-  entries.sort((a, b) => a[0].localeCompare(b[0]) || (b[3] ?? 0) - (a[3] ?? 0))
+  // Within a form: verified entries before unverified ones (the search UI's
+  // prefix scan surfaces curated derivations first), and a root's own entry
+  // (null label) before derived readings of the same surface string.
+  entries.sort(
+    (a, b) =>
+      a[0].localeCompare(b[0]) ||
+      (b[3] ?? 0) - (a[3] ?? 0) ||
+      (a[2] === null ? 0 : 1) - (b[2] === null ? 0 : 1)
+  )
   return entries
 }
 
