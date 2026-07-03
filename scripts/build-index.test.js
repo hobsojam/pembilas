@@ -14,8 +14,9 @@ describe('deriveForm', () => {
     expect(deriveForm('tulis', 'bogus', rules)).toBe('tulis')
   })
 
-  // The script's deriveForm mirrors src/lib/affixEngine.js; these two cases
-  // had drifted out of sync with it (#52 review) -- keep them covered.
+  // deriveForm is now shared with affixEngine.js via src/lib/derive.js (#60).
+  // These two cases are where the old duplicated copies had drifted apart
+  // (#52 review) -- keep them covered as regression canaries.
   it('elides the doubled r for ter- on r-initial roots, like affixEngine.js', () => {
     expect(deriveForm('rusak', 'ter', rules)).toBe('terusak')
   })

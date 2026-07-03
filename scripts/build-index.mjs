@@ -6,48 +6,10 @@
 import { readFileSync, writeFileSync } from 'fs'
 import { fileURLToPath, pathToFileURL } from 'url'
 import { dirname, join } from 'path'
-
-// --- nasal assimilation (mirrors affixEngine.js) ---
-
-function applyNasal(word, rules) {
-  for (const rule of rules) {
-    for (const s of rule.startsWith) {
-      if (word.startsWith(s)) {
-        const stem = rule.dropInitial ? word.slice(s.length) : word
-        return rule.prefix + stem
-      }
-    }
-  }
-  return 'me' + word
-}
-
-function applyPeNasal(word, rules) {
-  return applyNasal(word, rules).replace(/^me/, 'pe')
-}
-
-export function deriveForm(word, affixId, rules) {
-  switch (affixId) {
-    case 'me':     return applyNasal(word, rules)
-    case 'ber':    return word.startsWith('r') ? 'be' + word : 'ber' + word
-    case 'di':     return 'di' + word
-    case 'ter':    return word.startsWith('r') ? 'te' + word : 'ter' + word
-    case 'ke':     return 'ke' + word
-    case 'se':     return 'se' + word
-    case 'pe':     return applyPeNasal(word, rules)
-    case 'an':     return word + 'an'
-    case 'kan':    return word + 'kan'
-    case 'i':      return word + 'i'
-    case 'nya':    return word + 'nya'
-    case 'lah':    return word + 'lah'
-    case 'me_kan': return applyNasal(word, rules) + 'kan'
-    case 'me_i':   return applyNasal(word, rules) + 'i'
-    case 'pe_an':  return applyPeNasal(word, rules) + 'an'
-    case 'ke_an':  return 'ke' + word + 'an'
-    case 'ber_an': return (word.startsWith('r') ? 'be' : 'ber') + word + 'an'
-    case 'per_an': return (word.startsWith('r') ? 'pe' : 'per') + word + 'an'
-    default:       return word
-  }
-}
+// Shared with src/lib/affixEngine.js (#60) — re-exported because this
+// script is the natural import site for Node-side consumers and tests.
+export { deriveForm } from '../src/lib/derive.js'
+import { deriveForm } from '../src/lib/derive.js'
 
 // --- build index ---
 
