@@ -6748,6 +6748,11 @@
     "nya": {
       "state": "unused",
       "gloss": ""
+    },
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): the bare imperative tarikan! (dance it!) is rare and collides with tarikan (a pull, from tarik + -an); menarikan already covers the verb"
     }
   },
   "ukur": {
@@ -8865,6 +8870,16 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): menarik is itself a derived form (me- + tarik); menarikan is tari + me-...-kan, not menarik + -an"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): menarik is itself me- + tarik sitting in words.json as a root (#52); menariki is tarik + me-...-i"
+    },
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): menarik is itself me- + tarik sitting in words.json as a root (#52); menarikkan is tarik + me-...-kan"
     }
   },
   "menyamak": {
@@ -9647,6 +9662,189 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): bahasan is itself bahas + -an sitting in words.json as a root (#52); pembahasan is bahas + pe-...-an"
+    }
+  },
+  "luar": {
+    "ke_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): keluaran is treated here as keluar + -an (already annotated); the ke-...-an parse from luar is the same word, kept unused to avoid a duplicate entry"
+    }
+  },
+  "tahanan": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): tahanan is itself tahan + -an sitting in words.json as a root (#52); ketahanan is tahan + ke-...-an"
+    }
+  },
+  "memegang": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): memegang is itself me- + pegang sitting in words.json as a root (#52); memegangi is pegang + me-...-i"
+    },
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): memegang is itself me- + pegang sitting in words.json as a root (#52); memegangkan is pegang + me-...-kan"
+    }
+  },
+  "memilih": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): memilih is itself me- + pilih sitting in words.json as a root (#52); memilihi is pilih + me-...-i"
+    },
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): memilih is itself me- + pilih sitting in words.json as a root (#52); memilihkan is pilih + me-...-kan"
+    }
+  },
+  "menahan": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): menahan is itself me- + tahan sitting in words.json as a root (#52); menahankan is tahan + me-...-kan"
+    }
+  },
+  "mencampur": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): mencampur is itself me- + campur sitting in words.json as a root (#52); mencampuri is campur + me-...-i"
+    },
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): mencampur is itself me- + campur sitting in words.json as a root (#52); mencampurkan is campur + me-...-kan"
+    }
+  },
+  "menerima": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): menerima is itself me- + terima sitting in words.json as a root (#52); menerimakan is terima + me-...-kan"
+    }
+  },
+  "mengulang": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): mengulang is itself me- + ulang sitting in words.json as a root (#52); mengulangkan is ulang + me-...-kan"
+    }
+  },
+  "menunggu": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): menunggu is itself me- + tunggu sitting in words.json as a root (#52); menunggui is tunggu + me-...-i"
+    }
+  },
+  "panggilan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): panggilan is itself panggil + -an sitting in words.json as a root (#52); pemanggilan is panggil + pe-...-an"
+    }
+  },
+  "pegangan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): pegangan is itself pegang + -an sitting in words.json as a root (#52); pemegangan is pegang + pe-...-an"
+    }
+  },
+  "pemilih": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): pemilih is itself pilih + pe- sitting in words.json as a root (#52); pemilihan is pilih + pe-...-an"
+    }
+  },
+  "pilihan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): pilihan is itself pilih + -an sitting in words.json as a root (#52); pemilihan is pilih + pe-...-an"
+    }
+  },
+  "penari": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): penari is itself tari + pe- sitting in words.json as a root (#52); penarikan is tarik + pe-...-an"
+    }
+  },
+  "penarik": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): penarik is itself tarik + pe- sitting in words.json as a root (#52); penarikan is tarik + pe-...-an"
+    }
+  },
+  "campuran": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): campuran is itself campur + -an sitting in words.json as a root (#52); pencampuran is campur + pe-...-an"
+    }
+  },
+  "pencampur": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): pencampur is itself campur + pe- sitting in words.json as a root (#52); pencampuran is campur + pe-...-an"
+    }
+  },
+  "penerima": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): penerima is itself terima + pe- sitting in words.json as a root (#52); penerimaan is terima + pe-...-an"
+    }
+  },
+  "gabungan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): gabungan is itself gabung + -an sitting in words.json as a root (#52); penggabungan is gabung + pe-...-an"
+    }
+  },
+  "gerakan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): gerakan is itself gerak + -an sitting in words.json as a root (#52); penggerakan is gerak + pe-...-an"
+    }
+  },
+  "pengguna": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): pengguna is itself guna + pe- sitting in words.json as a root (#52); penggunaan is guna + pe-...-an"
+    }
+  },
+  "isian": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): isian is itself isi + -an sitting in words.json as a root (#52); pengisian is isi + pe-...-an"
+    }
+  },
+  "ulangan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): ulangan is itself ulang + -an sitting in words.json as a root (#52); pengulangan is ulang + pe-...-an"
+    }
+  },
+  "timbangan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48/#56): timbangan is itself timbang + -an sitting in words.json as a root (#52); penimbangan is timbang + pe-...-an"
     }
   }
 }

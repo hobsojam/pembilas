@@ -101,4 +101,36 @@ describe('validateAnnotations', () => {
     )
     expect(errors).toContain('tulis.me: notes is present but empty (must be a non-empty string)')
   })
+
+  describe('annotated roots must exist in words.json (#56)', () => {
+    const knownRoots = new Set(['tulis'])
+
+    it('accepts an annotated root that is a known word', () => {
+      const errors = validateAnnotations(
+        { tulis: { me: { state: 'valid', gloss: 'to write' } } },
+        knownAffixIds,
+        knownRoots
+      )
+      expect(errors).toEqual([])
+    })
+
+    it('flags an annotated root missing from words.json', () => {
+      const errors = validateAnnotations(
+        { tarik: { me: { state: 'valid', gloss: 'to pull' } } },
+        knownAffixIds,
+        knownRoots
+      )
+      expect(errors).toContain(
+        'tarik: annotated root is not in data/words.json, so its annotations are unreachable in the app (#56)'
+      )
+    })
+
+    it('skips the check when no root set is provided (backward compatible)', () => {
+      const errors = validateAnnotations(
+        { tarik: { me: { state: 'valid', gloss: 'to pull' } } },
+        knownAffixIds
+      )
+      expect(errors).toEqual([])
+    })
+  })
 })
