@@ -8,8 +8,8 @@ vi.mock('../data/search-index.json', () => ({
   default: [
     // tang.ber is un-annotated in the real annotations.json, so this entry
     // exercises the mechanical-row path (#53) end to end.
-    ['bertang', 'tang', 'ber-'],
-    ['menulis', 'tulis', 'me-'],
+    ['bertang', 'tang', 'ber'],
+    ['menulis', 'tulis', 'me'],
   ],
 }))
 

@@ -14,7 +14,7 @@
   // the row only appears when nobody has looked at the slot yet.
   const mechanicalRow = $derived.by(() => {
     if (!searched?.via) return null
-    const affix = affixes.find(a => a.label === searched.via)
+    const affix = affixes.find(a => a.id === searched.via)
     if (!affix || wordAnnotations[affix.id]) return null
     return { affix, form: searched.form, state: 'mechanical', gloss: '' }
   })

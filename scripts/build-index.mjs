@@ -1,7 +1,7 @@
 /**
  * Pre-builds the search index from words.json + affixes.json.
  * Run with: npm run build:index
- * Output: data/search-index.json — a sorted array of [form, root, affixLabel|null]
+ * Output: data/search-index.json — a sorted array of [form, root, affixId|null]
  */
 import { readFileSync, writeFileSync } from 'fs'
 import { fileURLToPath, pathToFileURL } from 'url'
@@ -20,7 +20,8 @@ export function buildIndex({ words, affixes, annotations, rules }) {
   // unrelated root).
   const rootWords = new Set(words.map(w => w.root))
 
-  // Entries are [form, root, affixLabel|null] with a trailing 1 appended to
+  // Entries are [form, root, affixId|null] with a trailing 1 appended to
+  // (ids, not display labels, so renaming a label in affixes.json is safe);
   // "verified" entries: root self-entries and slots annotated state "valid".
   // The flag is sparse (only ~6% of entries carry it) to keep the generated
   // file small; a missing flag means the form was mechanically derived from
@@ -28,11 +29,11 @@ export function buildIndex({ words, affixes, annotations, rules }) {
   const entries = []
   const seen = new Set()
 
-  function add(form, root, label, verified) {
+  function add(form, root, affixId, verified) {
     const key = form + '\0' + root
     if (!seen.has(key)) {
       seen.add(key)
-      entries.push(verified ? [form, root, label, 1] : [form, root, label])
+      entries.push(verified ? [form, root, affixId, 1] : [form, root, affixId])
     }
   }
 
@@ -54,13 +55,13 @@ export function buildIndex({ words, affixes, annotations, rules }) {
       // 173 curated slots from search entirely (#52/#56).
       if (rootWords.has(form) && !verified) continue
 
-      add(form, word.root, affix.label, verified)
+      add(form, word.root, affix.id, verified)
     }
   }
 
   // Within a form: verified entries before unverified ones (the search UI's
   // prefix scan surfaces curated derivations first), and a root's own entry
-  // (null label) before derived readings of the same surface string.
+  // (null affix id) before derived readings of the same surface string.
   entries.sort(
     (a, b) =>
       a[0].localeCompare(b[0]) ||

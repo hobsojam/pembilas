@@ -55,7 +55,7 @@ describe('AffixTable', () => {
       render(AffixTable, {
         root: 'tang',
         annotations: {},
-        searched: { form: 'bertang', via: 'ber-' },
+        searched: { form: 'bertang', via: 'ber' },
       })
       expect(screen.getByText('bertang')).toBeInTheDocument()
       expect(screen.getByText('mechanically derived — not yet reviewed')).toBeInTheDocument()
@@ -66,7 +66,7 @@ describe('AffixTable', () => {
       render(AffixTable, {
         root: 'tulis',
         annotations,
-        searched: { form: 'menulis', via: 'me-' },
+        searched: { form: 'menulis', via: 'me' },
       })
       expect(screen.getAllByText('menulis')).toHaveLength(1)
       expect(screen.queryByText(/not yet reviewed/)).not.toBeInTheDocument()

@@ -1,5 +1,10 @@
 <script>
+  import { affixes } from '../lib/affixEngine.js'
+
   let { words, onSelect } = $props()
+
+  // The index stores affix ids (stable join keys); labels are display-only.
+  const affixLabels = new Map(affixes.map(a => [a.id, a.label]))
 
   // The search index is ~5.7MB of JSON -- by far the biggest single
   // contributor to the JS bundle -- and isn't needed until the user starts
@@ -139,7 +144,7 @@
         >
           <span class="root">{r.root}</span>
           {#if r.via}
-            <span class="via">via {r.via}</span>
+            <span class="via">via {affixLabels.get(r.via) ?? r.via}</span>
           {/if}
           {#if r.ambiguous}
             <span class="unverified">· unverified</span>

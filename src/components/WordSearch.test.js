@@ -11,11 +11,11 @@ vi.mock('../../data/search-index.json', () => ({
     // "bertangan" is the #48 collision shape: a verified derivation of
     // "tangan" and an unverified mechanical one from "tang", sorted
     // verified-first like the real index.
-    ['bertangan', 'tangan', 'ber-', 1],
-    ['bertangan', 'tang', 'ber-...-an'],
+    ['bertangan', 'tangan', 'ber', 1],
+    ['bertangan', 'tang', 'ber_an'],
     // mechanically derived, un-annotated, and no verified collision
-    ['menang', 'tang', 'me-'],
-    ['menulis', 'tulis', 'me-', 1],
+    ['menang', 'tang', 'me'],
+    ['menulis', 'tulis', 'me', 1],
     ['tang', 'tang', null, 1],
     ['tangan', 'tangan', null, 1],
     ['tulis', 'tulis', null, 1],
@@ -64,7 +64,7 @@ describe('WordSearch', () => {
     const option = await screen.findByRole('option', { name: /tulis/ }, { timeout: 3000 })
     await fireEvent.click(option)
 
-    expect(onSelect).toHaveBeenCalledWith('tulis', { form: 'menulis', via: 'me-' })
+    expect(onSelect).toHaveBeenCalledWith('tulis', { form: 'menulis', via: 'me' })
     expect(screen.queryByRole('listbox')).not.toBeInTheDocument()
     expect(input).toHaveValue('tulis')
   })
@@ -160,7 +160,7 @@ describe('WordSearch', () => {
       await fireEvent.keyDown(input, { key: 'ArrowDown' })
       await fireEvent.keyDown(input, { key: 'Enter' })
 
-      expect(onSelect).toHaveBeenCalledWith('tulis', { form: 'menulis', via: 'me-' })
+      expect(onSelect).toHaveBeenCalledWith('tulis', { form: 'menulis', via: 'me' })
       expect(screen.queryByRole('listbox')).not.toBeInTheDocument()
     })
 
