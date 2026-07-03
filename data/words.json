@@ -7700,6 +7700,11 @@
       "gloss": "wholesale"
     },
     {
+      "root": "boros",
+      "pos": "word",
+      "gloss": "wasteful"
+    },
+    {
       "root": "borsch",
       "pos": "word",
       "gloss": "borscht"
@@ -9020,6 +9025,11 @@
       "gloss": "cicero"
     },
     {
+      "root": "cicil",
+      "pos": "word",
+      "gloss": "pay in installments"
+    },
+    {
       "root": "cicilan",
       "pos": "word",
       "gloss": "installment"
@@ -9323,6 +9333,11 @@
       "root": "daftar",
       "pos": "word",
       "gloss": "list, register"
+    },
+    {
+      "root": "dagang",
+      "pos": "word",
+      "gloss": "trade, commerce"
     },
     {
       "root": "daging",
@@ -11287,7 +11302,7 @@
     {
       "root": "duit",
       "pos": "word",
-      "gloss": "doit"
+      "gloss": "(colloq.) money, cash"
     },
     {
       "root": "duka",
@@ -15705,6 +15720,11 @@
       "gloss": "helsinki"
     },
     {
+      "root": "hemat",
+      "pos": "word",
+      "gloss": "thrifty, economical"
+    },
+    {
       "root": "hematologi",
       "pos": "word",
       "gloss": "haematology"
@@ -19878,6 +19898,11 @@
       "root": "kasula",
       "pos": "word",
       "gloss": "chasuble"
+    },
+    {
+      "root": "kasur",
+      "pos": "word",
+      "gloss": "mattress"
     },
     {
       "root": "kasyidah",
@@ -24870,6 +24895,11 @@
       "gloss": "exchange rate"
     },
     {
+      "root": "kursi",
+      "pos": "word",
+      "gloss": "chair, seat"
+    },
+    {
       "root": "kursif",
       "pos": "adjective",
       "gloss": "cursive, italic"
@@ -24973,6 +25003,11 @@
       "root": "kyoto",
       "pos": "word",
       "gloss": "kyoto"
+    },
+    {
+      "root": "laba",
+      "pos": "word",
+      "gloss": "profit (financial)"
     },
     {
       "root": "labial",
@@ -31213,6 +31248,11 @@
       "root": "nila",
       "pos": "word",
       "gloss": "indigo"
+    },
+    {
+      "root": "nilai",
+      "pos": "word",
+      "gloss": "value, grade, mark"
     },
     {
       "root": "nilam",
@@ -38965,6 +39005,11 @@
       "gloss": "rudimentary"
     },
     {
+      "root": "rugi",
+      "pos": "word",
+      "gloss": "loss"
+    },
+    {
       "root": "ruh",
       "pos": "word",
       "gloss": "soul, spirit"
@@ -42982,7 +43027,7 @@
     {
       "root": "tabung",
       "pos": "word",
-      "gloss": "tube"
+      "gloss": "tube, canister, piggy bank"
     },
     {
       "root": "tabur",
@@ -45955,6 +46000,11 @@
       "gloss": "for"
     },
     {
+      "root": "untung",
+      "pos": "word",
+      "gloss": "profit, luck"
+    },
+    {
       "root": "untungnya",
       "pos": "adverb",
       "gloss": "fortunately"
@@ -45973,6 +46023,11 @@
       "root": "upafamili",
       "pos": "word",
       "gloss": "subfamily"
+    },
+    {
+      "root": "upah",
+      "pos": "word",
+      "gloss": "wage, fee"
     },
     {
       "root": "upaspesies",
@@ -46052,7 +46107,7 @@
     {
       "root": "usaha",
       "pos": "word",
-      "gloss": "company"
+      "gloss": "effort, endeavor, business"
     },
     {
       "root": "usang",
@@ -46092,7 +46147,7 @@
     {
       "root": "utang",
       "pos": "word",
-      "gloss": "debt"
+      "gloss": "debt (also spelled hutang)"
     },
     {
       "root": "utara",
