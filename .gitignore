@@ -4,3 +4,5 @@ coverage/
 .DS_Store
 .playwright-mcp/
 data/search-index.json
+test-results/
+playwright-report/
