@@ -10768,5 +10768,452 @@
       "state": "valid",
       "gloss": "to be covered, traversed (passive)"
     }
+  },
+  "ada": {
+    "lah": {
+      "state": "valid",
+      "gloss": "is, are (the copula: A adalah B)",
+      "notes": "lexicalized from ada + -lah into the everyday copula"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to hold, organize (an event); to bring about (mengadakan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "situation, condition, state (keadaan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to be (located) at; well-off (orang berada)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the existence of; as it is (apa adanya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "procurement (pengadaan barang)"
+    },
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "seadanya (as-is, whatever is available) stacks se- + -nya, which single-affix slots don't model"
+    }
+  },
+  "jadi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to become, to be (menjadi)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "to happen, occur (terjadi)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "event, incident, occurrence (kejadian)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to make (something) into, to turn into (menjadikan)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "the passive is dijadikan (di-...-kan, not a modeled slot)"
+    }
+  },
+  "orang": {
+    "se": {
+      "state": "valid",
+      "gloss": "one (person); a (classifier for people: seorang guru)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "individual, personal (perorangan)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "orang-orangan (scarecrow, dummy) is reduplication, which isn't modeled"
+    }
+  },
+  "laku": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to do, perform, carry out (melakukan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "do (it)! (lakukan — imperative of melakukan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to apply, be in effect; to behave (berlaku)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "perpetrator; doer, actor (pelaku)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "behavior, conduct (kelakuan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "treatment (perlakuan)"
+    }
+  },
+  "kali": {
+    "se": {
+      "state": "valid",
+      "gloss": "once; very (bagus sekali = very good)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "…th time (untuk pertama kalinya = for the first time)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "kalian (you all) is a pronoun, not kali + -an"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "only the reduplicated berkali-kali (repeatedly) is used; reduplication isn't modeled"
+    }
+  },
+  "lalu": {
+    "se": {
+      "state": "valid",
+      "gloss": "always (selalu)",
+      "notes": "lexicalized; learners should treat selalu as its own word"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "too, excessively (terlalu)",
+      "notes": "lexicalized; not the accidental-passive ter-"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "through, via; to pass through (melalui)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to pass, go by (time: waktu berlalu)"
+    }
+  },
+  "punya": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to have, possess (mempunyai)",
+      "form": "mempunyai",
+      "notes": "irregular: the p is retained after the nasal (the rule would give memunyai)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "possession, belonging (kepunyaan)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "punyaan is colloquial at best"
+    }
+  },
+  "mungkin": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to make possible, enable (memungkinkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "possibility, likelihood (kemungkinan)"
+    }
+  },
+  "satu": {
+    "ber": {
+      "state": "valid",
+      "gloss": "united; to unite (bersatu)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "unity; a unit (kesatuan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "union, association (persatuan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to unite, bring together (menyatukan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "unit of measure (satuan)"
+    }
+  },
+  "banyak": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "most (of), the majority; too many (kebanyakan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as many as, as much as, totalling (sebanyak)"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "increasing something is memperbanyak (memper-, not a modeled affix)"
+    }
+  },
+  "lain": {
+    "se": {
+      "state": "valid",
+      "gloss": "besides, apart from (selain)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the others, the rest (lainnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "but rather (melainkan — conjunction after a negation)",
+      "notes": "lexicalized into a conjunction"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "abnormality, disorder (kelainan)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "different, differing (berlainan)"
+    }
+  },
+  "kasih": {
+    "ke": {
+      "state": "valid",
+      "gloss": "beloved, sweetheart (kekasih)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "pity; poor thing! (kasihan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to love (mengasihi)",
+      "notes": "terima kasih (thank you) is a fixed phrase, not an affix form"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "loving, affectionate (Yang Maha Pengasih)"
+    }
+  },
+  "maaf": {
+    "kan": {
+      "state": "valid",
+      "gloss": "forgive (me)! (maafkan — imperative)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to forgive (memaafkan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "forgiving (person) (pemaaf)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "the passive is dimaafkan (di-...-kan, not a modeled slot)"
+    }
+  },
+  "bunuh": {
+    "me": {
+      "state": "valid",
+      "gloss": "to kill (membunuh)",
+      "notes": "bunuh diri (suicide) is a fixed phrase"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be killed (dibunuh)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "killer, murderer (pembunuh)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "murder, killing (pembunuhan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "killed (terbunuh)"
+    }
+  },
+  "beri": {
+    "me": {
+      "state": "valid",
+      "gloss": "to give (memberi)",
+      "notes": "beri tahu / memberitahu (to inform) is a compound"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to give (something to someone) (memberikan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "give (it)! (berikan — imperative)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be given (diberi)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a gift; the act of giving (pemberian)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "giver, donor (pemberi)"
+    }
+  },
+  "sendiri": {
+    "an": {
+      "state": "valid",
+      "gloss": "alone, by oneself (sendirian)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "separate, of its own; distinctive (tersendiri)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to withdraw, keep to oneself (menyendiri)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "solitude, loneliness (kesendirian)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "(dengan) sendirinya = by itself, automatically"
+    }
+  },
+  "selamat": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to save, rescue (menyelamatkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "safety; salvation (keselamatan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "savior, rescuer (penyelamat)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "rescue (operation) (penyelamatan)"
+    }
+  },
+  "pasti": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to make sure, ensure, confirm (memastikan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "make sure! (pastikan — imperative)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "certainty (kepastian)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "the passive is dipastikan (di-...-kan, not a modeled slot)"
+    }
+  },
+  "henti": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to stop, halt; to quit (berhenti)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to stop (something) (menghentikan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "stop (it)! (hentikan — imperative)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a stop (perhentian bus = bus stop)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "came to a halt, stopped short (terhenti)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "hentian is Malay; Indonesian uses perhentian"
+    }
+  },
+  "akhir": {
+    "ter": {
+      "state": "valid",
+      "gloss": "last, final; most recent (terakhir)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to end, come to an end (berakhir)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to end (something), conclude (mengakhiri)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "suffix (linguistics); an ending (akhiran)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "finally, in the end (akhirnya)"
+    }
+  },
+  "katak": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): katakan (say!) is kata + -kan; katak (frog) doesn't take -kan"
+    }
+  },
+  "karang": {
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): sekarang (now) is fully lexicalized, not se- + karang"
+    }
+  },
+  "tetap": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): tetapi (but) is a lexicalized conjunction, not tetap + -i"
+    }
+  },
+  "ikan": {
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): berikan (give!) is beri + -kan; ikan (fish) has no ber- form"
+    }
   }
 }

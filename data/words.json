@@ -347,7 +347,7 @@
     {
       "root": "ada",
       "pos": "word",
-      "gloss": "be, being, there be"
+      "gloss": "there is, exist"
     },
     {
       "root": "adam",
@@ -6527,7 +6527,7 @@
     {
       "root": "beri",
       "pos": "word",
-      "gloss": "berry, give"
+      "gloss": "give"
     },
     {
       "root": "berikut",
@@ -19027,7 +19027,7 @@
     {
       "root": "kali",
       "pos": "word",
-      "gloss": "times"
+      "gloss": "time, instance; (colloq.) river"
     },
     {
       "root": "kalibrasi",
@@ -25157,7 +25157,7 @@
     {
       "root": "laku",
       "pos": "word",
-      "gloss": "act"
+      "gloss": "conduct, behavior; salable"
     },
     {
       "root": "lakuran",
@@ -25177,7 +25177,7 @@
     {
       "root": "lalu",
       "pos": "adverb",
-      "gloss": "then"
+      "gloss": "then; past, last (bulan lalu)"
     },
     {
       "root": "lama",
@@ -26632,7 +26632,7 @@
     {
       "root": "maaf",
       "pos": "word",
-      "gloss": "apology, sorry, sorry, we don't accept credit cards"
+      "gloss": "sorry; forgiveness"
     },
     {
       "root": "mabes",
@@ -33327,7 +33327,7 @@
     {
       "root": "pasti",
       "pos": "word",
-      "gloss": "have to"
+      "gloss": "certain, sure"
     },
     {
       "root": "pastiles",
@@ -40172,7 +40172,7 @@
     {
       "root": "selamat",
       "pos": "word",
-      "gloss": "congratulations"
+      "gloss": "safe; congratulations"
     },
     {
       "root": "selang",
