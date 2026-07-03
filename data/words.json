@@ -510,6 +510,11 @@
       "gloss": "5w1h"
     },
     {
+      "root": "adil",
+      "pos": "word",
+      "gloss": "fair, just"
+    },
+    {
       "root": "adinamia",
       "pos": "word",
       "gloss": "adynamia"
@@ -2938,6 +2943,11 @@
       "root": "antagonisme",
       "pos": "word",
       "gloss": "antagonism"
+    },
+    {
+      "root": "antar",
+      "pos": "word",
+      "gloss": "deliver, escort"
     },
     {
       "root": "antara",
@@ -8540,6 +8550,11 @@
       "gloss": "measles"
     },
     {
+      "root": "campur",
+      "pos": "word",
+      "gloss": "mix"
+    },
+    {
       "root": "campuran",
       "pos": "word",
       "gloss": "hybrid"
@@ -13725,6 +13740,11 @@
       "gloss": "gabon"
     },
     {
+      "root": "gabung",
+      "pos": "word",
+      "gloss": "join, combine"
+    },
+    {
       "root": "gabungan",
       "pos": "word",
       "gloss": "assemblage, union"
@@ -14240,6 +14260,11 @@
       "gloss": "lesser yam"
     },
     {
+      "root": "gembira",
+      "pos": "word",
+      "gloss": "happy, joyful"
+    },
+    {
       "root": "gembleng",
       "pos": "word",
       "gloss": "train"
@@ -14263,6 +14288,11 @@
       "root": "gemilang",
       "pos": "adjective",
       "gloss": "glorious"
+    },
+    {
+      "root": "gempa",
+      "pos": "word",
+      "gloss": "quake, earthquake"
     },
     {
       "root": "gemuk",
@@ -14448,6 +14478,11 @@
       "root": "gerai",
       "pos": "word",
       "gloss": "booth"
+    },
+    {
+      "root": "gerak",
+      "pos": "word",
+      "gloss": "move, motion"
     },
     {
       "root": "gerakan",
@@ -15100,6 +15135,11 @@
       "gloss": "dune"
     },
     {
+      "root": "guna",
+      "pos": "word",
+      "gloss": "use, benefit"
+    },
+    {
       "root": "guncang",
       "pos": "word",
       "gloss": "shake"
@@ -15748,6 +15788,11 @@
       "root": "heptana",
       "pos": "word",
       "gloss": "heptane"
+    },
+    {
+      "root": "heran",
+      "pos": "word",
+      "gloss": "surprised, puzzled"
     },
     {
       "root": "herba",
@@ -16905,6 +16950,11 @@
       "gloss": "host"
     },
     {
+      "root": "indah",
+      "pos": "word",
+      "gloss": "beautiful"
+    },
+    {
       "root": "indekos",
       "pos": "word",
       "gloss": "lodging"
@@ -17705,6 +17755,11 @@
       "gloss": "isfahan"
     },
     {
+      "root": "isi",
+      "pos": "word",
+      "gloss": "contents, fill"
+    },
+    {
       "root": "isian",
       "pos": "word",
       "gloss": "blank"
@@ -18265,6 +18320,11 @@
       "gloss": "commoner"
     },
     {
+      "root": "jelek",
+      "pos": "word",
+      "gloss": "bad, ugly"
+    },
+    {
       "root": "jemaah",
       "pos": "word",
       "gloss": "congregation"
@@ -18813,6 +18873,11 @@
       "root": "kaget",
       "pos": "adjective",
       "gloss": "frightened"
+    },
+    {
+      "root": "kagum",
+      "pos": "word",
+      "gloss": "amazed, admiring"
     },
     {
       "root": "kailan",
@@ -20600,6 +20665,11 @@
       "gloss": "championship"
     },
     {
+      "root": "kejut",
+      "pos": "word",
+      "gloss": "startle, shock"
+    },
+    {
       "root": "kejutan",
       "pos": "word",
       "gloss": "shock, surprise, surprisingly"
@@ -20885,6 +20955,11 @@
       "gloss": "kelpie"
     },
     {
+      "root": "keluar",
+      "pos": "word",
+      "gloss": "go out, exit"
+    },
+    {
       "root": "keluarga",
       "pos": "word",
       "gloss": "family"
@@ -20973,6 +21048,11 @@
       "root": "kemauan",
       "pos": "word",
       "gloss": "volition"
+    },
+    {
+      "root": "kembali",
+      "pos": "word",
+      "gloss": "return, again"
     },
     {
       "root": "kembang",
@@ -21648,6 +21728,11 @@
       "root": "kesaksian",
       "pos": "word",
       "gloss": "testimony"
+    },
+    {
+      "root": "kesal",
+      "pos": "word",
+      "gloss": "annoyed, irritated"
     },
     {
       "root": "kesalahan",
@@ -25165,6 +25250,11 @@
       "gloss": "leaf monkey"
     },
     {
+      "root": "lanjut",
+      "pos": "word",
+      "gloss": "continue, advanced"
+    },
+    {
       "root": "lanset",
       "pos": "word",
       "gloss": "lancet"
@@ -25668,6 +25758,11 @@
       "root": "leo",
       "pos": "word",
       "gloss": "leo"
+    },
+    {
+      "root": "lepas",
+      "pos": "word",
+      "gloss": "loose, free, released"
     },
     {
       "root": "lereng",
@@ -26325,6 +26420,11 @@
       "gloss": "exit, outer"
     },
     {
+      "root": "luas",
+      "pos": "word",
+      "gloss": "wide, broad, spacious"
+    },
+    {
       "root": "lubang",
       "pos": "word",
       "gloss": "hole, pit"
@@ -26668,6 +26768,11 @@
       "root": "mahyong",
       "pos": "word",
       "gloss": "mahjong"
+    },
+    {
+      "root": "main",
+      "pos": "word",
+      "gloss": "play"
     },
     {
       "root": "mainad",
@@ -31435,6 +31540,11 @@
       "gloss": "om nom nom"
     },
     {
+      "root": "nyaman",
+      "pos": "word",
+      "gloss": "comfortable"
+    },
+    {
       "root": "nyamplung",
       "pos": "word",
       "gloss": "tamanu"
@@ -32310,6 +32420,11 @@
       "gloss": "sculpture"
     },
     {
+      "root": "pahit",
+      "pos": "word",
+      "gloss": "bitter"
+    },
+    {
       "root": "pahlawan",
       "pos": "word",
       "gloss": "hero"
@@ -32550,6 +32665,11 @@
       "gloss": "panda"
     },
     {
+      "root": "pandai",
+      "pos": "word",
+      "gloss": "clever, skilled"
+    },
+    {
       "root": "pandan",
       "pos": "word",
       "gloss": "screw pine"
@@ -32598,6 +32718,11 @@
       "root": "pangeran",
       "pos": "word",
       "gloss": "prince"
+    },
+    {
+      "root": "panggil",
+      "pos": "word",
+      "gloss": "call, summon"
     },
     {
       "root": "panggilan",
@@ -33420,6 +33545,11 @@
       "gloss": "pawnbroker"
     },
     {
+      "root": "pegang",
+      "pos": "word",
+      "gloss": "hold, grip"
+    },
+    {
       "root": "pegangan",
       "pos": "word",
       "gloss": "handle"
@@ -34135,6 +34265,11 @@
       "gloss": "income, revenue"
     },
     {
+      "root": "pendek",
+      "pos": "word",
+      "gloss": "short"
+    },
+    {
       "root": "pendekar",
       "pos": "word",
       "gloss": "warrior"
@@ -34663,6 +34798,11 @@
       "root": "pentil",
       "pos": "word",
       "gloss": "nipple"
+    },
+    {
+      "root": "penting",
+      "pos": "word",
+      "gloss": "important"
     },
     {
       "root": "pentungan",
@@ -35880,6 +36020,11 @@
       "gloss": "cold, common cold, rheum"
     },
     {
+      "root": "pilih",
+      "pos": "word",
+      "gloss": "choose, select"
+    },
+    {
       "root": "pilihan",
       "pos": "word",
       "gloss": "option, select"
@@ -36048,6 +36193,11 @@
       "root": "pirus",
       "pos": "word",
       "gloss": "turquoise"
+    },
+    {
+      "root": "pisah",
+      "pos": "word",
+      "gloss": "separate"
     },
     {
       "root": "pisang",
@@ -37285,6 +37435,11 @@
       "gloss": "hit, punch"
     },
     {
+      "root": "pulang",
+      "pos": "word",
+      "gloss": "go home, return"
+    },
+    {
       "root": "pulau",
       "pos": "word",
       "gloss": "island"
@@ -37703,6 +37858,11 @@
       "root": "ramah",
       "pos": "adjective",
       "gloss": "friendly"
+    },
+    {
+      "root": "ramai",
+      "pos": "word",
+      "gloss": "crowded, lively"
     },
     {
       "root": "ramal",
@@ -38240,6 +38400,11 @@
       "gloss": "plan"
     },
     {
+      "root": "rendah",
+      "pos": "word",
+      "gloss": "low"
+    },
+    {
       "root": "rengekan",
       "pos": "word",
       "gloss": "whine"
@@ -38538,6 +38703,11 @@
       "root": "rinci",
       "pos": "word",
       "gloss": "detail"
+    },
+    {
+      "root": "rindu",
+      "pos": "word",
+      "gloss": "longing, missing (someone)"
     },
     {
       "root": "ringan",
@@ -39695,6 +39865,11 @@
       "gloss": "necessarily"
     },
     {
+      "root": "sehat",
+      "pos": "word",
+      "gloss": "healthy"
+    },
+    {
       "root": "seimbang",
       "pos": "word",
       "gloss": "balance"
@@ -40440,6 +40615,11 @@
       "gloss": "as, like"
     },
     {
+      "root": "sepi",
+      "pos": "word",
+      "gloss": "quiet, deserted"
+    },
+    {
       "root": "sepsis",
       "pos": "word",
       "gloss": "sepsis"
@@ -40798,6 +40978,11 @@
       "root": "sibori",
       "pos": "word",
       "gloss": "ciborium"
+    },
+    {
+      "root": "sibuk",
+      "pos": "word",
+      "gloss": "busy"
     },
     {
       "root": "sidon",
@@ -42565,9 +42750,19 @@
       "gloss": "surplice"
     },
     {
+      "root": "suruh",
+      "pos": "word",
+      "gloss": "order, tell (someone to do)"
+    },
+    {
       "root": "survei",
       "pos": "word",
       "gloss": "survey"
+    },
+    {
+      "root": "susah",
+      "pos": "word",
+      "gloss": "difficult, troubled"
     },
     {
       "root": "sushi",
@@ -42855,6 +43050,11 @@
       "gloss": "invoice"
     },
     {
+      "root": "tahan",
+      "pos": "word",
+      "gloss": "withstand, endure, detain"
+    },
+    {
       "root": "tahanan",
       "pos": "word",
       "gloss": "prisoner"
@@ -43075,6 +43275,11 @@
       "gloss": "shield"
     },
     {
+      "root": "tampan",
+      "pos": "word",
+      "gloss": "handsome"
+    },
+    {
       "root": "tamparan",
       "pos": "word",
       "gloss": "slap"
@@ -43283,6 +43488,11 @@
       "root": "tari",
       "pos": "word",
       "gloss": "dance"
+    },
+    {
+      "root": "tarik",
+      "pos": "word",
+      "gloss": "pull, draw"
     },
     {
       "root": "taring",
@@ -43915,6 +44125,11 @@
       "gloss": "terabit"
     },
     {
+      "root": "terang",
+      "pos": "word",
+      "gloss": "bright, clear"
+    },
+    {
       "root": "terapeutik",
       "pos": "adjective",
       "gloss": "therapeutic"
@@ -43978,6 +44193,16 @@
       "root": "terhadap",
       "pos": "word",
       "gloss": "toward"
+    },
+    {
+      "root": "teriak",
+      "pos": "word",
+      "gloss": "shout, scream"
+    },
+    {
+      "root": "terima",
+      "pos": "word",
+      "gloss": "receive, accept"
     },
     {
       "root": "teripang",
@@ -44385,6 +44610,11 @@
       "gloss": "lead"
     },
     {
+      "root": "timbang",
+      "pos": "word",
+      "gloss": "weigh, consider"
+    },
+    {
       "root": "timbangan",
       "pos": "word",
       "gloss": "scales"
@@ -44638,6 +44868,11 @@
       "root": "tolol",
       "pos": "word",
       "gloss": "sucker"
+    },
+    {
+      "root": "tolong",
+      "pos": "word",
+      "gloss": "help"
     },
     {
       "root": "tomas",
@@ -45235,6 +45470,11 @@
       "gloss": "craftsman"
     },
     {
+      "root": "tukar",
+      "pos": "word",
+      "gloss": "exchange, swap"
+    },
+    {
       "root": "tulang",
       "pos": "word",
       "gloss": "bone"
@@ -45328,6 +45568,11 @@
       "root": "tunggangan",
       "pos": "word",
       "gloss": "mount"
+    },
+    {
+      "root": "tunggu",
+      "pos": "word",
+      "gloss": "wait"
     },
     {
       "root": "tunis",
@@ -45518,6 +45763,11 @@
       "root": "ukur",
       "pos": "word",
       "gloss": "measure"
+    },
+    {
+      "root": "ulang",
+      "pos": "word",
+      "gloss": "repeat"
     },
     {
       "root": "ulangan",
@@ -46318,6 +46568,11 @@
       "root": "wanaboga",
       "pos": "word",
       "gloss": "forest gardening"
+    },
+    {
+      "root": "wangi",
+      "pos": "word",
+      "gloss": "fragrant"
     },
     {
       "root": "wangsa",

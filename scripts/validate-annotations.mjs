@@ -18,6 +18,12 @@
  *     in the UI -- e.g. explaining why a slot is unused despite looking
  *     plausible) is a non-empty string when present. Unlike `form`, it's
  *     allowed on both "valid" and "unused" entries.
+ *
+ * Plus, per issue #56:
+ *   - every annotated root must exist in data/words.json. Search and word
+ *     pages both start from words.json, so an annotation on a missing root
+ *     is unreachable everywhere in the app (51 roots from early batches
+ *     were silently inert this way).
  */
 import { readFileSync } from 'fs'
 import { fileURLToPath, pathToFileURL } from 'url'
@@ -25,10 +31,14 @@ import { dirname, join } from 'path'
 
 const VALID_STATES = new Set(['valid', 'unused'])
 
-export function validateAnnotations(annotations, knownAffixIds) {
+export function validateAnnotations(annotations, knownAffixIds, knownRoots) {
   const errors = []
 
   for (const [word, entries] of Object.entries(annotations)) {
+    if (knownRoots && !knownRoots.has(word)) {
+      errors.push(`${word}: annotated root is not in data/words.json, so its annotations are unreachable in the app (#56)`)
+    }
+
     for (const [affixId, entry] of Object.entries(entries)) {
       const where = `${word}.${affixId}`
 
@@ -78,7 +88,10 @@ function main() {
   const affixData = JSON.parse(readFileSync(join(root, 'data/affixes.json'), 'utf8'))
   const knownAffixIds = new Set(affixData.affixes.map(a => a.id))
 
-  const errors = validateAnnotations(annotations, knownAffixIds)
+  const wordsData = JSON.parse(readFileSync(join(root, 'data/words.json'), 'utf8'))
+  const knownRoots = new Set(wordsData.words.map(w => w.root))
+
+  const errors = validateAnnotations(annotations, knownAffixIds, knownRoots)
 
   if (errors.length > 0) {
     console.error(`data/annotations.json failed validation (${errors.length} issue(s)):`)
