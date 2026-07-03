@@ -5,12 +5,12 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "node scripts/build-index.mjs && vite",
+    "build": "node scripts/build-index.mjs && vite build",
     "preview": "vite preview",
     "build:index": "node scripts/build-index.mjs",
-    "test": "vitest run",
-    "coverage": "vitest run --coverage",
+    "test": "node scripts/build-index.mjs && vitest run",
+    "coverage": "node scripts/build-index.mjs && vitest run --coverage",
     "lint": "eslint .",
     "validate:data": "node scripts/validate-annotations.mjs"
   },

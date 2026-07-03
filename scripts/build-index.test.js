@@ -42,7 +42,7 @@ describe('buildIndex', () => {
     }
     const entries = buildIndex({ words, affixes, annotations, rules })
 
-    expect(entries).toContainEqual(['pegunungan', 'gunung', 'pe-...-an', 1])
+    expect(entries).toContainEqual(['pegunungan', 'gunung', 'pe_an', 1])
     // The algorithmic (wrong) nasal-assimilated form must not sneak in too.
     expect(entries.some(([form]) => form === 'penggunungan')).toBe(false)
   })
@@ -50,7 +50,7 @@ describe('buildIndex', () => {
   it('skips slots marked unused', () => {
     const annotations = { tulis: { me: { state: 'unused', gloss: '' } } }
     const entries = buildIndex({ words, affixes, annotations, rules })
-    expect(entries.some(([, root, label]) => root === 'tulis' && label === 'me-')).toBe(false)
+    expect(entries.some(([, root, affixId]) => root === 'tulis' && affixId === 'me')).toBe(false)
   })
 
   it("always includes each word's own root with a null label, marked verified", () => {
@@ -78,7 +78,7 @@ describe('buildIndex', () => {
       // The headword's own entry ranks first, the curated derived reading follows.
       expect(entries.filter(([form]) => form === 'membeli')).toEqual([
         ['membeli', 'membeli', null, 1],
-        ['membeli', 'beli', 'me-', 1],
+        ['membeli', 'beli', 'me', 1],
       ])
     })
   })
@@ -88,9 +88,9 @@ describe('buildIndex', () => {
       const annotations = { tulis: { me: { state: 'valid', gloss: 'to write' } } }
       const entries = buildIndex({ words, affixes, annotations, rules })
 
-      expect(entries).toContainEqual(['menulis', 'tulis', 'me-', 1])
+      expect(entries).toContainEqual(['menulis', 'tulis', 'me', 1])
       // gunung.me was never annotated -- mechanically derived, 3 elements only
-      expect(entries).toContainEqual(['menggunung', 'gunung', 'me-'])
+      expect(entries).toContainEqual(['menggunung', 'gunung', 'me'])
     })
 
     it('sorts a verified entry before an unverified one with the same form', () => {
@@ -106,8 +106,8 @@ describe('buildIndex', () => {
       }).filter(([form]) => form === 'mengotak')
 
       expect(collided).toEqual([
-        ['mengotak', 'otak', 'me-', 1],
-        ['mengotak', 'kotak', 'me-'],
+        ['mengotak', 'otak', 'me', 1],
+        ['mengotak', 'kotak', 'me'],
       ])
     })
   })
