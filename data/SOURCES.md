@@ -21,6 +21,8 @@ The data was inverted (English→Indonesian to Indonesian→English) and reforma
 
 The script only rewrites glosses that still byte-match the naive inversion — hand-curated glosses are never overwritten. Roots added by annotation batches (with hand-written glosses) are not part of the inversion at all.
 
+That byte-match check only protects the *gloss* field. A root a human explicitly un-tagged from `pos: "proper"` back to `"word"` (because the mechanical classification was wrong, e.g. `ulangan` — its only inversion source is "Deuteronomy" the Bible book, but its real everyday meaning is "test/exam") would otherwise be silently re-tagged proper on the next run. `scripts/extract-dict.py`'s `MANUAL_POS_OVERRIDES` dict is the explicit, documented denylist that protects those decisions (issue #52) — add an entry there whenever a PR hand-overrides what this script would otherwise produce.
+
 ## frequency-id-50k.txt
 
 **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

@@ -72,6 +72,24 @@ describe('buildIndex', () => {
     expect(entries).toContainEqual(['menulis', 'tulis', 'me'])
   })
 
+  it('gives derived-form headword roots a self-entry but no affix derivations of their own (#52)', () => {
+    // "berteriak" is teriak + ber- sitting in words.json as its own root;
+    // pos:"derived" stops it from also generating e.g. "berteriakan" of
+    // its own, without affecting the real teriak.ber annotation.
+    const entries = buildIndex({
+      words: [{ root: 'berteriak', pos: 'derived' }, { root: 'teriak', pos: 'word' }],
+      affixes: [{ id: 'ber', label: 'ber-' }, { id: 'an', label: '-an' }],
+      annotations: { teriak: { ber: { state: 'valid', gloss: 'to shout' } } },
+      rules,
+    })
+    expect(entries).toContainEqual(['berteriak', 'berteriak', null, 1])
+    expect(entries.filter(([, root]) => root === 'berteriak')).toHaveLength(1)
+    // the real annotation on teriak.ber still produces berteriak alongside the headword
+    expect(entries).toContainEqual(['berteriak', 'teriak', 'ber', 1])
+    // but berteriak itself never generates berteriakan
+    expect(entries.some(([form]) => form === 'berteriakan')).toBe(false)
+  })
+
   describe('headword collisions (#52)', () => {
     // "beli" + me- mechanically derives "membeli"; make "membeli" itself a
     // headword to simulate the derived-form-as-root noise from #52.
