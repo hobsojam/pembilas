@@ -19,7 +19,15 @@ Roots whose *only* sources are proper-noun headwords get pos "proper"
 (issue #62); everything else keeps pos "word".
 
 Only glosses that still byte-match the naive inversion are rewritten:
-every hand-curated or hand-added gloss is left untouched.
+every hand-curated or hand-added gloss is left untouched. That safety
+check only covers the *gloss* field, though -- a root a human explicitly
+un-tagged from pos:"proper" back to pos:"word" (because the mechanical
+proper-noun classification was wrong for it, e.g. ulangan, whose only
+inversion source is "Deuteronomy" the Bible book, but whose real
+everyday meaning is "test/exam") would otherwise be silently re-tagged
+proper on the next run, since "proper_only and pos=='word'" is exactly
+the state such an override leaves behind. MANUAL_POS_OVERRIDES below is
+the explicit denylist that protects those decisions; see issue #52.
 
 Usage:
     python scripts/extract-dict.py path/to/eng-ind.tei          # dry run
@@ -35,6 +43,14 @@ GLOSS_HEAD_CAP = 3
 
 root_dir = Path(__file__).parent.parent
 WORDS_PATH = root_dir / 'data' / 'words.json'
+
+# Roots where a human reviewed the mechanical proper-noun classification
+# and decided it was wrong, keeping (or restoring) pos:"word" -- exempt
+# from automatic re-tagging on future runs. Add an entry here whenever a
+# PR hand-overrides what this script would otherwise produce.
+MANUAL_POS_OVERRIDES = {
+    'ulangan': 'only inversion source is "Deuteronomy" (pn); real meaning is test/exam/quiz, invisible to the TEI-based classifier (#52)',
+}
 
 
 def parse_tei(tei_path):
@@ -90,7 +106,7 @@ def main():
             missing += 1
             continue
         proper_only = all(is_proper(e, p) for e, p in heads)
-        if proper_only and w.get('pos') == 'word':
+        if proper_only and w.get('pos') == 'word' and w['root'] not in MANUAL_POS_OVERRIDES:
             w['pos'] = 'proper'
             tagged += 1
         if w['gloss'].lower() == naive_gloss(heads):
