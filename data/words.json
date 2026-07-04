@@ -4996,7 +4996,7 @@
     },
     {
       "root": "bahasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "discourse"
     },
     {
@@ -6381,7 +6381,7 @@
     },
     {
       "root": "berada",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "be"
     },
     {
@@ -6391,7 +6391,7 @@
     },
     {
       "root": "berair",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "watery"
     },
     {
@@ -6426,7 +6426,7 @@
     },
     {
       "root": "berbau",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "smell"
     },
     {
@@ -6436,7 +6436,7 @@
     },
     {
       "root": "berbisik",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "whisper"
     },
     {
@@ -6451,7 +6451,7 @@
     },
     {
       "root": "berdagang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "trade"
     },
     {
@@ -6476,7 +6476,7 @@
     },
     {
       "root": "berdoa",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pray"
     },
     {
@@ -6501,12 +6501,12 @@
     },
     {
       "root": "berguna",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "useful"
     },
     {
       "root": "berhak",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "entitled"
     },
     {
@@ -6516,7 +6516,7 @@
     },
     {
       "root": "berhemat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "cut corners"
     },
     {
@@ -6566,7 +6566,7 @@
     },
     {
       "root": "berjanji",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "agree, promise"
     },
     {
@@ -6626,7 +6626,7 @@
     },
     {
       "root": "bermain",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "play"
     },
     {
@@ -6736,12 +6736,12 @@
     },
     {
       "root": "bertahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "survive"
     },
     {
       "root": "berteriak",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "shout, yell at"
     },
     {
@@ -8561,7 +8561,7 @@
     },
     {
       "root": "campuran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "hybrid"
     },
     {
@@ -9251,7 +9251,7 @@
     },
     {
       "root": "cucian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "laundry"
     },
     {
@@ -13771,7 +13771,7 @@
     },
     {
       "root": "gabungan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "union, assemblage"
     },
     {
@@ -14511,7 +14511,7 @@
     },
     {
       "root": "gerakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "motion, movement"
     },
     {
@@ -17791,7 +17791,7 @@
     },
     {
       "root": "isian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "blank"
     },
     {
@@ -25376,7 +25376,7 @@
     },
     {
       "root": "laporan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "report"
     },
     {
@@ -28021,7 +28021,7 @@
     },
     {
       "root": "memanipulasi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "manipulate"
     },
     {
@@ -28141,7 +28141,7 @@
     },
     {
       "root": "memegang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "hold"
     },
     {
@@ -28206,7 +28206,7 @@
     },
     {
       "root": "memilih",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "select, choose"
     },
     {
@@ -28241,7 +28241,7 @@
     },
     {
       "root": "memodifikasi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "modify"
     },
     {
@@ -28346,7 +28346,7 @@
     },
     {
       "root": "memulai",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "set off"
     },
     {
@@ -28366,7 +28366,7 @@
     },
     {
       "root": "menahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "help, hold"
     },
     {
@@ -28431,7 +28431,7 @@
     },
     {
       "root": "menari",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "dance"
     },
     {
@@ -28456,7 +28456,7 @@
     },
     {
       "root": "mencampur",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "blend"
     },
     {
@@ -28526,7 +28526,7 @@
     },
     {
       "root": "mencuci",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "wash"
     },
     {
@@ -28596,7 +28596,7 @@
     },
     {
       "root": "menegur",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "reprimand"
     },
     {
@@ -28651,7 +28651,7 @@
     },
     {
       "root": "menerima",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "accept"
     },
     {
@@ -28756,7 +28756,7 @@
     },
     {
       "root": "mengaum",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "roar"
     },
     {
@@ -28981,7 +28981,7 @@
     },
     {
       "root": "mengira",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "guess"
     },
     {
@@ -29071,7 +29071,7 @@
     },
     {
       "root": "mengulang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "redo, repeat"
     },
     {
@@ -29086,7 +29086,7 @@
     },
     {
       "root": "mengundang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "invite"
     },
     {
@@ -29271,7 +29271,7 @@
     },
     {
       "root": "menunggu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "await, wait"
     },
     {
@@ -29316,7 +29316,7 @@
     },
     {
       "root": "menyanyi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "singing"
     },
     {
@@ -32796,7 +32796,7 @@
     },
     {
       "root": "panggilan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "nickname"
     },
     {
@@ -33621,7 +33621,7 @@
     },
     {
       "root": "pegangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "handle"
     },
     {
@@ -33716,7 +33716,7 @@
     },
     {
       "root": "pelapor",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "whistle-blower"
     },
     {
@@ -33821,7 +33821,7 @@
     },
     {
       "root": "pemabuk",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "drunk"
     },
     {
@@ -33881,7 +33881,7 @@
     },
     {
       "root": "pemampu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "enabler"
     },
     {
@@ -33906,7 +33906,7 @@
     },
     {
       "root": "pemanis",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "sweetener"
     },
     {
@@ -34021,7 +34021,7 @@
     },
     {
       "root": "pemenang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "champion, conqueror, winner"
     },
     {
@@ -34066,7 +34066,7 @@
     },
     {
       "root": "pemilih",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "elector, voter"
     },
     {
@@ -34091,7 +34091,7 @@
     },
     {
       "root": "peminum",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "drinker"
     },
     {
@@ -34221,12 +34221,12 @@
     },
     {
       "root": "penari",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "dancer"
     },
     {
       "root": "penarik",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "drawer"
     },
     {
@@ -34241,7 +34241,7 @@
     },
     {
       "root": "pencampur",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "mixer, blender"
     },
     {
@@ -34391,7 +34391,7 @@
     },
     {
       "root": "penerima",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "addressee"
     },
     {
@@ -34451,7 +34451,7 @@
     },
     {
       "root": "pengali",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "multiplier"
     },
     {
@@ -34501,7 +34501,7 @@
     },
     {
       "root": "pengaya",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "add-on"
     },
     {
@@ -34621,7 +34621,7 @@
     },
     {
       "root": "pengguna",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "user"
     },
     {
@@ -34731,7 +34731,7 @@
     },
     {
       "root": "penilai",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "underwriter"
     },
     {
@@ -36096,7 +36096,7 @@
     },
     {
       "root": "pilihan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "select, option"
     },
     {
@@ -43156,7 +43156,7 @@
     },
     {
       "root": "tahanan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "prisoner"
     },
     {
@@ -44721,7 +44721,7 @@
     },
     {
       "root": "timbangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "scales"
     },
     {
@@ -45876,8 +45876,8 @@
     },
     {
       "root": "ulangan",
-      "pos": "proper",
-      "gloss": "deuteronomy"
+      "pos": "word",
+      "gloss": "test, exam, quiz; repetition"
     },
     {
       "root": "ular",
