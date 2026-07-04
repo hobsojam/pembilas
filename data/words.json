@@ -1072,7 +1072,7 @@
     {
       "root": "akal",
       "pos": "word",
-      "gloss": "dupe"
+      "gloss": "mind, reason, sense"
     },
     {
       "root": "akalkulia",
@@ -1962,7 +1962,7 @@
     {
       "root": "amat",
       "pos": "adjective",
-      "gloss": "super"
+      "gloss": "very, extremely"
     },
     {
       "root": "amatir",
@@ -6077,7 +6077,7 @@
     {
       "root": "bela",
       "pos": "word",
-      "gloss": "advocate"
+      "gloss": "defend, side with"
     },
     {
       "root": "belacan",
@@ -6442,7 +6442,7 @@
     {
       "root": "bercanda",
       "pos": "word",
-      "gloss": "fuck with"
+      "gloss": "joke, kid around"
     },
     {
       "root": "bercukur",
@@ -8977,7 +8977,7 @@
     {
       "root": "cewek",
       "pos": "word",
-      "gloss": "bird"
+      "gloss": "girl, chick (slang)"
     },
     {
       "root": "ceylon",
@@ -10072,7 +10072,7 @@
     {
       "root": "depan",
       "pos": "word",
-      "gloss": "facade"
+      "gloss": "front, ahead"
     },
     {
       "root": "departemen",
@@ -11322,7 +11322,7 @@
     {
       "root": "duka",
       "pos": "word",
-      "gloss": "dukkha"
+      "gloss": "sorrow, grief"
     },
     {
       "root": "dukun",
@@ -17061,8 +17061,8 @@
     },
     {
       "root": "indonesia",
-      "pos": "word",
-      "gloss": "neural network"
+      "pos": "proper",
+      "gloss": "Indonesia"
     },
     {
       "root": "indra",
@@ -20952,7 +20952,7 @@
     {
       "root": "keliling",
       "pos": "word",
-      "gloss": "circle"
+      "gloss": "around; circumference"
     },
     {
       "root": "kelinci",
@@ -21862,7 +21862,7 @@
     {
       "root": "kesempatan",
       "pos": "word",
-      "gloss": "accident"
+      "gloss": "opportunity, chance"
     },
     {
       "root": "kesempitan",
@@ -25847,7 +25847,7 @@
     {
       "root": "letak",
       "pos": "word",
-      "gloss": "put"
+      "gloss": "location, position"
     },
     {
       "root": "letal",
@@ -26012,7 +26012,7 @@
     {
       "root": "lihat",
       "pos": "word",
-      "gloss": "browse, show, behold"
+      "gloss": "see, look at"
     },
     {
       "root": "likeur",
@@ -27902,7 +27902,7 @@
     {
       "root": "melewati",
       "pos": "word",
-      "gloss": "get across"
+      "gloss": "pass, go past/through"
     },
     {
       "root": "melilit",
@@ -32432,7 +32432,7 @@
     {
       "root": "padahal",
       "pos": "word",
-      "gloss": "when"
+      "gloss": "whereas, although (contrastive)"
     },
     {
       "root": "padan",
@@ -35932,7 +35932,7 @@
     {
       "root": "peti",
       "pos": "word",
-      "gloss": "ark"
+      "gloss": "box, crate, chest"
     },
     {
       "root": "petir",
@@ -38292,7 +38292,7 @@
     {
       "root": "rekam",
       "pos": "word",
-      "gloss": "save"
+      "gloss": "record"
     },
     {
       "root": "rekayasa",
@@ -39837,7 +39837,7 @@
     {
       "root": "sebelah",
       "pos": "word",
-      "gloss": "by"
+      "gloss": "beside, next to; side"
     },
     {
       "root": "sebelas",
@@ -39862,7 +39862,7 @@
     {
       "root": "sebut",
       "pos": "word",
-      "gloss": "name"
+      "gloss": "mention, call"
     },
     {
       "root": "secang",
@@ -39957,7 +39957,7 @@
     {
       "root": "seharusnya",
       "pos": "adverb",
-      "gloss": "necessarily"
+      "gloss": "should, ought to have"
     },
     {
       "root": "sehat",
@@ -44532,7 +44532,7 @@
     {
       "root": "terutama",
       "pos": "adjective",
-      "gloss": "main"
+      "gloss": "especially, mainly"
     },
     {
       "root": "terwelu",
@@ -45557,7 +45557,7 @@
     {
       "root": "tuju",
       "pos": "word",
-      "gloss": "fire, head"
+      "gloss": "aim, direction; point toward"
     },
     {
       "root": "tujuh",

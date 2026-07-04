@@ -27,6 +27,12 @@ The script only rewrites glosses that still byte-match the naive inversion — h
 
 Indonesian word-frequency list (50,000 entries) from [HermitDave/FrequencyWords](https://github.com/hermitdave/FrequencyWords) (2018 dataset), derived from the [OpenSubtitles](https://www.opensubtitles.org/) corpus. Used by `scripts/frequency-rank.py` to target annotation batches at the highest-frequency uncovered roots (issue #14, frequency-driven mode). The spoken-subtitle register suits the learner audience.
 
+## Gloss review (not a committed data file)
+
+`scripts/gloss-review.py` (issue #61) cross-checks machine-generated `words.json` glosses (see the extract-dict.py note above) against English Wiktionary sense glosses, via the [kaikki.org](https://kaikki.org/dictionary/Indonesian/) Wiktextract JSONL dump for Indonesian — a third-party extraction of Wiktionary, itself CC BY-SA. A gloss is flagged when it shares no word stem with any Wiktionary sense, which is the signature of an inversion artifact that promoted a rare/wrong sense to primary (e.g. `indonesia` = "neural network", traced to a garbage English↔Indonesian pairing in the upstream FreeDict TEI itself).
+
+Neither the kaikki dump (~60 MB) nor the FreeDict TEI (~1 MB) is committed; both are downloaded on demand (URLs are in this file and the script's docstring). The script's output is a **ranked review list**, not an autofix — roughly 1 in 4 flagged glosses turned out to be a correct-but-differently-phrased translation rather than a genuine error, so a human picks and words the actual fixes.
+
 ## affixes.json
 
 **License:** authored by the project contributors.
