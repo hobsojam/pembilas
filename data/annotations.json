@@ -13297,5 +13297,369 @@
       "state": "valid",
       "gloss": "to make music, be musical (bermusik)"
     }
+  },
+  "bayang": {
+    "an": {
+      "state": "valid",
+      "gloss": "shadow, silhouette; mental image (bayangan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "imagine it! picture it! (bayangkan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to loom, appear vaguely, cross one's mind (membayang)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "imagined, pictured (terbayang)"
+    }
+  },
+  "latih": {
+    "an": {
+      "state": "valid",
+      "gloss": "exercise, practice, training (latihan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to train, coach (someone) (melatih)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to practice, train (oneself) (berlatih)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "coach, trainer (pelatih)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "training, coaching program (pelatihan)"
+    }
+  },
+  "tonton": {
+    "me": {
+      "state": "valid",
+      "gloss": "to watch, view (menonton)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a show, something to watch (tontonan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "viewer, audience member (penonton)"
+    }
+  },
+  "operasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to operate, be in operation; to have surgery (beroperasi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be operated on; to be operated (dioperasi)"
+    }
+  },
+  "kalah": {
+    "kan": {
+      "state": "valid",
+      "gloss": "beat him/her! defeat it! (kalahkan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to give in, yield, back down (mengalah)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to defeat, beat (mengalahkan)"
+    }
+  },
+  "merah": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "reddish; flushed, blushing (kemerahan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "bleach, whitener (pemerah, e.g. pemerah bibir = lipstick, dated usage)",
+      "notes": "rare/dated"
+    }
+  },
+  "putih": {
+    "pe": {
+      "state": "valid",
+      "gloss": "bleach, whitening agent (pemutih)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as white as (seputih)"
+    }
+  },
+  "putar": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to turn, rotate, spin (berputar)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a rotation, a round, a lap (putaran)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to turn, rotate, play (a recording) (memutar)"
+    }
+  },
+  "bintang": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to star in (a film) (membintangi)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "starry; starred, decorated (berbintang, e.g. hotel berbintang lima)"
+    }
+  },
+  "gantung": {
+    "ter": {
+      "state": "valid",
+      "gloss": "dependent on; pending, undecided (tergantung)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to depend on, rely on (bergantung)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to hang (something) up (menggantung)"
+    }
+  },
+  "saksi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to witness, be a witness to (menyaksikan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to testify, give witness (bersaksi)"
+    }
+  },
+  "hantu": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to haunt (menghantui)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "haunted (berhantu)"
+    }
+  },
+  "akal": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to trick, con, outsmart (mengakali)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "rational, sensible (berakal)"
+    }
+  },
+  "toko": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "the retail/shopping sector (pertokoan)"
+    }
+  },
+  "tawa": {
+    "ter": {
+      "state": "valid",
+      "gloss": "to laugh (tertawa)"
+    },
+    "ke": {
+      "state": "valid",
+      "gloss": "(colloq.) to laugh (ketawa)",
+      "notes": "informal register"
+    }
+  },
+  "ampun": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "forgiveness, pardon, amnesty (pengampunan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to forgive (mengampuni)"
+    }
+  },
+  "ahli": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "expertise, skill (keahlian)"
+    }
+  },
+  "bentuk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to form, shape, establish (membentuk)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "shaped, in the form of (berbentuk)"
+    }
+  },
+  "cocok": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to match, fit (things) together (mencocokkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "matching, verification (pencocokan)"
+    }
+  },
+  "cahaya": {
+    "ber": {
+      "state": "valid",
+      "gloss": "shining, luminous (bercahaya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "lighting, illumination (pencahayaan)"
+    }
+  },
+  "kapten": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the captain (kaptennya)"
+    }
+  },
+  "nomor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its number (nomornya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "numbered (bernomor)"
+    }
+  },
+  "agen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her agent (agennya)"
+    }
+  },
+  "mesin": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its engine, machine (mesinnya)"
+    }
+  },
+  "lagu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the song (lagunya)"
+    }
+  },
+  "kakak": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her older sibling (kakaknya)"
+    }
+  },
+  "benda": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the object, its item (bendanya)"
+    }
+  },
+  "paman": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her uncle (pamannya)"
+    }
+  },
+  "bola": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ball (bolanya)"
+    }
+  },
+  "pribadi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her personal side, personality (pribadinya)"
+    }
+  },
+  "anggota": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its member(s) (anggotanya)"
+    }
+  },
+  "sistem": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its system (sistemnya)"
+    }
+  },
+  "kereta": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her cart, train (keretanya)"
+    }
+  },
+  "bos": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the boss (bosnya)"
+    }
+  },
+  "presiden": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the president (presidennya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "the presidency (kepresidenan)"
+    }
+  },
+  "pistol": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her gun (pistolnya)"
+    }
+  },
+  "situasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the situation (situasinya)"
+    }
+  },
+  "kamera": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the camera (kameranya)"
+    }
+  },
+  "matahari": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sun (mataharinya)"
+    }
+  },
+  "dolar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its dollar amount (dolarnya)"
+    }
+  },
+  "tentara": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "military affairs, the armed forces (ketentaraan)"
+    }
   }
 }
