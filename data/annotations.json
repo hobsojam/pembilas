@@ -11455,5 +11455,273 @@
       "gloss": "",
       "notes": "collision triage (#48): kemudian (then, afterward) is a fully lexicalized temporal conjunction, coincidentally identical to kemudi + -an; unrelated to steering"
     }
+  },
+  "dunia": {
+    "se": {
+      "state": "valid",
+      "gloss": "worldwide, throughout the world (sedunia, e.g. Piala Dunia = World Cup)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to go global, become world-renowned (mendunia)"
+    }
+  },
+  "pertama": {
+    "nya": {
+      "state": "valid",
+      "gloss": "at first, initially (pertamanya)"
+    }
+  },
+  "dulu": {
+    "an": {
+      "state": "valid",
+      "gloss": "(colloq.) earlier, first (duluan, e.g. Aku duluan! = Me first!)",
+      "notes": "informal register"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "formerly, in the past (dulunya)"
+    }
+  },
+  "buruk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to worsen, deteriorate (memburuk)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "the worst (terburuk)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "badness, ugliness; misfortune (keburukan)"
+    }
+  },
+  "berapa": {
+    "se": {
+      "state": "valid",
+      "gloss": "how much/many, however much (seberapa)"
+    },
+    "ke": {
+      "state": "valid",
+      "gloss": "which number, in what position (keberapa, e.g. anak keberapa? = which child in birth order?)"
+    }
+  },
+  "boleh": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to allow, permit (membolehkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "ability, capability (kebolehan)",
+      "notes": "somewhat literary/formal register"
+    },
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "bolehkan as a question tag ('may [I]?') is colloquial and rare in writing"
+    }
+  },
+  "tembak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to shoot, fire at (menembak)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a shot; gunfire (tembakan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be shot (passive)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "shooter, gunman (penembak)"
+    }
+  },
+  "gila": {
+    "me": {
+      "state": "valid",
+      "gloss": "to go crazy, become wild (about something) (menggila)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "madness, insanity (kegilaan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as crazy as (segila)"
+    }
+  },
+  "tuan": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have a master/lord; be under someone's authority (bertuan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her master, sir (tuannya)"
+    }
+  },
+  "segera": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to expedite, hasten, speed up (menyegerakan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as soon as (sesegera, e.g. sesegera mungkin = as soon as possible)"
+    }
+  },
+  "biasa": {
+    "ter": {
+      "state": "valid",
+      "gloss": "used to, accustomed (terbiasa)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to accustom, habituate (membiasakan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "habit, custom (kebiasaan)"
+    }
+  },
+  "tenang": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to calm, soothe, reassure (menenangkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "calm, tranquility, serenity (ketenangan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as calm as (setenang)"
+    }
+  },
+  "keluarga": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have a family, be married with children (berkeluarga)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "the whole family (sekeluarga)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "kinship; family matters (kekeluargaan, e.g. secara kekeluargaan = amicably, as a family)"
+    }
+  },
+  "manusia": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "humanity; human rights (kemanusiaan, e.g. hak asasi kemanusiaan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to humanize, treat humanely (memanusiakan)"
+    }
+  },
+  "tunjuk": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to show, demonstrate, indicate (menunjukkan)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "the standard word for a show/performance is pertunjukan (per-...-an); bare tunjukan is not used"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a show, performance (pertunjukan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "indicator, pointer (penunjuk, e.g. penunjuk arah = direction indicator)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be appointed, designated (ditunjuk)"
+    }
+  },
+  "air": {
+    "ber": {
+      "state": "valid",
+      "gloss": "watery, containing water; to have water (berair)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to irrigate, water (mengairi)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "irrigation (pengairan)"
+    }
+  },
+  "ruang": {
+    "an": {
+      "state": "valid",
+      "gloss": "a room, chamber (ruangan)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "beruang overwhelmingly means \"bear\" (the animal) in everyday use, not \"to have room/space\"; suppressed to avoid seeding a misleading primary association even though beruang (bear) is not currently its own root -- see #14 batch-3 discussion"
+    }
+  },
+  "diam": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to remain silent, keep quiet (berdiam, e.g. berdiam diri)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to silence, quiet down (mendiamkan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a quiet/reserved person (pendiam)"
+    }
+  },
+  "bulan": {
+    "se": {
+      "state": "valid",
+      "gloss": "one month (sebulan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "monthly (bulanan)"
+    }
+  },
+  "polisi": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "the police force, policing (kepolisian)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "berpolisi is not used; a police officer is anggota polisi or polisi bare"
+    }
+  },
+  "polis": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): polisi (police) is an unrelated loanword now its own root; polis (insurance policy) has no -i verb form"
+    }
+  },
+  "airan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengairan (irrigation) is from air + pe-...-an; airan has no independently attested meaning or pe- form"
+    }
   }
 }
