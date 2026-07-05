@@ -1866,8 +1866,9 @@
       "form": "pengertian"
     },
     "me": {
-      "state": "unused",
-      "gloss": ""
+      "state": "valid",
+      "gloss": "to understand, comprehend (mengerti)",
+      "form": "mengerti"
     },
     "ke_an": {
       "state": "unused",
@@ -11214,6 +11215,245 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): berikan (give!) is beri + -kan; ikan (fish) has no ber- form"
+    }
+  },
+  "harus": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "obligation, necessity (keharusan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to require, make obligatory (mengharuskan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "should, ought to (harusnya -- colloquial short form of seharusnya)",
+      "notes": "informal register"
+    }
+  },
+  "hari": {
+    "se": {
+      "state": "valid",
+      "gloss": "one day (sehari)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "daily (harian, e.g. gaji harian = daily wage)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "only the reduplicated berhari-hari (for days on end) is used; reduplication isn't modeled"
+    }
+  },
+  "tentang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to oppose, defy, go against (menentang)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "conflicting, contradictory, at odds (bertentangan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "conflict, dispute (pertentangan)"
+    }
+  },
+  "bagus": {
+    "se": {
+      "state": "valid",
+      "gloss": "as good as (sebagus)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its good point; fortunately (bagusnya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "(colloq.) overly nice, too good (kebagusan)",
+      "notes": "informal register"
+    }
+  },
+  "tempat": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to place, position, station (menempatkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "placement, positioning, assignment (penempatan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to be located, take place (bertempat)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "local; the same place (setempat, e.g. adat setempat = local custom)"
+    }
+  },
+  "malam": {
+    "se": {
+      "state": "valid",
+      "gloss": "one night, overnight (semalam)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to spend the night, stay overnight (bermalam)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "that night, its night (malamnya)"
+    }
+  },
+  "mati": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to kill, turn off, extinguish (mematikan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "death (kematian)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her/its death, demise (matinya)"
+    }
+  },
+  "tahun": {
+    "se": {
+      "state": "valid",
+      "gloss": "one year (setahun)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "yearly, annual (tahunan)"
+    }
+  },
+  "ayah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her father (ayahnya)"
+    }
+  },
+  "buah": {
+    "se": {
+      "state": "valid",
+      "gloss": "a, one (classifier for count nouns: sebuah rumah = a house)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to bear, produce, yield (membuahkan hasil = to bear fruit/results)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its fruit, the result (buahnya)"
+    }
+  },
+  "cara": {
+    "se": {
+      "state": "valid",
+      "gloss": "by means of, in a ... manner (secara resmi = officially)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its way, method (caranya)"
+    }
+  },
+  "perlu": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to need, require (memerlukan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "need, necessity, requirement (keperluan)"
+    }
+  },
+  "masalah": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have a problem, be troubled (bermasalah)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "the issue, problem at hand (permasalahan)"
+    }
+  },
+  "ibu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her mother (ibunya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "motherhood, maternal quality (keibuan)"
+    }
+  },
+  "tentu": {
+    "ter": {
+      "state": "valid",
+      "gloss": "certain, specific, particular (tertentu)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to determine, decide, specify (menentukan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "of course, surely (tentunya)"
+    }
+  },
+  "cukup": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to suffice for, be enough for (mencukupi)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "sufficiency, adequacy (kecukupan)"
+    }
+  },
+  "tuhan": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have faith, believe in a god (bertuhan)"
+    }
+  },
+  "pria": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "masculinity (kepriaan, e.g. produk kepriaan = men's grooming products)",
+      "notes": "commercial/marketing register"
+    }
+  },
+  "sedikit": {
+    "nya": {
+      "state": "valid",
+      "gloss": "at least (sedikitnya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as little/few as (sesedikit)"
+    }
+  },
+  "wanita": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "femininity; women's affairs (kewanitaan, e.g. produk kewanitaan = feminine hygiene products)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the woman, her (wanitanya)"
+    }
+  },
+  "kemudi": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kemudian (then, afterward) is a fully lexicalized temporal conjunction, coincidentally identical to kemudi + -an; unrelated to steering"
     }
   }
 }

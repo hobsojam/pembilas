@@ -5,8 +5,9 @@ Ranks un-annotated roots by corpus frequency to target annotation batches
 Each root is scored as the sum of corpus frequencies over all of its
 surface forms in the generated search index, so verbs that mostly occur
 affixed (melakukan, menjadi) attribute to their roots. Already-annotated
-roots, pos:"proper" roots, and function words with no affix value are
-filtered out.
+roots, pos:"proper"/"derived" roots (#62/#52 -- already covered via
+another headword), and function words with no affix value are filtered
+out.
 
 The frequency list is data/frequency-id-50k.txt (see data/SOURCES.md for
 origin and license). Run `npm run build:index` first so the index exists.
@@ -29,7 +30,7 @@ ke di pada belum ya oh hei ah eh nya lah kah pun kami kalian aku kau begitu begi
 mengapa siapa kapan sangat telah bahwa atau tetapi namun agar supaya karena sebab
 demi tanpa antara dalam luar atas bawah depan belakang saat ketika selama hingga
 sampai sejak kalau masih sedang seperti sesuatu beberapa semuanya ayo kan hal mau
-bagi para oleh yaitu yakni sang si nan'''.split())
+bagi para oleh yaitu yakni sang si nan seseorang bahkan sebenarnya setiap ayolah'''.split())
 
 
 def main():
@@ -56,7 +57,7 @@ def main():
     print(f'{"root":14}{"score":>10}  top forms')
     shown = 0
     for root, total in sorted(score.items(), key=lambda kv: -kv[1]):
-        if root in annotated or root in SKIP or words.get(root, {}).get('pos') == 'proper':
+        if root in annotated or root in SKIP or words.get(root, {}).get('pos') in ('proper', 'derived'):
             continue
         top = sorted(forms[root], key=lambda t: -t[1])[:4]
         print(f'{root:14}{total:>10}  ' + ', '.join(f'{f}({n})' for f, n in top))
