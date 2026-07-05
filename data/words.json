@@ -6051,7 +6051,7 @@
     },
     {
       "root": "bekerja",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "work"
     },
     {
@@ -16547,7 +16547,7 @@
     {
       "root": "ibu",
       "pos": "word",
-      "gloss": "mrs"
+      "gloss": "mother"
     },
     {
       "root": "ibunda",
@@ -20631,7 +20631,7 @@
     },
     {
       "root": "keibuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "motherhood"
     },
     {
@@ -21076,7 +21076,7 @@
     },
     {
       "root": "kematian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "death"
     },
     {
@@ -27467,7 +27467,7 @@
     {
       "root": "masalah",
       "pos": "word",
-      "gloss": "thing, problem"
+      "gloss": "problem, issue, matter"
     },
     {
       "root": "masdar",
@@ -28636,7 +28636,7 @@
     },
     {
       "root": "menemukan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "find, figure out"
     },
     {
@@ -28831,8 +28831,8 @@
     },
     {
       "root": "mengerti",
-      "pos": "word",
-      "gloss": "read, understand"
+      "pos": "derived",
+      "gloss": "understand, comprehend"
     },
     {
       "root": "mengesalkan",
