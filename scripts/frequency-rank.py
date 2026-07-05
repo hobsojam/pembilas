@@ -32,7 +32,8 @@ demi tanpa antara dalam luar atas bawah depan belakang saat ketika selama hingga
 sampai sejak kalau masih sedang seperti sesuatu beberapa semuanya ayo kan hal mau
 bagi para oleh yaitu yakni sang si nan seseorang bahkan sebenarnya setiap ayolah
 setelah halo hai seharusnya sebentar segala astaga kumohon daripada
-kedua bajingan permisi nona bung'''.split())
+kedua bajingan permisi nona bung sementara semacam brengsek
+terhadap betapa saling meskipun kemarin'''.split())
 
 
 def main():
