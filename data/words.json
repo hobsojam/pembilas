@@ -6867,7 +6867,7 @@
     {
       "root": "biasa",
       "pos": "word",
-      "gloss": "behavior, pedestrian"
+      "gloss": "usual, ordinary, accustomed to"
     },
     {
       "root": "biasanya",
@@ -10472,7 +10472,7 @@
     {
       "root": "diam",
       "pos": "word",
-      "gloss": "shut up"
+      "gloss": "quiet, silent, still"
     },
     {
       "root": "diameter",
@@ -36585,6 +36585,11 @@
       "gloss": "polycentrism"
     },
     {
+      "root": "polisi",
+      "pos": "word",
+      "gloss": "police"
+    },
+    {
       "root": "politbiro",
       "pos": "word",
       "gloss": "politburo"
@@ -41022,7 +41027,7 @@
     {
       "root": "sialan",
       "pos": "word",
-      "gloss": "fuck"
+      "gloss": "damn it, blast it (mild curse)"
     },
     {
       "root": "siang",
@@ -43967,7 +43972,7 @@
     {
       "root": "tembak",
       "pos": "word",
-      "gloss": "fire, ready, aim, fire, shoot"
+      "gloss": "shoot, fire, shot"
     },
     {
       "root": "tembakau",
