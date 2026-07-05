@@ -20761,7 +20761,7 @@
     },
     {
       "root": "kejutan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "shock, surprise, surprisingly"
     },
     {
@@ -28461,7 +28461,7 @@
     },
     {
       "root": "menakutkan",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "scary"
     },
     {
@@ -29411,7 +29411,7 @@
     },
     {
       "root": "menyebabkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "render, cause"
     },
     {
@@ -29943,6 +29943,11 @@
       "root": "miliar",
       "pos": "word",
       "gloss": "billion"
+    },
+    {
+      "root": "milik",
+      "pos": "word",
+      "gloss": "belonging, possession"
     },
     {
       "root": "milisi",
@@ -30856,8 +30861,8 @@
     },
     {
       "root": "nafas",
-      "pos": "word",
-      "gloss": "breath, breathe"
+      "pos": "derived",
+      "gloss": "breath (variant spelling of napas)"
     },
     {
       "root": "nafsu",
@@ -34171,7 +34176,7 @@
     },
     {
       "root": "pemilik",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "owner, possessor"
     },
     {
@@ -35636,7 +35641,7 @@
     },
     {
       "root": "permintaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "demand"
     },
     {
@@ -39938,6 +39943,11 @@
       "root": "scheherezade",
       "pos": "proper",
       "gloss": "scheherazade"
+    },
+    {
+      "root": "sebab",
+      "pos": "word",
+      "gloss": "cause, reason"
     },
     {
       "root": "sebaya",
