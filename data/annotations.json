@@ -11396,6 +11396,11 @@
     "ke_an": {
       "state": "valid",
       "gloss": "motherhood, maternal quality (keibuan)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): beribu (in the thousands, e.g. beribu-ribu) is from ribu; ibu (mother) has no ber- verb form"
     }
   },
   "tentu": {
@@ -13076,6 +13081,221 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): berani (brave, to dare) is an unrelated word, now its own root; rani has no attested independent meaning or ber- form"
+    }
+  },
+  "bisnis": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to do business, run a business (berbisnis)"
+    }
+  },
+  "barang": {
+    "se": {
+      "state": "valid",
+      "gloss": "any (kind of), whatever (sebarang, e.g. sebarang waktu = anytime)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(colloq.) stuff, things collectively (barangan)",
+      "notes": "informal register"
+    }
+  },
+  "enak": {
+    "se": {
+      "state": "valid",
+      "gloss": "as one likes, however one pleases (seenaknya = thoughtlessly, without regard for others)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "how delicious; the good part (enaknya)"
+    }
+  },
+  "awak": {
+    "ber": {
+      "state": "valid",
+      "gloss": "crewed, staffed (berawak, e.g. pesawat berawak = crewed aircraft)"
+    }
+  },
+  "musim": {
+    "an": {
+      "state": "valid",
+      "gloss": "seasonal (musiman)"
+    }
+  },
+  "pacar": {
+    "an": {
+      "state": "valid",
+      "gloss": "(colloq.) dating (pacaran)",
+      "notes": "informal register"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to be dating, going steady (berpacaran)"
+    }
+  },
+  "buru": {
+    "pe": {
+      "state": "valid",
+      "gloss": "hunter (pemburu)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to hunt (berburu)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to hunt, pursue (memburu)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "hunting; the hunt (perburuan)"
+    }
+  },
+  "layan": {
+    "pe": {
+      "state": "valid",
+      "gloss": "servant, waiter (pelayan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to serve (melayani)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "service (layanan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "service, hospitality (pelayanan)"
+    }
+  },
+  "catat": {
+    "an": {
+      "state": "valid",
+      "gloss": "a note, record (catatan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to note down, record (mencatat)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be noted, recorded (dicatat)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "recorded, on file (tercatat)"
+    }
+  },
+  "cium": {
+    "me": {
+      "state": "valid",
+      "gloss": "to kiss; to smell (mencium)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a kiss (ciuman)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to kiss each other (berciuman)"
+    }
+  },
+  "menyesal": {
+    "i": {
+      "state": "valid",
+      "gloss": "to regret, feel remorse over (menyesali)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "regrettable, unfortunate (menyesalkan)"
+    }
+  },
+  "batu": {
+    "an": {
+      "state": "valid",
+      "gloss": "rock formation; gemstone (batuan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "rocky, made of stone (berbatu)"
+    }
+  },
+  "jujur": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "honesty (kejujuran)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "to be honest (sejujurnya)"
+    }
+  },
+  "udara": {
+    "me": {
+      "state": "valid",
+      "gloss": "to become airborne, take to the air; to go on air (mengudara)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "in the air, on air (di udara)",
+      "notes": "conventionally written as two words"
+    }
+  },
+  "seks": {
+    "i": {
+      "state": "valid",
+      "gloss": "sexy; also, unrelatedly, a section/division (seksi, e.g. seksi olahraga = the sports division)"
+    }
+  },
+  "sumpah": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to swear an oath, take an oath (bersumpah)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be sworn in (disumpah)"
+    }
+  },
+  "jenis": {
+    "se": {
+      "state": "valid",
+      "gloss": "of the same kind, a sort of (sejenis)"
+    }
+  },
+  "ribu": {
+    "an": {
+      "state": "valid",
+      "gloss": "thousands (ribuan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "one thousand (seribu)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "in the thousands (beribu, e.g. beribu-ribu)"
+    }
+  },
+  "musuh": {
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to be enemies, be at odds (bermusuhan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "enmity, hostility (permusuhan)"
+    }
+  },
+  "musik": {
+    "pe": {
+      "state": "valid",
+      "gloss": "musician (pemusik)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to make music, be musical (bermusik)"
     }
   }
 }
