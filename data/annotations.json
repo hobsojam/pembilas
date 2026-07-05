@@ -13879,5 +13879,251 @@
       "gloss": "",
       "notes": "collision triage (#48): kekanan (to the right) is from kanan; kan (tag-question particle, right?) has no ke-...-an form"
     }
+  },
+  "aku": {
+    "me": {
+      "state": "valid",
+      "gloss": "to admit, confess (mengaku)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to acknowledge, recognize, admit to (mengakui)"
+    }
+  },
+  "kemas": {
+    "me": {
+      "state": "valid",
+      "gloss": "to pack, pack up (mengemas)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to tidy up, pack up (a place) (mengemasi)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "packaging (kemasan)"
+    }
+  },
+  "tolak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to reject, refuse, decline (menolak)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a rejection, a push (tolakan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "rejection, refusal (penolakan)"
+    }
+  },
+  "kejar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to chase, pursue (mengejar)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a chase, pursuit (kejaran)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "pursuer (pengejar)"
+    }
+  },
+  "batas": {
+    "ter": {
+      "state": "valid",
+      "gloss": "limited, restricted (terbatas)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a boundary, limitation (batasan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to limit, restrict (membatasi)"
+    }
+  },
+  "pandang": {
+    "an": {
+      "state": "valid",
+      "gloss": "a view, outlook, perspective (pandangan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a view, scenery (pemandangan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to view, regard, look at (memandang)"
+    }
+  },
+  "ikat": {
+    "ter": {
+      "state": "valid",
+      "gloss": "tied, bound (terikat)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a bond, tie, bundle (ikatan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to tie, bind (mengikat)"
+    }
+  },
+  "ancam": {
+    "an": {
+      "state": "valid",
+      "gloss": "a threat (ancaman)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to threaten (mengancam)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "threatened (terancam)"
+    }
+  },
+  "pecah": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to shatter, break (something) (memecahkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a fraction; a fragment, shard (pecahan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "break it! shatter it! (pecahkan -- imperative)"
+    }
+  },
+  "letak": {
+    "kan": {
+      "state": "valid",
+      "gloss": "put it down! place it! (letakkan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "located, situated (terletak)"
+    }
+  },
+  "sesuai": {
+    "kan": {
+      "state": "valid",
+      "gloss": "adjust it to fit! (sesuaikan -- imperative)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "conformity, compatibility (kesesuaian)"
+    }
+  },
+  "hak": {
+    "an": {
+      "state": "valid",
+      "gloss": "(colloq.) belonging to; something owned (hakan)",
+      "notes": "rare/informal register"
+    }
+  },
+  "sepakat": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "agreement, accord (kesepakatan)"
+    }
+  },
+  "sejarah": {
+    "ber": {
+      "state": "valid",
+      "gloss": "historic, having a history (bersejarah)"
+    }
+  },
+  "bercanda": {
+    "nya": {
+      "state": "valid",
+      "gloss": "(colloq.) just kidding, joking around (bercandanya)",
+      "notes": "informal register"
+    }
+  },
+  "pengacara": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her lawyer (pengacaranya)"
+    }
+  },
+  "kartu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the card (kartunya)"
+    }
+  },
+  "planet": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the planet (planetnya)"
+    }
+  },
+  "misi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its mission (misinya)"
+    }
+  },
+  "burung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her bird (burungnya)"
+    }
+  },
+  "dewa": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the god, deity (dewanya)"
+    }
+  },
+  "pahlawan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the hero (pahlawannya)"
+    }
+  },
+  "kopi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the coffee (kopinya)"
+    }
+  },
+  "nenek": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her grandmother (neneknya)"
+    }
+  },
+  "kaku": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengaku (to admit, confess) is from aku; kaku (stiff, rigid) has no me- verb form"
+    },
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengakui (to acknowledge) is from aku; kaku (stiff, rigid) has no me-...-i form"
+    }
+  },
+  "emas": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengemas (to pack) is from kemas; emas (gold) has no me- verb form"
+    },
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengemasi (to tidy/pack up) is from kemas; emas (gold) has no me-...-i form"
+    }
   }
 }
