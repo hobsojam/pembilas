@@ -12611,6 +12611,10 @@
     "kan": {
       "state": "valid",
       "gloss": "hide it! (sembunyikan -- imperative)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to hide, conceal (something) (menyembunyikan)"
     }
   },
   "ganti": {
@@ -14423,6 +14427,349 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): selatan (south) is etymologically related but fully opaque/lexicalized in modern usage, now its own root; selat (strait) has no productive -an form"
+    }
+  },
+  "maksud": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to mean, intend (bermaksud)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its meaning; i.e., that is to say (maksudnya)"
+    }
+  },
+  "tindak": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to act, take action (bertindak)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to take action against, penalize (menindak)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "enforcement action, a crackdown (penindakan)"
+    }
+  },
+  "ledak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to explode, burst (meledak)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to detonate, blow up (something) (meledakkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "an explosion, a blast (ledakan)"
+    }
+  },
+  "derita": {
+    "me": {
+      "state": "valid",
+      "gloss": "to suffer, endure (menderita)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a sufferer, patient (penderita)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "suffering (penderitaan)"
+    }
+  },
+  "juang": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to struggle, strive, fight for (berjuang)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a struggle, fight, effort (perjuangan)"
+    }
+  },
+  "kini": {
+    "ter": {
+      "state": "valid",
+      "gloss": "latest, most current, up to date (terkini)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "contemporaneity; trendiness (kekinian, colloq.)"
+    }
+  },
+  "santai": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to relax, hang out (bersantai)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "relaxation, leisure (kesantaian)"
+    }
+  },
+  "neraka": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the hell (of it) (nerakanya)"
+    }
+  },
+  "tamu": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to visit, be a guest (bertamu)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the guest (tamunya)"
+    }
+  },
+  "keparat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "damn it, that wretch (keparatnya)",
+      "notes": "vulgar/strong curse register"
+    }
+  },
+  "pelacur": {
+    "an": {
+      "state": "valid",
+      "gloss": "prostitution (pelacuran)"
+    }
+  },
+  "tas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bag (tasnya)"
+    }
+  },
+  "raya": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to celebrate (merayakan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a celebration (perayaan)"
+    }
+  },
+  "rampok": {
+    "me": {
+      "state": "valid",
+      "gloss": "to rob, plunder (merampok)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a robber (perampok)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a robbery (perampokan)"
+    }
+  },
+  "palsu": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to falsify, forge (memalsukan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a forger (pemalsu)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "falsification, forgery (pemalsuan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "falseness, fakery (kepalsuan)"
+    }
+  },
+  "dukung": {
+    "me": {
+      "state": "valid",
+      "gloss": "to support, back (mendukung)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "support, backing (dukungan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a supporter (pendukung)"
+    }
+  },
+  "truk": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the truck (truknya)"
+    }
+  },
+  "pangeran": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the prince (pangerannya)"
+    }
+  },
+  "iblis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the devil (iblisnya)"
+    }
+  },
+  "binatang": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "bestiality, brutishness (kebinatangan)"
+    }
+  },
+  "rokok": {
+    "me": {
+      "state": "valid",
+      "gloss": "to smoke (merokok)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a smoker (perokok)"
+    }
+  },
+  "bahan": {
+    "ber": {
+      "state": "valid",
+      "gloss": "made of, composed of (berbahan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the material (bahannya)"
+    }
+  },
+  "sembuh": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to cure, heal (someone) (menyembuhkan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a healer (penyembuh)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "healing, recovery (penyembuhan)"
+    }
+  },
+  "mil": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the mile (milnya)"
+    }
+  },
+  "kue": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cake (kuenya)"
+    }
+  },
+  "sobat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her buddy (sobatnya)"
+    }
+  },
+  "komputer": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the computer (komputernya)"
+    }
+  },
+  "putra": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have a son (berputra, literary/formal)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his son (putranya)"
+    }
+  },
+  "kutuk": {
+    "an": {
+      "state": "valid",
+      "gloss": "a curse (kutukan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to curse, condemn (mengutuk)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "cursed, damned (terkutuk)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be cursed (dikutuk)"
+    }
+  },
+  "kucing": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cat (kucingnya)"
+    }
+  },
+  "titik": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its point (titiknya)"
+    }
+  },
+  "mirip": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a similarity, resemblance (kemiripan)"
+    }
+  },
+  "dendam": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the grudge, resentment (dendamnya)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "vengeful, one who holds grudges (pendendam)"
+    }
+  },
+  "fokus": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to focus (something) (memfokuskan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to be focused on (berfokus)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "focused (terfokus)"
+    }
+  },
+  "mama": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her mom (mamanya)"
+    }
+  },
+  "kutu": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kutukan (a curse) is from kutuk; kutu (louse) has no kan-suffixed form"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengutuk/mengutukkan (to curse) is from kutuk; kutu (louse) has no me-...-kan form of its own (mengutukan is a nonsense near-miss of mengutuk)"
     }
   }
 }
