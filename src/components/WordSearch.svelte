@@ -100,9 +100,13 @@
       e.preventDefault()
       activeIndex = Math.max(activeIndex - 1, -1)
     } else if (e.key === 'Enter') {
-      if (activeIndex < 0 || !results[activeIndex]) return
-      e.preventDefault()
-      select(results[activeIndex])
+      if (activeIndex >= 0 && results[activeIndex]) {
+        e.preventDefault()
+        select(results[activeIndex])
+      } else if (results.length === 1) {
+        e.preventDefault()
+        select(results[0])
+      }
     } else if (e.key === 'Escape') {
       if (results.length === 0) return
       e.preventDefault()
