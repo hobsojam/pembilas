@@ -6410,6 +6410,11 @@
       "gloss": "noticeable"
     },
     {
+      "root": "berani",
+      "pos": "word",
+      "gloss": "brave, to dare"
+    },
+    {
       "root": "berantakan",
       "pos": "adjective",
       "gloss": "messy"
@@ -6541,7 +6546,7 @@
     },
     {
       "root": "berikutnya",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "then"
     },
     {
@@ -16735,6 +16740,11 @@
       "gloss": "ikra"
     },
     {
+      "root": "ikut",
+      "pos": "word",
+      "gloss": "join, follow, participate"
+    },
+    {
       "root": "ilahi",
       "pos": "adjective",
       "gloss": "divine"
@@ -20161,7 +20171,7 @@
     },
     {
       "root": "keadaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "situation, status"
     },
     {
@@ -27921,7 +27931,7 @@
     },
     {
       "root": "melindungi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "shield"
     },
     {
@@ -28931,7 +28941,7 @@
     },
     {
       "root": "menghitamkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "blacken"
     },
     {
@@ -28961,7 +28971,7 @@
     },
     {
       "root": "mengikuti",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pursue, according to"
     },
     {
