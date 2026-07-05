@@ -1390,6 +1390,11 @@
       "gloss": "actuary"
     },
     {
+      "root": "aku",
+      "pos": "word",
+      "gloss": "to admit, confess, claim as one's own (distinct from the pronoun aku, 'I/me')"
+    },
+    {
       "root": "akuakultur",
       "pos": "word",
       "gloss": "aquaculture"
@@ -8352,7 +8357,7 @@
     {
       "root": "burung",
       "pos": "word",
-      "gloss": "bird, dick, tool"
+      "gloss": "bird; (vulgar slang) penis"
     },
     {
       "root": "buryatia",
@@ -15357,7 +15362,7 @@
     {
       "root": "hak",
       "pos": "word",
-      "gloss": "right, retractor"
+      "gloss": "right, entitlement"
     },
     {
       "root": "hakim",
@@ -20705,6 +20710,11 @@
       "gloss": "manliness"
     },
     {
+      "root": "kejar",
+      "pos": "word",
+      "gloss": "chase, pursue"
+    },
+    {
       "root": "kejatuhan",
       "pos": "word",
       "gloss": "decline"
@@ -21095,8 +21105,13 @@
       "gloss": "martyrdom"
     },
     {
-      "root": "kemasan",
+      "root": "kemas",
       "pos": "word",
+      "gloss": "tidy, packed"
+    },
+    {
+      "root": "kemasan",
+      "pos": "derived",
       "gloss": "packaging"
     },
     {
@@ -21261,7 +21276,7 @@
     },
     {
       "root": "kemungkinan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "odds, possibility, probability"
     },
     {
@@ -21576,7 +21591,7 @@
     },
     {
       "root": "keputusan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "decision"
     },
     {
@@ -21916,7 +21931,7 @@
     },
     {
       "root": "kesepakatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "agreement"
     },
     {
@@ -28826,7 +28841,7 @@
     },
     {
       "root": "mengejar",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pursue, chase, pursuit"
     },
     {
@@ -29221,7 +29236,7 @@
     },
     {
       "root": "menolak",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "decline, refuse, reject"
     },
     {
@@ -34566,7 +34581,7 @@
     },
     {
       "root": "pengejaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "chase"
     },
     {
@@ -34861,7 +34876,7 @@
     },
     {
       "root": "penolakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "denial, refusal, rejection"
     },
     {
@@ -35826,7 +35841,7 @@
     },
     {
       "root": "pertemuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "meeting"
     },
     {
@@ -45018,6 +45033,11 @@
       "root": "tol",
       "pos": "word",
       "gloss": "toll"
+    },
+    {
+      "root": "tolak",
+      "pos": "word",
+      "gloss": "push away, reject"
     },
     {
       "root": "toleransi",
