@@ -21126,7 +21126,7 @@
     },
     {
       "root": "kemenangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "triumph, victory"
     },
     {
@@ -21776,7 +21776,7 @@
     },
     {
       "root": "kesalahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "error, guilt"
     },
     {
@@ -34526,7 +34526,7 @@
     },
     {
       "root": "pengecualian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "exception"
     },
     {

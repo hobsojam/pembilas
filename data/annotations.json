@@ -8758,6 +8758,11 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): mechanical bertangan collides with tangan + ber-; tang (pliers) has no ber-...-an form"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menangkan (win it!) is menang + kan; tang (pliers) has no me-...-kan verb form (nasal assimilation coincidentally produces the same string as menang)"
     }
   },
   "rubah": {
@@ -12284,6 +12289,237 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): pengacara (lawyer) is an unrelated lexicalized word, now its own root; acara (event) has no pe- agent-noun form with that meaning"
+    }
+  },
+  "alas": {
+    "an": {
+      "state": "valid",
+      "gloss": "reason, excuse (alasan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to have a reason, be justified (beralasan)"
+    }
+  },
+  "dokter": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her doctor (dokternya)"
+    }
+  },
+  "serius": {
+    "nya": {
+      "state": "valid",
+      "gloss": "seriously; its seriousness (seriusnya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as serious as (seserius)"
+    },
+    "lah": {
+      "state": "valid",
+      "gloss": "seriously! I mean it! (seriuslah -- emphatic)"
+    }
+  },
+  "bahaya": {
+    "ber": {
+      "state": "valid",
+      "gloss": "dangerous, hazardous (berbahaya)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "endanger it! (bahayakan)",
+      "notes": "rare/informal register"
+    }
+  },
+  "kaki": {
+    "ber": {
+      "state": "valid",
+      "gloss": "having legs/feet, -legged (berkaki, e.g. berkaki empat = four-legged)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her foot (kakinya)"
+    }
+  },
+  "buku": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her book (bukunya)"
+    }
+  },
+  "jahat": {
+    "pe": {
+      "state": "valid",
+      "gloss": "criminal (penjahat)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as wicked as (sejahat)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its wickedness (jahatnya)"
+    }
+  },
+  "kapal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her ship (kapalnya)"
+    }
+  },
+  "pesta": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to party, celebrate (berpesta)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the party (pestanya)"
+    }
+  },
+  "rahasia": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to keep secret, conceal (merahasiakan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "keep it secret! (rahasiakan -- imperative)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its secret (rahasianya)"
+    }
+  },
+  "anjing": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her dog (anjingnya)"
+    }
+  },
+  "ide": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her idea (idenya)"
+    }
+  },
+  "menang": {
+    "kan": {
+      "state": "valid",
+      "gloss": "win it! (menangkan -- imperative)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to win over, beat (memenangi, e.g. memenangi pertandingan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "triumph, victory (kemenangan)"
+    }
+  },
+  "mimpi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to dream (bermimpi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to dream about, fantasize about (memimpikan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her dream (mimpinya)"
+    }
+  },
+  "guru": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "institution of higher learning (perguruan, e.g. perguruan tinggi = university)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to lecture, patronize (menggurui)"
+    }
+  },
+  "lucu": {
+    "me": {
+      "state": "valid",
+      "gloss": "to clown around, joke (melucu)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the funny thing; funnily (lucunya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as funny as (selucu)"
+    }
+  },
+  "atur": {
+    "an": {
+      "state": "valid",
+      "gloss": "rule, regulation (aturan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to arrange, organize, regulate (mengatur)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be arranged, regulated (diatur)"
+    }
+  },
+  "kecuali": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to exclude (mengecualikan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an exception (pengecualian)"
+    }
+  },
+  "tanah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her land (tanahnya)"
+    }
+  },
+  "korban": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to sacrifice (mengorbankan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "sacrifice (pengorbanan)"
+    }
+  },
+  "api": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have flames, be alight (berapi, e.g. gunung berapi = volcano)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "ignition (pengapian, e.g. an automotive term)"
+    }
+  },
+  "bayi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her baby (bayinya)"
+    }
+  },
+  "tim": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her team (timnya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "on the same team (setim)"
     }
   }
 }
