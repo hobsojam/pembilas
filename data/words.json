@@ -6591,7 +6591,7 @@
     },
     {
       "root": "berjuang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "strive"
     },
     {
@@ -6651,8 +6651,8 @@
     },
     {
       "root": "bermaksud",
-      "pos": "word",
-      "gloss": "mean"
+      "pos": "derived",
+      "gloss": "to mean, intend"
     },
     {
       "root": "bermandikan",
@@ -10178,6 +10178,11 @@
       "root": "dering",
       "pos": "word",
       "gloss": "ring"
+    },
+    {
+      "root": "derita",
+      "pos": "word",
+      "gloss": "suffer"
     },
     {
       "root": "dermaga",
@@ -18640,6 +18645,11 @@
       "gloss": "sell"
     },
     {
+      "root": "juang",
+      "pos": "word",
+      "gloss": "struggle"
+    },
+    {
       "root": "juba",
       "pos": "proper",
       "gloss": "juba"
@@ -25620,8 +25630,13 @@
       "gloss": "lychee"
     },
     {
-      "root": "ledakan",
+      "root": "ledak",
       "pos": "word",
+      "gloss": "explode, burst"
+    },
+    {
+      "root": "ledakan",
+      "pos": "derived",
       "gloss": "explosion"
     },
     {
@@ -27020,6 +27035,11 @@
       "gloss": "maximum"
     },
     {
+      "root": "maksud",
+      "pos": "word",
+      "gloss": "meaning, intention"
+    },
+    {
       "root": "maktab",
       "pos": "word",
       "gloss": "maktab"
@@ -27901,7 +27921,7 @@
     },
     {
       "root": "meledak",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "explode"
     },
     {
@@ -28166,8 +28186,8 @@
     },
     {
       "root": "membersihkan",
-      "pos": "word",
-      "gloss": "clear"
+      "pos": "derived",
+      "gloss": "to clean"
     },
     {
       "root": "membiarkan",
@@ -28621,8 +28641,8 @@
     },
     {
       "root": "menderita",
-      "pos": "word",
-      "gloss": "endure"
+      "pos": "derived",
+      "gloss": "to suffer, endure"
     },
     {
       "root": "mendesah",
@@ -29406,7 +29426,7 @@
     },
     {
       "root": "menyembunyikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "conceal"
     },
     {
@@ -44840,8 +44860,13 @@
       "gloss": "augend"
     },
     {
-      "root": "tindakan",
+      "root": "tindak",
       "pos": "word",
+      "gloss": "act, take action"
+    },
+    {
+      "root": "tindakan",
+      "pos": "derived",
       "gloss": "action"
     },
     {
