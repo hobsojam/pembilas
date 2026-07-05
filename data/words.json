@@ -5870,13 +5870,18 @@
       "gloss": "spinach"
     },
     {
-      "root": "bayangan",
+      "root": "bayang",
       "pos": "word",
+      "gloss": "shadow, image"
+    },
+    {
+      "root": "bayangan",
+      "pos": "derived",
       "gloss": "reflection, shade, shadow"
     },
     {
       "root": "bayangkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "imagine"
     },
     {
@@ -6621,7 +6626,7 @@
     },
     {
       "root": "berlatih",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "drill"
     },
     {
@@ -6881,7 +6886,7 @@
     },
     {
       "root": "biasanya",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "generally, normally, usually"
     },
     {
@@ -20196,7 +20201,7 @@
     },
     {
       "root": "keamanan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "safety, security"
     },
     {
@@ -20271,7 +20276,7 @@
     },
     {
       "root": "kebenaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "truth"
     },
     {
@@ -25460,8 +25465,13 @@
       "gloss": "latent"
     },
     {
-      "root": "latihan",
+      "root": "latih",
       "pos": "word",
+      "gloss": "train, practice"
+    },
+    {
+      "root": "latihan",
+      "pos": "derived",
       "gloss": "exercise, practice, training"
     },
     {
@@ -27846,7 +27856,7 @@
     },
     {
       "root": "melatih",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "practise"
     },
     {
@@ -28711,7 +28721,7 @@
     },
     {
       "root": "mengalahkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "whip, defeat"
     },
     {
@@ -29216,7 +29226,7 @@
     },
     {
       "root": "menonton",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "watch"
     },
     {
@@ -33756,7 +33766,7 @@
     },
     {
       "root": "pelatih",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "coach"
     },
     {
@@ -34851,7 +34861,7 @@
     },
     {
       "root": "penonton",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "audience, onlooker, spectator"
     },
     {
@@ -35206,7 +35216,7 @@
     },
     {
       "root": "perasaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "feeling"
     },
     {
@@ -45093,6 +45103,11 @@
       "root": "tonsilektomi",
       "pos": "word",
       "gloss": "tonsillectomy"
+    },
+    {
+      "root": "tonton",
+      "pos": "word",
+      "gloss": "watch, view"
     },
     {
       "root": "topeng",
