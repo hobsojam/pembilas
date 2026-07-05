@@ -5080,6 +5080,11 @@
       "gloss": "squirrel"
     },
     {
+      "root": "bajingan",
+      "pos": "word",
+      "gloss": "bastard, scoundrel, jerk (vulgar/mild curse depending on context)"
+    },
+    {
       "root": "bajrayana",
       "pos": "proper",
       "gloss": "tibetan buddhism"
@@ -6086,7 +6091,7 @@
     },
     {
       "root": "belajar",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "study, learn"
     },
     {
@@ -20626,7 +20631,7 @@
     },
     {
       "root": "kehidupan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "life"
     },
     {
@@ -20791,7 +20796,7 @@
     },
     {
       "root": "kekuatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "power, force"
     },
     {
@@ -21581,7 +21586,7 @@
     },
     {
       "root": "kerajaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "kingdom, royal"
     },
     {
@@ -27901,7 +27906,7 @@
     },
     {
       "root": "melewati",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pass, go past/through"
     },
     {
@@ -28122,7 +28127,7 @@
     {
       "root": "membiarkan",
       "pos": "word",
-      "gloss": "abandon"
+      "gloss": "let, allow, leave (as is)"
     },
     {
       "root": "membran",
@@ -29106,7 +29111,7 @@
     },
     {
       "root": "menikah",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "marry, get married"
     },
     {
@@ -34420,6 +34425,11 @@
       "gloss": "randomization"
     },
     {
+      "root": "pengacara",
+      "pos": "word",
+      "gloss": "lawyer"
+    },
+    {
       "root": "pengacau",
       "pos": "word",
       "gloss": "undesirable"
@@ -35426,7 +35436,7 @@
     },
     {
       "root": "perjalanan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "trip"
     },
     {
@@ -35571,7 +35581,7 @@
     },
     {
       "root": "pernikahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "wedding"
     },
     {
@@ -35776,7 +35786,7 @@
     },
     {
       "root": "pertanyaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "question"
     },
     {

@@ -235,8 +235,9 @@
       "gloss": "to teach (someone); to instruct"
     },
     "ber": {
-      "state": "unused",
-      "gloss": ""
+      "state": "valid",
+      "gloss": "to study, learn (belajar)",
+      "form": "belajar"
     },
     "ke_an": {
       "state": "unused",
@@ -12026,6 +12027,263 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): mengenakan (to wear) is from kena + me-...-kan; ena has no independently attested meaning or me-...-kan form"
+    }
+  },
+  "luka": {
+    "ter": {
+      "state": "valid",
+      "gloss": "wounded, injured (terluka)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to wound, injure (melukai)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her wound (lukanya)"
+    }
+  },
+  "dasar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "basically, fundamentally (dasarnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to be based on (berdasar, e.g. berdasarkan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "fundamental, basic (mendasar)"
+    }
+  },
+  "lawan": {
+    "me": {
+      "state": "valid",
+      "gloss": "to oppose, fight against (melawan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "resistance, opposition (perlawanan)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "opposing, at odds, conflicting (berlawanan)"
+    }
+  },
+  "tengah": {
+    "se": {
+      "state": "valid",
+      "gloss": "half (setengah)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "intermediate, secondary (menengah, e.g. sekolah menengah)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "di tengah (in the middle of) is written as two words per standard orthography, not a compound"
+    }
+  },
+  "membiarkan": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be let, allowed (dibiarkan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "let it be, allow it (membiarkannya)"
+    }
+  },
+  "curi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to steal (mencuri)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "thief (pencuri)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be stolen (dicuri)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "theft, burglary (pencurian)"
+    }
+  },
+  "lewat": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to let pass, skip, miss out on (melewatkan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to pass, go past, exceed (melewati)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "let it pass! skip it! (lewatkan -- imperative)"
+    }
+  },
+  "perang": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to be at war, fight a war (berperang)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to wage war against (memerangi)"
+    }
+  },
+  "langsung": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to take place, occur; to continue (berlangsung)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "continuity, sustainability (kelangsungan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to hold, conduct (an event) (melangsungkan, e.g. melangsungkan pernikahan)"
+    }
+  },
+  "hukum": {
+    "an": {
+      "state": "valid",
+      "gloss": "punishment, sentence (hukuman)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be punished (dihukum)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to punish, sentence (menghukum)"
+    }
+  },
+  "serah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to surrender, give up (menyerah)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "up to you, whatever you decide (terserah)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "hand it over! (serahkan -- imperative)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "handover, transfer (penyerahan)"
+    }
+  },
+  "raja": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the king (rajanya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "kingdom; royal, majestic (kerajaan)"
+    }
+  },
+  "nikah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to marry, get married (menikah)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to marry someone (menikahi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to marry someone off, officiate a marriage (menikahkan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "wedding, marriage (pernikahan)"
+    }
+  },
+  "kira": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be thought, presumed, assumed (dikira)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "an estimate, approximation (perkiraan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "presumably, apparently (kiranya -- formal/literary)",
+      "notes": "literary register"
+    }
+  },
+  "bukti": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to prove (membuktikan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "proven (terbukti)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "prove it! (buktikan -- imperative)"
+    }
+  },
+  "periksa": {
+    "me": {
+      "state": "valid",
+      "gloss": "to examine, inspect (memeriksa)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be examined (diperiksa)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "examination, inspection (pemeriksaan)"
+    }
+  },
+  "suara": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to speak up, voice an opinion (bersuara)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to voice, express, advocate for (menyuarakan)"
+    }
+  },
+  "kosong": {
+    "kan": {
+      "state": "valid",
+      "gloss": "empty it! clear it! (kosongkan -- imperative)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "emptiness, vacancy (kekosongan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its emptiness (kosongnya)"
+    }
+  },
+  "acara": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengacara (lawyer) is an unrelated lexicalized word, now its own root; acara (event) has no pe- agent-noun form with that meaning"
     }
   }
 }

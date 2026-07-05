@@ -31,7 +31,7 @@ mengapa siapa kapan sangat telah bahwa atau tetapi namun agar supaya karena seba
 demi tanpa antara dalam luar atas bawah depan belakang saat ketika selama hingga
 sampai sejak kalau masih sedang seperti sesuatu beberapa semuanya ayo kan hal mau
 bagi para oleh yaitu yakni sang si nan seseorang bahkan sebenarnya setiap ayolah
-setelah halo hai seharusnya sebentar segala astaga kumohon'''.split())
+setelah halo hai seharusnya sebentar segala astaga kumohon daripada'''.split())
 
 
 def main():
