@@ -12365,6 +12365,10 @@
     "nya": {
       "state": "valid",
       "gloss": "its wickedness (jahatnya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "crime, cruelty, evil (kejahatan)"
     }
   },
   "kapal": {
@@ -13660,6 +13664,220 @@
     "ke_an": {
       "state": "valid",
       "gloss": "military affairs, the armed forces (ketentaraan)"
+    }
+  },
+  "ganggu": {
+    "me": {
+      "state": "valid",
+      "gloss": "to disturb, bother, interrupt (mengganggu)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a disturbance, disorder, interference (gangguan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a nuisance, disturber (pengganggu)"
+    }
+  },
+  "mampu": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to enable, make capable (memampukan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "ability, capability (kemampuan)"
+    }
+  },
+  "kuda": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to ride a horse (berkuda)"
+    }
+  },
+  "kanan": {
+    "ke": {
+      "state": "valid",
+      "gloss": "to the right (ke kanan)",
+      "notes": "conventionally written as two words"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "on the right (di kanan)",
+      "notes": "conventionally written as two words"
+    }
+  },
+  "detik": {
+    "se": {
+      "state": "valid",
+      "gloss": "one second, an instant (sedetik)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to tick (of a clock) (berdetik)"
+    }
+  },
+  "balas": {
+    "me": {
+      "state": "valid",
+      "gloss": "to reply, answer; to retaliate against (membalas)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a reply, response; retaliation (balasan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to avenge, retaliate for (membalaskan, e.g. membalaskan dendam)"
+    }
+  },
+  "kabur": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to blur, obscure (mengaburkan)"
+    }
+  },
+  "mabuk": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "intoxicating (memabukkan)"
+    }
+  },
+  "kadang": {
+    "ter": {
+      "state": "valid",
+      "gloss": "sometimes, occasionally (terkadang -- more formal than kadang-kadang)"
+    }
+  },
+  "kencan": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to go on a date, be dating (berkencan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to date (someone) (mengencani)"
+    }
+  },
+  "bom": {
+    "me": {
+      "state": "valid",
+      "gloss": "to bomb (mengebom)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "bombing (pemboman)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "bomber, one who bombs (pembom)"
+    }
+  },
+  "rekam": {
+    "me": {
+      "state": "valid",
+      "gloss": "to record (merekam)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a recording (rekaman)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be recorded (direkam)"
+    }
+  },
+  "suami": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have a husband, be married (of a woman) (bersuami)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "her husband (suaminya)"
+    }
+  },
+  "khusus": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to specialize, single out (mengkhususkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "specialty, distinctive feature (kekhususan)"
+    }
+  },
+  "utara": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to state, express (an opinion) (mengutarakan)",
+      "notes": "unrelated to the 'north' sense -- a distinct lexical meaning, not compositional"
+    }
+  },
+  "lahir": {
+    "ter": {
+      "state": "valid",
+      "gloss": "born (as an accident/circumstance of fate) (terlahir)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "give birth to it! deliver it! (lahirkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "birth, childbirth (kelahiran)"
+    }
+  },
+  "jumlah": {
+    "se": {
+      "state": "valid",
+      "gloss": "a number of, several (sejumlah)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to total, amount to (berjumlah)"
+    }
+  },
+  "jiwa": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "mental, psychological (kejiwaan, e.g. kesehatan jiwa)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "spirited, having the spirit of (berjiwa, e.g. berjiwa muda)"
+    }
+  },
+  "kiri": {
+    "ke": {
+      "state": "valid",
+      "gloss": "to the left (ke kiri)",
+      "notes": "conventionally written as two words"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "on the left (di kiri)",
+      "notes": "conventionally written as two words"
+    }
+  },
+  "kecelakaan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the accident, its accident (kecelakaannya)"
+    }
+  },
+  "makhluk": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the creature, its being (makhluknya)"
+    }
+  },
+  "kan": {
+    "ke_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kekanan (to the right) is from kanan; kan (tag-question particle, right?) has no ke-...-an form"
     }
   }
 }
