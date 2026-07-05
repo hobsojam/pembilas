@@ -5252,7 +5252,7 @@
     {
       "root": "balas",
       "pos": "word",
-      "gloss": "answer, ballast"
+      "gloss": "reply, answer; to retaliate"
     },
     {
       "root": "balerina",
@@ -13980,8 +13980,13 @@
       "gloss": "ganges"
     },
     {
-      "root": "gangguan",
+      "root": "ganggu",
       "pos": "word",
+      "gloss": "disturb, bother"
+    },
+    {
+      "root": "gangguan",
+      "pos": "derived",
       "gloss": "disorder, distraction, interference"
     },
     {
@@ -20306,7 +20311,7 @@
     },
     {
       "root": "keberatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "objection"
     },
     {
@@ -20676,12 +20681,12 @@
     },
     {
       "root": "kejadian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "genesis, event"
     },
     {
       "root": "kejahatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "crime, cruelty, evil"
     },
     {
@@ -20846,7 +20851,7 @@
     },
     {
       "root": "kelahiran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "birth, childbirth, parturition"
     },
     {
@@ -21061,7 +21066,7 @@
     },
     {
       "root": "kemampuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "ability"
     },
     {
@@ -24712,7 +24717,7 @@
     {
       "root": "kulihat",
       "pos": "word",
-      "gloss": "i came, i saw, i conquered"
+      "gloss": "I saw, I looked (colloq. contraction of aku + lihat)"
     },
     {
       "root": "kuliner",
@@ -28011,7 +28016,7 @@
     },
     {
       "root": "memampukan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "enable"
     },
     {
@@ -28881,7 +28886,7 @@
     },
     {
       "root": "mengganggu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "annoy"
     },
     {
@@ -29186,7 +29191,7 @@
     },
     {
       "root": "menjelaskan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "explain"
     },
     {
@@ -35381,7 +35386,7 @@
     },
     {
       "root": "perhatian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "attention, warning"
     },
     {
@@ -44561,7 +44566,7 @@
     },
     {
       "root": "tertarik",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "interested"
     },
     {
