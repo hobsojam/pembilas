@@ -2716,6 +2716,10 @@
     "ke": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "court, tribunal (pengadilan)"
     }
   },
   "aman": {
@@ -12192,6 +12196,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "handover, transfer (penyerahan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to hand over, surrender (something) (menyerahkan)"
     }
   },
   "raja": {
@@ -12425,6 +12433,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "triumph, victory (kemenangan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to win (something), to make (someone/something) win (memenangkan)"
     }
   },
   "mimpi": {
@@ -14770,6 +14782,317 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): mengutuk/mengutukkan (to curse) is from kutuk; kutu (louse) has no me-...-kan form of its own (mengutukan is a nonsense near-miss of mengutuk)"
+    }
+  },
+  "kelompok": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to form groups, be grouped (berkelompok)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to classify, group together (mengelompokkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "grouping, classification (pengelompokan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the group (kelompoknya)"
+    }
+  },
+  "takjub": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "amazing, to amaze (menakjubkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "amazement, wonder (ketakjuban)"
+    }
+  },
+  "cipta": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to create (menciptakan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a creator (pencipta)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "creation (penciptaan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a creation, a work (ciptaan)"
+    }
+  },
+  "tanding": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to compete (bertanding)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a match, competition (pertandingan)"
+    }
+  },
+  "nyawa": {
+    "ber": {
+      "state": "valid",
+      "gloss": "alive, having a soul; animate (bernyawa)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its life, its soul (nyawanya)"
+    }
+  },
+  "video": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the video (videonya)"
+    }
+  },
+  "kondisi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its condition (kondisinya)"
+    }
+  },
+  "listrik": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "electrical system, electrification (kelistrikan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "electrified, powered (berlistrik)"
+    }
+  },
+  "garis": {
+    "ber": {
+      "state": "valid",
+      "gloss": "lined, striped (bergaris)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a ruler (the tool) (penggaris)"
+    }
+  },
+  "kakek": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his grandfather (kakeknya)"
+    }
+  },
+  "biru": {
+    "me": {
+      "state": "valid",
+      "gloss": "to turn/go blue (membiru)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "blueish; bruised (kebiruan)"
+    }
+  },
+  "napas": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to breathe (bernapas)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her breath (napasnya)"
+    }
+  },
+  "radio": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the radio (radionya)"
+    }
+  },
+  "warga": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its citizens (warganya)"
+    }
+  },
+  "kubur": {
+    "an": {
+      "state": "valid",
+      "gloss": "a grave, cemetery (kuburan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to bury (mengubur)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be buried (dikubur)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "buried (terkubur)"
+    }
+  },
+  "gigi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "toothed, having teeth (bergigi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her teeth (giginya)"
+    }
+  },
+  "racun": {
+    "ber": {
+      "state": "valid",
+      "gloss": "poisonous (beracun)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to poison (someone) (meracuni)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "poisoned; food poisoning (keracunan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the poison (racunnya)"
+    }
+  },
+  "ayam": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her chicken (ayamnya)"
+    }
+  },
+  "darurat": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "emergency, state of emergency (kedaruratan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its urgency (daruratnya)"
+    }
+  },
+  "tanggal": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to take off, remove (clothing etc.) (menanggalkan)",
+      "notes": "distinct sense from tanggal 'date' -- this is tanggal 'to fall/come off'"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "take it off! (tanggalkan -- imperative)",
+      "notes": "distinct sense from tanggal 'date'"
+    }
+  },
+  "tes": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be tested (dites)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the test (tesnya)"
+    }
+  },
+  "sinar": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to shine (bersinar)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to shine upon (menyinari)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its rays, its light (sinarnya)"
+    }
+  },
+  "teh": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tea (tehnya)"
+    }
+  },
+  "tulang": {
+    "ber": {
+      "state": "valid",
+      "gloss": "having bones, boned (bertulang)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its bone (tulangnya)"
+    }
+  },
+  "daya": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to be capable, have power/agency (berdaya)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its power, its energy (dayanya)"
+    }
+  },
+  "konyol": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "silliness, foolishness (kekonyolan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "how ludicrous it is (konyolnya)"
+    }
+  },
+  "bar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bar (barnya)"
+    }
+  },
+  "hakim": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to judge, pass judgment on (menghakimi)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "the judiciary (kehakiman)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the judge (hakimnya)"
+    }
+  },
+  "menakjub": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menakjubkan (amazing) is from takjub; menakjub is a bogus root fragment (see follow-up issue), has no kan-suffixed form of its own"
+    }
+  },
+  "ciptaan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): penciptaan (creation) is from cipta.pe_an; ciptaan (a creation) has no pe- agent-noun form of its own"
+    }
+  },
+  "pencipta": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): penciptaan (creation) is from cipta.pe_an; pencipta (a creator) has no an-suffixed form of its own"
     }
   }
 }
