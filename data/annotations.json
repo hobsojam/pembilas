@@ -15333,5 +15333,337 @@
       "state": "valid",
       "gloss": "deliberateness, intent (kesengajaan)"
     }
+  },
+  "ingin": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "desire (keinginan)"
+    }
+  },
+  "rawat": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a nurse, caretaker (perawat)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to nurse, care for (someone) (merawat)"
+    }
+  },
+  "tekan": {
+    "an": {
+      "state": "valid",
+      "gloss": "pressure (tekanan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "emphasis, stress (penekanan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having pressure, pressurized (bertekanan)"
+    }
+  },
+  "betul": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a coincidence (kebetulan)"
+    }
+  },
+  "lapang": {
+    "an": {
+      "state": "valid",
+      "gloss": "a field, an open ground (lapangan)"
+    }
+  },
+  "sumber": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to originate, stem from (bersumber)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the source (sumbernya)"
+    }
+  },
+  "kelahi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to fight, brawl (berkelahi)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a fight, a brawl (perkelahian)"
+    }
+  },
+  "nyala": {
+    "kan": {
+      "state": "valid",
+      "gloss": "light it! turn it on! (nyalakan -- imperative)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to light, turn on (menyalakan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to be lit, to glow, to be on (menyala)"
+    }
+  },
+  "wakil": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to represent (mewakili)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "representation, a delegation (perwakilan)"
+    }
+  },
+  "seni": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "art, the arts (kesenian)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "artistic, having artistic quality (berseni)"
+    }
+  },
+  "anggur": {
+    "me": {
+      "state": "valid",
+      "gloss": "to be unemployed, idle (menganggur)",
+      "notes": "an older, distinct sense from anggur 'grape, wine'"
+    }
+  },
+  "energi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "energetic, having energy (berenergi)"
+    }
+  },
+  "patah": {
+    "se": {
+      "state": "valid",
+      "gloss": "a single word, an utterance (sepatah, e.g. sepatah kata)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "break it! (patahkan -- imperative)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a fracture, a fault line (patahan)"
+    }
+  },
+  "cerdas": {
+    "se": {
+      "state": "valid",
+      "gloss": "as smart as (secerdas)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "smartest (tercerdas)"
+    }
+  },
+  "bakat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "talented (berbakat)"
+    }
+  },
+  "sabar": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to be patient (bersabar)"
+    },
+    "lah": {
+      "state": "valid",
+      "gloss": "be patient! (sabarlah)"
+    }
+  },
+  "taman": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "landscaping; the parks department (pertamanan)"
+    }
+  },
+  "bela": {
+    "me": {
+      "state": "valid",
+      "gloss": "to defend, side with (membela)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a defender (pembela)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a defense (pembelaan)"
+    }
+  },
+  "gigit": {
+    "me": {
+      "state": "valid",
+      "gloss": "to bite (menggigit)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a bite (gigitan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be bitten (digigit)"
+    }
+  },
+  "sudut": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to corner (someone), put on the spot (menyudutkan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "cornered (disudut)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its corner, its angle (sudutnya)"
+    }
+  },
+  "jejak": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to plant, set (feet) (menjejakkan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to trace, track down (menjejaki)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its trace, its track (jejaknya)"
+    }
+  },
+  "idiot": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the idiot (idiotnya)"
+    }
+  },
+  "sinyal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the signal (sinyalnya)"
+    }
+  },
+  "cincin": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ring (cincinnya)"
+    }
+  },
+  "gerbang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the gate (gerbangnya)"
+    }
+  },
+  "istana": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the palace (istananya)"
+    }
+  },
+  "wilayah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its territory (wilayahnya)"
+    }
+  },
+  "jalang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "how wild, how untamed (jalangnya)",
+      "notes": "also a vulgar term for a promiscuous woman"
+    }
+  },
+  "jenderal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the general (jenderalnya)"
+    }
+  },
+  "direktur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the director (direkturnya)"
+    }
+  },
+  "lelucon": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the joke (leluconnya)"
+    }
+  },
+  "pasien": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the patient (pasiennya)"
+    }
+  },
+  "letnan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the lieutenant (letnannya)"
+    }
+  },
+  "stasiun": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the station (stasiunnya)"
+    }
+  },
+  "virus": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the virus (virusnya)"
+    }
+  },
+  "naga": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the dragon (naganya)"
+    }
+  },
+  "vampir": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the vampire (vampirnya)"
+    }
+  },
+  "malaikat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the angel (malaikatnya)"
+    }
+  },
+  "perahu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the boat (perahunya)"
+    }
+  },
+  "tiket": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ticket (tiketnya)"
+    }
+  },
+  "narkoba": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the drugs (narkobanya)"
+    }
   }
 }
