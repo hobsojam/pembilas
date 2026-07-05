@@ -1,9 +1,9 @@
 ---
 name: frequency-batch
-description: Run the next frequency-driven annotation batch for issue #14 — rank candidates by corpus frequency, propose, annotate, verify, and ship as a PR.
+description: Run the next frequency-driven annotation batch for issue #14 in the bahasa-affix repo — rank candidates by corpus frequency, propose, annotate, verify, and ship as a PR. Trigger on "next batch", "batch N", or similar phrasing alone, even without further detail.
 ---
 
-Run this when the user says "next batch", "batch N", or similar, in the bahasa-affix repo. Assumes the previous batch's PR is merged.
+Assumes the previous batch's PR is merged.
 
 ## 0. Sync
 
@@ -34,19 +34,10 @@ Post a comment covering: the root list, any new roots and why, any `pos:"derived
 
 A Python script that: adds `NEW_WORDS` to `words.json`, applies `GLOSS_FIXES`, tags `POS_DERIVED` roots, and writes `BATCH` slots into `annotations.json`.
 
-**Before running it**, AST-audit every tuple in `BATCH` for the right element count (this repo's convention is `(state, gloss, notes|None)` — exactly 3 elements). This bug (an extra trailing `None`) has recurred multiple times:
+**Before running it**, audit every tuple in `BATCH` for the right element count (this repo's convention is `(state, gloss, notes|None)` — exactly 3 elements). An extra trailing `None` has recurred multiple times:
 
-```python
-import ast
-tree = ast.parse(open(script_path, encoding='utf-8').read())
-class V(ast.NodeVisitor):
-    def visit_Assign(self, node):
-        if isinstance(node.targets[0], ast.Name) and node.targets[0].id == 'BATCH':
-            for rk, rd in zip(node.value.keys, node.value.values):
-                for ak, tup in zip(rd.keys, rd.values):
-                    if len(tup.elts) != 3:
-                        print('BAD:', rk.value, ak.value, len(tup.elts))
-V().visit(tree)
+```
+python scripts/audit_batch_tuples.py path/to/apply_batch_N.py
 ```
 
 If the script fails partway through (e.g. an unmet assert), check `git status -s data/words.json` — `words.json` is written before `annotations.json` in most of these scripts, so a mid-script crash can leave a partial write. `git checkout -- data/words.json` before re-running if so.
@@ -60,20 +51,18 @@ npm run build:index
 
 Then scan for mixed verified/unverified collisions:
 
-```python
-byform = defaultdict(list)
-for e in idx: byform[e[0]].append(e)
-mixed = {f: es for f, es in byform.items() if any(len(e)==4 for e in es) and any(len(e)==3 for e in es)}
+```
+python scripts/scan_collisions.py
 ```
 
-For each, determine which side is the real derivation and mark the other's slot `unused` with a `notes` field starting `"collision triage (#48): ..."`. Rebuild and re-scan until zero. **This has never once cleared on the first try across 11 batches — budget time for it.**
+For each hit, determine which side is the real derivation and mark the other's slot `unused` with a `notes` field starting `"collision triage (#48): ..."`. Rebuild and re-scan until it reports zero. **This has never once cleared on the first try in this repo's history — budget time for it.**
 
 ## 5. Two extra checks this repo's history says are worth doing every time
 
 **Prefix near-miss check** (batch 7 lesson): the collision scanner above only catches *exact*-form collisions. A newly-annotated slot can also produce a *longer* junk form that starts with a real verified form and pollutes autocomplete (e.g. `kawasan.pe_an` → `pengawasanan`, a nonsense near-miss for the real `pengawasan`). Check every new verified form:
 
-```python
-longer = [e for e in idx if e[0] != vf and e[0].startswith(vf) and len(e) == 3]
+```
+python scripts/scan_near_miss.py <verified_form> [<verified_form> ...]
 ```
 
 Most hits are benign (real unrelated words sharing a prefix, e.g. `abu`/`abugida` — that's desirable autocomplete, not a bug). Only chase ones where the "other root" is a nonsense mechanical guess.
