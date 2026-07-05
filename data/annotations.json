@@ -12836,5 +12836,246 @@
       "gloss": "",
       "notes": "collision triage (#48): penjarakan (imprison him/her -- imperative of memenjarakan) is from penjara + kan; jarak (distance) has no pe-...-an form with that meaning"
     }
+  },
+  "film": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to make into a film, film (memfilmkan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "the film industry (perfilman)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the film, its film (filmnya)"
+    }
+  },
+  "kantor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her office (kantornya)"
+    }
+  },
+  "juta": {
+    "an": {
+      "state": "valid",
+      "gloss": "millions (jutaan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "one million (sejuta)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "in the millions (berjuta, e.g. berjuta-juta)",
+      "notes": "usually reduplicated (berjuta-juta)"
+    }
+  },
+  "sentuh": {
+    "me": {
+      "state": "valid",
+      "gloss": "to touch (menyentuh)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a touch (sentuhan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "touched, moved emotionally (tersentuh)"
+    }
+  },
+  "berita": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to report, announce (memberitakan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "reporting, coverage (pemberitaan)"
+    }
+  },
+  "anggap": {
+    "me": {
+      "state": "valid",
+      "gloss": "to consider, regard as (menganggap)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be considered, regarded as (dianggap)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "assumption, view, opinion (beranggapan)"
+    }
+  },
+  "berikut": {
+    "nya": {
+      "state": "valid",
+      "gloss": "afterward, next; the following (berikutnya)"
+    }
+  },
+  "asal": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to originate, come from (berasal)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "provided that, as long as (asalkan)"
+    }
+  },
+  "menangis": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to cry over, weep for (menangisi)"
+    }
+  },
+  "buang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to throw away, discard (membuang)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be thrown away, discarded (dibuang)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "thrown away, discarded, wasted (terbuang)"
+    }
+  },
+  "gagal": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "failure (kegagalan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to foil, thwart, cause to fail (menggagalkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "foil it! cancel it! (gagalkan -- imperative)"
+    }
+  },
+  "foto": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to take a photo, be photographed (berfoto)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be photographed (difoto)"
+    }
+  },
+  "kendali": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to control, steer (mengendalikan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "under control (terkendali)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "controller, one who controls (pengendali)"
+    }
+  },
+  "hadiah": {
+    "ber": {
+      "state": "valid",
+      "gloss": "with a prize; offering a reward (berhadiah)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to award, give a gift to (menghadiahi)"
+    }
+  },
+  "informasi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to inform, communicate (menginformasikan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "inform (it)! (informasikan -- imperative)"
+    }
+  },
+  "hitam": {
+    "me": {
+      "state": "valid",
+      "gloss": "to blacken, darken, turn black (menghitam)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "blacken it! (hitamkan -- imperative)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to blacken, darken (menghitamkan)"
+    }
+  },
+  "siang": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "to oversleep, be too late in the day (kesiangan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "that afternoon/day (siangnya)"
+    }
+  },
+  "istirahat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to rest, take a break (beristirahat)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a resting place; rest area (peristirahatan)"
+    }
+  },
+  "sebelah": {
+    "di": {
+      "state": "valid",
+      "gloss": "beside, next to (di sebelah)",
+      "notes": "conventionally written as two words; kept as a slot since it's the dominant everyday usage"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "adjacent, next to each other (bersebelahan)"
+    }
+  },
+  "umur": {
+    "se": {
+      "state": "valid",
+      "gloss": "of the same age (seumur, e.g. seumur hidup = for life)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "aged, having the age of (berumur)"
+    }
+  },
+  "ikut": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to follow, accompany; to join (mengikuti)"
+    }
+  },
+  "berani": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "bravery, courage (keberanian)"
+    }
+  },
+  "rani": {
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): berani (brave, to dare) is an unrelated word, now its own root; rani has no attested independent meaning or ber- form"
+    }
   }
 }
