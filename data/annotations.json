@@ -11723,5 +11723,309 @@
       "gloss": "",
       "notes": "collision triage (#48): pengairan (irrigation) is from air + pe-...-an; airan has no independently attested meaning or pe- form"
     }
+  },
+  "gadis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the girl, her (gadisnya)"
+    }
+  },
+  "mobil": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her car (mobilnya)"
+    },
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kemobil is not a word"
+    }
+  },
+  "memang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "(colloq.) is that so? really? (memangnya)",
+      "notes": "informal register"
+    },
+    "lah": {
+      "state": "valid",
+      "gloss": "(emphatic) indeed, admittedly (memanglah)"
+    }
+  },
+  "hebat": {
+    "ter": {
+      "state": "valid",
+      "gloss": "the most amazing, greatest (terhebat)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its impressiveness; incredibly (hebatnya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as amazing as (sehebat)"
+    }
+  },
+  "pagi": {
+    "se": {
+      "state": "valid",
+      "gloss": "early in the morning (sepagi ini = this early)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "that morning (paginya)"
+    }
+  },
+  "senjata": {
+    "ber": {
+      "state": "valid",
+      "gloss": "armed (bersenjata)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "armament, weaponry (persenjataan)"
+    }
+  },
+  "aneh": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "strangeness, oddity (keanehan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "the strangest, weirdest (teraneh)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as strange as (seaneh)"
+    }
+  },
+  "perintah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to rule, govern, command (memerintah)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "government (pemerintah)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "administration, government (pemerintahan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to order, command, instruct (memerintahkan)"
+    }
+  },
+  "menit": {
+    "se": {
+      "state": "valid",
+      "gloss": "one minute (semenit)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its minute; the minutes thereof (menitnya)"
+    }
+  },
+  "bohong": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to lie, tell a lie (berbohong)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a lie, falsehood (kebohongan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "liar (pembohong)"
+    }
+  },
+  "serang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to attack (menyerang)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "an attack (serangan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be attacked (diserang)"
+    }
+  },
+  "habis": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to use up, finish off (menghabiskan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "to run out of, be out of (kehabisan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "finish it! use it all up! (habiskan)"
+    }
+  },
+  "darah": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to bleed, bloody (berdarah)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its blood (darahnya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "bleeding, hemorrhage (pendarahan)"
+    }
+  },
+  "besok": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the next day (besoknya)"
+    }
+  },
+  "minggu": {
+    "se": {
+      "state": "valid",
+      "gloss": "one week (seminggu)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "weekly (mingguan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "that week (minggunya)"
+    }
+  },
+  "hancur": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to destroy, smash, crush (menghancurkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "destroy it! smash it! (hancurkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "destruction, devastation (kehancuran)"
+    }
+  },
+  "hampir": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to approach, go near (menghampiri)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "close together, nearly touching (berhampiran)",
+      "notes": "rare/literary register"
+    }
+  },
+  "memberitahu": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to inform, notify (someone of something) (memberitahukan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be informed, notified (diberitahu)"
+    }
+  },
+  "kena": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "about, concerning, regarding (mengenai)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "to be hit by, affected by (terkena)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to wear, put on (clothes/accessories) (mengenakan)"
+    }
+  },
+  "beda": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to differ, be different (berbeda)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to differentiate, distinguish (membedakan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the difference (bedanya)"
+    }
+  },
+  "kesempatan": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have a chance, get the opportunity (berkesempatan)"
+    }
+  },
+  "mohon": {
+    "me": {
+      "state": "valid",
+      "gloss": "to request, beg, plead (memohon)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a request, application, petition (permohonan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "petitioner, applicant (pemohon)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be requested (dimohon)"
+    }
+  },
+  "sial": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "misfortune, bad luck (kesialan)"
+    }
+  },
+  "sialan": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kesialan (misfortune) is sial + ke-...-an; sialan (the interjection) has no bare ke- form"
+    }
+  },
+  "pohon": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memohon is from mohon; pohon (tree) has no me- verb form"
+    },
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pemohon (petitioner) is from mohon + pe-; pohon (tree) has no pe- agent-noun form"
+    }
+  },
+  "ena": {
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengenai (regarding) is from kena + me-...-i; ena has no independently attested meaning or me-...-i form"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengenakan (to wear) is from kena + me-...-kan; ena has no independently attested meaning or me-...-kan form"
+    }
   }
 }

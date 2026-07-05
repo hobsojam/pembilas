@@ -1136,7 +1136,7 @@
     },
     {
       "root": "akhirnya",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "eventually, in the end"
     },
     {
@@ -15262,7 +15262,7 @@
     {
       "root": "habis",
       "pos": "adjective",
-      "gloss": "flat"
+      "gloss": "finished, used up, gone; out of"
     },
     {
       "root": "habitat",
@@ -21252,7 +21252,7 @@
     {
       "root": "kena",
       "pos": "word",
-      "gloss": "by, hit, wear"
+      "gloss": "to be hit by, affected by; to touch, come into contact with"
     },
     {
       "root": "kenaikan",
@@ -29917,7 +29917,7 @@
     {
       "root": "minggu",
       "pos": "word",
-      "gloss": "week"
+      "gloss": "week; Sunday"
     },
     {
       "root": "minimal",
@@ -30153,6 +30153,11 @@
       "root": "mogok",
       "pos": "word",
       "gloss": "strike"
+    },
+    {
+      "root": "mohon",
+      "pos": "word",
+      "gloss": "please, beg, request"
     },
     {
       "root": "mojokerto",
@@ -40767,7 +40772,7 @@
     {
       "root": "serang",
       "pos": "word",
-      "gloss": "serang, attack, fight"
+      "gloss": "attack, assault"
     },
     {
       "root": "serangga",
@@ -41023,6 +41028,11 @@
       "root": "shota",
       "pos": "proper",
       "gloss": "shota"
+    },
+    {
+      "root": "sial",
+      "pos": "word",
+      "gloss": "unlucky, misfortune"
     },
     {
       "root": "sialan",
