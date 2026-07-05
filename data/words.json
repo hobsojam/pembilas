@@ -6845,6 +6845,11 @@
       "gloss": "concrete"
     },
     {
+      "root": "betul",
+      "pos": "word",
+      "gloss": "correct, right, true"
+    },
+    {
       "root": "bey",
       "pos": "word",
       "gloss": "bey"
@@ -17260,6 +17265,11 @@
       "gloss": "english"
     },
     {
+      "root": "ingin",
+      "pos": "word",
+      "gloss": "want, wish"
+    },
+    {
       "root": "ingus",
       "pos": "word",
       "gloss": "snot"
@@ -20366,7 +20376,7 @@
     },
     {
       "root": "kebetulan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "accident, accidental"
     },
     {
@@ -20426,7 +20436,7 @@
     },
     {
       "root": "kecepatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "velocity"
     },
     {
@@ -20626,7 +20636,7 @@
     },
     {
       "root": "kegelapan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "darkness"
     },
     {
@@ -20696,7 +20706,7 @@
     },
     {
       "root": "keinginan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "desire"
     },
     {
@@ -25417,7 +25427,7 @@
     {
       "root": "lapang",
       "pos": "word",
-      "gloss": "ground"
+      "gloss": "spacious, open"
     },
     {
       "root": "lapar",
@@ -28126,7 +28136,7 @@
     },
     {
       "root": "mematikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "disable, shut down"
     },
     {
@@ -29371,7 +29381,7 @@
     },
     {
       "root": "menyala",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "on"
     },
     {
@@ -29541,7 +29551,7 @@
     },
     {
       "root": "merawat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "nurse"
     },
     {
@@ -34556,7 +34566,7 @@
     },
     {
       "root": "pengalaman",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "experience"
     },
     {
@@ -35301,7 +35311,7 @@
     },
     {
       "root": "perawat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "nurse"
     },
     {
@@ -38228,6 +38238,11 @@
       "root": "ratus",
       "pos": "word",
       "gloss": "hundred"
+    },
+    {
+      "root": "rawat",
+      "pos": "word",
+      "gloss": "care for, nurse"
     },
     {
       "root": "raya",
@@ -43940,8 +43955,13 @@
       "gloss": "tea"
     },
     {
-      "root": "tekanan",
+      "root": "tekan",
       "pos": "word",
+      "gloss": "press"
+    },
+    {
+      "root": "tekanan",
+      "pos": "derived",
       "gloss": "pressure"
     },
     {
