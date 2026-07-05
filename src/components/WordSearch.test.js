@@ -164,8 +164,21 @@ describe('WordSearch', () => {
       expect(screen.queryByRole('listbox')).not.toBeInTheDocument()
     })
 
-    it('Enter with nothing highlighted does not select anything', async () => {
+    it('Enter with nothing highlighted selects the only result when there is exactly one', async () => {
       const { input, onSelect } = await openResults()
+
+      await fireEvent.keyDown(input, { key: 'Enter' })
+
+      expect(onSelect).toHaveBeenCalledWith('tulis', { form: 'menulis', via: 'me' })
+      expect(screen.queryByRole('listbox')).not.toBeInTheDocument()
+    })
+
+    it('Enter with nothing highlighted does not select anything when there are multiple results', async () => {
+      const onSelect = vi.fn()
+      render(WordSearch, { words, onSelect })
+      const input = screen.getByRole('combobox')
+      await fireEvent.input(input, { target: { value: 'bertangan' } })
+      await screen.findAllByRole('option', {}, { timeout: 3000 })
 
       await fireEvent.keyDown(input, { key: 'Enter' })
 
