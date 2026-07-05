@@ -14125,5 +14125,304 @@
       "gloss": "",
       "notes": "collision triage (#48): mengemasi (to tidy/pack up) is from kemas; emas (gold) has no me-...-i form"
     }
+  },
+  "nikmat": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to enjoy, savor (menikmati)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "enjoyment, pleasure (kenikmatan)"
+    }
+  },
+  "paham": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to understand, comprehend (memahami)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "understanding, comprehension (pemahaman)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "misunderstanding, when preceded by salah (kesalahpahaman)",
+      "notes": "usually appears in the compound salah paham; bare kepahaman is rare"
+    }
+  },
+  "nyata": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "reality, fact (kenyataan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to state clearly, declare (menyatakan)"
+    }
+  },
+  "hadap": {
+    "me": {
+      "state": "valid",
+      "gloss": "to face, appear before (menghadap)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to face, confront (menghadapi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to bring before, present to (menghadapkan)"
+    }
+  },
+  "selatan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "to the south of it (selatannya)"
+    }
+  },
+  "darat": {
+    "me": {
+      "state": "valid",
+      "gloss": "to land (of a vehicle) (mendarat)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "the mainland, dry land (daratan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a landing (pendaratan)"
+    }
+  },
+  "dewasa": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "adulthood, maturity (kedewasaan)"
+    }
+  },
+  "capai": {
+    "me": {
+      "state": "valid",
+      "gloss": "to reach, attain, achieve (mencapai)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "reached, achieved (tercapai)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be reached, achieved (dicapai)"
+    }
+  },
+  "asing": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "isolation, exile (pengasingan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "isolated, secluded (terasing)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to isolate, alienate (mengasingkan)"
+    }
+  },
+  "hotel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the hotel (hotelnya)"
+    }
+  },
+  "lubang": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to make holes in, perforate (melubangi)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having holes, perforated (berlubang)"
+    }
+  },
+  "izin": {
+    "kan": {
+      "state": "valid",
+      "gloss": "allow it! permit it! (izinkan -- imperative)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to permit, allow (mengizinkan)"
+    }
+  },
+  "pusat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "centered on, focused on (berpusat)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to centralize (memusatkan)"
+    }
+  },
+  "semangat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "spirited, enthusiastic (bersemangat)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to encourage, cheer on (menyemangati)"
+    }
+  },
+  "senyum": {
+    "ter": {
+      "state": "valid",
+      "gloss": "smiling (tersenyum)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a smile (senyuman)"
+    }
+  },
+  "jantung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her heart (jantungnya)"
+    }
+  },
+  "pedang": {
+    "ber": {
+      "state": "valid",
+      "gloss": "armed with a sword (berpedang)"
+    }
+  },
+  "ekor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its tail (ekornya)"
+    }
+  },
+  "lelah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tiredness, fatigue (lelahnya)"
+    }
+  },
+  "daging": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its meat, flesh (dagingnya)"
+    }
+  },
+  "bunga": {
+    "ber": {
+      "state": "valid",
+      "gloss": "flowering, blossoming (berbunga)"
+    }
+  },
+  "ratu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the queen (ratunya)"
+    }
+  },
+  "alat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tool, device (alatnya)"
+    }
+  },
+  "pihak": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to take sides, side with (berpihak)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to side with, favor (memihak)"
+    }
+  },
+  "detektif": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the detective (detektifnya)"
+    }
+  },
+  "sampah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its garbage, trash (sampahnya)"
+    }
+  },
+  "daerah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the region, area (daerahnya)"
+    }
+  },
+  "lapar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the hunger (laparnya)"
+    }
+  },
+  "peluru": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bullet (pelurunya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "armed, loaded with ammunition (berpeluru)"
+    }
+  },
+  "bank": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bank (banknya)"
+    }
+  },
+  "normal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "normally; its normal state (normalnya)"
+    }
+  },
+  "mulut": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her mouth (mulutnya)"
+    }
+  },
+  "sepatu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the shoe (sepatunya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "wearing shoes, shod (bersepatu)"
+    }
+  },
+  "prajurit": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the soldier (prajuritnya)"
+    }
+  },
+  "persetan": {
+    "lah": {
+      "state": "valid",
+      "gloss": "(vulgar, emphatic) to hell with it! (persetanlah)",
+      "notes": "vulgar register"
+    }
+  },
+  "selat": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): selatan (south) is etymologically related but fully opaque/lexicalized in modern usage, now its own root; selat (strait) has no productive -an form"
+    }
   }
 }

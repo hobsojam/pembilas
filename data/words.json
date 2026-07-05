@@ -9547,7 +9547,7 @@
     {
       "root": "darat",
       "pos": "word",
-      "gloss": "earth"
+      "gloss": "land, ground"
     },
     {
       "root": "dargah",
@@ -11682,7 +11682,7 @@
     {
       "root": "ekor",
       "pos": "word",
-      "gloss": "head, tail"
+      "gloss": "tail"
     },
     {
       "root": "ekoregion",
@@ -15298,6 +15298,11 @@
       "root": "habituasi",
       "pos": "word",
       "gloss": "habituation"
+    },
+    {
+      "root": "hadap",
+      "pos": "word",
+      "gloss": "face, facing direction"
     },
     {
       "root": "hadapan",
@@ -21366,7 +21371,7 @@
     },
     {
       "root": "kenikmatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pleasantness"
     },
     {
@@ -21416,7 +21421,7 @@
     },
     {
       "root": "kenyataan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "reality"
     },
     {
@@ -28006,7 +28011,7 @@
     },
     {
       "root": "memahami",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "appreciate"
     },
     {
@@ -28451,7 +28456,7 @@
     },
     {
       "root": "menangani",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "manage"
     },
     {
@@ -28671,7 +28676,7 @@
     },
     {
       "root": "menempatkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "place"
     },
     {
@@ -28931,7 +28936,7 @@
     },
     {
       "root": "menghadap",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "face"
     },
     {
@@ -29156,7 +29161,7 @@
     },
     {
       "root": "menikmati",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "savour, enjoy"
     },
     {
@@ -31670,6 +31675,11 @@
       "gloss": "song"
     },
     {
+      "root": "nyata",
+      "pos": "word",
+      "gloss": "real, evident"
+    },
+    {
       "root": "nyawa",
       "pos": "word",
       "gloss": "life, soul"
@@ -32528,6 +32538,11 @@
       "root": "paha",
       "pos": "word",
       "gloss": "thigh"
+    },
+    {
+      "root": "paham",
+      "pos": "word",
+      "gloss": "understanding, to understand"
     },
     {
       "root": "pahatan",
@@ -33891,7 +33906,7 @@
     },
     {
       "root": "pemahaman",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "comprehensibility"
     },
     {
@@ -40253,6 +40268,11 @@
       "root": "selat",
       "pos": "word",
       "gloss": "strait"
+    },
+    {
+      "root": "selatan",
+      "pos": "word",
+      "gloss": "south"
     },
     {
       "root": "seledri",
