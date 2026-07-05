@@ -26841,7 +26841,7 @@
     },
     {
       "root": "mainan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "toy"
     },
     {
@@ -28206,7 +28206,7 @@
     },
     {
       "root": "memikirkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "mull"
     },
     {
@@ -28916,7 +28916,7 @@
     },
     {
       "root": "menghentikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "abort"
     },
     {
@@ -33355,6 +33355,11 @@
       "gloss": "urn"
     },
     {
+      "root": "pasukan",
+      "pos": "word",
+      "gloss": "troops, forces"
+    },
+    {
       "root": "pasuruan",
       "pos": "proper",
       "gloss": "pasuruan"
@@ -35521,7 +35526,7 @@
     },
     {
       "root": "permainan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "play, game"
     },
     {
@@ -35861,7 +35866,7 @@
     },
     {
       "root": "perusahaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "company"
     },
     {

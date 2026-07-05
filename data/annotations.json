@@ -12521,5 +12521,320 @@
       "state": "valid",
       "gloss": "on the same team (setim)"
     }
+  },
+  "mulia": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "nobility, dignity (kemuliaan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to honor, glorify (memuliakan)"
+    }
+  },
+  "penjara": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be imprisoned (dipenjara)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "imprison him/her! (penjarakan)"
+    }
+  },
+  "awas": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to supervise, watch over, monitor (mengawasi)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "watch it! be careful! (awasi -- bare imperative)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "supervision, surveillance (pengawasan)"
+    }
+  },
+  "balik": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to turn around, reverse; to return (berbalik)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "behind, at the back of (di balik, e.g. di balik layar = behind the scenes)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "upside down, inverted, reversed (terbalik)"
+    }
+  },
+  "tugas": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to be on duty, have a task (bertugas)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to assign, task (someone) with (menugaskan)"
+    }
+  },
+  "istri": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have a wife, be married (of a man) (beristri)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his wife (istrinya)"
+    }
+  },
+  "sembunyi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to hide, go into hiding (bersembunyi)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "hidden, concealed (tersembunyi)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "hide it! (sembunyikan -- imperative)"
+    }
+  },
+  "ganti": {
+    "me": {
+      "state": "valid",
+      "gloss": "to change, replace, substitute (mengganti)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to replace, substitute (something) for (menggantikan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "replacement, successor (pengganti)"
+    }
+  },
+  "tanda": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to mark, sign, indicate (menandai)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a marker, indicator (penanda)"
+    }
+  },
+  "pasang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to install, attach, put up (memasang)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a pair; a couple (pasangan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "a pair of (sepasang)"
+    }
+  },
+  "kelas": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have class, be classy (berkelas)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "in the same class (sekelas)"
+    }
+  },
+  "taruh": {
+    "me": {
+      "state": "valid",
+      "gloss": "to put, place, set down (menaruh)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to bet, wager (bertaruh)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a bet, wager (taruhan)"
+    }
+  },
+  "muncul": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to bring up, raise (an issue); to produce, generate (memunculkan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its emergence, appearance (munculnya)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "emerging one after another, popping up all over (bermunculan)"
+    }
+  },
+  "saudara": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to be siblings, be related (bersaudara)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "kinship, brotherhood (persaudaraan)"
+    }
+  },
+  "rusak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to damage, destroy, ruin (merusak)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "destroyer, vandal (perusak)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be damaged, destroyed (dirusak)"
+    }
+  },
+  "keren": {
+    "nya": {
+      "state": "valid",
+      "gloss": "how cool; its coolness (kerennya)",
+      "notes": "informal register"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "the coolest (terkeren)",
+      "notes": "informal register"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as cool as (sekeren)",
+      "notes": "informal register"
+    }
+  },
+  "pimpin": {
+    "me": {
+      "state": "valid",
+      "gloss": "to lead, head, direct (memimpin)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "leader (pemimpin)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "leadership; management (pimpinan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be led (dipimpin)"
+    }
+  },
+  "sihir": {
+    "me": {
+      "state": "valid",
+      "gloss": "to bewitch, cast a spell on (menyihir)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "sorcerer, witch (penyihir)"
+    }
+  },
+  "obat": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to treat, medicate, heal (mengobati)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "treat him/her! (obati -- bare imperative)"
+    }
+  },
+  "sempurna": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to perfect, refine (menyempurnakan)"
+    }
+  },
+  "lindung": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to protect, shield, safeguard (melindungi)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "protection (perlindungan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to take shelter, seek protection (berlindung)"
+    }
+  },
+  "pasu": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pasukan (troops) is an unrelated lexicalized word, now its own root; pasu (urn) has no -kan form"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memasukan is a colloquial spelling of memasukkan (to insert), from masuk; pasu (urn) has no me-...-kan form"
+    }
+  },
+  "pasukan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pemasukan (income/revenue) is from masuk + pe-...-an; pasukan (troops) has no pe- agent-noun form"
+    },
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memasukan is a colloquial spelling of memasukkan (to insert), from masuk; pasukan (troops) has no me- verb form"
+    },
+    "pe_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pasukan is a plain noun (troops, forces) with no productive verb-forming or further circumfix derivations of its own"
+    },
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pasukan is a plain noun (troops, forces) with no productive verb-forming or further circumfix derivations of its own"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pasukan is a plain noun (troops, forces) with no productive verb-forming or further circumfix derivations of its own"
+    }
+  },
+  "kawasan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengawasan (supervision) is from awas + pe-...-an; kawasan (area, region) has no pe- agent-noun form"
+    },
+    "pe_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kawasan is already a fully-formed noun (area, region); it has no pe-...-an circumfix derivation of its own (pengawasan is from awas, unrelated)"
+    }
+  },
+  "jarak": {
+    "pe_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): penjarakan (imprison him/her -- imperative of memenjarakan) is from penjara + kan; jarak (distance) has no pe-...-an form with that meaning"
+    }
   }
 }
