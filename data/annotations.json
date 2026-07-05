@@ -1176,6 +1176,10 @@
     "ke_an": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a request, demand (permintaan)"
     }
   },
   "pegang": {
@@ -15093,6 +15097,241 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): penciptaan (creation) is from cipta.pe_an; pencipta (a creator) has no an-suffixed form of its own"
+    }
+  },
+  "sebab": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to cause (menyebabkan)"
+    }
+  },
+  "milik": {
+    "pe": {
+      "state": "valid",
+      "gloss": "an owner (pemilik)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to own, possess (memiliki)"
+    }
+  },
+  "abad": {
+    "i": {
+      "state": "valid",
+      "gloss": "eternal, everlasting (abadi)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "a century (seabad)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "for centuries (berabad)",
+      "notes": "usually reduplicated: berabad-abad"
+    }
+  },
+  "hapus": {
+    "me": {
+      "state": "valid",
+      "gloss": "to erase, delete (menghapus)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be erased, deleted (dihapus)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "erased, deleted (terhapus)"
+    }
+  },
+  "halaman": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its page; its yard (halamannya)"
+    }
+  },
+  "bir": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the beer (birnya)"
+    }
+  },
+  "timur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "to the east of it (timurnya)"
+    }
+  },
+  "program": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the program (programnya)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be programmed (diprogram)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "programming (pemrograman)"
+    }
+  },
+  "gereja": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the church (gerejanya)"
+    }
+  },
+  "barat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "to the west of it (baratnya)"
+    }
+  },
+  "kejam": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "cruelty (kekejaman)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as cruel as (sekejam)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "how cruel it is (kejamnya)"
+    }
+  },
+  "inti": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its core; basically, essentially (intinya)"
+    }
+  },
+  "surga": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its paradise (surganya)"
+    }
+  },
+  "tukang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the craftsman, the tradesman (tukangnya)"
+    }
+  },
+  "jati": {
+    "se": {
+      "state": "valid",
+      "gloss": "genuine, true, real (sejati)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its (true) essence (jatinya)"
+    }
+  },
+  "sersan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sergeant (sersannya)"
+    }
+  },
+  "celana": {
+    "ber": {
+      "state": "valid",
+      "gloss": "wearing pants (bercelana)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the pants (celananya)"
+    }
+  },
+  "masyarakat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to socialize, live in society (bermasyarakat)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "socialization; institutionalization (pemasyarakatan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the community (masyarakatnya)"
+    }
+  },
+  "jin": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the genie, jinn (jinnya)"
+    }
+  },
+  "setan": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "possessed, devilish (kesetanan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the devil (setannya)"
+    }
+  },
+  "jalur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its lane, its route (jalurnya)"
+    }
+  },
+  "lukis": {
+    "me": {
+      "state": "valid",
+      "gloss": "to paint, to draw (melukis)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a painting (lukisan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a painter, an artist (pelukis)"
+    }
+  },
+  "data": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the data (datanya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to record, document (data) (mendata)"
+    }
+  },
+  "fakta": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fact is (faktanya)"
+    }
+  },
+  "babi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her pig (babinya)"
+    }
+  },
+  "mantan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her ex (mantannya)"
+    }
+  },
+  "sengaja": {
+    "di": {
+      "state": "valid",
+      "gloss": "done deliberately, intentionally (disengaja)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "deliberateness, intent (kesengajaan)"
     }
   }
 }
