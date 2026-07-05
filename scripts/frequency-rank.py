@@ -33,7 +33,8 @@ sampai sejak kalau masih sedang seperti sesuatu beberapa semuanya ayo kan hal ma
 bagi para oleh yaitu yakni sang si nan seseorang bahkan sebenarnya setiap ayolah
 setelah halo hai seharusnya sebentar segala astaga kumohon daripada
 kedua bajingan permisi nona bung sementara semacam brengsek
-terhadap betapa saling meskipun kemarin nyonya kulihat inggris'''.split())
+terhadap betapa saling meskipun kemarin nyonya kulihat inggris malah
+menakjub lompok'''.split())
 
 
 def main():

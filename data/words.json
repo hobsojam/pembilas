@@ -9125,8 +9125,13 @@
       "gloss": "chip"
     },
     {
-      "root": "ciptaan",
+      "root": "cipta",
       "pos": "word",
+      "gloss": "create"
+    },
+    {
+      "root": "ciptaan",
+      "pos": "derived",
       "gloss": "creation"
     },
     {
@@ -15836,8 +15841,8 @@
     },
     {
       "root": "henry",
-      "pos": "word",
-      "gloss": "henry"
+      "pos": "proper",
+      "gloss": "Henry (a given name); also the SI unit of electrical inductance"
     },
     {
       "root": "hentai",
@@ -21028,6 +21033,11 @@
       "root": "kelomang",
       "pos": "word",
       "gloss": "hermit crab"
+    },
+    {
+      "root": "kelompok",
+      "pos": "word",
+      "gloss": "group"
     },
     {
       "root": "kelor",
@@ -28226,7 +28236,7 @@
     },
     {
       "root": "memenangkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "win"
     },
     {
@@ -28551,7 +28561,7 @@
     },
     {
       "root": "menceritakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "narrate"
     },
     {
@@ -28561,7 +28571,7 @@
     },
     {
       "root": "menciptakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "create"
     },
     {
@@ -28971,7 +28981,7 @@
     },
     {
       "root": "menghargai",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "appreciate"
     },
     {
@@ -29216,7 +29226,7 @@
     },
     {
       "root": "menjalankan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "run, start"
     },
     {
@@ -29436,7 +29446,7 @@
     },
     {
       "root": "menyerahkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "give up"
     },
     {
@@ -33941,7 +33951,7 @@
     },
     {
       "root": "pemain",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "player"
     },
     {
@@ -34391,7 +34401,7 @@
     },
     {
       "root": "pencipta",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "creator"
     },
     {
@@ -34521,7 +34531,7 @@
     },
     {
       "root": "pengadilan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "court"
     },
     {
@@ -34631,7 +34641,7 @@
     },
     {
       "root": "pengelompokan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "grouping"
     },
     {
@@ -35856,7 +35866,7 @@
     },
     {
       "root": "pertandingan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "match"
     },
     {
@@ -39726,8 +39736,8 @@
     },
     {
       "root": "sarah",
-      "pos": "word",
-      "gloss": "flotsam"
+      "pos": "proper",
+      "gloss": "Sarah (a given name)"
     },
     {
       "root": "sarajevo",
@@ -43375,6 +43385,11 @@
       "gloss": "tachycardia"
     },
     {
+      "root": "takjub",
+      "pos": "word",
+      "gloss": "astonished, amazed"
+    },
+    {
       "root": "takometer",
       "pos": "word",
       "gloss": "tachometer"
@@ -43523,6 +43538,11 @@
       "root": "tanda",
       "pos": "word",
       "gloss": "sign"
+    },
+    {
+      "root": "tanding",
+      "pos": "word",
+      "gloss": "compete, contest"
     },
     {
       "root": "tandu",
