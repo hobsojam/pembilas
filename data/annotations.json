@@ -5223,8 +5223,8 @@
       "gloss": ""
     },
     "pe_an": {
-      "state": "unused",
-      "gloss": ""
+      "state": "valid",
+      "gloss": "knowledge (pengetahuan)"
     },
     "an": {
       "state": "unused",
@@ -12739,6 +12739,10 @@
     "di": {
       "state": "valid",
       "gloss": "to be damaged, destroyed (dirusak)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "damage (kerusakan)"
     }
   },
   "keren": {
@@ -15698,6 +15702,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to gather, collect (mengumpulkan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to gather, assemble (intransitive) (berkumpul)"
     }
   },
   "sedia": {
@@ -16689,6 +16697,341 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): berkatian is a nonsense mechanical guess; kati (catty, unit of weight) has no real ber_an derivation"
+    }
+  },
+  "rakyat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the people, its citizenry (rakyatnya)"
+    }
+  },
+  "susu": {
+    "me": {
+      "state": "valid",
+      "gloss": "to nurse, suckle (of a baby) (menyusu)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to breastfeed (of a mother) (menyusui)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the milk (susunya)"
+    }
+  },
+  "kontrak": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the contract (kontraknya)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be contracted, leased (passive) (dikontrak)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(informal) a rental house/room (kontrakan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to rent, lease something (mengontrak)"
+    }
+  },
+  "raksasa": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the giant (raksasanya)"
+    }
+  },
+  "jaksa": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "the prosecutor's/attorney general's office (kejaksaan)"
+    }
+  },
+  "sambut": {
+    "me": {
+      "state": "valid",
+      "gloss": "to welcome, greet (menyambut)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a welcome, reception, response (sambutan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be welcomed, greeted (passive) (disambut)"
+    },
+    "lah": {
+      "state": "valid",
+      "gloss": "welcome! (formal/emphatic imperative, sambutlah)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "welcoming ceremony, reception (the act) (penyambutan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "welcomer, greeter, host (penyambut)"
+    }
+  },
+  "nampak": {
+    "nya": {
+      "state": "valid",
+      "gloss": "apparently, it seems (nampaknya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "appearance, apparition, manifestation (penampakan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to show, make visible, reveal (menampakkan)"
+    }
+  },
+  "boneka": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the puppet, doll (bonekanya)"
+    }
+  },
+  "jembatan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bridge (jembatannya)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to bridge, mediate between (menjembatani)"
+    }
+  },
+  "gudang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the warehouse (gudangnya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "(idiomatic) a warehouse-full of, tons of (segudang)"
+    }
+  },
+  "spesial": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the special thing about it (spesialnya)"
+    }
+  },
+  "robot": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the robot (robotnya)"
+    }
+  },
+  "taksi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the taxi (taksinya)"
+    }
+  },
+  "ajaib": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a miracle, marvel (keajaiban)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "how miraculous/magical it is (ajaibnya)"
+    }
+  },
+  "mempelajari": {
+    "nya": {
+      "state": "valid",
+      "gloss": "studying it (mempelajarinya)"
+    }
+  },
+  "cek": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cheque (ceknya)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be checked (passive) (dicek)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "(informal) to check (mencek)"
+    }
+  },
+  "toilet": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the toilet (toiletnya)"
+    }
+  },
+  "topi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the hat (topinya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to wear a hat (bertopi)"
+    }
+  },
+  "kacang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bean/nut (kacangnya)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(informal, pejorative) cheap, low-quality, amateurish (kacangan)"
+    }
+  },
+  "wawancara": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to interview (mewawancarai)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the interview (wawancaranya)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "interview him/her! (imperative, informal, wawancarai)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be interviewed (passive) (diwawancara)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "interviewer (pewawancara)"
+    }
+  },
+  "murid": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the student (muridnya)"
+    }
+  },
+  "contoh": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the example (contohnya)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "pilot project, demonstration model (percontohan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to imitate, follow an example (mencontoh)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be imitated, copied (passive) (dicontoh)"
+    }
+  },
+  "minyak": {
+    "ber": {
+      "state": "valid",
+      "gloss": "oily, greasy (berminyak)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the oil (minyaknya)"
+    }
+  },
+  "cemas": {
+    "kan": {
+      "state": "valid",
+      "gloss": "(informal) worry about it! (jangan cemaskan) (cemaskan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to worry, be a source of anxiety for (mencemaskan)"
+    }
+  },
+  "teroris": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the terrorist (terorisnya)"
+    }
+  },
+  "tongkat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the stick, staff, cane (tongkatnya)"
+    }
+  },
+  "hajar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to beat, thrash (menghajar)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be beaten, thrashed (passive) (dihajar)"
+    }
+  },
+  "lengan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the arm (lengannya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having arms/sleeves (e.g. berlengan panjang, long-sleeved) (berlengan)"
+    }
+  },
+  "kuasa": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her/its authority (kuasanya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to have power, be in authority (berkuasa)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to master, control, dominate (menguasai)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be controlled, dominated (passive) (dikuasai)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "ruler, sovereign, authority holder (penguasa)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "power, authority (kekuasaan)"
+    }
+  },
+  "libur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the day off, the break (liburnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to take a holiday, be on vacation (berlibur)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a holiday, vacation (liburan)"
+    }
+  },
+  "kontra": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kontrakan mechanically also derives from kontrak.an (a rental), the real word; kontra (against) has no real bare -kan derivation"
     }
   }
 }
