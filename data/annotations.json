@@ -14207,6 +14207,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to state clearly, declare (menyatakan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "statement, declaration (pernyataan)"
     }
   },
   "hadap": {
@@ -17650,6 +17654,304 @@
     "nya": {
       "state": "valid",
       "gloss": "the bicycle (sepedanya)"
+    }
+  },
+  "culik": {
+    "me": {
+      "state": "valid",
+      "gloss": "to kidnap, abduct (menculik)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be kidnapped, abducted (passive) (diculik)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "kidnapper, abductor (penculik)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "kidnapping, abduction (penculikan)"
+    }
+  },
+  "waspada": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "vigilance, caution, alertness (kewaspadaan)"
+    },
+    "lah": {
+      "state": "valid",
+      "gloss": "be careful!, watch out! (imperative, waspadalah)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "beware of it, watch out for (it) (imperative, informal, waspadai)"
+    }
+  },
+  "olahraga": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to exercise, work out (berolahraga)"
+    }
+  },
+  "asap": {
+    "ber": {
+      "state": "valid",
+      "gloss": "smoky, giving off smoke (berasap)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the smoke (asapnya)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to smoke (food) (mengasapi)"
+    }
+  },
+  "remaja": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to rejuvenate (meremajakan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "rejuvenation (peremajaan)"
+    }
+  },
+  "saham": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the stock, share (sahamnya)"
+    }
+  },
+  "danau": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the lake (danaunya)"
+    }
+  },
+  "kabel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cable (kabelnya)"
+    }
+  },
+  "efek": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the effect (efeknya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to have an effect (berefek)"
+    }
+  },
+  "terowongan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tunnel (terowongannya)"
+    }
+  },
+  "pensiun": {
+    "an": {
+      "state": "valid",
+      "gloss": "retiree, pensioner (pensiunan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the pension, the retirement (pensiunnya)"
+    }
+  },
+  "bangsa": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the nation, people (bangsanya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "of the same nation/kind (sebangsa)"
+    }
+  },
+  "paus": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "the papacy (kepausan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the pope; the whale (pausnya)"
+    }
+  },
+  "singgung": {
+    "ter": {
+      "state": "valid",
+      "gloss": "offended, hurt (feelings) (tersinggung)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to touch on (a topic); to offend (menyinggung)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to intersect, overlap (bersinggungan)"
+    }
+  },
+  "belok": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to turn, bend (berbelok)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a turn, bend (in the road) (belokan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "turn it! (imperative, informal, belokkan)"
+    }
+  },
+  "cair": {
+    "an": {
+      "state": "valid",
+      "gloss": "liquid, fluid (noun) (cairan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to melt, liquefy (mencair)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to melt something; to disburse (funds) (mencairkan)"
+    }
+  },
+  "beku": {
+    "me": {
+      "state": "valid",
+      "gloss": "to freeze (intransitive) (membeku)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to freeze something (membekukan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "freezing (the act) (pembekuan)"
+    }
+  },
+  "bajak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to hijack; to plough; to pirate (software) (membajak)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "hijacking; piracy (pembajakan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "hijacker; pirate (pembajak)"
+    }
+  },
+  "tambang": {
+    "pe": {
+      "state": "valid",
+      "gloss": "miner (penambang)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to mine (menambang)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "mining (penambangan)"
+    }
+  },
+  "gemar": {
+    "pe": {
+      "state": "valid",
+      "gloss": "fan, enthusiast (penggemar)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "hobby, fondness (kegemaran)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to be fond of, enjoy (menggemari)"
+    }
+  },
+  "bulu": {
+    "ber": {
+      "state": "valid",
+      "gloss": "furry, hairy, feathered (berbulu)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the hair/feather/fur (bulunya)"
+    }
+  },
+  "visi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the vision (visinya)"
+    }
+  },
+  "keberadaan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its whereabouts, its existence (keberadaannya)"
+    }
+  },
+  "sasaran": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the target, goal (sasarannya)"
+    }
+  },
+  "koran": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the newspaper (korannya)"
+    }
+  },
+  "helikopter": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the helicopter (helikopternya)"
+    }
+  },
+  "tolol": {
+    "nya": {
+      "state": "valid",
+      "gloss": "how stupid it is (tololnya)"
+    }
+  },
+  "senapan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the gun, rifle (senapannya)"
+    }
+  },
+  "teknis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the technical aspect of it (teknisnya)"
+    }
+  },
+  "nuklir": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the nuclear aspect of it (nuklirnya)"
+    }
+  },
+  "emosi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the emotion (emosinya)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(informal) emotional, in one's feelings (emosian)"
     }
   }
 }
