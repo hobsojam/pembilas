@@ -6626,7 +6626,7 @@
     },
     {
       "root": "berkumpul",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "assemble"
     },
     {
@@ -20241,7 +20241,7 @@
     },
     {
       "root": "keajaiban",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "miracle, mystery"
     },
     {
@@ -20831,7 +20831,7 @@
     },
     {
       "root": "kekerasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "violence"
     },
     {
@@ -20866,7 +20866,7 @@
     },
     {
       "root": "kekuasaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "power"
     },
     {
@@ -21561,7 +21561,7 @@
     },
     {
       "root": "kepercayaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "belief, trust"
     },
     {
@@ -21816,7 +21816,7 @@
     },
     {
       "root": "kerusakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "damage"
     },
     {
@@ -24640,6 +24640,11 @@
       "gloss": "quartile"
     },
     {
+      "root": "kuasa",
+      "pos": "word",
+      "gloss": "power, authority"
+    },
+    {
       "root": "kuasar",
       "pos": "word",
       "gloss": "quasar"
@@ -26055,8 +26060,13 @@
       "gloss": "libido"
     },
     {
-      "root": "liburan",
+      "root": "libur",
       "pos": "word",
+      "gloss": "day off, break, vacation"
+    },
+    {
+      "root": "liburan",
+      "pos": "derived",
       "gloss": "holiday"
     },
     {
@@ -28581,7 +28591,7 @@
     },
     {
       "root": "mencemaskan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "worrisome"
     },
     {
@@ -30952,7 +30962,7 @@
     {
       "root": "nampak",
       "pos": "word",
-      "gloss": "sight"
+      "gloss": "visible, apparent; to appear (colloquial variant of tampak)"
     },
     {
       "root": "nampan",
@@ -34736,7 +34746,7 @@
     },
     {
       "root": "pengetahuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "knowledge"
     },
     {
@@ -34851,7 +34861,7 @@
     },
     {
       "root": "penguasa",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "ruler, sovereign"
     },
     {
@@ -38062,7 +38072,7 @@
     {
       "root": "rakyat",
       "pos": "word",
-      "gloss": "citizen"
+      "gloss": "the people, populace, citizenry"
     },
     {
       "root": "rama",
@@ -43067,7 +43077,7 @@
     {
       "root": "susu",
       "pos": "word",
-      "gloss": "boob, milk, nurse"
+      "gloss": "milk; to breastfeed, nurse; (informal) breast"
     },
     {
       "root": "sutra",

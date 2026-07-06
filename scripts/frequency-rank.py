@@ -34,7 +34,8 @@ bagi para oleh yaitu yakni sang si nan seseorang bahkan sebenarnya setiap ayolah
 setelah halo hai seharusnya sebentar segala astaga kumohon daripada
 kedua bajingan permisi nona bung sementara semacam brengsek
 terhadap betapa saling meskipun kemarin nyonya kulihat inggris malah
-menakjub lompok jerman meski perancis kolonel got dewan semesta kok'''.split())
+menakjub lompok jerman meski perancis kolonel got dewan semesta kok
+bapa episode nasional berantakan pecundang'''.split())
 
 
 def main():
