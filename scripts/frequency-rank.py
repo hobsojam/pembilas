@@ -37,7 +37,8 @@ terhadap betapa saling meskipun kemarin nyonya kulihat inggris malah
 menakjub lompok jerman meski perancis kolonel got dewan semesta kok
 bapa episode nasional berantakan pecundang nih bersulang kantin
 aduh bangsat hong pingsan serikat sejujurnya gay ketat universitas
-ilmuwan not'''.split())
+ilmuwan not peri barusan seperti sanggup mayor pemuda bencana
+senator makasih'''.split())
 
 
 def main():
