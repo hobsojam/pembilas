@@ -12822,6 +12822,10 @@
     "i": {
       "state": "valid",
       "gloss": "treat him/her! (obati -- bare imperative)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "medical treatment (pengobatan)"
     }
   },
   "sempurna": {
@@ -19395,6 +19399,316 @@
     "ber": {
       "state": "valid",
       "gloss": "to go adventuring (berpetualang)"
+    }
+  },
+  "sampai": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to convey, deliver, get across (menyampaikan)"
+    }
+  },
+  "tantang": {
+    "an": {
+      "state": "valid",
+      "gloss": "a challenge (tantangan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to challenge, defy (menantang)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be challenged (passive) (ditantang)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "challenged (feeling motivated) (tertantang)"
+    }
+  },
+  "ramal": {
+    "an": {
+      "state": "valid",
+      "gloss": "a forecast, prediction (ramalan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "fortune-teller (peramal)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to predict, forecast (meramalkan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to predict (meramal)"
+    }
+  },
+  "organisasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the organization (organisasinya)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "organized (terorganisasi)"
+    }
+  },
+  "cerah": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to brighten, enlighten (mencerahkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "brightness (kecerahan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as bright as (secerah)"
+    }
+  },
+  "konfirmasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be confirmed (passive) (dikonfirmasi)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "confirm it! (imperative, konfirmasikan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to confirm (mengonfirmasi)"
+    }
+  },
+  "lenyap": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to eliminate, make disappear (melenyapkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "eliminate it! (imperative, lenyapkan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its disappearance (lenyapnya)"
+    }
+  },
+  "keju": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cheese (kejunya)"
+    }
+  },
+  "karyawan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the employee (karyawannya)"
+    }
+  },
+  "pola": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pattern (polanya)"
+    }
+  },
+  "suhu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the temperature (suhunya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having a temperature of (bersuhu)"
+    }
+  },
+  "orangtua": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her parents (orangtuanya)"
+    }
+  },
+  "umpan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bait (umpannya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to bait, use as bait (mengumpan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "one who baits; feeder (in sports) (pengumpan)"
+    }
+  },
+  "sekretaris": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the secretary (sekretarisnya)"
+    }
+  },
+  "kentang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the potato (kentangnya)"
+    }
+  },
+  "tato": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tattoo (tatonya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "tattooed (bertato)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be tattooed (passive) (ditato)"
+    }
+  },
+  "puteri": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the princess (puterinya)"
+    }
+  },
+  "kandang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cage, stable (kandangnya)"
+    }
+  },
+  "rela": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to willingly give up, sacrifice (merelakan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "let it go! (imperative, relakan)"
+    }
+  },
+  "doa": {
+    "kan": {
+      "state": "valid",
+      "gloss": "pray for it/him! (imperative, doakan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to pray for (mendoakan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the prayer (doanya)"
+    }
+  },
+  "apel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the apple (apelnya)"
+    }
+  },
+  "gairah": {
+    "ber": {
+      "state": "valid",
+      "gloss": "passionate, enthusiastic (bergairah)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "arousing, exciting (menggairahkan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the passion (gairahnya)"
+    }
+  },
+  "haus": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "thirst, thirsting (kehausan)"
+    }
+  },
+  "lebar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to widen, expand (intransitive) (melebar)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to widen something (melebarkan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as wide as (selebar)"
+    }
+  },
+  "egois": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "selfishness (keegoisan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her selfishness (egoisnya)"
+    }
+  },
+  "kamp": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the camp (kampnya)"
+    }
+  },
+  "sabuk": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the belt (sabuknya)"
+    }
+  },
+  "bungkus": {
+    "me": {
+      "state": "valid",
+      "gloss": "to wrap (membungkus)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be wrapped (passive) (dibungkus)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "wrapped (stative) (terbungkus)"
+    }
+  },
+  "bedah": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "surgery, operation (pembedahan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to operate on, dissect (membedah)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be operated on (passive) (dibedah)"
+    }
+  },
+  "payudara": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the breast (payudaranya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having breasts (berpayudara)"
+    }
+  },
+  "domba": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sheep (dombanya)"
     }
   }
 }
