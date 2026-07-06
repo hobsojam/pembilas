@@ -14363,6 +14363,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the tool, device (alatnya)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "equipment, apparatus, gear (peralatan)"
     }
   },
   "pihak": {
@@ -16361,6 +16365,330 @@
     "nya": {
       "state": "valid",
       "gloss": "medically (medisnya)"
+    }
+  },
+  "proses": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be processed (passive) (diproses)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "processing, the act of processing (pemrosesan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the process (prosesnya)"
+    }
+  },
+  "berkat": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to bless (memberkati)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "bless it! (imperative, informal, berkati)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "blessing ceremony, benediction (pemberkatan)"
+    }
+  },
+  "kontak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to contact, call (informal, mengontak)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to be in contact (berkontak)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the contact (kontaknya)"
+    }
+  },
+  "keberuntungan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its/the fortune, luck (keberuntungannya)"
+    }
+  },
+  "baring": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to lie down (berbaring)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "lying down (stative) (terbaring)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "lay it down! (imperative, informal, baringkan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to lay someone/something down (membaringkan)"
+    }
+  },
+  "tuduh": {
+    "an": {
+      "state": "valid",
+      "gloss": "accusation, charge (tuduhan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to accuse (menuduh)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be accused (passive) (dituduh)"
+    }
+  },
+  "ilmu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the knowledge (ilmunya)"
+    }
+  },
+  "bunyi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to sound, make noise; to read (as text) (berbunyi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to sound something, play (an instrument/alarm) (membunyikan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "sound it! (imperative, informal, bunyikan)"
+    }
+  },
+  "gratis": {
+    "an": {
+      "state": "valid",
+      "gloss": "(informal) free stuff, freebie (gratisan)"
+    }
+  },
+  "alir": {
+    "me": {
+      "state": "valid",
+      "gloss": "to flow (mengalir)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "flow, current, stream; a stream (of ideology) (aliran)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to make something flow, channel it (mengalirkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "channel/route it! (imperative, informal, alirkan)"
+    }
+  },
+  "gas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the gas (gasnya)"
+    }
+  },
+  "samar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to disguise oneself, go undercover (menyamar)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "disguise, camouflage (the act/state) (penyamaran)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "alias, disguise, false identity (samaran)"
+    }
+  },
+  "besi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the iron (besinya)"
+    }
+  },
+  "meter": {
+    "an": {
+      "state": "valid",
+      "gloss": "a measuring tape/gauge, meter (device) (meteran)"
+    }
+  },
+  "sarapan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the breakfast (sarapannya)"
+    }
+  },
+  "balap": {
+    "an": {
+      "state": "valid",
+      "gloss": "a race (informal, balapan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "racer (pembalap)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to race, overtake (membalap)"
+    }
+  },
+  "nasib": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have a fate, be fated (bernasib)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her/its fate (nasibnya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "sharing the same fate, fellow sufferer (senasib)"
+    }
+  },
+  "proyek": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the project (proyeknya)"
+    }
+  },
+  "kayu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the wood (kayunya)"
+    }
+  },
+  "departemen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the department (departemennya)"
+    }
+  },
+  "salju": {
+    "ber": {
+      "state": "valid",
+      "gloss": "snowy, covered in snow (bersalju)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the snow (saljunya)"
+    }
+  },
+  "kait": {
+    "ter": {
+      "state": "valid",
+      "gloss": "related, connected, linked (terkait)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to be related/connected to one another (berkaitan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "connection, link, relation (kaitan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to link, connect, relate (mengaitkan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "hook, clip (pengait)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "hook it up, connect it! (imperative, informal, kaitkan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its link/connection (kaitnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to hook onto, hitch (berkait)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to hook, hitch, attach (mengait)"
+    }
+  },
+  "bekas": {
+    "me": {
+      "state": "valid",
+      "gloss": "to leave a mark/trace (membekas)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to leave a lasting impression/trace (berbekas)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the trace/remnant of it; its former (owner/user) (bekasnya)"
+    }
+  },
+  "parkir": {
+    "an": {
+      "state": "valid",
+      "gloss": "a parking lot (informal, parkiran)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be parked (passive) (diparkir)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to park (a vehicle) (memarkir)"
+    }
+  },
+  "tenggelam": {
+    "kan": {
+      "state": "valid",
+      "gloss": "sink it!/drown it! (imperative, informal, tenggelamkan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the sinking of it; its sinking (tenggelamnya)"
+    }
+  },
+  "lingkungan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the environment/neighborhood (lingkungannya)"
+    }
+  },
+  "pendeta": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pastor/priest (pendetanya)"
+    }
+  },
+  "master": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the master (masternya)"
+    }
+  },
+  "kati": {
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): berkati mechanically also derives from berkat.i (bless it!), the real word; kati (catty, unit of weight) has no real ber- derivation"
+    },
+    "ber_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): berkatian is a nonsense mechanical guess; kati (catty, unit of weight) has no real ber_an derivation"
     }
   }
 }
