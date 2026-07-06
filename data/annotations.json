@@ -9892,6 +9892,10 @@
       "state": "unused",
       "gloss": "",
       "notes": "untungan is not a word; untung-untungan (taking a chance) is reduplication, which isn't modeled"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "fortunately; his/her profit (untungnya)"
     }
   },
   "rugi": {
@@ -17952,6 +17956,330 @@
     "an": {
       "state": "valid",
       "gloss": "(informal) emotional, in one's feelings (emosian)"
+    }
+  },
+  "abai": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to abandon, ignore, neglect (mengabaikan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "neglect, negligence (pengabaian)"
+    }
+  },
+  "cakap": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to converse, talk (bercakap)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "conversation (percakapan)"
+    }
+  },
+  "tampil": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to display, present, show (menampilkan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "presenter, performer (penampil)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "appearance, performance (penampilan)"
+    }
+  },
+  "kawal": {
+    "me": {
+      "state": "valid",
+      "gloss": "to guard, escort (mengawal)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be guarded, escorted (passive) (dikawal)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "guard, escort (pengawal)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "escort, protection (the act) (pengawalan)"
+    }
+  },
+  "ragam": {
+    "se": {
+      "state": "valid",
+      "gloss": "uniform (of one type/manner) (seragam)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "various, diverse (beragam)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "diversity (keragaman)"
+    }
+  },
+  "ranjang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bed (ranjangnya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "sharing a bed (e.g. teman seranjang, bedmate) (seranjang)"
+    }
+  },
+  "berkas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the file, bundle (berkasnya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "a bundle, sheaf of (seberkas)"
+    }
+  },
+  "papan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the plank, board (papannya)"
+    }
+  },
+  "panggung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the stage (panggungnya)"
+    }
+  },
+  "sandera": {
+    "me": {
+      "state": "valid",
+      "gloss": "to take hostage (menyandera)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "hostage-taking (penyanderaan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be taken hostage (passive) (disandera)"
+    }
+  },
+  "karya": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the work, piece (karyanya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to create works, be productive/creative (berkarya)"
+    }
+  },
+  "hendak": {
+    "ke": {
+      "state": "valid",
+      "gloss": "will, desire (kehendak)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to want, desire (menghendaki)"
+    },
+    "lah": {
+      "state": "valid",
+      "gloss": "should, ought to (hendaklah)"
+    }
+  },
+  "lebah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bee (lebahnya)"
+    }
+  },
+  "hidung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the nose (hidungnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having a nose, ...-nosed (berhidung)"
+    }
+  },
+  "perilaku": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her/its behavior (perilakunya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to behave (berperilaku)"
+    }
+  },
+  "muntah": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to vomit something up (memuntahkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "(informal) vomit it up! (imperative, muntahkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "vomit (noun) (muntahan)"
+    }
+  },
+  "bukit": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "hilly area, highlands (perbukitan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the hill (bukitnya)"
+    }
+  },
+  "sempat": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to make time for (menyempatkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "(informal) make time for it! (imperative, sempatkan)"
+    }
+  },
+  "topeng": {
+    "ber": {
+      "state": "valid",
+      "gloss": "masked, wearing a mask (bertopeng)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the mask (topengnya)"
+    }
+  },
+  "muak": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "disgusting, nauseating (memuakkan)"
+    }
+  },
+  "menandatangani": {
+    "nya": {
+      "state": "valid",
+      "gloss": "signing it (menandatanganinya)"
+    }
+  },
+  "derajat": {
+    "se": {
+      "state": "valid",
+      "gloss": "of equal degree/rank (sederajat)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its degree, rank (derajatnya)"
+    }
+  },
+  "gelombang": {
+    "ber": {
+      "state": "valid",
+      "gloss": "wavy, in waves (bergelombang)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the wave (gelombangnya)"
+    }
+  },
+  "pilot": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pilot (pilotnya)"
+    }
+  },
+  "tiup": {
+    "me": {
+      "state": "valid",
+      "gloss": "to blow (meniup)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to blow (of wind) (bertiup)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be blown (passive) (ditiup)"
+    }
+  },
+  "kuning": {
+    "an": {
+      "state": "valid",
+      "gloss": "brass (kuningan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "yellowish (kekuningan)"
+    }
+  },
+  "berlian": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the diamond (berliannya)"
+    }
+  },
+  "kampus": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the campus (kampusnya)"
+    }
+  },
+  "perangkat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the device, apparatus (perangkatnya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "a set of (seperangkat)"
+    }
+  },
+  "roda": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the wheel (rodanya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "wheeled, having wheels (beroda)"
+    }
+  },
+  "awalan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengawalan mechanically also derives from kawal.pe_an (escort, protection), the real word; awalan (prefix) has no real pe- derivation"
+    },
+    "pe_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengawalanan is a nonsense near-miss for the real pengawalan (kawal.pe_an); awalan (prefix) has no real pe_an derivation"
+    }
+  },
+  "kawalan": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengawalan mechanically also derives from kawal.pe_an (escort, protection), the real word; kawalan (control) has no real pe- derivation"
+    },
+    "pe_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengawalanan is a nonsense near-miss for the real pengawalan (kawal.pe_an); kawalan (control) has no real pe_an derivation"
     }
   }
 }

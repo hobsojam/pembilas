@@ -8517,7 +8517,7 @@
     {
       "root": "cakap",
       "pos": "adjective",
-      "gloss": "handy"
+      "gloss": "capable, competent; to talk, converse"
     },
     {
       "root": "cakar",
@@ -20185,6 +20185,11 @@
       "gloss": "crater"
     },
     {
+      "root": "kawal",
+      "pos": "word",
+      "gloss": "to guard, escort (bound root)"
+    },
+    {
       "root": "kawalan",
       "pos": "word",
       "gloss": "control"
@@ -21728,6 +21733,11 @@
       "root": "kerangka",
       "pos": "word",
       "gloss": "framework, skeleton"
+    },
+    {
+      "root": "keranjang",
+      "pos": "word",
+      "gloss": "basket"
     },
     {
       "root": "keras",
@@ -28541,7 +28551,7 @@
     },
     {
       "root": "menampilkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "display"
     },
     {
@@ -28821,7 +28831,7 @@
     },
     {
       "root": "mengabaikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "abandon, ignore"
     },
     {
@@ -29121,7 +29131,7 @@
     },
     {
       "root": "mengingatkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "remind"
     },
     {
@@ -34356,7 +34366,7 @@
     },
     {
       "root": "penampilan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "appearance, performance"
     },
     {
@@ -34681,7 +34691,7 @@
     },
     {
       "root": "pengawal",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "guard"
     },
     {
@@ -35431,7 +35441,7 @@
     },
     {
       "root": "percakapan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "conversation"
     },
     {
@@ -43620,6 +43630,11 @@
       "gloss": "slap"
     },
     {
+      "root": "tampil",
+      "pos": "word",
+      "gloss": "to appear, perform, show up (bound root)"
+    },
+    {
       "root": "tampon",
       "pos": "word",
       "gloss": "tampon"
@@ -46356,7 +46371,7 @@
     },
     {
       "root": "untungnya",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "fortunately"
     },
     {
