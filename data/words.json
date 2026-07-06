@@ -356,7 +356,7 @@
     },
     {
       "root": "adanya",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "existing"
     },
     {
@@ -6047,7 +6047,7 @@
     {
       "root": "bekas",
       "pos": "adjective",
-      "gloss": "secondhand"
+      "gloss": "former; secondhand; trace, mark"
     },
     {
       "root": "bekasi",
@@ -6607,7 +6607,7 @@
     {
       "root": "berkat",
       "pos": "word",
-      "gloss": "bless, thanks to"
+      "gloss": "blessing; thanks to"
     },
     {
       "root": "berkecukupan",
@@ -16812,7 +16812,7 @@
     {
       "root": "ilmu",
       "pos": "word",
-      "gloss": "nature, science"
+      "gloss": "knowledge, science"
     },
     {
       "root": "ilmuwan",
@@ -19012,7 +19012,7 @@
     {
       "root": "kait",
       "pos": "word",
-      "gloss": "deal, hook"
+      "gloss": "hook, link"
     },
     {
       "root": "kajian",
@@ -20301,7 +20301,7 @@
     },
     {
       "root": "kebakaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "fire, conflagration"
     },
     {
@@ -20351,7 +20351,7 @@
     },
     {
       "root": "keberanian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "bravery, courage"
     },
     {
@@ -23872,7 +23872,7 @@
     {
       "root": "kontak",
       "pos": "word",
-      "gloss": "engagement"
+      "gloss": "contact"
     },
     {
       "root": "kontaminan",
@@ -27936,7 +27936,7 @@
     },
     {
       "root": "melaporkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "report"
     },
     {
@@ -33262,7 +33262,7 @@
     {
       "root": "parkir",
       "pos": "word",
-      "gloss": "park"
+      "gloss": "park (a vehicle), parking"
     },
     {
       "root": "parkur",
@@ -35266,7 +35266,7 @@
     },
     {
       "root": "peralatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "apparatus, hardware, equipment"
     },
     {
@@ -39587,7 +39587,7 @@
     {
       "root": "salju",
       "pos": "word",
-      "gloss": "snow white, snow"
+      "gloss": "snow"
     },
     {
       "root": "salmon",
@@ -39612,7 +39612,7 @@
     {
       "root": "samar",
       "pos": "word",
-      "gloss": "masquerade"
+      "gloss": "vague, faint; disguise"
     },
     {
       "root": "samarinda",
@@ -45757,7 +45757,7 @@
     {
       "root": "tuduh",
       "pos": "word",
-      "gloss": "accuse, accuser"
+      "gloss": "accuse, accusation"
     },
     {
       "root": "tudung",
