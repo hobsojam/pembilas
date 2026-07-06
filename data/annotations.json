@@ -11984,6 +11984,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the difference (bedanya)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a difference (perbedaan)"
     }
   },
   "kesempatan": {
@@ -12493,6 +12497,10 @@
     "di": {
       "state": "valid",
       "gloss": "to be arranged, regulated (diatur)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a regulation (peraturan)"
     }
   },
   "kecuali": {
@@ -16008,6 +16016,351 @@
     "nya": {
       "state": "valid",
       "gloss": "the minister (menterinya)"
+    }
+  },
+  "sebar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to spread (menyebar)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to spread (something) (menyebarkan)"
+    }
+  },
+  "kacau": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "chaos (kekacauan)"
+    }
+  },
+  "tarung": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "a battle, a fight (pertarungan)"
+    }
+  },
+  "kecut": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a coward (pengecut)"
+    }
+  },
+  "amat": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to observe, watch closely (mengamati)",
+      "notes": "a distinct sense from amat 'very, extremely'"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "observation (pengamatan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an observer (pengamat)"
+    }
+  },
+  "dana": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to fund (mendanai)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "funding (pendanaan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the fund (dananya)"
+    }
+  },
+  "pecat": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be fired, dismissed (dipecat)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to fire, dismiss (someone) (memecat)"
+    }
+  },
+  "ujung": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to end up, culminate (berujung)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its tip, its end (ujungnya)"
+    }
+  },
+  "kuliah": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to attend college, study (berkuliah)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the lecture (kuliahnya)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "college, university (kuliahan, colloq.)"
+    }
+  },
+  "lengkap": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "equipment, gear (perlengkapan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to complete, equip (melengkapi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "in full, completely (lengkapnya)"
+    }
+  },
+  "akibat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "as a result, consequently (akibatnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to result in, cause (mengakibatkan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to have consequences, result in (berakibat)"
+    }
+  },
+  "buta": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to blind (membutakan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "blindness (kebutaan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her blindness (butanya)"
+    }
+  },
+  "pasar": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "marketing (pemasaran)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "common, mediocre; market (adj.) (pasaran)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to market (memasarkan)"
+    }
+  },
+  "tabrak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to collide with, crash into (menabrak)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a collision (tabrakan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "hit, struck by something (tertabrak)"
+    }
+  },
+  "malang": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "misfortune (kemalangan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "how unfortunate (malangnya)"
+    }
+  },
+  "niat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to intend (berniat)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her intention (niatnya)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "an intention (niatan, colloq.)"
+    }
+  },
+  "peran": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to play a role (berperan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an actor, one who plays a role (pemeran)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to play the role of (memerankan)"
+    }
+  },
+  "takdir": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its fate (takdirnya)"
+    }
+  },
+  "tali": {
+    "ber": {
+      "state": "valid",
+      "gloss": "tied, connected (bertali)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the rope (talinya)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a connection, a tie (talian)"
+    }
+  },
+  "won": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the won (currency) (wonnya)"
+    }
+  },
+  "jaring": {
+    "an": {
+      "state": "valid",
+      "gloss": "a network (jaringan)"
+    }
+  },
+  "nakal": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "naughtiness, delinquency (kenakalan)"
+    }
+  },
+  "sel": {
+    "ber": {
+      "state": "valid",
+      "gloss": "having cells (bersel)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the cell (selnya)"
+    }
+  },
+  "teknologi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "having technology, technological (berteknologi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the technology (teknologinya)"
+    }
+  },
+  "tenaga": {
+    "ber": {
+      "state": "valid",
+      "gloss": "having energy, energized (bertenaga)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its energy, its manpower (tenaganya)"
+    }
+  },
+  "teori": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to theorize (berteori)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the theory (teorinya)"
+    }
+  },
+  "komunikasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to communicate (berkomunikasi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the communication (komunikasinya)"
+    }
+  },
+  "bocah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the child (bocahnya)"
+    }
+  },
+  "serigala": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the wolf (serigalanya)"
+    }
+  },
+  "kuno": {
+    "nya": {
+      "state": "valid",
+      "gloss": "how ancient it is (kunonya)"
+    }
+  },
+  "sore": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the afternoon (sorenya)"
+    }
+  },
+  "tikus": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the rat (tikusnya)"
+    }
+  },
+  "roti": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bread (rotinya)"
+    }
+  },
+  "badan": {
+    "ber": {
+      "state": "valid",
+      "gloss": "having a body, built (berbadan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her body (badannya)"
+    }
+  },
+  "pantat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her buttocks (pantatnya)"
+    }
+  },
+  "medis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "medically (medisnya)"
     }
   }
 }

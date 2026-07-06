@@ -18880,6 +18880,11 @@
       "gloss": "bean, lentil, nut"
     },
     {
+      "root": "kacau",
+      "pos": "word",
+      "gloss": "chaotic, messy"
+    },
+    {
       "root": "kacu",
       "pos": "word",
       "gloss": "tissue"
@@ -20500,6 +20505,11 @@
       "gloss": "suspicion"
     },
     {
+      "root": "kecut",
+      "pos": "word",
+      "gloss": "shriveled; cowardly"
+    },
+    {
       "root": "kedai",
       "pos": "word",
       "gloss": "tavern"
@@ -20781,7 +20791,7 @@
     },
     {
       "root": "kekacauan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "chaos"
     },
     {
@@ -25872,7 +25882,7 @@
     {
       "root": "lengkap",
       "pos": "word",
-      "gloss": "apparatus, full, plenary"
+      "gloss": "complete, whole"
     },
     {
       "root": "lengket",
@@ -27112,7 +27122,7 @@
     {
       "root": "malang",
       "pos": "word",
-      "gloss": "malang, calamitous, hapless"
+      "gloss": "unfortunate, hapless"
     },
     {
       "root": "malaposisi",
@@ -27991,7 +28001,7 @@
     },
     {
       "root": "meletakkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "put down"
     },
     {
@@ -28666,7 +28676,7 @@
     },
     {
       "root": "mendekati",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pull in"
     },
     {
@@ -29441,7 +29451,7 @@
     },
     {
       "root": "menyebar",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "spread"
     },
     {
@@ -29631,7 +29641,7 @@
     },
     {
       "root": "merindukan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "miss"
     },
     {
@@ -34651,7 +34661,7 @@
     },
     {
       "root": "pengecut",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "coward"
     },
     {
@@ -35272,7 +35282,7 @@
     {
       "root": "peran",
       "pos": "word",
-      "gloss": "contribution, role"
+      "gloss": "role, part"
     },
     {
       "root": "perancah",
@@ -35316,7 +35326,7 @@
     },
     {
       "root": "peraturan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "regulation"
     },
     {
@@ -35361,7 +35371,7 @@
     },
     {
       "root": "perbedaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "differential"
     },
     {
@@ -35531,7 +35541,7 @@
     },
     {
       "root": "peringatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "warning, commemoration"
     },
     {
@@ -35561,7 +35571,7 @@
     },
     {
       "root": "perjanjian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "covenant, testament, treaty"
     },
     {
@@ -35911,7 +35921,7 @@
     },
     {
       "root": "pertarungan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "battle"
     },
     {
@@ -39941,7 +39951,7 @@
     },
     {
       "root": "sayangnya",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "unfortunately"
     },
     {
@@ -39978,6 +39988,11 @@
       "root": "sebab",
       "pos": "word",
       "gloss": "cause, reason"
+    },
+    {
+      "root": "sebar",
+      "pos": "word",
+      "gloss": "spread"
     },
     {
       "root": "sebaya",
@@ -40977,7 +40992,7 @@
     {
       "root": "serigala",
       "pos": "adjective",
-      "gloss": "lupine, wolf"
+      "gloss": "wolf"
     },
     {
       "root": "serikat",
@@ -43262,7 +43277,7 @@
     {
       "root": "tabrak",
       "pos": "word",
-      "gloss": "knock"
+      "gloss": "collide, crash into"
     },
     {
       "root": "tabung",
@@ -43788,6 +43803,11 @@
       "root": "taruh",
       "pos": "word",
       "gloss": "bet"
+    },
+    {
+      "root": "tarung",
+      "pos": "word",
+      "gloss": "fight, duel"
     },
     {
       "root": "tas",
