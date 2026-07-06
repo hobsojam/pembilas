@@ -6701,8 +6701,8 @@
     },
     {
       "root": "bersedia",
-      "pos": "word",
-      "gloss": "on your mark, get set, go, ready, set, go"
+      "pos": "derived",
+      "gloss": "willing, ready, prepared"
     },
     {
       "root": "berselingkuh",
@@ -16095,6 +16095,11 @@
       "gloss": "hinayana"
     },
     {
+      "root": "hindar",
+      "pos": "word",
+      "gloss": "avoid"
+    },
+    {
       "root": "hindi",
       "pos": "proper",
       "gloss": "hindi"
@@ -20586,7 +20591,7 @@
     },
     {
       "root": "keduanya",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "both"
     },
     {
@@ -24081,8 +24086,8 @@
     },
     {
       "root": "korea",
-      "pos": "word",
-      "gloss": "korea, korean, chorea"
+      "pos": "proper",
+      "gloss": "Korea, Korean"
     },
     {
       "root": "koreksi",
@@ -24840,6 +24845,11 @@
       "gloss": "spool"
     },
     {
+      "root": "kumpul",
+      "pos": "word",
+      "gloss": "gather, collect"
+    },
+    {
       "root": "kumpulan",
       "pos": "word",
       "gloss": "pool"
@@ -25138,6 +25148,11 @@
       "root": "labu",
       "pos": "word",
       "gloss": "pumpkin, chayote, flask"
+    },
+    {
+      "root": "lacak",
+      "pos": "word",
+      "gloss": "track, trace"
     },
     {
       "root": "laci",
@@ -27871,7 +27886,7 @@
     },
     {
       "root": "melacak",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "track down"
     },
     {
@@ -27896,7 +27911,7 @@
     },
     {
       "root": "melanjutkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "resume"
     },
     {
@@ -28071,7 +28086,7 @@
     },
     {
       "root": "memalukan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "awkward, disgraceful, embarrassing"
     },
     {
@@ -28271,7 +28286,7 @@
     },
     {
       "root": "memerlukan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "need"
     },
     {
@@ -29011,8 +29026,8 @@
     },
     {
       "root": "menghindar",
-      "pos": "word",
-      "gloss": "duck"
+      "pos": "derived",
+      "gloss": "to avoid, evade, duck"
     },
     {
       "root": "menghitamkan",
@@ -29171,7 +29186,7 @@
     },
     {
       "root": "mengumpulkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "gather, submit"
     },
     {
@@ -34501,7 +34516,7 @@
     },
     {
       "root": "penerbangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "aviation"
     },
     {
@@ -40020,6 +40035,11 @@
       "gloss": "alms"
     },
     {
+      "root": "sedia",
+      "pos": "word",
+      "gloss": "ready, willing"
+    },
+    {
       "root": "sedih",
       "pos": "adjective",
       "gloss": "sad"
@@ -40158,6 +40178,11 @@
       "root": "sekam",
       "pos": "word",
       "gloss": "chaff"
+    },
+    {
+      "root": "sekarat",
+      "pos": "word",
+      "gloss": "dying, in the throes of death"
     },
     {
       "root": "sekis",
@@ -44691,7 +44716,7 @@
     },
     {
       "root": "terutama",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "especially, mainly"
     },
     {
@@ -46393,6 +46418,11 @@
       "root": "usus",
       "pos": "word",
       "gloss": "intestine"
+    },
+    {
+      "root": "utama",
+      "pos": "word",
+      "gloss": "main, primary"
     },
     {
       "root": "utang",
