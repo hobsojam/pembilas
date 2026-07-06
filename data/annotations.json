@@ -14030,6 +14030,10 @@
     "ter": {
       "state": "valid",
       "gloss": "located, situated (terletak)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to put, place (meletakkan)"
     }
   },
   "sesuai": {
@@ -15664,6 +15668,346 @@
     "nya": {
       "state": "valid",
       "gloss": "the drugs (narkobanya)"
+    }
+  },
+  "lacak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to track, trace (melacak)"
+    }
+  },
+  "utama": {
+    "ter": {
+      "state": "valid",
+      "gloss": "especially, mainly (terutama)"
+    }
+  },
+  "kumpul": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to gather, collect (mengumpulkan)"
+    }
+  },
+  "sedia": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to be ready, willing (bersedia)"
+    }
+  },
+  "hindar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to avoid, evade, duck (menghindar)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to avoid (something) (menghindari)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to help avoid, prevent (menghindarkan)"
+    }
+  },
+  "sekarat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "in his/her dying moments (sekaratnya)"
+    }
+  },
+  "karat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "rusty (berkarat)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "rusted, rusty (karatan, colloq.)"
+    }
+  },
+  "tanam": {
+    "me": {
+      "state": "valid",
+      "gloss": "to plant (menanam)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "planted, embedded (tertanam)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a plant (tanaman)"
+    }
+  },
+  "suci": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to purify, sanctify (menyucikan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "purify it! (sucikan -- imperative)"
+    }
+  },
+  "keliling": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to go around, tour (berkeliling)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "surroundings, vicinity (sekeliling)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to surround, encircle (mengelilingi)"
+    }
+  },
+  "pelajaran": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its lesson (pelajarannya)"
+    }
+  },
+  "alamat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its address (alamatnya)"
+    }
+  },
+  "dahulu": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to precede, overtake (mendahului)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "former, previous (terdahulu)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "introduction, preamble (pendahuluan)"
+    }
+  },
+  "tendang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to kick (menendang)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a kick (tendangan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be kicked (ditendang)"
+    }
+  },
+  "akses": {
+    "me": {
+      "state": "valid",
+      "gloss": "to access (mengakses)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be accessed (diakses)"
+    }
+  },
+  "mustahil": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "impossibility (kemustahilan)"
+    }
+  },
+  "peta": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to map (memetakan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "mapping (pemetaan)"
+    }
+  },
+  "larang": {
+    "di": {
+      "state": "valid",
+      "gloss": "forbidden (dilarang)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "forbidden, illicit (terlarang)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to forbid (melarang)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a prohibition (larangan)"
+    }
+  },
+  "kedua": {
+    "nya": {
+      "state": "valid",
+      "gloss": "both of them (keduanya)"
+    }
+  },
+  "resmi": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an inauguration (peresmian)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to inaugurate, officiate (meresmikan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "officially (resminya)"
+    }
+  },
+  "dosa": {
+    "ber": {
+      "state": "valid",
+      "gloss": "sinful (berdosa)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a sinner (pendosa)"
+    }
+  },
+  "botol": {
+    "se": {
+      "state": "valid",
+      "gloss": "a bottle of (sebotol)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the bottle (botolnya)"
+    }
+  },
+  "rumit": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "complexity (kerumitan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as complex as (serumit)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "how complex it is (rumitnya)"
+    }
+  },
+  "hamil": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to impregnate (menghamili)"
+    }
+  },
+  "aksi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to take action, perform (beraksi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the action (aksinya)"
+    }
+  },
+  "baris": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to line up (berbaris)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a row, formation (barisan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "line them up! (bariskan -- imperative)"
+    }
+  },
+  "fungsi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to function (berfungsi)"
+    }
+  },
+  "hijau": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "greenish (kehijauan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "how green it is (hijaunya)"
+    }
+  },
+  "telur": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to lay eggs (bertelur)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the egg (telurnya)"
+    }
+  },
+  "gali": {
+    "me": {
+      "state": "valid",
+      "gloss": "to dig (menggali)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "excavation, digging (penggalian)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be dug (digali)"
+    }
+  },
+  "jung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the junk (boat) (jungnya)"
+    }
+  },
+  "gaya": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have style, to pose (bergaya)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its style (gayanya)"
+    }
+  },
+  "kertas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the paper (kertasnya)"
+    }
+  },
+  "komandan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the commander (komandannya)"
+    }
+  },
+  "apartemen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the apartment (apartemennya)"
+    }
+  },
+  "menteri": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the minister (menterinya)"
     }
   }
 }
