@@ -13272,7 +13272,7 @@
     },
     "se": {
       "state": "valid",
-      "gloss": "to be honest (sejujurnya)"
+      "gloss": "as honest as (sejujur itu, sejujur mungkin)"
     }
   },
   "udara": {
@@ -13984,6 +13984,10 @@
     "me_i": {
       "state": "valid",
       "gloss": "to limit, restrict (membatasi)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "border, boundary area (perbatasan)"
     }
   },
   "pandang": {
@@ -17352,6 +17356,300 @@
     "nya": {
       "state": "valid",
       "gloss": "the bride/groom, the newlywed(s) (pengantinnya)"
+    }
+  },
+  "makam": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the grave, tomb (makamnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to bury, entomb (memakamkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "funeral, burial (pemakaman)"
+    }
+  },
+  "bahagia": {
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her/its happiness (bahagianya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to be happy, blissful (berbahagia)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to make happy, to please (membahagiakan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "happiness (kebahagiaan)"
+    }
+  },
+  "jijik": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "disgusting (menjijikkan)"
+    }
+  },
+  "setia": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "loyalty (kesetiaan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her loyalty/faithfulness (setianya)"
+    }
+  },
+  "syarat": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "requirement(s), conditions (persyaratan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "conditional, with conditions attached (bersyarat)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the condition, requirement (syaratnya)"
+    }
+  },
+  "jadwal": {
+    "me": {
+      "state": "valid",
+      "gloss": "(informal) to schedule (menjadwal)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to schedule (menjadwalkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "(informal) schedule it! (imperative, jadwalkan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the schedule (jadwalnya)"
+    }
+  },
+  "cegah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to prevent (mencegah)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "prevention (pencegahan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be prevented (passive) (dicegah)"
+    }
+  },
+  "kriminal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the criminal aspect of it (kriminalnya)"
+    }
+  },
+  "rantai": {
+    "ber": {
+      "state": "valid",
+      "gloss": "chained, in a chain (berantai)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be chained (passive) (dirantai)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the chain (rantainya)"
+    }
+  },
+  "dokumen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the document (dokumennya)"
+    }
+  },
+  "payah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the difficulty, the trouble of it (payahnya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "exhaustion, fatigue (kepayahan)"
+    }
+  },
+  "reaksi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to react (bereaksi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the reaction (reaksinya)"
+    }
+  },
+  "pos": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the post, the mail (posnya)"
+    }
+  },
+  "markas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the base, headquarters (markasnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "headquartered, based (bermarkas)"
+    }
+  },
+  "duka": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to grieve, mourn (berduka)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "grief, sorrow (kedukaan)"
+    }
+  },
+  "sayap": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the wing (sayapnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "winged (bersayap)"
+    }
+  },
+  "model": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the model (modelnya)"
+    }
+  },
+  "permen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the candy (permennya)"
+    }
+  },
+  "politik": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the politics of it (politiknya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to engage in politics (berpolitik)"
+    }
+  },
+  "tetangga": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the neighbour (tetangganya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to be neighbours (bertetangga)"
+    }
+  },
+  "monyet": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the monkey (monyetnya)"
+    }
+  },
+  "risiko": {
+    "ber": {
+      "state": "valid",
+      "gloss": "at risk, risky (berisiko)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the risk (risikonya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to risk something (merisikokan)"
+    }
+  },
+  "manajer": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the manager (manajernya)"
+    }
+  },
+  "legenda": {
+    "me": {
+      "state": "valid",
+      "gloss": "to become legendary (melegenda)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the legend (legendanya)"
+    }
+  },
+  "pasir": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sand (pasirnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "sandy (berpasir)"
+    }
+  },
+  "panah": {
+    "pe": {
+      "state": "valid",
+      "gloss": "archer (pemanah)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to shoot an arrow, to archer (memanah)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the arrow (panahnya)"
+    }
+  },
+  "blok": {
+    "me": {
+      "state": "valid",
+      "gloss": "to block (memblok)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be blocked (passive) (diblok)"
+    }
+  },
+  "mahkota": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the crown (mahkotanya)"
+    }
+  },
+  "sepeda": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to cycle, ride a bicycle (bersepeda)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the bicycle (sepedanya)"
     }
   }
 }

@@ -4975,6 +4975,11 @@
       "gloss": "good"
     },
     {
+      "root": "bahagia",
+      "pos": "word",
+      "gloss": "happy, blissful"
+    },
+    {
       "root": "bahama",
       "pos": "proper",
       "gloss": "bahamas"
@@ -18547,7 +18552,7 @@
     {
       "root": "jijik",
       "pos": "adjective",
-      "gloss": "ill"
+      "gloss": "disgusted, disgusting, revolted"
     },
     {
       "root": "jika",
@@ -20291,7 +20296,7 @@
     },
     {
       "root": "kebahagiaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "happiness"
     },
     {
@@ -21911,7 +21916,7 @@
     },
     {
       "root": "kesehatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "health"
     },
     {
@@ -22006,7 +22011,7 @@
     },
     {
       "root": "kesetiaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "loyalty"
     },
     {
@@ -27010,6 +27015,11 @@
       "gloss": "maccabee"
     },
     {
+      "root": "makam",
+      "pos": "word",
+      "gloss": "grave, tomb"
+    },
+    {
       "root": "makan",
       "pos": "word",
       "gloss": "eat"
@@ -28096,7 +28106,7 @@
     },
     {
       "root": "memakamkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "entomb"
     },
     {
@@ -28206,7 +28216,7 @@
     },
     {
       "root": "membebaskan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "free, liberate"
     },
     {
@@ -29271,7 +29281,7 @@
     },
     {
       "root": "menjadwalkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "schedule"
     },
     {
@@ -29301,7 +29311,7 @@
     },
     {
       "root": "menjijikkan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "disgusting"
     },
     {
@@ -34011,7 +34021,7 @@
     },
     {
       "root": "pemakaman",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "funeral"
     },
     {
@@ -34406,7 +34416,7 @@
     },
     {
       "root": "pencarian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "hunt, quest"
     },
     {
@@ -35386,7 +35396,7 @@
     },
     {
       "root": "perbatasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "border"
     },
     {
@@ -44691,7 +44701,7 @@
     },
     {
       "root": "terpisah",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "separated"
     },
     {
