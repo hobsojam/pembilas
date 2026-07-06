@@ -8719,6 +8719,10 @@
     "ber": {
       "state": "valid",
       "gloss": "to have a face (figurative), e.g. bermuka dua = two-faced, hypocritical"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "surface (permukaan)"
     }
   },
   "perut": {
@@ -18280,6 +18284,446 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): pengawalanan is a nonsense near-miss for the real pengawalan (kawal.pe_an); kawalan (control) has no real pe_an derivation"
+    }
+  },
+  "batal": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to cancel, void, annul (membatalkan)"
+    }
+  },
+  "padu": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to combine, blend, unite something (memadukan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to unite, combine (e.g. memadu kasih, be united in love) (memadu)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "integrated, unified (terpadu)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "combination, fusion, blend (perpaduan)"
+    }
+  },
+  "tagih": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "addicted (ketagihan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "billing, collection (of payment) (penagihan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to collect payment, demand payment (menagih)"
+    }
+  },
+  "halang": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to block, obstruct (menghalangi)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "roadblock, hindrance (halangan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "(less common bare form) to block, obstruct (menghalang)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "blocked, obstructed (terhalang)"
+    }
+  },
+  "tumpang": {
+    "pe": {
+      "state": "valid",
+      "gloss": "passenger (penumpang)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to ride along, lodge, hitch a ride (menumpang)"
+    }
+  },
+  "khianat": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to betray (mengkhianati)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "traitor (pengkhianat)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "treason, betrayal (pengkhianatan)"
+    }
+  },
+  "jamin": {
+    "an": {
+      "state": "valid",
+      "gloss": "security, guarantee (jaminan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to guarantee, ensure (menjamin)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be guaranteed, ensured (passive) (dijamin)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "guaranteed, assured (stative) (terjamin)"
+    }
+  },
+  "pancing": {
+    "me": {
+      "state": "valid",
+      "gloss": "to fish (memancing)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "fishing lure, bait; a leading question (pancingan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "angler, fisherman (pemancing)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "fishing (the activity); fishing spot (pemancingan)"
+    }
+  },
+  "pokok": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the main point, the crux of it (pokoknya)"
+    }
+  },
+  "debat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to debate, argue (berdebat)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a debate (perdebatan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to debate, argue against (mendebat)"
+    }
+  },
+  "kuil": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the temple (kuilnya)"
+    }
+  },
+  "alkohol": {
+    "ber": {
+      "state": "valid",
+      "gloss": "alcoholic, containing alcohol (beralkohol)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the alcohol (alkoholnya)"
+    }
+  },
+  "madu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the honey (madunya)"
+    },
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memadu mechanically also derives from padu.me (to unite), the real word; madu (honey) has no real bare me- derivation"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memadukan mechanically also derives from padu.me_kan (to combine, blend), the real word; madu (honey) has no real me_kan derivation"
+    },
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memadui is a nonsense near-miss for the real memadu (padu.me); madu (honey) has no real me_i derivation"
+    }
+  },
+  "coklat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the chocolate (coklatnya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "brownish (kecoklatan)"
+    }
+  },
+  "kompetisi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to compete (berkompetisi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the competition (kompetisinya)"
+    }
+  },
+  "bocor": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a leak (the noun) (kebocoran)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to leak something (information) (membocorkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "(informal) leak it! (imperative, bocorkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(informal) a leak, leaked info (noun) (bocoran)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the leak (bocornya)"
+    }
+  },
+  "gelang": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "wrist, ankle (pergelangan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the bracelet (gelangnya)"
+    }
+  },
+  "peluang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the opportunity (peluangnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to have a chance/opportunity (berpeluang)"
+    }
+  },
+  "rumput": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the grass (rumputnya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to graze (merumput)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "grassy, covered in grass (berumput)"
+    }
+  },
+  "debu": {
+    "ber": {
+      "state": "valid",
+      "gloss": "dusty (berdebu)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the dust (debunya)"
+    }
+  },
+  "ketuk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to knock (mengetuk)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a knock (noun) (ketukan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be knocked (passive) (diketuk)"
+    }
+  },
+  "stabil": {
+    "kan": {
+      "state": "valid",
+      "gloss": "stabilize it! (imperative, stabilkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "stability (kestabilan)"
+    }
+  },
+  "paruh": {
+    "se": {
+      "state": "valid",
+      "gloss": "half (separuh)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its beak; its half (paruhnya)"
+    }
+  },
+  "hina": {
+    "me": {
+      "state": "valid",
+      "gloss": "to insult, humiliate (menghina)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "an insult (hinaan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be insulted, humiliated (passive) (dihina)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "humiliated (stative) (terhina)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "disgrace, humiliation (kehinaan)"
+    }
+  },
+  "agung": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "greatness, majesty (keagungan)"
+    }
+  },
+  "peti": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the box, crate, chest (petinya)"
+    }
+  },
+  "pil": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pill (pilnya)"
+    }
+  },
+  "cat": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be painted (passive) (dicat)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the paint (catnya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "(informal, non-standard) to paint (mencat)"
+    }
+  },
+  "tembus": {
+    "me": {
+      "state": "valid",
+      "gloss": "to penetrate, pass through (menembus)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be penetrated (passive) (ditembus)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "penetrable; penetrated (tertembus)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "penetrator, piercer (penembus)"
+    }
+  },
+  "sup": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the soup (supnya)"
+    }
+  },
+  "penis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the penis (penisnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having a penis (berpenis)"
+    }
+  },
+  "tunai": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to fulfill, carry out, discharge (an obligation) (menunaikan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the cash (tunainya)"
+    }
+  },
+  "tagihan": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): ketagihan mechanically also derives from tagih.ke_an (addicted), the real word; tagihan (invoice) has no real bare ke- derivation"
+    },
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): penagihan mechanically also derives from tagih.pe_an (billing, collection), the real word; tagihan (invoice) has no real pe- derivation"
+    },
+    "ke_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): ketagihanan is a nonsense near-miss for the real ketagihan (tagih.ke_an); tagihan (invoice) has no real ke_an derivation"
+    },
+    "pe_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): penagihanan is a nonsense near-miss for the real penagihan (tagih.pe_an); tagihan (invoice) has no real pe_an derivation"
+    },
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menagihan is a nonsense near-miss for the real menagih (tagih.me); tagihan (invoice) has no real me- derivation"
+    },
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menagihani is a nonsense near-miss for the real menagih (tagih.me); tagihan (invoice) has no real me_i derivation"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menagihankan is a nonsense near-miss for the real menagih (tagih.me); tagihan (invoice) has no real me_kan derivation"
+    }
+  },
+  "tukan": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): ketukan mechanically also derives from ketuk.an (a knock), the real word; tukan (toucan) has no real bare ke- derivation"
+    },
+    "ke_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): ketukanan is a nonsense near-miss for the real ketukan (ketuk.an); tukan (toucan) has no real ke_an derivation"
     }
   }
 }
