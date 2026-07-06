@@ -8475,8 +8475,13 @@
       "gloss": "worm"
     },
     {
-      "root": "cadangan",
+      "root": "cadang",
       "pos": "word",
+      "gloss": "reserve, backup (bound root)"
+    },
+    {
+      "root": "cadangan",
+      "pos": "derived",
       "gloss": "backup"
     },
     {
@@ -20421,7 +20426,7 @@
     },
     {
       "root": "kebiasaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "habit"
     },
     {
@@ -20556,7 +20561,7 @@
     },
     {
       "root": "kedamaian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "peace"
     },
     {
@@ -20566,7 +20571,7 @@
     },
     {
       "root": "kedatangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "arrival"
     },
     {
@@ -22456,7 +22461,7 @@
     },
     {
       "root": "keyakinan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "belief, faith"
     },
     {
@@ -26285,8 +26290,13 @@
       "gloss": "crowbar"
     },
     {
-      "root": "lingkaran",
+      "root": "lingkar",
       "pos": "word",
+      "gloss": "circle, ring (bound root)"
+    },
+    {
+      "root": "lingkaran",
+      "pos": "derived",
       "gloss": "circle"
     },
     {
@@ -27340,6 +27350,11 @@
       "gloss": "mannequin"
     },
     {
+      "root": "manfaat",
+      "pos": "word",
+      "gloss": "benefit, use, utility"
+    },
+    {
       "root": "manga",
       "pos": "word",
       "gloss": "manga"
@@ -28191,7 +28206,7 @@
     },
     {
       "root": "memanfaatkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "cash in, utilise"
     },
     {
@@ -28231,7 +28246,7 @@
     },
     {
       "root": "membahayakan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "dangerous"
     },
     {
@@ -35021,7 +35036,7 @@
     },
     {
       "root": "penjelasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "explanation"
     },
     {
@@ -35506,7 +35521,7 @@
     },
     {
       "root": "perdamaian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "peace, reconciliation"
     },
     {
@@ -47091,7 +47106,7 @@
     },
     {
       "root": "washington",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "washington, d.c."
     },
     {
