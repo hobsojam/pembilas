@@ -9305,6 +9305,11 @@
       "gloss": "enough"
     },
     {
+      "root": "culik",
+      "pos": "word",
+      "gloss": "kidnap, abduct"
+    },
+    {
       "root": "cummingtonit",
       "pos": "word",
       "gloss": "cummingtonite"
@@ -11028,6 +11033,11 @@
       "root": "dividen",
       "pos": "word",
       "gloss": "dividend"
+    },
+    {
+      "root": "divisi",
+      "pos": "word",
+      "gloss": "division"
     },
     {
       "root": "doa",
@@ -21976,7 +21986,7 @@
     },
     {
       "root": "kesenangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pleasure"
     },
     {
@@ -28671,7 +28681,7 @@
     },
     {
       "root": "menculik",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "kidnap, abduct"
     },
     {
@@ -33612,7 +33622,7 @@
     {
       "root": "paus",
       "pos": "word",
-      "gloss": "pope"
+      "gloss": "pope; whale"
     },
     {
       "root": "pavia",
@@ -34211,7 +34221,7 @@
     },
     {
       "root": "pemeriksaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "check, examination, verification"
     },
     {
@@ -34481,7 +34491,7 @@
     },
     {
       "root": "penculikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "kidnap"
     },
     {
@@ -35751,7 +35761,7 @@
     },
     {
       "root": "pernyataan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "expression, statement"
     },
     {
@@ -44053,6 +44063,11 @@
       "root": "teknis",
       "pos": "adjective",
       "gloss": "technical"
+    },
+    {
+      "root": "teknisi",
+      "pos": "word",
+      "gloss": "technician"
     },
     {
       "root": "teknokrasi",
