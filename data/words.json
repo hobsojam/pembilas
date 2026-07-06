@@ -25420,6 +25420,11 @@
       "gloss": "subscribe"
     },
     {
+      "root": "langgar",
+      "pos": "word",
+      "gloss": "to violate, break (a rule) (bound root)"
+    },
+    {
       "root": "langit",
       "pos": "word",
       "gloss": "heaven, sky"
@@ -27981,7 +27986,7 @@
     },
     {
       "root": "melahirkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "give birth"
     },
     {
@@ -28236,7 +28241,7 @@
     },
     {
       "root": "mematahkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "break"
     },
     {
@@ -29476,7 +29481,7 @@
     },
     {
       "root": "menuntut",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "sue"
     },
     {
@@ -33926,7 +33931,7 @@
     },
     {
       "root": "pelanggar",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "violator, offender"
     },
     {
@@ -45990,8 +45995,13 @@
       "gloss": "cash"
     },
     {
-      "root": "tunangan",
+      "root": "tunang",
       "pos": "word",
+      "gloss": "to be engaged, betrothed (bound root)"
+    },
+    {
+      "root": "tunangan",
+      "pos": "derived",
       "gloss": "fiancé"
     },
     {
@@ -46043,6 +46053,11 @@
       "root": "tunjuk",
       "pos": "word",
       "gloss": "show"
+    },
+    {
+      "root": "tuntut",
+      "pos": "word",
+      "gloss": "to demand, sue, claim (bound root)"
     },
     {
       "root": "tupai",

@@ -13883,6 +13883,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "birth, childbirth (kelahiran)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to give birth to (melahirkan)"
     }
   },
   "jumlah": {
@@ -15531,6 +15535,10 @@
     "an": {
       "state": "valid",
       "gloss": "a fracture, a fault line (patahan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to break something (mematahkan)"
     }
   },
   "cerdas": {
@@ -19015,6 +19023,378 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): persenan mechanically also derives from persen.an (informal tip/percentage cut), the real word; sen (cent) has no real per_an derivation"
+    }
+  },
+  "tunang": {
+    "an": {
+      "state": "valid",
+      "gloss": "fiancé(e) (tunangan)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to be engaged (bertunangan)"
+    }
+  },
+  "tuntut": {
+    "me": {
+      "state": "valid",
+      "gloss": "to demand, sue, claim (menuntut)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a demand, lawsuit, claim (tuntutan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "plaintiff, claimant (penuntut)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be sued, claimed against (passive) (dituntut)"
+    }
+  },
+  "langgar": {
+    "pe": {
+      "state": "valid",
+      "gloss": "violator, offender (pelanggar)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "violation, infringement (pelanggaran)"
+    }
+  },
+  "terbit": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to publish (menerbitkan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "publisher (penerbit)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "publishing, publication (penerbitan)"
+    }
+  },
+  "agama": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "religious matters, religiosity (keagamaan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to practice/have a religion (beragama)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the religion (agamanya)"
+    }
+  },
+  "punggung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the back (punggungnya)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "ridge, spine (of a mountain) (punggungan)"
+    }
+  },
+  "benteng": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fort (bentengnya)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to fortify, wall in (membentengi)"
+    }
+  },
+  "grup": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the group, band (grupnya)"
+    }
+  },
+  "identifikasi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to identify (mengidentifikasi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be identified (passive) (diidentifikasi)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "identified (stative) (teridentifikasi)"
+    }
+  },
+  "sepupu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cousin (sepupunya)"
+    }
+  },
+  "konsentrasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to concentrate (berkonsentrasi)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "concentrated (stative) (terkonsentrasi)"
+    },
+    "lah": {
+      "state": "valid",
+      "gloss": "concentrate! (imperative, konsentrasilah)"
+    }
+  },
+  "fasilitas": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to facilitate (memfasilitasi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the facility (fasilitasnya)"
+    }
+  },
+  "drama": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the drama, play (dramanya)"
+    }
+  },
+  "iklan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the advertisement (iklannya)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "advertising (the industry) (periklanan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to advertise (beriklan)"
+    }
+  },
+  "perak": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the silver (peraknya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "silvery (keperakan)"
+    }
+  },
+  "pidato": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to give a speech (berpidato)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the speech (pidatonya)"
+    }
+  },
+  "bikin": {
+    "me": {
+      "state": "valid",
+      "gloss": "(informal) to make (membikin)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "(informal) to be made (passive) (dibikin)"
+    }
+  },
+  "judi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to gamble (berjudi)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "gambler (penjudi)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "gambling (the activity) (perjudian)"
+    }
+  },
+  "adegan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the scene (adegannya)"
+    }
+  },
+  "ramah": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "friendliness, hospitality (keramahan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as friendly as (seramah)"
+    }
+  },
+  "tajam": {
+    "se": {
+      "state": "valid",
+      "gloss": "as sharp as (setajam)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "sharpness (ketajaman)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its sharpness (tajamnya)"
+    }
+  },
+  "ribut": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "commotion, uproar (keributan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "(informal) make a fuss about it! (imperative, ributkan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to make a fuss about, stir up trouble over (meributkan)"
+    }
+  },
+  "kembar": {
+    "an": {
+      "state": "valid",
+      "gloss": "(informal) a twin, look-alike (kembaran)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the twin (kembarnya)"
+    }
+  },
+  "jaket": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the jacket (jaketnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "wearing a jacket (berjaket)"
+    }
+  },
+  "tinju": {
+    "me": {
+      "state": "valid",
+      "gloss": "to punch (meninju)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to box (bertinju)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the punch, fist (tinjunya)"
+    }
+  },
+  "ganja": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the marijuana (ganjanya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "(informal/slang) to smoke marijuana (mengganja)"
+    }
+  },
+  "ganda": {
+    "kan": {
+      "state": "valid",
+      "gloss": "duplicate it! (imperative, gandakan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "compounded, doubled (berganda)"
+    }
+  },
+  "puisi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the poem (puisinya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to write/recite poetry (berpuisi)"
+    }
+  },
+  "rekening": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the account (rekeningnya)"
+    }
+  },
+  "tembok": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the wall (temboknya)"
+    }
+  },
+  "pipa": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pipe (pipanya)"
+    }
+  },
+  "medan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the field, terrain (medannya)"
+    }
+  },
+  "situs": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the site (situsnya)"
+    }
+  },
+  "fasilitasi": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memfasilitasi is standardly analyzed as fasilitas.me_i (to facilitate), not fasilitasi+me; fasilitasi (facilitation) has no real bare me- derivation of its own"
+    },
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memfasilitasii is a nonsense near-miss for the real memfasilitasi (fasilitas.me_i); fasilitasi (facilitation) has no real me_i derivation"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memfasilitasikan is a nonsense near-miss for the real memfasilitasi (fasilitas.me_i); fasilitasi (facilitation) has no real me_kan derivation"
+    }
+  },
+  "pelanggar": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pelanggaran is standardly analyzed as langgar.pe_an (violation, the peN-an circumfix on the base verb), not pelanggar+an; pelanggar (violator) has no real bare -an derivation of its own"
+    }
+  },
+  "petualang": {
+    "an": {
+      "state": "valid",
+      "gloss": "adventure (petualangan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to go adventuring (berpetualang)"
     }
   }
 }
