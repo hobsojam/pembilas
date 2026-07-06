@@ -2958,6 +2958,10 @@
     "se": {
       "state": "valid",
       "gloss": "as peaceful as"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "peace, reconciliation (perdamaian)"
     }
   },
   "dingin": {
@@ -12367,6 +12371,10 @@
       "state": "valid",
       "gloss": "endanger it! (bahayakan)",
       "notes": "rare/informal register"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to endanger (membahayakan)"
     }
   },
   "kaki": {
@@ -18724,6 +18732,289 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): ketukanan is a nonsense near-miss for the real ketukan (ketuk.an); tukan (toucan) has no real ke_an derivation"
+    }
+  },
+  "manfaat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the benefit, use (manfaatnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "useful, beneficial (bermanfaat)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to utilize, cash in, take advantage of (memanfaatkan)"
+    }
+  },
+  "lingkar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to coil, circle around, be circular (melingkar)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to encircle, surround (melingkari)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "circle, loop (lingkaran)"
+    }
+  },
+  "cadang": {
+    "an": {
+      "state": "valid",
+      "gloss": "backup, reserve, spare (cadangan)"
+    }
+  },
+  "kebun": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the garden, farm (kebunnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to garden, farm (berkebun)"
+    }
+  },
+  "gua": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cave (guanya)"
+    }
+  },
+  "satelit": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the satellite (satelitnya)"
+    }
+  },
+  "singa": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the lion (singanya)"
+    }
+  },
+  "kencing": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to urinate on (mengencingi)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "urinate on it! (imperative, informal, kencingi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the urine (kencingnya)"
+    }
+  },
+  "salin": {
+    "an": {
+      "state": "valid",
+      "gloss": "a copy (salinan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to copy (menyalin)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "childbirth, delivery (persalinan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be copied (passive) (disalin)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to give birth (bersalin)"
+    }
+  },
+  "kimia": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the chemistry (kimianya)"
+    }
+  },
+  "kelinci": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the rabbit (kelincinya)"
+    }
+  },
+  "pajak": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tax (pajaknya)"
+    }
+  },
+  "sarang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the nest (sarangnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to nest, build a nest (bersarang)"
+    }
+  },
+  "cangkir": {
+    "se": {
+      "state": "valid",
+      "gloss": "a cup of (secangkir)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the cup (cangkirnya)"
+    }
+  },
+  "abu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ash (abunya)"
+    }
+  },
+  "misteri": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the mystery (misterinya)"
+    }
+  },
+  "favorit": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the favorite (favoritnya)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "(informal) most favorite (terfavorit)"
+    }
+  },
+  "solusi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the solution (solusinya)"
+    }
+  },
+  "kostum": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the costume (kostumnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "wearing a costume (berkostum)"
+    }
+  },
+  "patuh": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to comply with, obey (mematuhi)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "obey it! (imperative, patuhi)"
+    }
+  },
+  "bidang": {
+    "se": {
+      "state": "valid",
+      "gloss": "a plot, tract of (land) (sebidang)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the field, area (bidangnya)"
+    }
+  },
+  "persen": {
+    "an": {
+      "state": "valid",
+      "gloss": "(informal) tip, percentage cut (persenan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the percentage (persennya)"
+    }
+  },
+  "sombong": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "arrogance, pride (kesombongan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to boast about (menyombongkan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her arrogance (sombongnya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "(less common bare form) to boast (menyombong)"
+    }
+  },
+  "pizza": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pizza (pizzanya)"
+    }
+  },
+  "kanker": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cancer (kankernya)"
+    }
+  },
+  "kayak": {
+    "nya": {
+      "state": "valid",
+      "gloss": "it's like...; apparently (kayaknya)"
+    }
+  },
+  "patung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the statue (patungnya)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "sculptor (pematung)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(informal) to chip in, split costs together (patungan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to sculpt; to stand motionless like a statue (mematung)"
+    }
+  },
+  "tiarap": {
+    "lah": {
+      "state": "valid",
+      "gloss": "hit the deck!, get down! (imperative, tiaraplah)"
+    }
+  },
+  "asuransi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the insurance (asuransinya)"
+    }
+  },
+  "lift": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the lift, elevator (liftnya)"
+    }
+  },
+  "sen": {
+    "per_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): persenan mechanically also derives from persen.an (informal tip/percentage cut), the real word; sen (cent) has no real per_an derivation"
     }
   }
 }
