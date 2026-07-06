@@ -19,6 +19,12 @@ export function buildIndex({ words, affixes, annotations, rules }) {
   // + "-i" mechanically produces "bilai", which is actually its own
   // unrelated root).
   const rootWords = new Set(words.map(w => w.root))
+  const affixById = new Map(affixes.map(a => [a.id, a]))
+  const rootsWithCuratedSlots = new Set(
+    Object.entries(annotations)
+      .filter(([, slots]) => Object.values(slots).some(slot => slot.state === 'valid'))
+      .map(([root]) => root)
+  )
 
   // Entries are [form, root, affixId|null] with a trailing 1 appended to
   // (ids, not display labels, so renaming a label in affixes.json is safe);
@@ -65,14 +71,38 @@ export function buildIndex({ words, affixes, annotations, rules }) {
     }
   }
 
+  function affixComplexity(affixId) {
+    if (affixId === null) return 0
+    return affixById.get(affixId)?.type === 'circumfix' ? 2 : 1
+  }
+
+  function unverifiedTieBreak(a, b) {
+    if (a[3] || b[3]) return 0
+    // Issue #63: when every reading for a form is still mechanical, there is
+    // no linguistic certainty to expose. Keep the heuristic intentionally
+    // cheap and deterministic:
+    //   1. prefer roots that have at least one curated slot elsewhere;
+    //   2. prefer simpler affix shapes (prefix/suffix before circumfix);
+    //   3. fall back to root/affix ids for stable output independent of the
+    //      source words.json order.
+    return (
+      Number(rootsWithCuratedSlots.has(b[1])) - Number(rootsWithCuratedSlots.has(a[1])) ||
+      affixComplexity(a[2]) - affixComplexity(b[2]) ||
+      a[1].localeCompare(b[1]) ||
+      String(a[2]).localeCompare(String(b[2]))
+    )
+  }
+
   // Within a form: verified entries before unverified ones (the search UI's
   // prefix scan surfaces curated derivations first), and a root's own entry
-  // (null affix id) before derived readings of the same surface string.
+  // (null affix id) before derived readings of the same surface string. Fully
+  // unverified collisions then get the cheap #63 heuristic above.
   entries.sort(
     (a, b) =>
       a[0].localeCompare(b[0]) ||
       (b[3] ?? 0) - (a[3] ?? 0) ||
-      (a[2] === null ? 0 : 1) - (b[2] === null ? 0 : 1)
+      (a[2] === null ? 0 : 1) - (b[2] === null ? 0 : 1) ||
+      unverifiedTieBreak(a, b)
   )
   return entries
 }

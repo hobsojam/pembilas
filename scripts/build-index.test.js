@@ -142,6 +142,43 @@ describe('buildIndex', () => {
       ])
     })
   })
+
+  describe('unverified collision ranking (#63)', () => {
+    const ketuaanAffixes = [
+      { id: 'an', label: '-an', type: 'suffix' },
+      { id: 'ke_an', label: 'ke-...-an', type: 'circumfix' },
+    ]
+
+    it('uses affix simplicity to rank all-mechanical collisions deterministically', () => {
+      // Both entries mechanically derive "ketuaan"; reverse word order proves
+      // this is not just preserving words.json order.
+      const collided = buildIndex({
+        words: [{ root: 'tua' }, { root: 'ketua' }],
+        affixes: ketuaanAffixes,
+        annotations: {},
+        rules,
+      }).filter(([form]) => form === 'ketuaan')
+
+      expect(collided).toEqual([
+        ['ketuaan', 'ketua', 'an'],
+        ['ketuaan', 'tua', 'ke_an'],
+      ])
+    })
+
+    it('prefers a root with curated coverage elsewhere before affix simplicity', () => {
+      const collided = buildIndex({
+        words: [{ root: 'ketua' }, { root: 'tua' }],
+        affixes: ketuaanAffixes,
+        annotations: { tua: { me: { state: 'valid', gloss: 'to age' } } },
+        rules,
+      }).filter(([form]) => form === 'ketuaan')
+
+      expect(collided).toEqual([
+        ['ketuaan', 'tua', 'ke_an'],
+        ['ketuaan', 'ketua', 'an'],
+      ])
+    })
+  })
 })
 
 describe('real irregular-word data (#16 regression)', () => {
