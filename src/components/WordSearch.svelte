@@ -16,8 +16,8 @@
   import('../../data/search-index.json').then(m => { index = m.default })
 
   // Set for O(1) root-word lookup (used to label results as direct vs via-affix)
-  const rootSet = new Set(words.map(w => w.root))
-  const glossMap = new Map(words.map(w => [w.root, w.gloss]))
+  const rootSet = $derived(new Set(words.map(w => w.root)))
+  const glossMap = $derived(new Map(words.map(w => [w.root, w.gloss])))
 
   let query = $state('')
   let results = $state([])
