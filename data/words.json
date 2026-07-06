@@ -15117,7 +15117,7 @@
     {
       "root": "gua",
       "pos": "word",
-      "gloss": "cave"
+      "gloss": "cave; (slang) I, me"
     },
     {
       "root": "guangdong",
@@ -15425,8 +15425,13 @@
       "gloss": "page"
     },
     {
-      "root": "halangan",
+      "root": "halang",
       "pos": "word",
+      "gloss": "to block, obstruct (bound root)"
+    },
+    {
+      "root": "halangan",
+      "pos": "derived",
       "gloss": "roadblock, hindrance"
     },
     {
@@ -18215,8 +18220,13 @@
       "gloss": "quiff"
     },
     {
-      "root": "jaminan",
+      "root": "jamin",
       "pos": "word",
+      "gloss": "to guarantee, ensure (bound root)"
+    },
+    {
+      "root": "jaminan",
+      "pos": "derived",
       "gloss": "security"
     },
     {
@@ -20440,6 +20450,11 @@
       "gloss": "fitness"
     },
     {
+      "root": "kebun",
+      "pos": "word",
+      "gloss": "garden, farm, plantation"
+    },
+    {
       "root": "kebutuhan",
       "pos": "word",
       "gloss": "necessity"
@@ -21951,7 +21966,7 @@
     },
     {
       "root": "keselamatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "salvation"
     },
     {
@@ -22508,6 +22523,11 @@
       "root": "khazanah",
       "pos": "word",
       "gloss": "cache"
+    },
+    {
+      "root": "khianat",
+      "pos": "word",
+      "gloss": "to betray, commit treason (bound root)"
     },
     {
       "root": "khilafah",
@@ -27511,7 +27531,7 @@
     },
     {
       "root": "maria",
-      "pos": "word",
+      "pos": "proper",
       "gloss": "mary"
     },
     {
@@ -28156,7 +28176,7 @@
     },
     {
       "root": "memancing",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "fish, fishing"
     },
     {
@@ -28226,7 +28246,7 @@
     },
     {
       "root": "membatalkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "void, withdraw"
     },
     {
@@ -29056,7 +29076,7 @@
     },
     {
       "root": "menghalangi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "block"
     },
     {
@@ -29156,7 +29176,7 @@
     },
     {
       "root": "mengkhianati",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "betray"
     },
     {
@@ -32630,6 +32650,11 @@
       "gloss": "paddy, rice"
     },
     {
+      "root": "padu",
+      "pos": "word",
+      "gloss": "united, fused, blended"
+    },
+    {
       "root": "paela",
       "pos": "word",
       "gloss": "paella"
@@ -32898,6 +32923,11 @@
       "root": "panci",
       "pos": "word",
       "gloss": "saucepan"
+    },
+    {
+      "root": "pancing",
+      "pos": "word",
+      "gloss": "fishing rod; to fish (bound root)"
     },
     {
       "root": "panco",
@@ -33397,7 +33427,7 @@
     {
       "root": "paruh",
       "pos": "word",
-      "gloss": "beak"
+      "gloss": "beak; half (e.g. paruh waktu, part-time)"
     },
     {
       "root": "parut",
@@ -34071,7 +34101,7 @@
     },
     {
       "root": "pemancingan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "fishing"
     },
     {
@@ -34876,7 +34906,7 @@
     },
     {
       "root": "pengkhianatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "treason"
     },
     {
@@ -35086,7 +35116,7 @@
     },
     {
       "root": "penumpang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "passenger"
     },
     {
@@ -35741,7 +35771,7 @@
     },
     {
       "root": "permukaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "surface"
     },
     {
@@ -43385,6 +43415,11 @@
       "gloss": "hashtag"
     },
     {
+      "root": "tagih",
+      "pos": "word",
+      "gloss": "to collect payment, demand payment (bound root)"
+    },
+    {
       "root": "tagihan",
       "pos": "word",
       "gloss": "invoice"
@@ -45918,6 +45953,11 @@
       "root": "tumpak",
       "pos": "word",
       "gloss": "batch"
+    },
+    {
+      "root": "tumpang",
+      "pos": "word",
+      "gloss": "to ride along, lodge, hitch a ride (bound root)"
     },
     {
       "root": "tumpukan",
