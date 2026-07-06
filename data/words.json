@@ -5102,7 +5102,7 @@
     {
       "root": "bakal",
       "pos": "word",
-      "gloss": "primordium"
+      "gloss": "will be, prospective, future (colloquial, e.g. bakal calon = prospective candidate)"
     },
     {
       "root": "bakar",
@@ -15321,7 +15321,7 @@
     },
     {
       "root": "hadapan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "front"
     },
     {
@@ -20231,7 +20231,7 @@
     },
     {
       "root": "keadilan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "justice"
     },
     {
@@ -20316,7 +20316,7 @@
     },
     {
       "root": "kebebasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "freedom"
     },
     {
@@ -20961,7 +20961,7 @@
     },
     {
       "root": "kelaparan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "starve"
     },
     {
@@ -21395,8 +21395,13 @@
       "gloss": "kendhang"
     },
     {
-      "root": "kendaraan",
+      "root": "kendara",
       "pos": "word",
+      "gloss": "to drive, to ride (a vehicle) (bound root)"
+    },
+    {
+      "root": "kendaraan",
+      "pos": "derived",
       "gloss": "vehicle"
     },
     {
@@ -21986,7 +21991,7 @@
     },
     {
       "root": "kesepian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "solitude"
     },
     {
@@ -28926,7 +28931,7 @@
     },
     {
       "root": "mengejutkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "surprise"
     },
     {
@@ -29256,7 +29261,7 @@
     },
     {
       "root": "menipu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "swindle"
     },
     {
@@ -29471,7 +29476,7 @@
     },
     {
       "root": "menyelidiki",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "investigate"
     },
     {
@@ -34526,7 +34531,7 @@
     },
     {
       "root": "penelitian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "research"
     },
     {
@@ -34645,6 +34650,11 @@
       "gloss": "annealing"
     },
     {
+      "root": "pengantin",
+      "pos": "word",
+      "gloss": "bride, groom, newlywed"
+    },
+    {
       "root": "pengaruh",
       "pos": "word",
       "gloss": "influence"
@@ -34716,7 +34726,7 @@
     },
     {
       "root": "pengendara",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "rider"
     },
     {
@@ -34896,7 +34906,7 @@
     },
     {
       "root": "penipu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "con artist, fraud, fraudster"
     },
     {
@@ -35086,7 +35096,7 @@
     },
     {
       "root": "penyebab",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "cause"
     },
     {
@@ -35421,7 +35431,7 @@
     },
     {
       "root": "percobaan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "empirical, trial"
     },
     {
@@ -35891,7 +35901,7 @@
     },
     {
       "root": "pertahanan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "defense"
     },
     {
@@ -38182,7 +38192,7 @@
     {
       "root": "rapat",
       "pos": "adjective",
-      "gloss": "close-knit"
+      "gloss": "meeting; close, tight, dense"
     },
     {
       "root": "rapor",
@@ -40403,6 +40413,11 @@
       "root": "selibat",
       "pos": "word",
       "gloss": "bachelor"
+    },
+    {
+      "root": "selidik",
+      "pos": "word",
+      "gloss": "investigate, examine, probe (bound root)"
     },
     {
       "root": "selikuran",
@@ -44701,7 +44716,7 @@
     },
     {
       "root": "tersesat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "get lost, lost"
     },
     {
@@ -45048,6 +45063,11 @@
       "root": "tipologi",
       "pos": "word",
       "gloss": "typology"
+    },
+    {
+      "root": "tipu",
+      "pos": "word",
+      "gloss": "cheat, deceive, con"
     },
     {
       "root": "tipus",

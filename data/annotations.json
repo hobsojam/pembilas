@@ -2261,6 +2261,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "endurance; resilience; resistance; durability"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "defense (pertahanan)"
     }
   },
   "temu": {
@@ -6354,6 +6358,10 @@
     "nya": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "an experiment, attempt, trial (percobaan)"
     }
   },
   "siap": {
@@ -14209,6 +14217,22 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to bring before, present to (menghadapkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "the front, the area ahead; presence (di hadapan) (hadapan)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to face each other, be face-to-face (berhadapan)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "face it! (imperative, informal, hadapi)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "bring it before, present it! (imperative, informal, hadapkan)"
     }
   },
   "selatan": {
@@ -14405,6 +14429,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the hunger (laparnya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "starvation, famine (kelaparan)"
     }
   },
   "peluru": {
@@ -15123,6 +15151,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to cause (menyebabkan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "the cause, that which causes (something) (penyebab)"
     }
   },
   "milik": {
@@ -17032,6 +17064,294 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): kontrakan mechanically also derives from kontrak.an (a rental), the real word; kontra (against) has no real bare -kan derivation"
+    }
+  },
+  "tipu": {
+    "me": {
+      "state": "valid",
+      "gloss": "to cheat, deceive, con (menipu)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "con artist, fraud, fraudster (penipu)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be conned, deceived (passive) (ditipu)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "conned, duped (stative) (tertipu)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a trick, scam, deception (tipuan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "the act of conning, fraud (penipuan)"
+    }
+  },
+  "kendara": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to drive, ride (intransitive) (berkendara)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to drive, ride (something) (transitive) (mengendarai)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "vehicle (kendaraan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "rider, driver (pengendara)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "(formal/literary) to travel by vehicle (berkendaraan)"
+    }
+  },
+  "selidik": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to investigate, examine, probe (menyelidiki)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "investigation (the act/process) (penyelidikan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "investigator (penyelidik)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be investigated (passive) (diselidiki)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "investigate it! (imperative, informal, selidiki)"
+    }
+  },
+  "teliti": {
+    "me": {
+      "state": "valid",
+      "gloss": "to research, examine closely (meneliti)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "research (penelitian)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "researcher (peneliti)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "thoroughness, precision, meticulousness (ketelitian)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be researched, examined (passive) (diteliti)"
+    }
+  },
+  "telanjang": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to be naked, undressed (bertelanjang)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to strip, undress someone; to expose (figuratively) (menelanjangi)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "strip him/her! (imperative, informal, telanjangi)"
+    }
+  },
+  "angka": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the number (angkanya)"
+    }
+  },
+  "harta": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the property, treasure (hartanya)"
+    }
+  },
+  "klien": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the client (kliennya)"
+    }
+  },
+  "kaca": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the glass (kacanya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to look in a mirror; to reflect on oneself (berkaca)"
+    }
+  },
+  "cewek": {
+    "nya": {
+      "state": "valid",
+      "gloss": "(informal) the girl (ceweknya)"
+    }
+  },
+  "mantra": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the spell, mantra (mantranya)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to cast a spell on (memantrai)"
+    }
+  },
+  "sifat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have the nature/quality of, be characterized by (bersifat)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "its nature, quality, characteristic (sifatnya)"
+    }
+  },
+  "suku": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tribe (sukunya)"
+    }
+  },
+  "infeksi": {
+    "ter": {
+      "state": "valid",
+      "gloss": "infected (terinfeksi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to infect (menginfeksi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the infection (infeksinya)"
+    }
+  },
+  "pabrik": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the factory (pabriknya)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(informal/journalistic) factory-made; the manufacturer (pabrikan)"
+    }
+  },
+  "kolam": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pond (kolamnya)"
+    }
+  },
+  "motor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the motor, engine (motornya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "motorized, having an engine (bermotor)"
+    }
+  },
+  "tombol": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the button, key (tombolnya)"
+    }
+  },
+  "krim": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cream (krimnya)"
+    }
+  },
+  "sapi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cow (sapinya)"
+    }
+  },
+  "rapat": {
+    "me": {
+      "state": "valid",
+      "gloss": "to draw close, come together (merapat)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the meeting (rapatnya)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "close it up, bring it together! (imperative, informal, rapatkan)"
+    }
+  },
+  "lumayan": {
+    "lah": {
+      "state": "valid",
+      "gloss": "it's decent enough, not bad (with emphasis) (lumayanlah)"
+    }
+  },
+  "bakal": {
+    "an": {
+      "state": "valid",
+      "gloss": "(informal) going to be, prospective (bakalan)"
+    }
+  },
+  "cuaca": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the weather (cuacanya)"
+    }
+  },
+  "menara": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tower (menaranya)"
+    }
+  },
+  "ular": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the snake (ularnya)"
+    }
+  },
+  "langgan": {
+    "pe": {
+      "state": "valid",
+      "gloss": "customer, subscriber (pelanggan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "subscription; regular clientele (langganan)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to subscribe (to something), be a regular customer of (berlangganan)"
+    }
+  },
+  "pengantin": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bride/groom, the newlywed(s) (pengantinnya)"
     }
   }
 }
