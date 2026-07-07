@@ -12270,6 +12270,11 @@
       "gloss": "gold, golden"
     },
     {
+      "root": "embara",
+      "pos": "word",
+      "gloss": "to wander, roam (bound root)"
+    },
+    {
       "root": "embarkasi",
       "pos": "word",
       "gloss": "embarkation"
@@ -21460,6 +21465,11 @@
       "gloss": "slope"
     },
     {
+      "root": "kemis",
+      "pos": "word",
+      "gloss": "to beg (bound root)"
+    },
+    {
       "root": "kemiskinan",
       "pos": "derived",
       "gloss": "poverty"
@@ -29216,7 +29226,7 @@
     },
     {
       "root": "mengemis",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "beg"
     },
     {
@@ -29551,7 +29561,7 @@
     },
     {
       "root": "menjauhi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "distance"
     },
     {
@@ -29801,7 +29811,7 @@
     },
     {
       "root": "menyita",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "confiscate"
     },
     {
@@ -33272,7 +33282,7 @@
     {
       "root": "pangkat",
       "pos": "word",
-      "gloss": "to the power of"
+      "gloss": "rank, grade, position (also: power, exponent)"
     },
     {
       "root": "pangsi",
@@ -35036,12 +35046,12 @@
     },
     {
       "root": "pengembara",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "vagabond"
     },
     {
       "root": "pengemis",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "beggar"
     },
     {
@@ -35076,7 +35086,7 @@
     },
     {
       "root": "pengertian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "understanding"
     },
     {
@@ -35206,7 +35216,7 @@
     },
     {
       "root": "pengungsi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "evacuee, refugee"
     },
     {
@@ -42225,6 +42235,11 @@
       "gloss": "systemic"
     },
     {
+      "root": "sita",
+      "pos": "word",
+      "gloss": "to confiscate, seize (bound root)"
+    },
+    {
       "root": "sitokin",
       "pos": "word",
       "gloss": "cytokine"
@@ -46758,6 +46773,11 @@
       "root": "ungkapan",
       "pos": "word",
       "gloss": "expression"
+    },
+    {
+      "root": "ungsi",
+      "pos": "word",
+      "gloss": "to flee, evacuate (bound root)"
     },
     {
       "root": "ungu",

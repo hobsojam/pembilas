@@ -24917,6 +24917,176 @@
       "gloss": "the crab (kepitingnya)"
     }
   },
+  "kerabat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the relative (kerabatnya)"
+    }
+  },
+  "sita": {
+    "me": {
+      "state": "valid",
+      "gloss": "to confiscate, seize (menyita)"
+    }
+  },
+  "embara": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a vagabond, wanderer (pengembara)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a wandering, journey (pengembaraan)"
+    }
+  },
+  "ungsi": {
+    "pe": {
+      "state": "valid",
+      "gloss": "an evacuee, refugee (pengungsi)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an evacuation, refugee camp (pengungsian)"
+    }
+  },
+  "kemis": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a beggar (pengemis)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to beg (mengemis)"
+    }
+  },
+  "siram": {
+    "me": {
+      "state": "valid",
+      "gloss": "to water, flush (menyiram)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be watered, flushed (passive) (disiram)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a sprinkler, waterer (penyiram)"
+    }
+  },
+  "pangkat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to hold a rank, be ranked (berpangkat)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the rank, position (pangkatnya)"
+    }
+  },
+  "bareng": {
+    "ber_an": {
+      "state": "valid",
+      "gloss": "simultaneous, at the same time (berbarengan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "together with, at the same time as (barengan)"
+    }
+  },
+  "legal": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to legalize (melegalkan)"
+    }
+  },
+  "masturbasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to masturbate (bermasturbasi)"
+    }
+  },
+  "prediksi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be predicted (passive) (diprediksi)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "predicted, predictable (terprediksi)"
+    }
+  },
+  "loteng": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the attic, upper floor (lotengnya)"
+    }
+  },
+  "udang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the shrimp (udangnya)"
+    }
+  },
+  "poster": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the poster (posternya)"
+    }
+  },
+  "amplop": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the envelope (amplopnya)"
+    }
+  },
+  "usus": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the intestine (ususnya)"
+    }
+  },
+  "mutiara": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pearl (mutiaranya)"
+    }
+  },
+  "nadi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pulse (nadinya)"
+    }
+  },
+  "naluri": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the instinct (nalurinya)"
+    }
+  },
+  "sipir": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the (prison) guard (sipirnya)"
+    }
+  },
+  "dalang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the puppeteer, mastermind (dalangnya)"
+    }
+  },
+  "menantu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the son/daughter-in-law (menantunya)"
+    }
+  },
+  "ranjau": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the (land)mine (ranjaunya)"
+    }
+  },
   "lengkung": {
     "me": {
       "state": "valid",
