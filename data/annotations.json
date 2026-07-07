@@ -15767,6 +15767,18 @@
     "ber": {
       "state": "valid",
       "gloss": "to gather, assemble (intransitive) (berkumpul)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "collection, group (kumpulan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "a group, bunch of (sekumpulan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "the act of collecting, gathering (pengumpulan)"
     }
   },
   "sedia": {
@@ -17871,6 +17883,10 @@
     "pe": {
       "state": "valid",
       "gloss": "hijacker; pirate (pembajak)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "(informal) pirated, bootleg (bajakan)"
     }
   },
   "tambang": {
@@ -19702,6 +19718,333 @@
     "nya": {
       "state": "valid",
       "gloss": "the sheep (dombanya)"
+    }
+  },
+  "peroleh": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be obtained (passive) (diperoleh)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "acquisition, result (perolehan)"
+    }
+  },
+  "memperoleh": {
+    "nya": {
+      "state": "valid",
+      "gloss": "obtaining it (memperolehnya)"
+    }
+  },
+  "butuh": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "necessity, need (kebutuhan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to need (membutuhkan)"
+    }
+  },
+  "hadir": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "presence, attendance (kehadiran)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her presence (hadirnya)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to attend (menghadiri)"
+    }
+  },
+  "syukur": {
+    "ber": {
+      "state": "valid",
+      "gloss": "grateful, thankful (bersyukur)"
+    }
+  },
+  "didik": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "education (pendidikan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to educate, teach (mendidik)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "educated (stative) (terdidik)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "educator (pendidik)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the upbringing, education of him/her (didiknya)"
+    }
+  },
+  "peluk": {
+    "an": {
+      "state": "valid",
+      "gloss": "a hug, embrace (pelukan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to hug, embrace (memeluk)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to embrace each other, hug (berpelukan)"
+    }
+  },
+  "tebak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to guess (menebak)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a guess (tebakan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be guessed (passive) (ditebak)"
+    }
+  },
+  "kontrol": {
+    "me": {
+      "state": "valid",
+      "gloss": "to control, manage (mengontrol)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be controlled (passive) (dikontrol)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "under control (stative) (terkontrol)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the control (kontrolnya)"
+    }
+  },
+  "duta": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "embassy (kedutaan)"
+    }
+  },
+  "oper": {
+    "me": {
+      "state": "valid",
+      "gloss": "to pass, hand over (mengoper)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a pass (e.g. in sports) (operan)"
+    }
+  },
+  "koper": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the suitcase (kopernya)"
+    },
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengoper mechanically also derives from oper.me (to pass, hand over), the real word; koper (suitcase) has no real me- derivation"
+    }
+  },
+  "baja": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the steel (bajanya)"
+    },
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): bajakan mechanically also derives from bajak.an (pirated, bootleg), the real word; baja (steel) has no real bare -kan derivation"
+    }
+  },
+  "kaget": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to startle, surprise (mengagetkan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the surprise of it (kagetnya)"
+    }
+  },
+  "langka": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "scarcity, rarity (kelangkaan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as rare as (selangka)"
+    }
+  },
+  "majalah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the magazine (majalahnya)"
+    }
+  },
+  "teknik": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the technique (tekniknya)"
+    }
+  },
+  "upacara": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ceremony (upacaranya)"
+    }
+  },
+  "rute": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the route (rutenya)"
+    }
+  },
+  "pusing": {
+    "an": {
+      "state": "valid",
+      "gloss": "(informal) confusion, a dizzy spell (pusingan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "confusing, making one dizzy (memusingkan)"
+    }
+  },
+  "ritual": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ritual (ritualnya)"
+    }
+  },
+  "produk": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the product (produknya)"
+    }
+  },
+  "asumsi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to assume (berasumsi)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "assume it! (imperative, asumsikan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to assume something (mengasumsikan)"
+    }
+  },
+  "tunggal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "its singularity (tunggalnya)"
+    }
+  },
+  "juri": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the judge, juror (jurinya)"
+    }
+  },
+  "tradisi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tradition (tradisinya)"
+    }
+  },
+  "negosiasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to negotiate (bernegosiasi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to negotiate something (menegosiasikan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "negotiate it! (imperative, negosiasikan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the negotiation (negosiasinya)"
+    }
+  },
+  "nada": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tone, pitch (nadanya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having a tone of (bernada)"
+    }
+  },
+  "ban": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tyre (bannya)"
+    }
+  },
+  "kalimat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sentence (kalimatnya)"
+    }
+  },
+  "laboratorium": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the laboratory (laboratoriumnya)"
+    }
+  },
+  "bensin": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the gasoline (bensinnya)"
+    }
+  },
+  "kalung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the necklace (kalungnya)"
+    }
+  },
+  "hiu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the shark (hiunya)"
+    }
+  },
+  "negatif": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the negative aspect of it (negatifnya)"
+    }
+  },
+  "oleh": {
+    "per_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): perolehan mechanically also derives from peroleh.an (acquisition, result), the real word; oleh (by) has no real per_an derivation"
     }
   }
 }

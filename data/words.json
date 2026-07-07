@@ -6756,7 +6756,7 @@
     },
     {
       "root": "bersyukur",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "grateful"
     },
     {
@@ -8423,6 +8423,11 @@
       "root": "buto",
       "pos": "word",
       "gloss": "ogre"
+    },
+    {
+      "root": "butuh",
+      "pos": "word",
+      "gloss": "to need (bound root)"
     },
     {
       "root": "buyut",
@@ -10578,6 +10583,11 @@
       "root": "didih",
       "pos": "word",
       "gloss": "boil"
+    },
+    {
+      "root": "didik",
+      "pos": "word",
+      "gloss": "to educate, teach (bound root)"
     },
     {
       "root": "difalia",
@@ -15350,6 +15360,11 @@
       "gloss": "gift"
     },
     {
+      "root": "hadir",
+      "pos": "word",
+      "gloss": "to attend, be present (bound root)"
+    },
+    {
       "root": "hadirin",
       "pos": "word",
       "gloss": "attendee"
@@ -19002,7 +19017,7 @@
     {
       "root": "kaget",
       "pos": "adjective",
-      "gloss": "frightened"
+      "gloss": "startled, surprised"
     },
     {
       "root": "kagum",
@@ -20461,7 +20476,7 @@
     },
     {
       "root": "kebutuhan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "necessity"
     },
     {
@@ -20721,7 +20736,7 @@
     },
     {
       "root": "kehadiran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "presence"
     },
     {
@@ -22411,7 +22426,7 @@
     },
     {
       "root": "keuangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "finance"
     },
     {
@@ -24015,6 +24030,11 @@
       "gloss": "contribution"
     },
     {
+      "root": "kontrol",
+      "pos": "word",
+      "gloss": "control (bound root)"
+    },
+    {
       "root": "kontroversi",
       "pos": "word",
       "gloss": "controversy"
@@ -24926,7 +24946,7 @@
     },
     {
       "root": "kumpulan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pool"
     },
     {
@@ -28356,7 +28376,7 @@
     },
     {
       "root": "memeluk",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "embrace, hug"
     },
     {
@@ -28791,7 +28811,7 @@
     },
     {
       "root": "menebak",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "guess"
     },
     {
@@ -29231,7 +29251,7 @@
     },
     {
       "root": "mengontrol",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "manage, control"
     },
     {
@@ -32220,6 +32240,11 @@
       "gloss": "uncle"
     },
     {
+      "root": "oper",
+      "pos": "word",
+      "gloss": "to pass, hand over, transfer (loanword)"
+    },
+    {
       "root": "opera",
       "pos": "word",
       "gloss": "opera"
@@ -34040,8 +34065,13 @@
       "gloss": "whistle"
     },
     {
-      "root": "pelukan",
+      "root": "peluk",
       "pos": "word",
+      "gloss": "to hug, embrace (bound root)"
+    },
+    {
+      "root": "pelukan",
+      "pos": "derived",
       "gloss": "cuddle"
     },
     {
@@ -34586,7 +34616,7 @@
     },
     {
       "root": "pendidikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "education"
     },
     {
@@ -35828,6 +35858,11 @@
       "root": "peroksida",
       "pos": "word",
       "gloss": "peroxide"
+    },
+    {
+      "root": "peroleh",
+      "pos": "word",
+      "gloss": "to obtain, get (bound root)"
     },
     {
       "root": "peron",
@@ -43355,6 +43390,11 @@
       "gloss": "syracuse"
     },
     {
+      "root": "syukur",
+      "pos": "word",
+      "gloss": "gratitude, thanks (bound root)"
+    },
+    {
       "root": "syuriken",
       "pos": "word",
       "gloss": "shuriken"
@@ -44040,8 +44080,13 @@
       "gloss": "theater"
     },
     {
-      "root": "tebakan",
+      "root": "tebak",
       "pos": "word",
+      "gloss": "to guess (bound root)"
+    },
+    {
+      "root": "tebakan",
+      "pos": "derived",
       "gloss": "guess"
     },
     {
