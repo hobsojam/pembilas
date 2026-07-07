@@ -8620,6 +8620,11 @@
       "gloss": "joke"
     },
     {
+      "root": "candu",
+      "pos": "word",
+      "gloss": "addiction, opium (bound root)"
+    },
+    {
       "root": "cangak",
       "pos": "word",
       "gloss": "heron"
@@ -14715,6 +14720,11 @@
       "gloss": "ghrelin"
     },
     {
+      "root": "giat",
+      "pos": "word",
+      "gloss": "active, eager (bound root)"
+    },
+    {
       "root": "gibraltar",
       "pos": "proper",
       "gloss": "gibraltar"
@@ -18570,6 +18580,11 @@
       "gloss": "jerrycan"
     },
     {
+      "root": "jerit",
+      "pos": "word",
+      "gloss": "to scream, shriek (bound root)"
+    },
+    {
       "root": "jerman",
       "pos": "adjective",
       "gloss": "german, germany"
@@ -20721,7 +20736,7 @@
     },
     {
       "root": "kegiatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "activity"
     },
     {
@@ -22001,7 +22016,7 @@
     },
     {
       "root": "keseluruhan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "total"
     },
     {
@@ -28451,7 +28466,7 @@
     },
     {
       "root": "memisahkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "separate"
     },
     {
@@ -28851,7 +28866,7 @@
     },
     {
       "root": "menempeli",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "paper"
     },
     {
@@ -29286,7 +29301,7 @@
     },
     {
       "root": "menguji",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "prove"
     },
     {
@@ -29386,7 +29401,7 @@
     },
     {
       "root": "menjerit",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "cry"
     },
     {
@@ -30211,7 +30226,7 @@
     },
     {
       "root": "misalnya",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "for example"
     },
     {
@@ -33766,7 +33781,7 @@
     },
     {
       "root": "pecandu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "addict, junkie"
     },
     {
@@ -34016,8 +34031,8 @@
     },
     {
       "root": "peledak",
-      "pos": "adjective",
-      "gloss": "volatile"
+      "pos": "derived",
+      "gloss": "explosive, bomb"
     },
     {
       "root": "pelekat",
@@ -34646,7 +34661,7 @@
     },
     {
       "root": "penemuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "discovery"
     },
     {
@@ -40610,8 +40625,13 @@
       "gloss": "cellulose"
     },
     {
-      "root": "seluruhnya",
+      "root": "seluruh",
       "pos": "word",
+      "gloss": "all, whole, entire (bound root)"
+    },
+    {
+      "root": "seluruhnya",
+      "pos": "derived",
       "gloss": "total"
     },
     {
@@ -46268,6 +46288,11 @@
       "root": "uganda",
       "pos": "proper",
       "gloss": "uganda"
+    },
+    {
+      "root": "uji",
+      "pos": "word",
+      "gloss": "to test, examine (bound root)"
     },
     {
       "root": "ujung",
