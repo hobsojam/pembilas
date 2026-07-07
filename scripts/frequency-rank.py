@@ -65,7 +65,8 @@ intens dokumenter prototipe antibiotik diabetes farmasi konstitusi institusi ker
 fosil kontainer ayat firman aspirin orkestra timah pramugari santo sekte tsunami satpam pakar tabel
 kosmos wahyu genetika
 gatal kadal pramuka alibi jazz senat reaktor relevan harfiah terminal ham ungu mekanik pensil bilik apak dahlia
-narapidana persegi diskon lem pelangi nat amber atlet tetua radius jerami segi'''.split())
+narapidana persegi diskon lem pelangi nat amber atlet tetua radius jerami segi
+selai alias lesbian euro piramida beta demokrasi sutra logis dinas bug kursus asosiasi uskup salon fenomena geli'''.split())
 
 
 def main():

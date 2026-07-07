@@ -25655,5 +25655,172 @@
       "state": "valid",
       "gloss": "to chatter, prattle (mengoceh)"
     }
+  },
+  "sekop": {
+    "me": {
+      "state": "valid",
+      "gloss": "to shovel (menyekop)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the spade, trowel (sekopnya)"
+    }
+  },
+  "jurus": {
+    "an": {
+      "state": "valid",
+      "gloss": "a major, field of study; direction (jurusan)"
+    }
+  },
+  "pamit": {
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to say goodbye to each other (berpamitan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a farewell (pamitan)"
+    }
+  },
+  "sanjung": {
+    "ter": {
+      "state": "valid",
+      "gloss": "flattered (tersanjung)"
+    }
+  },
+  "ungkap": {
+    "an": {
+      "state": "valid",
+      "gloss": "an expression (ungkapan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a revelation, disclosure (pengungkapan)"
+    }
+  },
+  "martabat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "dignified (bermartabat)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the dignity (martabatnya)"
+    }
+  },
+  "majikan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the employer (majikannya)"
+    }
+  },
+  "donor": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a donor (pendonor)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to donate (mendonorkan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the donor (donornya)"
+    }
+  },
+  "bisu": {
+    "me": {
+      "state": "valid",
+      "gloss": "to fall silent, go mute (membisu)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "muteness (kebisuan)"
+    }
+  },
+  "spekulasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to speculate (berspekulasi)"
+    }
+  },
+  "hambat": {
+    "an": {
+      "state": "valid",
+      "gloss": "an obstacle, resistance (hambatan)"
+    }
+  },
+  "bolos": {
+    "me": {
+      "state": "valid",
+      "gloss": "to play truant, skip (membolos)"
+    }
+  },
+  "duit": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the money (duitnya)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "money-minded, mercenary (duitan)"
+    }
+  },
+  "tempo": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tempo, timing (temponya)"
+    }
+  },
+  "selang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the hose (selangnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "at intervals; elapsed (berselang)"
+    }
+  },
+  "sketsa": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sketch (sketsanya)"
+    }
+  },
+  "kenyang": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "overfull, too full (kekenyangan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "filling, satisfying (mengenyangkan)"
+    }
+  },
+  "jenazah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the corpse (jenazahnya)"
+    }
+  },
+  "parade": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to parade (berparade)"
+    }
+  },
+  "logika": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the logic (logikanya)"
+    }
+  },
+  "gel": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): geli (ticklish) is mechanically gel + i but is an unrelated word, added as its own headword; gel (the substance) has no attested productive derivation"
+    }
   }
 }

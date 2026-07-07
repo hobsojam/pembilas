@@ -14415,6 +14415,11 @@
       "gloss": "tickle"
     },
     {
+      "root": "geli",
+      "pos": "word",
+      "gloss": "ticklish; amused"
+    },
+    {
       "root": "gelincir",
       "pos": "word",
       "gloss": "slide"
@@ -15630,8 +15635,13 @@
       "gloss": "slave"
     },
     {
-      "root": "hambatan",
+      "root": "hambat",
       "pos": "word",
+      "gloss": "to hinder, obstruct (bound root)"
+    },
+    {
+      "root": "hambatan",
+      "pos": "derived",
       "gloss": "resistance"
     },
     {
@@ -18975,8 +18985,13 @@
       "gloss": "journalistic"
     },
     {
-      "root": "jurusan",
+      "root": "jurus",
       "pos": "word",
+      "gloss": "a martial-arts move; (archaic) direction (bound root)"
+    },
+    {
+      "root": "jurusan",
+      "pos": "derived",
       "gloss": "major"
     },
     {
@@ -29471,7 +29486,7 @@
     },
     {
       "root": "mengotori",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "dirty"
     },
     {
@@ -34381,7 +34396,7 @@
     },
     {
       "root": "pemalu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "shy, timid (person)"
     },
     {
@@ -34841,7 +34856,7 @@
     },
     {
       "root": "pendapatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "income, revenue"
     },
     {
@@ -40135,6 +40150,11 @@
       "gloss": "sangria"
     },
     {
+      "root": "sanjung",
+      "pos": "word",
+      "gloss": "to flatter, compliment (bound root)"
+    },
+    {
       "root": "sanksi",
       "pos": "word",
       "gloss": "sanction"
@@ -45221,7 +45241,7 @@
     },
     {
       "root": "tersanjung",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "flattered"
     },
     {
@@ -46810,8 +46830,13 @@
       "gloss": "excellent"
     },
     {
-      "root": "ungkapan",
+      "root": "ungkap",
       "pos": "word",
+      "gloss": "to express, reveal (bound root)"
+    },
+    {
+      "root": "ungkapan",
+      "pos": "derived",
       "gloss": "expression"
     },
     {
