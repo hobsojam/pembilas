@@ -2586,7 +2586,7 @@
     },
     {
       "root": "anehnya",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "strangely"
     },
     {
@@ -8860,6 +8860,11 @@
       "gloss": "ominous"
     },
     {
+      "root": "cekik",
+      "pos": "word",
+      "gloss": "to choke, strangle (bound root)"
+    },
+    {
       "root": "ceko",
       "pos": "proper",
       "gloss": "czech, czechia"
@@ -9133,6 +9138,11 @@
       "root": "cicilan",
       "pos": "word",
       "gloss": "installment"
+    },
+    {
+      "root": "cicip",
+      "pos": "word",
+      "gloss": "to taste, sample (bound root)"
     },
     {
       "root": "cicit",
@@ -15607,7 +15617,7 @@
     {
       "root": "ham",
       "pos": "word",
-      "gloss": "ham"
+      "gloss": "ham (cured pork); also the common lowercase form of HAM, the abbreviation for hak asasi manusia (human rights)"
     },
     {
       "root": "hamas",
@@ -18660,6 +18670,11 @@
       "gloss": "rapid"
     },
     {
+      "root": "jerami",
+      "pos": "word",
+      "gloss": "straw, hay"
+    },
+    {
       "root": "jerangau",
       "pos": "word",
       "gloss": "sweet flag"
@@ -21041,7 +21056,7 @@
     },
     {
       "root": "kekhawatiran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "anxiety"
     },
     {
@@ -21676,7 +21691,7 @@
     },
     {
       "root": "kenyamanan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "comfort, amenity"
     },
     {
@@ -28866,7 +28881,7 @@
     },
     {
       "root": "mencekik",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "strangle"
     },
     {
@@ -28891,7 +28906,7 @@
     },
     {
       "root": "mencicipi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "try"
     },
     {
@@ -35481,7 +35496,7 @@
     },
     {
       "root": "penyelundup",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "smuggler"
     },
     {
@@ -35606,7 +35621,7 @@
     },
     {
       "root": "perairan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "water, body of water"
     },
     {
@@ -36161,8 +36176,8 @@
     },
     {
       "root": "persembahan",
-      "pos": "word",
-      "gloss": "execution"
+      "pos": "derived",
+      "gloss": "an offering, presentation (of tribute, sacrifice)"
     },
     {
       "root": "persen",
@@ -38397,7 +38412,7 @@
     {
       "root": "rakit",
       "pos": "word",
-      "gloss": "raft"
+      "gloss": "raft; (as verb root) to assemble, put together"
     },
     {
       "root": "rakitis",
@@ -40858,6 +40873,11 @@
       "root": "selulosa",
       "pos": "word",
       "gloss": "cellulose"
+    },
+    {
+      "root": "selundup",
+      "pos": "word",
+      "gloss": "to smuggle (bound root)"
     },
     {
       "root": "seluruh",

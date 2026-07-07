@@ -63,7 +63,8 @@ troll tupai skandal korupsi fiksi koloni segitiga fatal psikologi pipis benua di
 mint ark kuantum hidrogen rial talk mad lev tesla thai pascal pub audio finansial regional konstan
 intens dokumenter prototipe antibiotik diabetes farmasi konstitusi institusi keripik subuh senja
 fosil kontainer ayat firman aspirin orkestra timah pramugari santo sekte tsunami satpam pakar tabel
-kosmos wahyu genetika'''.split())
+kosmos wahyu genetika
+gatal kadal pramuka alibi jazz senat reaktor relevan harfiah terminal ham ungu mekanik pensil bilik apak dahlia'''.split())
 
 
 def main():
