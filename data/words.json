@@ -1700,6 +1700,11 @@
       "gloss": "aligot"
     },
     {
+      "root": "alih",
+      "pos": "word",
+      "gloss": "to shift, transfer, divert (bound root)"
+    },
+    {
       "root": "alikuot",
       "pos": "adjective",
       "gloss": "aliquot"
@@ -6756,7 +6761,7 @@
     },
     {
       "root": "bersyukur",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "grateful"
     },
     {
@@ -8425,6 +8430,11 @@
       "gloss": "ogre"
     },
     {
+      "root": "butuh",
+      "pos": "word",
+      "gloss": "to need (bound root)"
+    },
+    {
       "root": "buyut",
       "pos": "word",
       "gloss": "great-great-grandparent"
@@ -8613,6 +8623,11 @@
       "root": "candaan",
       "pos": "word",
       "gloss": "joke"
+    },
+    {
+      "root": "candu",
+      "pos": "word",
+      "gloss": "addiction, opium (bound root)"
     },
     {
       "root": "cangak",
@@ -9368,6 +9383,11 @@
       "root": "dadaisme",
       "pos": "word",
       "gloss": "dadaism"
+    },
+    {
+      "root": "dadak",
+      "pos": "word",
+      "gloss": "sudden (bound root)"
     },
     {
       "root": "dadap",
@@ -10240,6 +10260,11 @@
       "gloss": "design"
     },
     {
+      "root": "desak",
+      "pos": "word",
+      "gloss": "to press, urge, push (bound root)"
+    },
+    {
       "root": "desalinasi",
       "pos": "word",
       "gloss": "desalination"
@@ -10578,6 +10603,11 @@
       "root": "didih",
       "pos": "word",
       "gloss": "boil"
+    },
+    {
+      "root": "didik",
+      "pos": "word",
+      "gloss": "to educate, teach (bound root)"
     },
     {
       "root": "difalia",
@@ -14705,6 +14735,11 @@
       "gloss": "ghrelin"
     },
     {
+      "root": "giat",
+      "pos": "word",
+      "gloss": "active, eager (bound root)"
+    },
+    {
       "root": "gibraltar",
       "pos": "proper",
       "gloss": "gibraltar"
@@ -15348,6 +15383,11 @@
       "root": "hadiah",
       "pos": "word",
       "gloss": "gift"
+    },
+    {
+      "root": "hadir",
+      "pos": "word",
+      "gloss": "to attend, be present (bound root)"
     },
     {
       "root": "hadirin",
@@ -18555,6 +18595,11 @@
       "gloss": "jerrycan"
     },
     {
+      "root": "jerit",
+      "pos": "word",
+      "gloss": "to scream, shriek (bound root)"
+    },
+    {
       "root": "jerman",
       "pos": "adjective",
       "gloss": "german, germany"
@@ -19002,7 +19047,7 @@
     {
       "root": "kaget",
       "pos": "adjective",
-      "gloss": "frightened"
+      "gloss": "startled, surprised"
     },
     {
       "root": "kagum",
@@ -19395,8 +19440,13 @@
       "gloss": "candlestick"
     },
     {
-      "root": "kandungan",
+      "root": "kandung",
       "pos": "word",
+      "gloss": "to contain, carry (a child), harbor (bound root)"
+    },
+    {
+      "root": "kandungan",
+      "pos": "derived",
       "gloss": "obstetrics"
     },
     {
@@ -20366,7 +20416,7 @@
     },
     {
       "root": "kebencian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "hatred"
     },
     {
@@ -20461,7 +20511,7 @@
     },
     {
       "root": "kebutuhan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "necessity"
     },
     {
@@ -20541,7 +20591,7 @@
     },
     {
       "root": "kecurigaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "suspicion"
     },
     {
@@ -20706,7 +20756,7 @@
     },
     {
       "root": "kegiatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "activity"
     },
     {
@@ -20721,7 +20771,7 @@
     },
     {
       "root": "kehadiran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "presence"
     },
     {
@@ -20921,7 +20971,7 @@
     },
     {
       "root": "kekurangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "poverty, deficiency"
     },
     {
@@ -21951,7 +22001,7 @@
     },
     {
       "root": "kesedihan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "sadness, sorrow"
     },
     {
@@ -21986,7 +22036,7 @@
     },
     {
       "root": "keseluruhan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "total"
     },
     {
@@ -22411,7 +22461,7 @@
     },
     {
       "root": "keuangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "finance"
     },
     {
@@ -24015,6 +24065,11 @@
       "gloss": "contribution"
     },
     {
+      "root": "kontrol",
+      "pos": "word",
+      "gloss": "control (bound root)"
+    },
+    {
       "root": "kontroversi",
       "pos": "word",
       "gloss": "controversy"
@@ -24926,7 +24981,7 @@
     },
     {
       "root": "kumpulan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pool"
     },
     {
@@ -25223,6 +25278,11 @@
       "root": "labu",
       "pos": "word",
       "gloss": "pumpkin, chayote, flask"
+    },
+    {
+      "root": "labuh",
+      "pos": "word",
+      "gloss": "to dock, anchor (bound root)"
     },
     {
       "root": "lacak",
@@ -28356,7 +28416,7 @@
     },
     {
       "root": "memeluk",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "embrace, hug"
     },
     {
@@ -28431,7 +28491,7 @@
     },
     {
       "root": "memisahkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "separate"
     },
     {
@@ -28741,12 +28801,12 @@
     },
     {
       "root": "mencurigakan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "suspicious"
     },
     {
       "root": "mendadak",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "suddenly"
     },
     {
@@ -28781,7 +28841,7 @@
     },
     {
       "root": "mendesak",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "urgent"
     },
     {
@@ -28791,7 +28851,7 @@
     },
     {
       "root": "menebak",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "guess"
     },
     {
@@ -28831,7 +28891,7 @@
     },
     {
       "root": "menempeli",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "paper"
     },
     {
@@ -28861,7 +28921,7 @@
     },
     {
       "root": "menerjemahkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "render, translate"
     },
     {
@@ -28901,7 +28961,7 @@
     },
     {
       "root": "mengalihkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "toggle"
     },
     {
@@ -28921,7 +28981,7 @@
     },
     {
       "root": "mengandung",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "contain"
     },
     {
@@ -29131,7 +29191,7 @@
     },
     {
       "root": "menghubungkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "link"
     },
     {
@@ -29231,7 +29291,7 @@
     },
     {
       "root": "mengontrol",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "manage, control"
     },
     {
@@ -29266,7 +29326,7 @@
     },
     {
       "root": "menguji",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "prove"
     },
     {
@@ -29366,7 +29426,7 @@
     },
     {
       "root": "menjerit",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "cry"
     },
     {
@@ -29581,12 +29641,12 @@
     },
     {
       "root": "menyiarkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "broadcast"
     },
     {
       "root": "menyiksa",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "anguish"
     },
     {
@@ -30191,7 +30251,7 @@
     },
     {
       "root": "misalnya",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "for example"
     },
     {
@@ -32220,6 +32280,11 @@
       "gloss": "uncle"
     },
     {
+      "root": "oper",
+      "pos": "word",
+      "gloss": "to pass, hand over, transfer (loanword)"
+    },
+    {
       "root": "opera",
       "pos": "word",
       "gloss": "opera"
@@ -33741,7 +33806,7 @@
     },
     {
       "root": "pecandu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "addict, junkie"
     },
     {
@@ -33766,7 +33831,7 @@
     },
     {
       "root": "pedagang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "merchant, trader"
     },
     {
@@ -33901,7 +33966,7 @@
     },
     {
       "root": "pelabuhan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "port, harbor"
     },
     {
@@ -33991,8 +34056,8 @@
     },
     {
       "root": "peledak",
-      "pos": "adjective",
-      "gloss": "volatile"
+      "pos": "derived",
+      "gloss": "explosive, bomb"
     },
     {
       "root": "pelekat",
@@ -34040,8 +34105,13 @@
       "gloss": "whistle"
     },
     {
-      "root": "pelukan",
+      "root": "peluk",
       "pos": "word",
+      "gloss": "to hug, embrace (bound root)"
+    },
+    {
+      "root": "pelukan",
+      "pos": "derived",
       "gloss": "cuddle"
     },
     {
@@ -34586,7 +34656,7 @@
     },
     {
       "root": "pendidikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "education"
     },
     {
@@ -34606,7 +34676,7 @@
     },
     {
       "root": "penegakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "enforcement"
     },
     {
@@ -34616,7 +34686,7 @@
     },
     {
       "root": "penemuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "discovery"
     },
     {
@@ -34631,7 +34701,7 @@
     },
     {
       "root": "penerjemah",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "interpreter, translator"
     },
     {
@@ -34681,7 +34751,7 @@
     },
     {
       "root": "pengakuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "confession"
     },
     {
@@ -34696,7 +34766,7 @@
     },
     {
       "root": "pengalih",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "distraction"
     },
     {
@@ -34971,7 +35041,7 @@
     },
     {
       "root": "pengusiran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "dismissal"
     },
     {
@@ -35521,7 +35591,7 @@
     },
     {
       "root": "perdagangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "trade, commerce"
     },
     {
@@ -35706,7 +35776,7 @@
     },
     {
       "root": "perkembangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "development"
     },
     {
@@ -35830,6 +35900,11 @@
       "gloss": "peroxide"
     },
     {
+      "root": "peroleh",
+      "pos": "word",
+      "gloss": "to obtain, get (bound root)"
+    },
+    {
       "root": "peron",
       "pos": "word",
       "gloss": "platform"
@@ -35941,7 +36016,7 @@
     },
     {
       "root": "persiapan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "preparation, preparatory"
     },
     {
@@ -36043,11 +36118,6 @@
       "root": "pertidaksamaan",
       "pos": "word",
       "gloss": "inequality"
-    },
-    {
-      "root": "pertimbang",
-      "pos": "word",
-      "gloss": "credit"
     },
     {
       "root": "pertinggal",
@@ -37746,7 +37816,7 @@
     },
     {
       "root": "pujian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "praise"
     },
     {
@@ -39551,7 +39621,7 @@
     },
     {
       "root": "sakitnya",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "illness"
     },
     {
@@ -40575,8 +40645,13 @@
       "gloss": "cellulose"
     },
     {
-      "root": "seluruhnya",
+      "root": "seluruh",
       "pos": "word",
+      "gloss": "all, whole, entire (bound root)"
+    },
+    {
+      "root": "seluruhnya",
+      "pos": "derived",
       "gloss": "total"
     },
     {
@@ -41340,8 +41415,13 @@
       "gloss": "who"
     },
     {
-      "root": "siaran",
+      "root": "siar",
       "pos": "word",
+      "gloss": "to broadcast (bound root)"
+    },
+    {
+      "root": "siaran",
+      "pos": "derived",
       "gloss": "broadcast"
     },
     {
@@ -41463,6 +41543,11 @@
       "root": "siklotron",
       "pos": "word",
       "gloss": "cyclotron"
+    },
+    {
+      "root": "siksa",
+      "pos": "word",
+      "gloss": "to torture (bound root)"
     },
     {
       "root": "siku",
@@ -43355,6 +43440,11 @@
       "gloss": "syracuse"
     },
     {
+      "root": "syukur",
+      "pos": "word",
+      "gloss": "gratitude, thanks (bound root)"
+    },
+    {
       "root": "syuriken",
       "pos": "word",
       "gloss": "shuriken"
@@ -44040,8 +44130,13 @@
       "gloss": "theater"
     },
     {
-      "root": "tebakan",
+      "root": "tebak",
       "pos": "word",
+      "gloss": "to guess (bound root)"
+    },
+    {
+      "root": "tebakan",
+      "pos": "derived",
       "gloss": "guess"
     },
     {
@@ -44665,6 +44760,11 @@
       "gloss": "handy"
     },
     {
+      "root": "terjemah",
+      "pos": "word",
+      "gloss": "to translate (bound root)"
+    },
+    {
       "root": "terjemahan",
       "pos": "word",
       "gloss": "translation"
@@ -44681,7 +44781,7 @@
     },
     {
       "root": "terlepas",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "apart"
     },
     {
@@ -44826,7 +44926,7 @@
     },
     {
       "root": "tersiksa",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "anguish"
     },
     {
@@ -46210,6 +46310,11 @@
       "gloss": "uganda"
     },
     {
+      "root": "uji",
+      "pos": "word",
+      "gloss": "to test, examine (bound root)"
+    },
+    {
       "root": "ujung",
       "pos": "word",
       "gloss": "point, tip"
@@ -46341,7 +46446,7 @@
     },
     {
       "root": "undangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "invitation"
     },
     {
@@ -46542,7 +46647,7 @@
     {
       "root": "urut",
       "pos": "word",
-      "gloss": "massage"
+      "gloss": "massage; sequential, in order"
     },
     {
       "root": "usaha",
@@ -46558,6 +46663,11 @@
       "root": "ushanka",
       "pos": "word",
       "gloss": "ushanka"
+    },
+    {
+      "root": "usir",
+      "pos": "word",
+      "gloss": "to expel, drive away (bound root)"
     },
     {
       "root": "uskup",
