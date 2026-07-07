@@ -13830,6 +13830,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to avenge, retaliate for (membalaskan, e.g. membalaskan dendam)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "retaliation (pembalasan)"
     }
   },
   "kabur": {
@@ -15614,6 +15618,10 @@
     "ter": {
       "state": "valid",
       "gloss": "smartest (tercerdas)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "intelligence (kecerdasan)"
     }
   },
   "bakat": {
@@ -15630,6 +15638,10 @@
     "lah": {
       "state": "valid",
       "gloss": "be patient! (sabarlah)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "patience (kesabaran)"
     }
   },
   "taman": {
@@ -23435,6 +23447,251 @@
     "nya": {
       "state": "valid",
       "gloss": "the material, content (materinya)"
+    }
+  },
+  "susup": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a mole, infiltrator (penyusup)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an infiltration (penyusupan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to infiltrate, sneak in (menyusup)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to infiltrate something specifically (menyusupi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to smuggle something in (menyusupkan)"
+    }
+  },
+  "mula": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a beginner (pemula)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "originally, at first (semula)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "at first, originally (mulanya)"
+    },
+    "per_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): permulaan belongs to mulai.per_an, not mula"
+    }
+  },
+  "suntik": {
+    "an": {
+      "state": "valid",
+      "gloss": "an injection (suntikan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an injection session, act of injecting (penyuntikan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to inject (menyuntik)"
+    }
+  },
+  "tegang": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "tension (ketegangan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "voltage, tension (tegangan)"
+    }
+  },
+  "pamer": {
+    "an": {
+      "state": "valid",
+      "gloss": "an exhibit, exhibition (pameran)"
+    }
+  },
+  "cabul": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "obscenity, molestation (pencabulan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to molest, assault (mencabuli)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "obscenity, indecency (percabulan)"
+    }
+  },
+  "tenggorok": {
+    "an": {
+      "state": "valid",
+      "gloss": "the throat (tenggorokan)"
+    }
+  },
+  "manja": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to spoil, pamper (memanjakan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "spoil him/her! (imperative, manjakan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be spoiled, pampered (passive) (dimanja)"
+    }
+  },
+  "lunak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to soften, become lenient (melunak)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to soften something (melunakkan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "how soft/lenient it is (lunaknya)"
+    }
+  },
+  "rata": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to flatten, level (meratakan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to spread evenly (merata)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "flatten it! (imperative, ratakan)"
+    }
+  },
+  "sergap": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an ambush (penyergapan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to ambush (menyergap)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be ambushed (passive) (disergap)"
+    }
+  },
+  "janda": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the widow (jandanya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to become a widow (menjanda)"
+    }
+  },
+  "hembus": {
+    "an": {
+      "state": "valid",
+      "gloss": "a gust, breath, exhalation (hembusan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to blow (of wind) (berhembus)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "blow it! (imperative, hembuskan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to blow out, exhale (menghembuskan)"
+    }
+  },
+  "skenario": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the scenario (skenarionya)"
+    }
+  },
+  "biji": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the seed, pip (bijinya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "one seed/piece of (sebiji)"
+    }
+  },
+  "radar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the radar (radarnya)"
+    }
+  },
+  "brankas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the safe (brankasnya)"
+    }
+  },
+  "buaya": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the crocodile (buayanya)"
+    }
+  },
+  "massa": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the mass, the crowd (massanya)"
+    }
+  },
+  "arsip": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the archive (arsipnya)"
+    }
+  },
+  "catur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the chess (caturnya)"
+    }
+  },
+  "bangku": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bench (bangkunya)"
+    }
+  },
+  "dosis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the dosage (dosisnya)"
+    }
+  },
+  "halusinasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to hallucinate (berhalusinasi)"
     }
   }
 }

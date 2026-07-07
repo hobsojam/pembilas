@@ -20606,7 +20606,7 @@
     },
     {
       "root": "kecerdasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "intelligence"
     },
     {
@@ -21991,7 +21991,7 @@
     },
     {
       "root": "kesabaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "patience"
     },
     {
@@ -27582,7 +27582,7 @@
     {
       "root": "manja",
       "pos": "word",
-      "gloss": "spoil"
+      "gloss": "spoiled, pampered"
     },
     {
       "root": "manjusri",
@@ -29746,7 +29746,7 @@
     },
     {
       "root": "menyusup",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "intrude"
     },
     {
@@ -30863,6 +30863,11 @@
       "root": "muktazilah",
       "pos": "proper",
       "gloss": "mu'tazila"
+    },
+    {
+      "root": "mula",
+      "pos": "word",
+      "gloss": "origin, beginning (bound root)"
     },
     {
       "root": "mulai",
@@ -33005,8 +33010,13 @@
       "gloss": "uncle"
     },
     {
-      "root": "pameran",
+      "root": "pamer",
       "pos": "word",
+      "gloss": "to show off (bound root)"
+    },
+    {
+      "root": "pameran",
+      "pos": "derived",
       "gloss": "exhibit, exhibition"
     },
     {
@@ -34316,7 +34326,7 @@
     },
     {
       "root": "pembalasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "retaliation"
     },
     {
@@ -34501,7 +34511,7 @@
     },
     {
       "root": "pemula",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "beginner"
     },
     {
@@ -35461,7 +35471,7 @@
     },
     {
       "root": "penyusup",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "mole, intruder"
     },
     {
@@ -41262,7 +41272,7 @@
     {
       "root": "sergap",
       "pos": "word",
-      "gloss": "catch"
+      "gloss": "to ambush, catch by surprise"
     },
     {
       "root": "seri",
@@ -43220,8 +43230,13 @@
       "gloss": "barbel"
     },
     {
-      "root": "suntikan",
+      "root": "suntik",
       "pos": "word",
+      "gloss": "to inject (bound root)"
+    },
+    {
+      "root": "suntikan",
+      "pos": "derived",
       "gloss": "injection"
     },
     {
@@ -43368,6 +43383,11 @@
       "root": "susu",
       "pos": "word",
       "gloss": "milk; to breastfeed, nurse; (informal) breast"
+    },
+    {
+      "root": "susup",
+      "pos": "word",
+      "gloss": "to infiltrate (bound root)"
     },
     {
       "root": "sutra",
@@ -44295,8 +44315,13 @@
       "gloss": "tegal"
     },
     {
-      "root": "tegangan",
+      "root": "tegang",
       "pos": "word",
+      "gloss": "tense, taut, tight"
+    },
+    {
+      "root": "tegangan",
+      "pos": "derived",
       "gloss": "tension"
     },
     {

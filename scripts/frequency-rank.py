@@ -50,7 +50,8 @@ liga komisaris jantan artis kongres dermaga kiamat teks klan mafia
 efektif ekstra laki trauma sesi sektor gong kilometer ton
 gelandangan romawi dini alergi
 peringkat bedebah tuli biro kera akademi ganteng depresi atom teluk alkitab
-insinyur psikopat lembaga dimensi mitos teater kutub pon biksu waras'''.split())
+insinyur psikopat lembaga dimensi mitos teater kutub pon biksu waras
+aula teknisi jurang kelelawar astronot bioskop distrik elektronik semester kritis agresif'''.split())
 
 
 def main():
