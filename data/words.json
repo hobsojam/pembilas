@@ -8287,7 +8287,7 @@
     {
       "root": "bungkus",
       "pos": "word",
-      "gloss": "cancel"
+      "gloss": "wrap, package, pack"
     },
     {
       "root": "bunglon",
@@ -20960,6 +20960,11 @@
       "gloss": "speed"
     },
     {
+      "root": "kelak",
+      "pos": "word",
+      "gloss": "later, in the future"
+    },
+    {
       "root": "kelakar",
       "pos": "adjective",
       "gloss": "humorous"
@@ -25285,6 +25290,11 @@
       "gloss": "lacquer"
     },
     {
+      "root": "laki",
+      "pos": "word",
+      "gloss": "husband, man"
+    },
+    {
       "root": "laknat",
       "pos": "adjective",
       "gloss": "wretched"
@@ -28461,7 +28471,7 @@
     },
     {
       "root": "mempengaruhi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "inform"
     },
     {
@@ -28616,7 +28626,7 @@
     },
     {
       "root": "menantang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "challenge, throw down the gauntlet"
     },
     {
@@ -29511,7 +29521,7 @@
     },
     {
       "root": "menyampaikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "get across"
     },
     {
@@ -34941,8 +34951,8 @@
     },
     {
       "root": "pengobatan",
-      "pos": "word",
-      "gloss": "medicine"
+      "pos": "derived",
+      "gloss": "medical treatment"
     },
     {
       "root": "pengokot",
@@ -35871,7 +35881,7 @@
     },
     {
       "root": "persahabatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "companionship, friendship"
     },
     {
@@ -43830,8 +43840,13 @@
       "gloss": "aunt"
     },
     {
-      "root": "tantangan",
+      "root": "tantang",
       "pos": "word",
+      "gloss": "to challenge, dare (bound root)"
+    },
+    {
+      "root": "tantangan",
+      "pos": "derived",
       "gloss": "challenge"
     },
     {

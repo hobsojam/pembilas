@@ -39,7 +39,7 @@ bapa episode nasional berantakan pecundang nih bersulang kantin
 aduh bangsat hong pingsan serikat sejujurnya gay ketat universitas
 ilmuwan not peri barusan seperti sanggup mayor pemuda bencana
 senator makasih nol jarang kaisar padahal oppa peristiwa
-generasi apalagi sipil mahasiswa'''.split())
+generasi apalagi sipil mahasiswa maya zona gubernur bong pas'''.split())
 
 
 def main():
