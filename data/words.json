@@ -28886,7 +28886,7 @@
     },
     {
       "root": "menelan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "swallow"
     },
     {
@@ -29546,7 +29546,7 @@
     },
     {
       "root": "menunda",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "postpone"
     },
     {
@@ -35231,7 +35231,7 @@
     },
     {
       "root": "penundaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "deferment, postponement"
     },
     {
@@ -36106,7 +36106,7 @@
     },
     {
       "root": "pertanian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "agriculture"
     },
     {
@@ -43895,6 +43895,11 @@
       "gloss": "tank"
     },
     {
+      "root": "tani",
+      "pos": "word",
+      "gloss": "to farm (bound root)"
+    },
+    {
       "root": "tanjakan",
       "pos": "word",
       "gloss": "gradient"
@@ -44308,6 +44313,11 @@
       "root": "telak",
       "pos": "adjective",
       "gloss": "cogent"
+    },
+    {
+      "root": "telan",
+      "pos": "word",
+      "gloss": "to swallow (bound root)"
     },
     {
       "root": "telanjang",
@@ -46143,6 +46153,11 @@
       "root": "tunas",
       "pos": "word",
       "gloss": "sprout"
+    },
+    {
+      "root": "tunda",
+      "pos": "word",
+      "gloss": "to postpone, delay (bound root)"
     },
     {
       "root": "tungau",

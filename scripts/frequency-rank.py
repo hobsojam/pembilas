@@ -43,7 +43,8 @@ generasi apalagi sipil mahasiswa maya zona gubernur bong pas
 misterius gurun senin ksatria hadirin divisi petani industri
 internasional negro hamba berisik suster gang pejabat amin modern
 nyenyak pirang rak dragon babak tong padang galaksi bijak
-emosional lembah anti bersikeras marinir konferensi house'''.split())
+emosional lembah anti bersikeras marinir konferensi house
+imbalan merunduk pertanda buronan dewi avatar perwira festival'''.split())
 
 
 def main():

@@ -21560,5 +21560,305 @@
       "state": "valid",
       "gloss": "the collection (koleksinya)"
     }
+  },
+  "telan": {
+    "me": {
+      "state": "valid",
+      "gloss": "to swallow (menelan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be swallowed (passive) (ditelan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "swallowed (stative) (tertelan)"
+    }
+  },
+  "tunda": {
+    "me": {
+      "state": "valid",
+      "gloss": "to postpone, delay (menunda)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be postponed (passive) (ditunda)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "postponed, delayed (stative) (tertunda)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "deferment, postponement (penundaan)"
+    }
+  },
+  "tani": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "agriculture (pertanian)"
+    }
+  },
+  "jaman": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the era (jamannya)"
+    }
+  },
+  "harimau": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tiger (harimaunya)"
+    }
+  },
+  "ekspresi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to express (mengekspresikan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the expression (ekspresinya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to express oneself (berekspresi)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "express it! (imperative, ekspresikan)"
+    }
+  },
+  "asrama": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the dormitory (asramanya)"
+    }
+  },
+  "lemak": {
+    "ber": {
+      "state": "valid",
+      "gloss": "fatty, greasy (berlemak)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the fat, grease (lemaknya)"
+    }
+  },
+  "interogasi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to interrogate (menginterogasi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be interrogated (passive) (diinterogasi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the interrogation (interogasinya)"
+    }
+  },
+  "produksi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be produced (passive) (diproduksi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the production (produksinya)"
+    }
+  },
+  "permata": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the gem (permatanya)"
+    }
+  },
+  "bangkrut": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "bankruptcy (kebangkrutan)"
+    }
+  },
+  "utuh": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "integrity, wholeness (keutuhan)"
+    }
+  },
+  "amunisi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ammunition (amunisinya)"
+    }
+  },
+  "mitra": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to partner with (bermitra)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the partner (mitranya)"
+    }
+  },
+  "lusin": {
+    "se": {
+      "state": "valid",
+      "gloss": "a dozen (selusin)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "dozens of (lusinan)"
+    }
+  },
+  "transaksi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to transact, make a transaction (bertransaksi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the transaction (transaksinya)"
+    }
+  },
+  "saraf": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the nerve (sarafnya)"
+    }
+  },
+  "adopsi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to adopt (mengadopsi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be adopted (passive) (diadopsi)"
+    }
+  },
+  "bagasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the luggage (bagasinya)"
+    }
+  },
+  "isap": {
+    "me": {
+      "state": "valid",
+      "gloss": "to suck, inhale (mengisap)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "sucker, absorber (device) (pengisap)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a suck, puff (isapan)"
+    }
+  },
+  "gajah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the elephant (gajahnya)"
+    }
+  },
+  "tangki": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tank (tangkinya)"
+    }
+  },
+  "radiasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the radiation (radiasinya)"
+    }
+  },
+  "rem": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the brake (remnya)"
+    }
+  },
+  "sayur": {
+    "an": {
+      "state": "valid",
+      "gloss": "vegetables (sayuran)"
+    }
+  },
+  "konser": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the concert (konsernya)"
+    }
+  },
+  "saus": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sauce (sausnya)"
+    }
+  },
+  "cedera": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to injure (mencederai)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "injure it! (imperative, cederakan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the injury (cederanya)"
+    }
+  },
+  "mantel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the coat (mantelnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "wearing a coat (bermantel)"
+    }
+  },
+  "salib": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be crucified (passive) (disalib)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "crucifixion (penyaliban)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the cross (salibnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to crucify (menyalibkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "crucify it/him! (imperative, salibkan)"
+    }
+  },
+  "batang": {
+    "se": {
+      "state": "valid",
+      "gloss": "a stick, rod of (e.g. sebatang rokok) (sebatang)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a bar, ingot (batangan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the trunk, stick (batangnya)"
+    }
   }
 }
