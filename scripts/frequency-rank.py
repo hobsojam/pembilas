@@ -47,7 +47,7 @@ emosional lembah anti bersikeras marinir konferensi house
 imbalan merunduk pertanda buronan dewi avatar perwira festival
 ronde homo porno fajar berengsek fantastis tragedi krisis brilian
 liga komisaris jantan artis kongres dermaga kiamat teks klan mafia
-efektif ekstra'''.split())
+efektif ekstra laki trauma sesi sektor gong kilometer ton'''.split())
 
 
 def main():

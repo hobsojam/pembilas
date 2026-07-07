@@ -9505,8 +9505,13 @@
       "gloss": "dactylography"
     },
     {
-      "root": "dakwaan",
+      "root": "dakwa",
       "pos": "word",
+      "gloss": "to accuse, charge, sue (bound root)"
+    },
+    {
+      "root": "dakwaan",
+      "pos": "derived",
       "gloss": "indictment"
     },
     {
@@ -20521,7 +20526,7 @@
     },
     {
       "root": "kebijakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "policy"
     },
     {
@@ -21126,7 +21131,7 @@
     },
     {
       "root": "kelelahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "fatigue"
     },
     {
@@ -29006,7 +29011,7 @@
     },
     {
       "root": "mengamankan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "secure"
     },
     {
@@ -29626,7 +29631,7 @@
     },
     {
       "root": "menyatukan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "unify"
     },
     {
@@ -33100,6 +33105,11 @@
       "gloss": "pandemic"
     },
     {
+      "root": "pandu",
+      "pos": "word",
+      "gloss": "guide, scout"
+    },
+    {
       "root": "panduan",
       "pos": "word",
       "gloss": "guide, manual, wizard"
@@ -34246,7 +34256,7 @@
     },
     {
       "root": "pemandu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "guide"
     },
     {
@@ -35321,7 +35331,7 @@
     },
     {
       "root": "penyelamatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "bailout"
     },
     {
@@ -35566,7 +35576,7 @@
     },
     {
       "root": "perbaikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "repair"
     },
     {
@@ -36006,7 +36016,7 @@
     },
     {
       "root": "persatuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "association"
     },
     {
@@ -44215,8 +44225,13 @@
       "gloss": "sugar cane"
     },
     {
-      "root": "tebusan",
+      "root": "tebus",
       "pos": "word",
+      "gloss": "to redeem, ransom (bound root)"
+    },
+    {
+      "root": "tebusan",
+      "pos": "derived",
       "gloss": "ransom"
     },
     {
@@ -44766,7 +44781,7 @@
     },
     {
       "root": "terdakwa",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "accused"
     },
     {
@@ -46738,6 +46753,11 @@
       "root": "ushanka",
       "pos": "word",
       "gloss": "ushanka"
+    },
+    {
+      "root": "usik",
+      "pos": "word",
+      "gloss": "to disturb, bother (bound root)"
     },
     {
       "root": "usir",

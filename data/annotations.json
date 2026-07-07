@@ -2788,6 +2788,10 @@
     "ke": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "repair, improvement (perbaikan)"
     }
   },
   "benar": {
@@ -14439,12 +14443,20 @@
     "nya": {
       "state": "valid",
       "gloss": "its tail (ekornya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having a tail (berekor)"
     }
   },
   "lelah": {
     "nya": {
       "state": "valid",
       "gloss": "the tiredness, fatigue (lelahnya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "fatigue, exhaustion (kelelahan)"
     }
   },
   "daging": {
@@ -19504,6 +19516,11 @@
     "me": {
       "state": "valid",
       "gloss": "to predict (meramal)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): beramal mechanically also derives from amal.ber (to do charity), the real word; ramal (forecast) has no real ber- derivation"
     }
   },
   "organisasi": {
@@ -22392,6 +22409,280 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): mengelak mechanically also derives from elak.me (to dodge), the real word; kelak (later, in the future) has no real me- derivation"
+    }
+  },
+  "tebus": {
+    "an": {
+      "state": "valid",
+      "gloss": "ransom (tebusan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "redemption (the act) (penebusan)"
+    }
+  },
+  "dakwa": {
+    "ter": {
+      "state": "valid",
+      "gloss": "accused, the defendant (terdakwa)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "indictment (dakwaan)"
+    }
+  },
+  "usik": {
+    "me": {
+      "state": "valid",
+      "gloss": "to disturb, bother (mengusik)"
+    }
+  },
+  "pandu": {
+    "pe": {
+      "state": "valid",
+      "gloss": "guide (pemandu)"
+    }
+  },
+  "bijak": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "policy (kebijakan)"
+    }
+  },
+  "kerah": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "(idiomatic, from an older sense of forced labor) to mobilize, deploy, call up (mengerahkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "mobilize it! (imperative, kerahkan)"
+    }
+  },
+  "rekor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the record (rekornya)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): berekor mechanically also derives from ekor.ber (having a tail), the real word; rekor (record) has no real ber- derivation"
+    }
+  },
+  "jilat": {
+    "me": {
+      "state": "valid",
+      "gloss": "to lick (menjilat)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "(idiomatic) sycophant, brown-noser (penjilat)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to lick repeatedly (menjilati)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a lick (jilatan)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "lick it! (imperative, jilati)"
+    }
+  },
+  "sirkus": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the circus (sirkusnya)"
+    }
+  },
+  "arus": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the current (arusnya)"
+    }
+  },
+  "bebek": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the duck (bebeknya)"
+    }
+  },
+  "amal": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to do charity work (beramal)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the charity, deed (amalnya)"
+    }
+  },
+  "pelatuk": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the trigger (pelatuknya)"
+    }
+  },
+  "kabin": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cabin (kabinnya)"
+    }
+  },
+  "frekuensi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the frequency (frekuensinya)"
+    }
+  },
+  "serupa": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to resemble (menyerupai)"
+    }
+  },
+  "bentur": {
+    "ter": {
+      "state": "valid",
+      "gloss": "to bump into, hit (stative) (terbentur)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a collision, clash (benturan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to collide/smash something into (membenturkan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to bump into (membentur)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to collide with each other (berbenturan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "smash it into! (imperative, benturkan)"
+    }
+  },
+  "akar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the root (akarnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "rooted (berakar)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to take root, become entrenched (mengakar)"
+    }
+  },
+  "koma": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the coma, comma (komanya)"
+    }
+  },
+  "bungkuk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to bow, bend over (membungkuk)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to bend something (membungkukkan)"
+    }
+  },
+  "ambang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to float (mengambang)"
+    }
+  },
+  "simpul": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to conclude; to tie a knot (menyimpulkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "conclude it!, tie it! (imperative, simpulkan)"
+    }
+  },
+  "padat": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "density (kepadatan)"
+    },
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pemadat mechanically also derives from madat.pe (drug/opium addict), the real word; padat (solid, dense) has no real pe- derivation"
+    }
+  },
+  "handuk": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the towel (handuknya)"
+    }
+  },
+  "dasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the necktie (dasinya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "wearing a necktie (berdasi)"
+    }
+  },
+  "rekomendasi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to recommend (merekomendasikan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "recommend it! (imperative, rekomendasikan)"
+    }
+  },
+  "subjek": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the subject (subjeknya)"
+    }
+  },
+  "kala": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the era, time (kalanya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "periodic, regular (berkala)"
+    }
+  },
+  "datar": {
+    "an": {
+      "state": "valid",
+      "gloss": "a plain, plateau (dataran)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to become flat, level (mendatar)"
+    }
+  },
+  "madat": {
+    "pe": {
+      "state": "valid",
+      "gloss": "drug addict, opium addict (pemadat)"
     }
   }
 }
