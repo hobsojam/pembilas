@@ -41,7 +41,8 @@ ilmuwan not peri barusan seperti sanggup mayor pemuda bencana
 senator makasih nol jarang kaisar padahal oppa peristiwa
 generasi apalagi sipil mahasiswa maya zona gubernur bong pas
 misterius gurun senin ksatria hadirin divisi petani industri
-internasional negro hamba berisik suster gang pejabat amin modern'''.split())
+internasional negro hamba berisik suster gang pejabat amin modern
+nyenyak pirang rak dragon babak tong padang'''.split())
 
 
 def main():

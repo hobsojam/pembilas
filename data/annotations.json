@@ -2171,6 +2171,10 @@
     "ke_an": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "development, progress (perkembangan)"
     }
   },
   "main": {
@@ -6883,6 +6887,10 @@
     "nya": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "consideration (pertimbangan)"
     }
   },
   "banding": {
@@ -20741,6 +20749,243 @@
     "nya": {
       "state": "valid",
       "gloss": "the battery (baterainya)"
+    }
+  },
+  "alih": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to shift, transfer, divert (mengalihkan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to shift, switch, transition (beralih)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a shift, transfer, diversion (pengalihan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "shift/redirect it! (imperative, alihkan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "one who/something that diverts; distraction (pengalih)"
+    }
+  },
+  "desain": {
+    "me": {
+      "state": "valid",
+      "gloss": "to design (mendesain)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the design (desainnya)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be designed (passive) (didesain)"
+    }
+  },
+  "tur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tour (turnya)"
+    }
+  },
+  "lidah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tongue (lidahnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having a (sharp) tongue (berlidah)"
+    }
+  },
+  "bis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bus (bisnya)"
+    }
+  },
+  "iman": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have faith, be faithful (beriman)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "faith, religious conviction (keimanan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "his/her faith (imannya)"
+    }
+  },
+  "daun": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the leaf (daunnya)"
+    }
+  },
+  "protokol": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the protocol (protokolnya)"
+    }
+  },
+  "tamat": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to finish, complete something (menamatkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "finish it! (imperative, tamatkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a graduate (of a school/program) (tamatan)"
+    }
+  },
+  "piano": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the piano (pianonya)"
+    }
+  },
+  "sarung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sarong (sarungnya)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "put it in a sheath/cover! (imperative, sarungkan)"
+    }
+  },
+  "tara": {
+    "se": {
+      "state": "valid",
+      "gloss": "equivalent, on par with (setara)"
+    }
+  },
+  "spesies": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the species (spesiesnya)"
+    }
+  },
+  "demam": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fever (demamnya)"
+    }
+  },
+  "standar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the standard (standarnya)"
+    }
+  },
+  "stres": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the stress (stresnya)"
+    }
+  },
+  "revolusi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to revolutionize (merevolusi)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): berevolusi mechanically also derives from evolusi.ber (to evolve), the real word; revolusi (revolution) has no real ber- derivation of its own"
+    }
+  },
+  "oksigen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the oxygen (oksigennya)"
+    }
+  },
+  "kain": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fabric, cloth (kainnya)"
+    }
+  },
+  "bendera": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the flag (benderanya)"
+    }
+  },
+  "latar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the setting, background (latarnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having a background/setting of (berlatar)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a courtyard, open area (pelataran)"
+    }
+  },
+  "keliru": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "an error, mistake (kekeliruan)"
+    }
+  },
+  "museum": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the museum (museumnya)"
+    }
+  },
+  "strategi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the strategy (strateginya)"
+    }
+  },
+  "pers": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the press (media) (persnya)"
+    }
+  },
+  "dompet": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the wallet, purse (dompetnya)"
+    }
+  },
+  "evolusi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to evolve (berevolusi)"
+    }
+  },
+  "rim": {
+    "ber_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): beriman mechanically also derives from iman.ber (to have faith), the real word; rim (ream) has no real ber_an derivation"
+    }
+  },
+  "pengalih": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengalihan is standardly analyzed as alih.pe_an (the peN-an circumfix on the base verb), not pengalih+an; pengalih (distraction) has no real bare -an derivation of its own"
     }
   }
 }

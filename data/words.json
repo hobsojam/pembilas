@@ -1700,6 +1700,11 @@
       "gloss": "aligot"
     },
     {
+      "root": "alih",
+      "pos": "word",
+      "gloss": "to shift, transfer, divert (bound root)"
+    },
+    {
       "root": "alikuot",
       "pos": "adjective",
       "gloss": "aliquot"
@@ -20396,7 +20401,7 @@
     },
     {
       "root": "kebencian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "hatred"
     },
     {
@@ -20571,7 +20576,7 @@
     },
     {
       "root": "kecurigaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "suspicion"
     },
     {
@@ -28776,7 +28781,7 @@
     },
     {
       "root": "mencurigakan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "suspicious"
     },
     {
@@ -28936,7 +28941,7 @@
     },
     {
       "root": "mengalihkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "toggle"
     },
     {
@@ -33806,7 +33811,7 @@
     },
     {
       "root": "pedagang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "merchant, trader"
     },
     {
@@ -34741,7 +34746,7 @@
     },
     {
       "root": "pengalih",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "distraction"
     },
     {
@@ -35566,7 +35571,7 @@
     },
     {
       "root": "perdagangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "trade, commerce"
     },
     {
@@ -35751,7 +35756,7 @@
     },
     {
       "root": "perkembangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "development"
     },
     {
@@ -35991,7 +35996,7 @@
     },
     {
       "root": "persiapan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "preparation, preparatory"
     },
     {
@@ -36093,11 +36098,6 @@
       "root": "pertidaksamaan",
       "pos": "word",
       "gloss": "inequality"
-    },
-    {
-      "root": "pertimbang",
-      "pos": "word",
-      "gloss": "credit"
     },
     {
       "root": "pertinggal",
@@ -37796,7 +37796,7 @@
     },
     {
       "root": "pujian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "praise"
     },
     {
