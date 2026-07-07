@@ -24475,5 +24475,206 @@
       "gloss": "",
       "notes": "collision triage (#48): perempatan belongs to empat.per_an, not perempat"
     }
+  },
+  "nanti": {
+    "kan": {
+      "state": "valid",
+      "gloss": "wait for it/him/her! (imperative, nantikan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to await, look forward to (menantikan)"
+    }
+  },
+  "kemah": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "a campground, camping (perkemahan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to camp (berkemah)"
+    }
+  },
+  "bijaksana": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "wisdom, prudence, policy (kebijaksanaan)"
+    }
+  },
+  "las": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be welded (passive) (dilas)"
+    }
+  },
+  "anggar": {
+    "an": {
+      "state": "valid",
+      "gloss": "a budget, allocation (anggaran)"
+    }
+  },
+  "uap": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the steam, vapor (uapnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to vaporize, evaporate something (menguapkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "evaporation (penguapan)"
+    }
+  },
+  "padan": {
+    "se": {
+      "state": "valid",
+      "gloss": "equivalent, comparable, commensurate (sepadan)"
+    }
+  },
+  "sisir": {
+    "me": {
+      "state": "valid",
+      "gloss": "to comb (menyisir)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a combing, sweep (search) (penyisiran)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be combed (passive) (disisir)"
+    }
+  },
+  "serap": {
+    "me": {
+      "state": "valid",
+      "gloss": "to absorb (menyerap)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be absorbed (passive) (diserap)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "absorption (penyerapan)"
+    }
+  },
+  "kuntit": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a stalker (penguntit)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to stalk (menguntit)"
+    }
+  },
+  "koreksi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be corrected (passive) (dikoreksi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to correct (mengoreksi)"
+    }
+  },
+  "traktir": {
+    "an": {
+      "state": "valid",
+      "gloss": "a treat (traktiran)"
+    }
+  },
+  "konsultasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to consult (berkonsultasi)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "consult it! (imperative, konsultasikan)"
+    }
+  },
+  "mempercepat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "speeding it up (mempercepatnya)"
+    }
+  },
+  "amarah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the anger, wrath (amarahnya)"
+    }
+  },
+  "moyang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ancestor (moyangnya)"
+    }
+  },
+  "formulir": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the form (formulirnya)"
+    }
+  },
+  "aksen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the accent (aksennya)"
+    }
+  },
+  "leluhur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ancestor (leluhurnya)"
+    }
+  },
+  "kargo": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cargo (kargonya)"
+    }
+  },
+  "pasta": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pasta (pastanya)"
+    }
+  },
+  "rompi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the vest (rompinya)"
+    }
+  },
+  "sosis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sausage (sosisnya)"
+    }
+  },
+  "kuap": {
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menguapkan (evaporate) belongs to uap.me_kan, not kuap (yawn)"
+    },
+    "pe_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): penguapan (evaporation) belongs to uap.pe_an, not kuap (yawn)"
+    }
+  },
+  "menguap": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menguapkan (evaporate) belongs to uap.me_kan"
+    }
   }
 }

@@ -2657,7 +2657,7 @@
     {
       "root": "anggar",
       "pos": "word",
-      "gloss": "fencing"
+      "gloss": "fencing (sport); to allocate, budget"
     },
     {
       "root": "anggota",
@@ -7038,6 +7038,11 @@
       "root": "bijak",
       "pos": "adjective",
       "gloss": "wise"
+    },
+    {
+      "root": "bijaksana",
+      "pos": "word",
+      "gloss": "wise, prudent"
     },
     {
       "root": "biji",
@@ -20480,6 +20485,11 @@
       "gloss": "fire, conflagration"
     },
     {
+      "root": "kebal",
+      "pos": "word",
+      "gloss": "immune, invulnerable, resistant"
+    },
+    {
       "root": "kebangkitan",
       "pos": "word",
       "gloss": "awakening"
@@ -20581,13 +20591,13 @@
     },
     {
       "root": "kebijaksanaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "wisdom"
     },
     {
       "root": "kebodohan",
-      "pos": "word",
-      "gloss": "fatuity"
+      "pos": "derived",
+      "gloss": "stupidity, foolishness"
     },
     {
       "root": "kebugaran",
@@ -21293,6 +21303,11 @@
       "root": "kemacetan",
       "pos": "word",
       "gloss": "traffic jam"
+    },
+    {
+      "root": "kemah",
+      "pos": "word",
+      "gloss": "to camp, tent (bound root)"
     },
     {
       "root": "kemahalan",
@@ -31240,8 +31255,13 @@
       "gloss": "jackfruit"
     },
     {
-      "root": "nantikan",
+      "root": "nanti",
       "pos": "word",
+      "gloss": "later, in a while"
+    },
+    {
+      "root": "nantikan",
+      "pos": "derived",
       "gloss": "look forward to"
     },
     {
@@ -32832,7 +32852,7 @@
     {
       "root": "padan",
       "pos": "word",
-      "gloss": "frontier"
+      "gloss": "equivalent, match"
     },
     {
       "root": "padang",
@@ -35911,7 +35931,7 @@
     },
     {
       "root": "perkemahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "camping"
     },
     {
@@ -40318,6 +40338,11 @@
       "root": "sebab",
       "pos": "word",
       "gloss": "cause, reason"
+    },
+    {
+      "root": "sebal",
+      "pos": "word",
+      "gloss": "annoyed, irritated, fed up"
     },
     {
       "root": "sebar",
