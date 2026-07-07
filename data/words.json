@@ -11726,7 +11726,7 @@
     },
     {
       "root": "ejaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "spelling"
     },
     {
@@ -20901,7 +20901,7 @@
     },
     {
       "root": "kehamilan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pregnancy"
     },
     {
@@ -22401,7 +22401,7 @@
     },
     {
       "root": "keterangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "adjunct"
     },
     {
@@ -29211,7 +29211,7 @@
     },
     {
       "root": "mengeja",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "spell"
     },
     {
@@ -32160,6 +32160,11 @@
       "gloss": "obstruction"
     },
     {
+      "root": "oceh",
+      "pos": "word",
+      "gloss": "to chatter, prattle (bound root)"
+    },
+    {
       "root": "ocehan",
       "pos": "word",
       "gloss": "twaddle"
@@ -34586,7 +34591,7 @@
     },
     {
       "root": "pemindai",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "scanner"
     },
     {
@@ -36336,7 +36341,7 @@
     },
     {
       "root": "pertumbuhan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "growth"
     },
     {
@@ -36655,8 +36660,13 @@
       "gloss": "move"
     },
     {
-      "root": "pindaian",
+      "root": "pindai",
       "pos": "word",
+      "gloss": "to scan (bound root)"
+    },
+    {
+      "root": "pindaian",
+      "pos": "derived",
       "gloss": "scan"
     },
     {
@@ -40503,6 +40513,11 @@
       "root": "segera",
       "pos": "adverb",
       "gloss": "promptly, soon, upcoming"
+    },
+    {
+      "root": "segi",
+      "pos": "word",
+      "gloss": "side, facet, angle (bound root)"
     },
     {
       "root": "segitiga",
@@ -46373,6 +46388,11 @@
       "root": "tulis",
       "pos": "word",
       "gloss": "write, written"
+    },
+    {
+      "root": "tumbuh",
+      "pos": "word",
+      "gloss": "to grow (bound root)"
     },
     {
       "root": "tumenggung",

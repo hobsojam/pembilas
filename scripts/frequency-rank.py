@@ -64,7 +64,8 @@ mint ark kuantum hidrogen rial talk mad lev tesla thai pascal pub audio finansia
 intens dokumenter prototipe antibiotik diabetes farmasi konstitusi institusi keripik subuh senja
 fosil kontainer ayat firman aspirin orkestra timah pramugari santo sekte tsunami satpam pakar tabel
 kosmos wahyu genetika
-gatal kadal pramuka alibi jazz senat reaktor relevan harfiah terminal ham ungu mekanik pensil bilik apak dahlia'''.split())
+gatal kadal pramuka alibi jazz senat reaktor relevan harfiah terminal ham ungu mekanik pensil bilik apak dahlia
+narapidana persegi diskon lem pelangi nat amber atlet tetua radius jerami'''.split())
 
 
 def main():

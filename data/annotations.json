@@ -16121,6 +16121,10 @@
     "me_i": {
       "state": "valid",
       "gloss": "to impregnate (menghamili)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "pregnancy (kehamilan)"
     }
   },
   "aksi": {
@@ -25428,6 +25432,222 @@
     "me": {
       "state": "valid",
       "gloss": "to invade (menginvasi)"
+    }
+  },
+  "yoga": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a yoga practitioner (peyoga)"
+    }
+  },
+  "sekongkol": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to conspire, collude (bersekongkol)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a conspiracy, collusion (persekongkolan)"
+    }
+  },
+  "deskripsi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to describe (mendeskripsikan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the description (deskripsinya)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "describe it! (deskripsikan)"
+    }
+  },
+  "wasiat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the will, testament (wasiatnya)"
+    }
+  },
+  "parasit": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the parasite (parasitnya)"
+    }
+  },
+  "misil": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the missile (misilnya)"
+    }
+  },
+  "bon": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the check, receipt (bonnya)"
+    }
+  },
+  "kalkun": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the turkey (kalkunnya)"
+    }
+  },
+  "lambang": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to symbolize (melambangkan)"
+    }
+  },
+  "pipi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cheek (pipinya)"
+    }
+  },
+  "gelincir": {
+    "ter": {
+      "state": "valid",
+      "gloss": "to slip, skid (tergelincir)"
+    }
+  },
+  "gelembung": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to bubble, form bubbles (bergelembung)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the bubble (gelembungnya)"
+    }
+  },
+  "apung": {
+    "me": {
+      "state": "valid",
+      "gloss": "to float (mengapung)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "floating, afloat (terapung)"
+    }
+  },
+  "hampa": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "emptiness, void (kehampaan)"
+    }
+  },
+  "labirin": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the labyrinth, maze (labirinnya)"
+    }
+  },
+  "pindai": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a scanner (pemindai)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a scan, scanning (pemindaian)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a scan (pindaian)"
+    }
+  },
+  "senter": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the flashlight (senternya)"
+    }
+  },
+  "sandar": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to lean, rely on (bersandar)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a support, backrest (sandaran)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "lean it against something! (sandarkan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to lean something against (menyandarkan)"
+    }
+  },
+  "tumbuh": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "growth (pertumbuhan)"
+    }
+  },
+  "eja": {
+    "me": {
+      "state": "valid",
+      "gloss": "to spell (mengeja)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "spelling (ejaan)"
+    }
+  },
+  "torpedo": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the torpedo (torpedonya)"
+    }
+  },
+  "mutasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to mutate (bermutasi)"
+    }
+  },
+  "binasa": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to destroy, annihilate (membinasakan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "destruction, annihilation (kebinasaan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "destroy it! (binasakan)"
+    }
+  },
+  "definisi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to define (mendefinisikan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the definition (definisinya)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "define it! (definisikan)"
+    }
+  },
+  "masker": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the (surgical) mask (maskernya)"
+    }
+  },
+  "riwayat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the history, record (riwayatnya)"
     }
   }
 }
