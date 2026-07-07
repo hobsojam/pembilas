@@ -24916,5 +24916,167 @@
       "state": "valid",
       "gloss": "the crab (kepitingnya)"
     }
+  },
+  "lengkung": {
+    "me": {
+      "state": "valid",
+      "gloss": "to curve, bend; to be curved (melengkung)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a curve, bend, arc (lengkungan)"
+    }
+  },
+  "jagal": {
+    "pe": {
+      "state": "valid",
+      "gloss": "butcher, slaughterer (penjagal)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "butchering, slaughtering (penjagalan)"
+    }
+  },
+  "selubung": {
+    "ter": {
+      "state": "valid",
+      "gloss": "covered, veiled, concealed (terselubung)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "covering, wrapper; one who covers (penyelubung)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to cover, envelop, shroud (menyelubungi)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to be covered or wrapped (berselubung)"
+    }
+  },
+  "unggah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to upload (mengunggah)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be uploaded (diunggah)"
+    }
+  },
+  "kritik": {
+    "an": {
+      "state": "valid",
+      "gloss": "a criticism, critique (kritikan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be criticized (dikritik)"
+    }
+  },
+  "komplot": {
+    "an": {
+      "state": "valid",
+      "gloss": "a gang, clique, conspiracy group (komplotan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to conspire, plot together (berkomplot)"
+    }
+  },
+  "remas": {
+    "me": {
+      "state": "valid",
+      "gloss": "to squeeze, wring, knead (meremas)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be squeezed or wrung (diremas)"
+    }
+  },
+  "kekang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to restrain, curb, control (mengekang)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "restrained, constrained (terkekang)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be restrained or curbed (dikekang)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "restraint, restriction, curbing (pengekangan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a restraint, curb, bridle (pengekang)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the restraint or curb (kekangnya)"
+    }
+  },
+  "migrasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to migrate (bermigrasi)"
+    }
+  },
+  "diagnosis": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be diagnosed (didiagnosis)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to diagnose (mendiagnosis)"
+    }
+  },
+  "eksplorasi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to explore (mengeksplorasi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be explored (dieksplorasi)"
+    }
+  },
+  "dokumentasi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to document, record (mendokumentasikan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "document it! (dokumentasikan)"
+    }
+  },
+  "prasangka": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to be prejudiced, to suspect (berprasangka)"
+    }
+  },
+  "impor": {
+    "me": {
+      "state": "valid",
+      "gloss": "to import (mengimpor)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be imported (diimpor)"
+    }
+  },
+  "deklarasi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to declare (mendeklarasikan)"
+    }
   }
 }
