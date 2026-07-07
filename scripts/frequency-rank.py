@@ -38,7 +38,7 @@ jerman meski perancis kolonel got dewan semesta kok
 bapa episode nasional berantakan pecundang nih bersulang kantin
 aduh bangsat hong pingsan serikat sejujurnya gay ketat universitas
 ilmuwan not peri barusan seperti sanggup mayor pemuda bencana
-senator makasih nol jarang kaisar padahal oppa peristiwa
+senator makasih nol jarang padahal oppa peristiwa
 generasi apalagi sipil mahasiswa maya zona gubernur bong pas
 misterius gurun senin ksatria hadirin divisi petani industri
 internasional negro hamba berisik suster gang pejabat amin modern
@@ -52,7 +52,13 @@ gelandangan romawi dini alergi
 peringkat bedebah tuli biro kera akademi ganteng depresi atom teluk alkitab
 insinyur psikopat lembaga dimensi mitos teater kutub pon biksu waras
 aula teknisi jurang kelelawar astronot bioskop distrik elektronik semester kritis agresif
-banci komite sultan kompleks konflik flu nabi ninja barangkali seterusnya gol'''.split())
+banci komite sultan kompleks konflik flu nabi ninja barangkali seterusnya gol
+kedai fisika roman laksamana bisbol deputi karenanya kesalahpahaman
+ilusi percuma mode wiski spt aktris rupee hore imam sarjana biologi doktor vodka pilu biara
+mesum phoenix kopral antik bandit baku naif griffin tradisional labu pemilu mempesona
+perempat kepemilikan
+tokoh zat otoritas panda pastor formasi katolik paranoid duyung pendekar beasiswa angsa bal keberhasilan
+rutin kartel aria karbon nelayan yen koridor opera manajemen'''.split())
 
 
 def main():

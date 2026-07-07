@@ -2636,6 +2636,10 @@
     "se": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "an intersection, crossroads (perempatan)"
     }
   },
   "lima": {
@@ -2926,6 +2930,10 @@
     "ke": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a liberation, release, acquittal (pembebasan)"
     }
   },
   "cepat": {
@@ -3870,6 +3878,10 @@
     "ber": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "an equation, formal similarity (persamaan)"
     }
   },
   "sedih": {
@@ -9436,6 +9448,10 @@
       "state": "unused",
       "gloss": "",
       "notes": "the passive is diumumkan (di-...-kan, not a modeled slot); bare diumum isn't used"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "generally, in general (umumnya)"
     }
   },
   "diskusi": {
@@ -12392,6 +12408,10 @@
     "nya": {
       "state": "valid",
       "gloss": "his/her doctor (dokternya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "medicine, the medical field (kedokteran)"
     }
   },
   "serius": {
@@ -13059,6 +13079,10 @@
     "ter": {
       "state": "valid",
       "gloss": "thrown away, discarded, wasted (terbuang)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a banishment, exile, disposal (pembuangan)"
     }
   },
   "gagal": {
@@ -19142,6 +19166,10 @@
     "ber_an": {
       "state": "valid",
       "gloss": "to be engaged (bertunangan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "an engagement (to be married) (pertunangan)"
     }
   },
   "tuntut": {
@@ -22198,6 +22226,10 @@
     "me": {
       "state": "valid",
       "gloss": "to chat (mengobrol)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a chat, conversation (obrolan)"
     }
   },
   "andal": {
@@ -22475,6 +22507,10 @@
     "pe": {
       "state": "valid",
       "gloss": "guide (pemandu)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a guide, manual (panduan)"
     }
   },
   "bijak": {
@@ -23918,6 +23954,967 @@
     "nya": {
       "state": "valid",
       "gloss": "the salad (saladnya)"
+    }
+  },
+  "kaisar": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "an empire (kekaisaran)"
+    }
+  },
+  "simpang": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "an intersection, crossroads (persimpangan)"
+    }
+  },
+  "tikam": {
+    "me": {
+      "state": "valid",
+      "gloss": "to stab (menikam)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be stabbed (passive) (ditikam)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a stabbing (tikaman)"
+    }
+  },
+  "cambuk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to whip (mencambuk)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be whipped (passive) (dicambuk)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a lashing, whipping (cambukan)"
+    }
+  },
+  "geram": {
+    "me": {
+      "state": "valid",
+      "gloss": "to growl, snarl (menggeram)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a growl, snarl (geraman)"
+    }
+  },
+  "rapuh": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "fragility, frailty (kerapuhan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "how fragile it is (rapuhnya)"
+    }
+  },
+  "ludah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to spit (meludah)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to spit on (meludahi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to spit something out (meludahkan)"
+    }
+  },
+  "lirik": {
+    "me": {
+      "state": "valid",
+      "gloss": "to glance at (melirik)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the lyrics (liriknya)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a glance (lirikan)"
+    }
+  },
+  "akurat": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "accuracy (keakuratan)"
+    }
+  },
+  "sosok": {
+    "se": {
+      "state": "valid",
+      "gloss": "a (single) figure of (sesosok)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the figure (sosoknya)"
+    }
+  },
+  "merek": {
+    "ber": {
+      "state": "valid",
+      "gloss": "branded, having a brand (bermerek)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the brand (mereknya)"
+    }
+  },
+  "cap": {
+    "me": {
+      "state": "valid",
+      "gloss": "to stamp, label (mencap)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be stamped, labeled (passive) (dicap)"
+    }
+  },
+  "basis": {
+    "ber": {
+      "state": "valid",
+      "gloss": "based (on) (berbasis)"
+    }
+  },
+  "kapak": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the axe (kapaknya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "wielding an axe (berkapak)"
+    }
+  },
+  "ambisi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to be ambitious (berambisi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the ambition (ambisinya)"
+    }
+  },
+  "rel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the rail, track (relnya)"
+    }
+  },
+  "laci": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the drawer (lacinya)"
+    }
+  },
+  "aplikasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the application (aplikasinya)"
+    }
+  },
+  "memar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bruise (memarnya)"
+    }
+  },
+  "vaksin": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the vaccine (vaksinnya)"
+    }
+  },
+  "drum": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the drum (drumnya)"
+    }
+  },
+  "akun": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the account (akunnya)"
+    }
+  },
+  "benang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the thread (benangnya)"
+    }
+  },
+  "bandar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the (betting) bookie, port (bandarnya)"
+    }
+  },
+  "kaset": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cassette (kasetnya)"
+    }
+  },
+  "pisang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the banana (pisangnya)"
+    }
+  },
+  "pesona": {
+    "me": {
+      "state": "valid",
+      "gloss": "to charm, enchant (regular form, memesona)"
+    }
+  },
+  "lamar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to propose (marriage), apply (melamar)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a marriage proposal, job application (lamaran)"
+    }
+  },
+  "picu": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a trigger (pemicu)"
+    }
+  },
+  "kawin": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "a marriage, wedding (perkawinan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the marriage, wedding (kawinnya)"
+    }
+  },
+  "lelang": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an auction (pelelangan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be auctioned (passive) (dilelang)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to auction off (melelang)"
+    }
+  },
+  "pucat": {
+    "me": {
+      "state": "valid",
+      "gloss": "to turn pale (memucat)"
+    }
+  },
+  "motivasi": {
+    "ter": {
+      "state": "valid",
+      "gloss": "motivated (termotivasi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to motivate (memotivasi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the motivation (motivasinya)"
+    }
+  },
+  "rok": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the skirt (roknya)"
+    }
+  },
+  "ember": {
+    "se": {
+      "state": "valid",
+      "gloss": "a bucketful of (seember)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the bucket (embernya)"
+    }
+  },
+  "payung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the umbrella (payungnya)"
+    }
+  },
+  "kulkas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the refrigerator (kulkasnya)"
+    }
+  },
+  "khas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the distinctive/characteristic quality of it (khasnya)"
+    }
+  },
+  "jurnal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the journal (jurnalnya)"
+    }
+  },
+  "serum": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the serum (serumnya)"
+    }
+  },
+  "benih": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the seed, seedling (benihnya)"
+    }
+  },
+  "sumur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the well (sumurnya)"
+    }
+  },
+  "sabun": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the soap (sabunnya)"
+    }
+  },
+  "kondom": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the condom (kondomnya)"
+    }
+  },
+  "lunas": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to pay off, settle (a debt) (melunasi)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "pay it off! (imperative, lunasi)"
+    }
+  },
+  "selisih": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "a dispute, disagreement (perselisihan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to disagree, differ (berselisih)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the difference (selisihnya)"
+    }
+  },
+  "karung": {
+    "se": {
+      "state": "valid",
+      "gloss": "a sackful of (sekarung)"
+    },
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengarungi belongs to arung.me_i, not karung"
+    }
+  },
+  "kilat": {
+    "an": {
+      "state": "valid",
+      "gloss": "a flash, streak (kilatan)"
+    }
+  },
+  "tiri": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the stepchild/stepparent (tirinya)"
+    }
+  },
+  "bara": {
+    "me": {
+      "state": "valid",
+      "gloss": "to blaze, smolder (membara)"
+    }
+  },
+  "gerombol": {
+    "an": {
+      "state": "valid",
+      "gloss": "a horde, gang, band (gerombolan)"
+    }
+  },
+  "arung": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to cross, sail across, wade through (mengarungi)"
+    }
+  },
+  "pasok": {
+    "an": {
+      "state": "valid",
+      "gloss": "a supply (pasokan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to supply (memasok)"
+    }
+  },
+  "lebih": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "an advantage, excess, surplus (kelebihan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to exceed (melebihi)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "excessive (berlebihan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the excess, remainder (lebihnya)"
+    }
+  },
+  "merpati": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the dove, pigeon (merpatinya)"
+    }
+  },
+  "editor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the editor (editornya)"
+    }
+  },
+  "haram": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the forbidden thing (haramnya)"
+    }
+  },
+  "panel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the panel (panelnya)"
+    }
+  },
+  "parfum": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the perfume (parfumnya)"
+    }
+  },
+  "populasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the population (populasinya)"
+    }
+  },
+  "busur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bow, arc (busurnya)"
+    }
+  },
+  "isyarat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the signal, cue (isyaratnya)"
+    }
+  },
+  "tomat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tomato (tomatnya)"
+    }
+  },
+  "praktis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the practical aspect of it (praktisnya)"
+    }
+  },
+  "donat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the donut (donatnya)"
+    }
+  },
+  "pinggang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the waist, hip (pinggangnya)"
+    }
+  },
+  "perempat": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): perempatan belongs to empat.per_an, not perempat"
+    }
+  },
+  "nanti": {
+    "kan": {
+      "state": "valid",
+      "gloss": "wait for it/him/her! (imperative, nantikan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to await, look forward to (menantikan)"
+    }
+  },
+  "kemah": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "a campground, camping (perkemahan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to camp (berkemah)"
+    }
+  },
+  "bijaksana": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "wisdom, prudence, policy (kebijaksanaan)"
+    }
+  },
+  "las": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be welded (passive) (dilas)"
+    }
+  },
+  "anggar": {
+    "an": {
+      "state": "valid",
+      "gloss": "a budget, allocation (anggaran)"
+    }
+  },
+  "uap": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the steam, vapor (uapnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to vaporize, evaporate something (menguapkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "evaporation (penguapan)"
+    }
+  },
+  "padan": {
+    "se": {
+      "state": "valid",
+      "gloss": "equivalent, comparable, commensurate (sepadan)"
+    }
+  },
+  "sisir": {
+    "me": {
+      "state": "valid",
+      "gloss": "to comb (menyisir)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a combing, sweep (search) (penyisiran)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be combed (passive) (disisir)"
+    }
+  },
+  "serap": {
+    "me": {
+      "state": "valid",
+      "gloss": "to absorb (menyerap)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be absorbed (passive) (diserap)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "absorption (penyerapan)"
+    }
+  },
+  "kuntit": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a stalker (penguntit)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to stalk (menguntit)"
+    }
+  },
+  "koreksi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be corrected (passive) (dikoreksi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to correct (mengoreksi)"
+    }
+  },
+  "traktir": {
+    "an": {
+      "state": "valid",
+      "gloss": "a treat (traktiran)"
+    }
+  },
+  "konsultasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to consult (berkonsultasi)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "consult it! (imperative, konsultasikan)"
+    }
+  },
+  "mempercepat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "speeding it up (mempercepatnya)"
+    }
+  },
+  "amarah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the anger, wrath (amarahnya)"
+    }
+  },
+  "moyang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ancestor (moyangnya)"
+    }
+  },
+  "formulir": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the form (formulirnya)"
+    }
+  },
+  "aksen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the accent (aksennya)"
+    }
+  },
+  "leluhur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ancestor (leluhurnya)"
+    }
+  },
+  "kargo": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cargo (kargonya)"
+    }
+  },
+  "pasta": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pasta (pastanya)"
+    }
+  },
+  "rompi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the vest (rompinya)"
+    }
+  },
+  "sosis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sausage (sosisnya)"
+    }
+  },
+  "kuap": {
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menguapkan (evaporate) belongs to uap.me_kan, not kuap (yawn)"
+    },
+    "pe_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): penguapan (evaporation) belongs to uap.pe_an, not kuap (yawn)"
+    }
+  },
+  "menguap": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menguapkan (evaporate) belongs to uap.me_kan"
+    }
+  },
+  "sebal": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "annoying, irritating (menyebalkan)"
+    }
+  },
+  "kebal": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "immunity, invulnerability (kekebalan)"
+    }
+  },
+  "merdeka": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "independence (kemerdekaan)"
+    }
+  },
+  "mogok": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a strike, walkout (pemogokan)"
+    }
+  },
+  "maksimal": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to maximize (memaksimalkan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as maximally as possible (semaksimal)"
+    }
+  },
+  "basmi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to exterminate, eradicate (membasmi)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an exterminator (pembasmi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be exterminated (passive) (dibasmi)"
+    }
+  },
+  "keping": {
+    "an": {
+      "state": "valid",
+      "gloss": "a piece, fragment (kepingan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "a piece, coin of (sekeping)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "in pieces, fragmented (berkeping)"
+    }
+  },
+  "kumis": {
+    "ber": {
+      "state": "valid",
+      "gloss": "mustached (berkumis)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the mustache (kumisnya)"
+    }
+  },
+  "pikat": {
+    "me": {
+      "state": "valid",
+      "gloss": "to attract, charm, lure (memikat)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "attracted, charmed, captivated (terpikat)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an attraction, charmer (pemikat)"
+    }
+  },
+  "rentan": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "vulnerability (kerentanan)"
+    }
+  },
+  "sembah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to worship, pay homage to (menyembah)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a worshipper (penyembah)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be worshipped (passive) (disembah)"
+    }
+  },
+  "adaptasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to adapt (beradaptasi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be adapted (passive) (diadaptasi)"
+    }
+  },
+  "karantina": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be quarantined (passive) (dikarantina)"
+    }
+  },
+  "tema": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the theme (temanya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "themed (bertema)"
+    }
+  },
+  "tampar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to slap (menampar)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a slap (tamparan)"
+    }
+  },
+  "susur": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to trace, follow along (menyusuri)"
+    }
+  },
+  "gulung": {
+    "an": {
+      "state": "valid",
+      "gloss": "a roll, scroll (gulungan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to roll up (menggulung)"
+    }
+  },
+  "lintas": {
+    "an": {
+      "state": "valid",
+      "gloss": "a route, pathway, trajectory (lintasan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to pass by (melintas)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to cross, pass through (melintasi)"
+    }
+  },
+  "tampung": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a shelter, reservoir, holding facility (penampungan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to accommodate, hold (menampung)"
+    }
+  },
+  "humor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the humor (humornya)"
+    }
+  },
+  "komisi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the commission (komisinya)"
+    }
+  },
+  "biskuit": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the biscuit (biskuitnya)"
+    }
+  },
+  "pita": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ribbon, tape (pitanya)"
+    }
+  },
+  "ginjal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the kidney (ginjalnya)"
+    }
+  },
+  "kentut": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fart (kentutnya)"
+    }
+  },
+  "ventilasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ventilation (ventilasinya)"
+    }
+  },
+  "visual": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the visual aspect of it (visualnya)"
+    }
+  },
+  "kepiting": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the crab (kepitingnya)"
     }
   }
 }
