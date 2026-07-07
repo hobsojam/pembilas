@@ -5792,7 +5792,7 @@
     {
       "root": "basis",
       "pos": "word",
-      "gloss": "bassist"
+      "gloss": "basis, foundation, base"
     },
     {
       "root": "basmati",
@@ -20961,7 +20961,7 @@
     },
     {
       "root": "kekaisaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "empire"
     },
     {
@@ -29246,7 +29246,7 @@
     },
     {
       "root": "menghemat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "save"
     },
     {
@@ -32056,7 +32056,7 @@
     },
     {
       "root": "obrolan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "chat"
     },
     {
@@ -34361,7 +34361,7 @@
     },
     {
       "root": "pembebasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "absolution"
     },
     {
@@ -34406,7 +34406,7 @@
     },
     {
       "root": "pembuangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "banishment"
     },
     {
@@ -36136,7 +36136,7 @@
     },
     {
       "root": "persimpangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "intersection"
     },
     {
@@ -36246,7 +36246,7 @@
     },
     {
       "root": "pertunangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "engagement"
     },
     {
@@ -41780,6 +41780,11 @@
       "gloss": "save, keep"
     },
     {
+      "root": "simpang",
+      "pos": "word",
+      "gloss": "a fork, junction (bound root)"
+    },
+    {
       "root": "simpanse",
       "pos": "word",
       "gloss": "chimpanzee"
@@ -46606,7 +46611,7 @@
     },
     {
       "root": "umumnya",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "generally"
     },
     {
