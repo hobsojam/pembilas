@@ -42,7 +42,8 @@ senator makasih nol jarang kaisar padahal oppa peristiwa
 generasi apalagi sipil mahasiswa maya zona gubernur bong pas
 misterius gurun senin ksatria hadirin divisi petani industri
 internasional negro hamba berisik suster gang pejabat amin modern
-nyenyak pirang rak dragon babak tong padang'''.split())
+nyenyak pirang rak dragon babak tong padang galaksi bijak
+emosional lembah anti'''.split())
 
 
 def main():

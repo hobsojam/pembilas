@@ -9385,6 +9385,11 @@
       "gloss": "dadaism"
     },
     {
+      "root": "dadak",
+      "pos": "word",
+      "gloss": "sudden (bound root)"
+    },
+    {
       "root": "dadap",
       "pos": "proper",
       "gloss": "indian coral tree"
@@ -10253,6 +10258,11 @@
       "root": "desain",
       "pos": "word",
       "gloss": "design"
+    },
+    {
+      "root": "desak",
+      "pos": "word",
+      "gloss": "to press, urge, push (bound root)"
     },
     {
       "root": "desalinasi",
@@ -19430,8 +19440,13 @@
       "gloss": "candlestick"
     },
     {
-      "root": "kandungan",
+      "root": "kandung",
       "pos": "word",
+      "gloss": "to contain, carry (a child), harbor (bound root)"
+    },
+    {
+      "root": "kandungan",
+      "pos": "derived",
       "gloss": "obstetrics"
     },
     {
@@ -25265,6 +25280,11 @@
       "gloss": "pumpkin, chayote, flask"
     },
     {
+      "root": "labuh",
+      "pos": "word",
+      "gloss": "to dock, anchor (bound root)"
+    },
+    {
       "root": "lacak",
       "pos": "word",
       "gloss": "track, trace"
@@ -28786,7 +28806,7 @@
     },
     {
       "root": "mendadak",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "suddenly"
     },
     {
@@ -28821,7 +28841,7 @@
     },
     {
       "root": "mendesak",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "urgent"
     },
     {
@@ -28961,7 +28981,7 @@
     },
     {
       "root": "mengandung",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "contain"
     },
     {
@@ -29171,7 +29191,7 @@
     },
     {
       "root": "menghubungkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "link"
     },
     {
@@ -33946,7 +33966,7 @@
     },
     {
       "root": "pelabuhan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "port, harbor"
     },
     {
@@ -39601,7 +39621,7 @@
     },
     {
       "root": "sakitnya",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "illness"
     },
     {
@@ -44761,7 +44781,7 @@
     },
     {
       "root": "terlepas",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "apart"
     },
     {
