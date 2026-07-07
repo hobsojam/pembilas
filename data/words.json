@@ -350,6 +350,11 @@
       "gloss": "there is, exist"
     },
     {
+      "root": "adab",
+      "pos": "word",
+      "gloss": "civility, culture, manners (bound root)"
+    },
+    {
       "root": "adam",
       "pos": "proper",
       "gloss": "adam"
@@ -2513,6 +2518,11 @@
       "root": "anda",
       "pos": "noun",
       "gloss": "you"
+    },
+    {
+      "root": "andal",
+      "pos": "word",
+      "gloss": "to rely, reliable (bound root)"
     },
     {
       "root": "andesit",
@@ -6411,7 +6421,7 @@
     },
     {
       "root": "beradab",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "civil"
     },
     {
@@ -6686,7 +6696,7 @@
     },
     {
       "root": "berpaling",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "turn, turn away"
     },
     {
@@ -9495,8 +9505,13 @@
       "gloss": "dactylography"
     },
     {
-      "root": "dakwaan",
+      "root": "dakwa",
       "pos": "word",
+      "gloss": "to accuse, charge, sue (bound root)"
+    },
+    {
+      "root": "dakwaan",
+      "pos": "derived",
       "gloss": "indictment"
     },
     {
@@ -12050,6 +12065,11 @@
       "gloss": "ecumenical"
     },
     {
+      "root": "elak",
+      "pos": "word",
+      "gloss": "to dodge, evade (bound root)"
+    },
+    {
       "root": "elang",
       "pos": "word",
       "gloss": "eagle"
@@ -12578,6 +12598,11 @@
       "root": "epos",
       "pos": "word",
       "gloss": "epic"
+    },
+    {
+      "root": "erang",
+      "pos": "word",
+      "gloss": "to groan, moan (bound root)"
     },
     {
       "root": "ercis",
@@ -16000,6 +16025,11 @@
       "gloss": "heuristic"
     },
     {
+      "root": "hias",
+      "pos": "word",
+      "gloss": "to decorate, adorn (bound root)"
+    },
+    {
       "root": "hiatus",
       "pos": "word",
       "gloss": "hiatus"
@@ -16010,8 +16040,13 @@
       "gloss": "hibernate"
     },
     {
-      "root": "hiburan",
+      "root": "hibur",
       "pos": "word",
+      "gloss": "to entertain, comfort (bound root)"
+    },
+    {
+      "root": "hiburan",
+      "pos": "derived",
       "gloss": "amusement, entertainment"
     },
     {
@@ -18745,6 +18780,11 @@
       "gloss": "struggle"
     },
     {
+      "root": "juara",
+      "pos": "word",
+      "gloss": "champion, winner"
+    },
+    {
       "root": "juba",
       "pos": "proper",
       "gloss": "juba"
@@ -20486,7 +20526,7 @@
     },
     {
       "root": "kebijakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "policy"
     },
     {
@@ -20766,7 +20806,7 @@
     },
     {
       "root": "kegilaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "madness"
     },
     {
@@ -20866,7 +20906,7 @@
     },
     {
       "root": "kejuaraan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "championship"
     },
     {
@@ -21091,7 +21131,7 @@
     },
     {
       "root": "kelelahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "fatigue"
     },
     {
@@ -21701,7 +21741,7 @@
     },
     {
       "root": "kepribadian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "personality"
     },
     {
@@ -21981,7 +22021,7 @@
     },
     {
       "root": "kesamaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "parity, equality"
     },
     {
@@ -22626,7 +22666,7 @@
     },
     {
       "root": "khususnya",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "typically"
     },
     {
@@ -26815,8 +26855,13 @@
       "gloss": "keel"
     },
     {
-      "root": "luncuran",
+      "root": "luncur",
       "pos": "word",
+      "gloss": "to slide, glide, launch (bound root)"
+    },
+    {
+      "root": "luncuran",
+      "pos": "derived",
       "gloss": "glide"
     },
     {
@@ -28206,7 +28251,7 @@
     },
     {
       "root": "meluncurkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "launch"
     },
     {
@@ -28291,7 +28336,7 @@
     },
     {
       "root": "memanjat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "climb"
     },
     {
@@ -28866,7 +28911,7 @@
     },
     {
       "root": "menelan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "swallow"
     },
     {
@@ -28966,7 +29011,7 @@
     },
     {
       "root": "mengamankan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "secure"
     },
     {
@@ -28976,7 +29021,7 @@
     },
     {
       "root": "mengandalkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "rely on"
     },
     {
@@ -29006,7 +29051,7 @@
     },
     {
       "root": "mengarahkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "refer"
     },
     {
@@ -29266,7 +29311,7 @@
     },
     {
       "root": "mengobrol",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "chat"
     },
     {
@@ -29376,7 +29421,7 @@
     },
     {
       "root": "menimbulkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "give rise to"
     },
     {
@@ -29526,7 +29571,7 @@
     },
     {
       "root": "menunda",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "postpone"
     },
     {
@@ -29586,7 +29631,7 @@
     },
     {
       "root": "menyatukan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "unify"
     },
     {
@@ -31965,6 +32010,11 @@
       "gloss": "torch"
     },
     {
+      "root": "obrol",
+      "pos": "word",
+      "gloss": "to chat (bound root)"
+    },
+    {
       "root": "obrolan",
       "pos": "word",
       "gloss": "chat"
@@ -32880,6 +32930,11 @@
       "gloss": "palindrome"
     },
     {
+      "root": "paling",
+      "pos": "word",
+      "gloss": "most (superlative marker); to turn, face (bound root, as in berpaling)"
+    },
+    {
       "root": "palium",
       "pos": "word",
       "gloss": "pallium"
@@ -33048,6 +33103,11 @@
       "root": "pandemi",
       "pos": "word",
       "gloss": "pandemic"
+    },
+    {
+      "root": "pandu",
+      "pos": "word",
+      "gloss": "guide, scout"
     },
     {
       "root": "panduan",
@@ -34196,7 +34256,7 @@
     },
     {
       "root": "pemandu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "guide"
     },
     {
@@ -34716,7 +34776,7 @@
     },
     {
       "root": "pengacakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "randomization"
     },
     {
@@ -35211,7 +35271,7 @@
     },
     {
       "root": "penundaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "deferment, postponement"
     },
     {
@@ -35236,7 +35296,7 @@
     },
     {
       "root": "penyanyi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "singer"
     },
     {
@@ -35271,7 +35331,7 @@
     },
     {
       "root": "penyelamatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "bailout"
     },
     {
@@ -35406,7 +35466,7 @@
     },
     {
       "root": "peradaban",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "civilization"
     },
     {
@@ -35516,7 +35576,7 @@
     },
     {
       "root": "perbaikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "repair"
     },
     {
@@ -35661,8 +35721,8 @@
     },
     {
       "root": "perhiasan",
-      "pos": "word",
-      "gloss": "jeweler"
+      "pos": "derived",
+      "gloss": "jewelry, adornment"
     },
     {
       "root": "peri",
@@ -35956,7 +36016,7 @@
     },
     {
       "root": "persatuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "association"
     },
     {
@@ -36086,7 +36146,7 @@
     },
     {
       "root": "pertanian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "agriculture"
     },
     {
@@ -36131,7 +36191,7 @@
     },
     {
       "root": "pertukaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "exchange"
     },
     {
@@ -36286,7 +36346,7 @@
     },
     {
       "root": "pewaris",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "successor, heir"
     },
     {
@@ -43875,6 +43935,11 @@
       "gloss": "tank"
     },
     {
+      "root": "tani",
+      "pos": "word",
+      "gloss": "to farm (bound root)"
+    },
+    {
       "root": "tanjakan",
       "pos": "word",
       "gloss": "gradient"
@@ -44160,8 +44225,13 @@
       "gloss": "sugar cane"
     },
     {
-      "root": "tebusan",
+      "root": "tebus",
       "pos": "word",
+      "gloss": "to redeem, ransom (bound root)"
+    },
+    {
+      "root": "tebusan",
+      "pos": "derived",
       "gloss": "ransom"
     },
     {
@@ -44288,6 +44358,11 @@
       "root": "telak",
       "pos": "adjective",
       "gloss": "cogent"
+    },
+    {
+      "root": "telan",
+      "pos": "word",
+      "gloss": "to swallow (bound root)"
     },
     {
       "root": "telanjang",
@@ -44706,7 +44781,7 @@
     },
     {
       "root": "terdakwa",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "accused"
     },
     {
@@ -45153,6 +45228,11 @@
       "root": "timbangan",
       "pos": "derived",
       "gloss": "scales"
+    },
+    {
+      "root": "timbul",
+      "pos": "word",
+      "gloss": "to arise, emerge (bound root)"
     },
     {
       "root": "timika",
@@ -46085,8 +46165,13 @@
       "gloss": "to ride along, lodge, hitch a ride (bound root)"
     },
     {
-      "root": "tumpukan",
+      "root": "tumpuk",
       "pos": "word",
+      "gloss": "to stack, pile (bound root)"
+    },
+    {
+      "root": "tumpukan",
+      "pos": "derived",
       "gloss": "pile"
     },
     {
@@ -46118,6 +46203,11 @@
       "root": "tunas",
       "pos": "word",
       "gloss": "sprout"
+    },
+    {
+      "root": "tunda",
+      "pos": "word",
+      "gloss": "to postpone, delay (bound root)"
     },
     {
       "root": "tungau",
@@ -46665,6 +46755,11 @@
       "gloss": "ushanka"
     },
     {
+      "root": "usik",
+      "pos": "word",
+      "gloss": "to disturb, bother (bound root)"
+    },
+    {
       "root": "usir",
       "pos": "word",
       "gloss": "to expel, drive away (bound root)"
@@ -47210,8 +47305,13 @@
       "gloss": "lemur"
     },
     {
-      "root": "warisan",
+      "root": "waris",
       "pos": "word",
+      "gloss": "heir, inheritance (bound root)"
+    },
+    {
+      "root": "warisan",
+      "pos": "derived",
       "gloss": "legacy"
     },
     {
