@@ -20936,7 +20936,7 @@
     },
     {
       "root": "kekurangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "poverty, deficiency"
     },
     {
@@ -21966,7 +21966,7 @@
     },
     {
       "root": "kesedihan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "sadness, sorrow"
     },
     {
@@ -28881,7 +28881,7 @@
     },
     {
       "root": "menerjemahkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "render, translate"
     },
     {
@@ -29601,12 +29601,12 @@
     },
     {
       "root": "menyiarkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "broadcast"
     },
     {
       "root": "menyiksa",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "anguish"
     },
     {
@@ -34636,7 +34636,7 @@
     },
     {
       "root": "penegakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "enforcement"
     },
     {
@@ -34661,7 +34661,7 @@
     },
     {
       "root": "penerjemah",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "interpreter, translator"
     },
     {
@@ -34711,7 +34711,7 @@
     },
     {
       "root": "pengakuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "confession"
     },
     {
@@ -35001,7 +35001,7 @@
     },
     {
       "root": "pengusiran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "dismissal"
     },
     {
@@ -41375,8 +41375,13 @@
       "gloss": "who"
     },
     {
-      "root": "siaran",
+      "root": "siar",
       "pos": "word",
+      "gloss": "to broadcast (bound root)"
+    },
+    {
+      "root": "siaran",
+      "pos": "derived",
       "gloss": "broadcast"
     },
     {
@@ -41498,6 +41503,11 @@
       "root": "siklotron",
       "pos": "word",
       "gloss": "cyclotron"
+    },
+    {
+      "root": "siksa",
+      "pos": "word",
+      "gloss": "to torture (bound root)"
     },
     {
       "root": "siku",
@@ -44710,6 +44720,11 @@
       "gloss": "handy"
     },
     {
+      "root": "terjemah",
+      "pos": "word",
+      "gloss": "to translate (bound root)"
+    },
+    {
       "root": "terjemahan",
       "pos": "word",
       "gloss": "translation"
@@ -44871,7 +44886,7 @@
     },
     {
       "root": "tersiksa",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "anguish"
     },
     {
@@ -46386,7 +46401,7 @@
     },
     {
       "root": "undangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "invitation"
     },
     {
@@ -46587,7 +46602,7 @@
     {
       "root": "urut",
       "pos": "word",
-      "gloss": "massage"
+      "gloss": "massage; sequential, in order"
     },
     {
       "root": "usaha",
@@ -46603,6 +46618,11 @@
       "root": "ushanka",
       "pos": "word",
       "gloss": "ushanka"
+    },
+    {
+      "root": "usir",
+      "pos": "word",
+      "gloss": "to expel, drive away (bound root)"
     },
     {
       "root": "uskup",

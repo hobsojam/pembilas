@@ -40,7 +40,8 @@ aduh bangsat hong pingsan serikat sejujurnya gay ketat universitas
 ilmuwan not peri barusan seperti sanggup mayor pemuda bencana
 senator makasih nol jarang kaisar padahal oppa peristiwa
 generasi apalagi sipil mahasiswa maya zona gubernur bong pas
-misterius gurun senin ksatria'''.split())
+misterius gurun senin ksatria hadirin divisi petani industri
+internasional negro hamba berisik'''.split())
 
 
 def main():
