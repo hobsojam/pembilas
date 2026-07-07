@@ -751,7 +751,7 @@
     },
     {
       "root": "afghanistan",
-      "pos": "adjective",
+      "pos": "proper",
       "gloss": "afghan, afghanistan"
     },
     {
@@ -8985,6 +8985,11 @@
       "gloss": "clear, bright, sunny"
     },
     {
+      "root": "cerai",
+      "pos": "word",
+      "gloss": "to divorce (bound root)"
+    },
+    {
       "root": "cerdas",
       "pos": "adjective",
       "gloss": "smart"
@@ -16670,8 +16675,13 @@
       "gloss": "humour"
     },
     {
-      "root": "hunian",
+      "root": "huni",
       "pos": "word",
+      "gloss": "to inhabit, occupy (bound root)"
+    },
+    {
+      "root": "hunian",
+      "pos": "derived",
       "gloss": "residence"
     },
     {
@@ -20721,7 +20731,7 @@
     },
     {
       "root": "kediaman",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "residence"
     },
     {
@@ -28136,7 +28146,7 @@
     },
     {
       "root": "melampaui",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "exceed"
     },
     {
@@ -35076,7 +35086,7 @@
     },
     {
       "root": "penghuni",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "resident"
     },
     {
@@ -35671,7 +35681,7 @@
     },
     {
       "root": "perceraian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "divorce"
     },
     {
@@ -35881,7 +35891,7 @@
     },
     {
       "root": "perkumpulan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "society"
     },
     {
@@ -36201,7 +36211,7 @@
     },
     {
       "root": "pertengahan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "middle"
     },
     {

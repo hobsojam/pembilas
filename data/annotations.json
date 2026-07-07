@@ -11764,6 +11764,10 @@
     "pe": {
       "state": "valid",
       "gloss": "a quiet/reserved person (pendiam)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "residence (kediaman)"
     }
   },
   "bulan": {
@@ -12164,6 +12168,10 @@
       "state": "unused",
       "gloss": "",
       "notes": "di tengah (in the middle of) is written as two words per standard orthography, not a compound"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "the middle, midpoint (in time) (pertengahan)"
     }
   },
   "membiarkan": {
@@ -15859,6 +15867,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "the act of collecting, gathering (pengumpulan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "an association, society (perkumpulan)"
     }
   },
   "sedia": {
@@ -23692,6 +23704,220 @@
     "ber": {
       "state": "valid",
       "gloss": "to hallucinate (berhalusinasi)"
+    }
+  },
+  "lampau": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to exceed, surpass (melampaui)"
+    }
+  },
+  "cerai": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "a divorce (perceraian)"
+    }
+  },
+  "huni": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a resident, occupant (penghuni)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a residence, dwelling (hunian)"
+    }
+  },
+  "sedot": {
+    "me": {
+      "state": "valid",
+      "gloss": "to suck up, siphon, vacuum (menyedot)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a straw, suction device (sedotan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "sucked in, drawn in (tersedot)"
+    }
+  },
+  "gunting": {
+    "me": {
+      "state": "valid",
+      "gloss": "to cut with scissors (menggunting)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the scissors (guntingnya)"
+    }
+  },
+  "panen": {
+    "me": {
+      "state": "valid",
+      "gloss": "to harvest (memanen)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be harvested (passive) (dipanen)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the harvest (panennya)"
+    }
+  },
+  "kunyah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to chew (mengunyah)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be chewed (passive) (dikunyah)"
+    }
+  },
+  "sikat": {
+    "me": {
+      "state": "valid",
+      "gloss": "to brush (menyikat)"
+    }
+  },
+  "rangsang": {
+    "ter": {
+      "state": "valid",
+      "gloss": "aroused, stimulated (terangsang)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to stimulate, arouse (merangsang)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a stimulus (rangsangan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a stimulant (perangsang)"
+    }
+  },
+  "kilau": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to gleam, shine (berkilau)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to glitter, sparkle repeatedly (berkilauan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a glimmer, gleam (kilauan)"
+    }
+  },
+  "amatir": {
+    "an": {
+      "state": "valid",
+      "gloss": "amateurish (amatiran)"
+    }
+  },
+  "kerjasama": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the collaboration, cooperation (kerjasamanya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to collaborate, cooperate (berkerjasama)"
+    }
+  },
+  "semut": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "pins and needles, numbness (kesemutan)"
+    }
+  },
+  "konspirasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to conspire (berkonspirasi)"
+    }
+  },
+  "imajinasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to imagine, fantasize (berimajinasi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the imagination (imajinasinya)"
+    }
+  },
+  "simpati": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to sympathize (bersimpati)"
+    }
+  },
+  "pondok": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the hut, cottage (pondoknya)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a boarding school, lodgings (pondokan)"
+    }
+  },
+  "informan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the informant (informannya)"
+    }
+  },
+  "keranjang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the basket (keranjangnya)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "a basketful of (sekeranjang)"
+    }
+  },
+  "jeruk": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the orange, citrus (jeruknya)"
+    }
+  },
+  "taktik": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tactic (taktiknya)"
+    }
+  },
+  "mentega": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the butter (menteganya)"
+    }
+  },
+  "konstruksi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the construction (konstruksinya)"
+    }
+  },
+  "kandidat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the candidate (kandidatnya)"
+    }
+  },
+  "salad": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the salad (saladnya)"
     }
   }
 }
