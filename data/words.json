@@ -6695,6 +6695,11 @@
       "gloss": "gutsy"
     },
     {
+      "root": "berontak",
+      "pos": "word",
+      "gloss": "to rebel, revolt (bound root)"
+    },
+    {
       "root": "berpaling",
       "pos": "derived",
       "gloss": "turn, turn away"
@@ -22056,7 +22061,7 @@
     },
     {
       "root": "keseimbangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "balance"
     },
     {
@@ -22516,8 +22521,8 @@
     },
     {
       "root": "kewajiban",
-      "pos": "word",
-      "gloss": "liabilities"
+      "pos": "derived",
+      "gloss": "obligation, duty"
     },
     {
       "root": "kewalahan",
@@ -29821,7 +29826,7 @@
     },
     {
       "root": "meretas",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "hack"
     },
     {
@@ -34331,7 +34336,7 @@
     },
     {
       "root": "pemberontakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "revolt, rebellion"
     },
     {
@@ -35111,7 +35116,7 @@
     },
     {
       "root": "peningkatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "improvement"
     },
     {
@@ -39025,6 +39030,11 @@
       "gloss": "resultant"
     },
     {
+      "root": "retas",
+      "pos": "word",
+      "gloss": "to hack, break through (bound root)"
+    },
+    {
       "root": "retensi",
       "pos": "word",
       "gloss": "retention"
@@ -41345,13 +41355,18 @@
       "gloss": "satanyahu"
     },
     {
+      "root": "setel",
+      "pos": "word",
+      "gloss": "to tune, set, adjust (bound root)"
+    },
+    {
       "root": "setelah",
       "pos": "word",
       "gloss": "after"
     },
     {
       "root": "setelan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "setting, suit"
     },
     {
@@ -45283,6 +45298,11 @@
       "root": "tinggi",
       "pos": "adjective",
       "gloss": "high, tall"
+    },
+    {
+      "root": "tingkat",
+      "pos": "word",
+      "gloss": "level, degree, story (of a building)"
     },
     {
       "root": "tingtur",
