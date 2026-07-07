@@ -13303,16 +13303,6 @@
       "gloss": "to kiss each other (berciuman)"
     }
   },
-  "menyesal": {
-    "i": {
-      "state": "valid",
-      "gloss": "to regret, feel remorse over (menyesali)"
-    },
-    "kan": {
-      "state": "valid",
-      "gloss": "regrettable, unfortunate (menyesalkan)"
-    }
-  },
   "batu": {
     "an": {
       "state": "valid",
@@ -14142,6 +14132,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "conformity, compatibility (kesesuaian)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to adjust, adapt something (menyesuaikan)"
     }
   },
   "hak": {
@@ -18694,6 +18688,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "disgrace, humiliation (kehinaan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "humiliation, insult (the act) (penghinaan)"
     }
   },
   "agung": {
@@ -20368,6 +20366,10 @@
     "nya": {
       "state": "valid",
       "gloss": "its form, manifestation (wujudnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to realize, bring about (mewujudkan)"
     }
   },
   "matematika": {
@@ -22614,6 +22616,10 @@
     "kan": {
       "state": "valid",
       "gloss": "conclude it!, tie it! (imperative, simpulkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "conclusion (kesimpulan)"
     }
   },
   "padat": {
@@ -22999,6 +23005,192 @@
     "nya": {
       "state": "valid",
       "gloss": "the dinosaur (dinosaurusnya)"
+    }
+  },
+  "rancang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to design, plan (merancang)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a plan, blueprint (rancangan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "designer (perancang)"
+    }
+  },
+  "sesal": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "regret (penyesalan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to regret (menyesal)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to regret, feel remorse over (menyesali)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "regrettable, unfortunate (menyesalkan)"
+    }
+  },
+  "selingkuh": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have an affair, cheat (berselingkuh)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a mistress, affair partner (selingkuhan)"
+    }
+  },
+  "konsep": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the concept (konsepnya)"
+    }
+  },
+  "tebing": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cliff (tebingnya)"
+    }
+  },
+  "novel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the novel (novelnya)"
+    }
+  },
+  "beras": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the (uncooked) rice (berasnya)"
+    }
+  },
+  "sandi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the code, cipher (sandinya)"
+    }
+  },
+  "transportasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the transportation (transportasinya)"
+    }
+  },
+  "imut": {
+    "nya": {
+      "state": "valid",
+      "gloss": "how cute it is (imutnya)"
+    }
+  },
+  "granat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the grenade (granatnya)"
+    }
+  },
+  "prinsip": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the principle (prinsipnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to have principles (berprinsip)"
+    }
+  },
+  "canggung": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "awkwardness (kecanggungan)"
+    }
+  },
+  "meteor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the meteor (meteornya)"
+    }
+  },
+  "disiplin": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "discipline (the quality) (kedisiplinan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to discipline (mendisiplinkan)"
+    }
+  },
+  "budi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "virtuous (e.g. berbudi luhur, noble-hearted) (berbudi)"
+    }
+  },
+  "karpet": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the carpet (karpetnya)"
+    }
+  },
+  "bubuk": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the powder (bubuknya)"
+    }
+  },
+  "buntu": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a deadlock, impasse (kebuntuan)"
+    }
+  },
+  "topik": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the topic (topiknya)"
+    }
+  },
+  "induk": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the mother, parent organism (induknya)"
+    }
+  },
+  "buas": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "ferocity, wildness (kebuasan)"
+    }
+  },
+  "kombinasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the combination (kombinasinya)"
+    }
+  },
+  "fantasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to fantasize (berfantasi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the fantasy (fantasinya)"
+    }
+  },
+  "kasino": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the casino (kasinonya)"
     }
   }
 }

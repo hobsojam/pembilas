@@ -6731,7 +6731,7 @@
     },
     {
       "root": "berselingkuh",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "cheat on"
     },
     {
@@ -22171,7 +22171,7 @@
     },
     {
       "root": "kesimpulan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "conclusion"
     },
     {
@@ -29681,12 +29681,12 @@
     },
     {
       "root": "menyesal",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "regret"
     },
     {
       "root": "menyesuaikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "customize"
     },
     {
@@ -29761,7 +29761,7 @@
     },
     {
       "root": "merancang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "plan"
     },
     {
@@ -30061,7 +30061,7 @@
     },
     {
       "root": "mewujudkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "realize"
     },
     {
@@ -35036,7 +35036,7 @@
     },
     {
       "root": "penghinaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "humiliation, abasement"
     },
     {
@@ -35381,7 +35381,7 @@
     },
     {
       "root": "penyesalan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "regret"
     },
     {
@@ -38355,6 +38355,11 @@
       "gloss": "domain"
     },
     {
+      "root": "rancang",
+      "pos": "word",
+      "gloss": "to design, plan (bound root)"
+    },
+    {
       "root": "ranggas",
       "pos": "adjective",
       "gloss": "leafless"
@@ -40650,6 +40655,11 @@
       "gloss": "blanket"
     },
     {
+      "root": "selingkuh",
+      "pos": "word",
+      "gloss": "to have an affair, cheat (bound root)"
+    },
+    {
       "root": "selir",
       "pos": "word",
       "gloss": "concubine"
@@ -41308,6 +41318,11 @@
       "root": "servis",
       "pos": "word",
       "gloss": "service"
+    },
+    {
+      "root": "sesal",
+      "pos": "word",
+      "gloss": "to regret (bound root)"
     },
     {
       "root": "sesat",
