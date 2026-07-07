@@ -11755,6 +11755,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "irrigation (pengairan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "waters, a body of water (perairan)"
     }
   },
   "ruang": {
@@ -11895,6 +11899,10 @@
     "se": {
       "state": "valid",
       "gloss": "as strange as (seaneh)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "strangely; the strange thing is (anehnya)"
     }
   },
   "perintah": {
@@ -24785,6 +24793,10 @@
     "di": {
       "state": "valid",
       "gloss": "to be worshipped (passive) (disembah)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "an offering (persembahan)"
     }
   },
   "adaptasi": {
@@ -25247,6 +25259,175 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to declare (mendeklarasikan)"
+    }
+  },
+  "duri": {
+    "ber": {
+      "state": "valid",
+      "gloss": "thorny, having thorns (berduri)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the thorn (durinya)"
+    }
+  },
+  "jeram": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): jerami (straw, hay) is mechanically jeram + i but is an unrelated word, added as its own headword; jeram (rapid) has no attested productive derivation"
+    }
+  },
+  "cekik": {
+    "me": {
+      "state": "valid",
+      "gloss": "to strangle, choke (mencekik)"
+    }
+  },
+  "cicip": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to taste, sample (mencicipi)"
+    }
+  },
+  "selundup": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a smuggler (penyelundup)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "smuggling (penyelundupan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to smuggle oneself in (menyelundup)"
+    }
+  },
+  "banting": {
+    "me": {
+      "state": "valid",
+      "gloss": "to slam, fling (membanting)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be slammed, flung (passive) (dibanting)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a slam, throw (bantingan)"
+    }
+  },
+  "insting": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the instinct (instingnya)"
+    }
+  },
+  "tinta": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ink (tintanya)"
+    }
+  },
+  "amuk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to rampage, go berserk (mengamuk)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a rampage, fury, riot (amukan)"
+    }
+  },
+  "lisensi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "licensed (berlisensi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the license (lisensinya)"
+    }
+  },
+  "bor": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be drilled (passive) (dibor)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "drilling (pemboran)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the drill (bornya)"
+    }
+  },
+  "rakit": {
+    "me": {
+      "state": "valid",
+      "gloss": "to assemble, put together (merakit)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be assembled (passive) (dirakit)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "an assembly, something assembled (rakitan)"
+    }
+  },
+  "kemauan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the will, desire (kemauannya)"
+    }
+  },
+  "sertifikat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "certified (bersertifikat)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the certificate (sertifikatnya)"
+    }
+  },
+  "gandum": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the wheat (gandumnya)"
+    }
+  },
+  "silang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to cross (menyilang)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to cross something out, to X-out (menyilangkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "cross it out! (silangkan)"
+    }
+  },
+  "evaluasi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to evaluate (mengevaluasi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be evaluated (passive) (dievaluasi)"
+    }
+  },
+  "invasi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to invade (menginvasi)"
     }
   }
 }
