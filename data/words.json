@@ -11726,7 +11726,7 @@
     },
     {
       "root": "ejaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "spelling"
     },
     {
@@ -14415,6 +14415,11 @@
       "gloss": "tickle"
     },
     {
+      "root": "geli",
+      "pos": "word",
+      "gloss": "ticklish; amused"
+    },
+    {
       "root": "gelincir",
       "pos": "word",
       "gloss": "slide"
@@ -15050,6 +15055,11 @@
       "gloss": "gong"
     },
     {
+      "root": "gonggong",
+      "pos": "word",
+      "gloss": "to bark (bound root)"
+    },
+    {
       "root": "gongseng",
       "pos": "word",
       "gloss": "jingle bell, stir-fry"
@@ -15630,8 +15640,13 @@
       "gloss": "slave"
     },
     {
-      "root": "hambatan",
+      "root": "hambat",
       "pos": "word",
+      "gloss": "to hinder, obstruct (bound root)"
+    },
+    {
+      "root": "hambatan",
+      "pos": "derived",
       "gloss": "resistance"
     },
     {
@@ -18975,8 +18990,13 @@
       "gloss": "journalistic"
     },
     {
-      "root": "jurusan",
+      "root": "jurus",
       "pos": "word",
+      "gloss": "a martial-arts move; (archaic) direction (bound root)"
+    },
+    {
+      "root": "jurusan",
+      "pos": "derived",
       "gloss": "major"
     },
     {
@@ -20901,7 +20921,7 @@
     },
     {
       "root": "kehamilan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pregnancy"
     },
     {
@@ -21576,7 +21596,7 @@
     },
     {
       "root": "kenaikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "rise"
     },
     {
@@ -22401,7 +22421,7 @@
     },
     {
       "root": "keterangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "adjunct"
     },
     {
@@ -26045,6 +26065,11 @@
       "gloss": "neck"
     },
     {
+      "root": "lekat",
+      "pos": "word",
+      "gloss": "stuck, attached (bound root)"
+    },
+    {
       "root": "leksionari",
       "pos": "word",
       "gloss": "lectionary"
@@ -28286,7 +28311,7 @@
     },
     {
       "root": "melekat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "adhere, resonate"
     },
     {
@@ -28591,7 +28616,7 @@
     },
     {
       "root": "memenggal",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "behead"
     },
     {
@@ -29211,7 +29236,7 @@
     },
     {
       "root": "mengeja",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "spell"
     },
     {
@@ -29296,7 +29321,7 @@
     },
     {
       "root": "menggonggong",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "bark"
     },
     {
@@ -29431,7 +29456,7 @@
     },
     {
       "root": "mengoceh",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "chatter"
     },
     {
@@ -29471,7 +29496,7 @@
     },
     {
       "root": "mengotori",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "dirty"
     },
     {
@@ -29916,7 +29941,7 @@
     },
     {
       "root": "merengek",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "whine"
     },
     {
@@ -32160,6 +32185,11 @@
       "gloss": "obstruction"
     },
     {
+      "root": "oceh",
+      "pos": "word",
+      "gloss": "to chatter, prattle (bound root)"
+    },
+    {
       "root": "ocehan",
       "pos": "word",
       "gloss": "twaddle"
@@ -34376,7 +34406,7 @@
     },
     {
       "root": "pemalu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "shy, timid (person)"
     },
     {
@@ -34536,7 +34566,7 @@
     },
     {
       "root": "pemerasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "blackmail, extortion"
     },
     {
@@ -34586,7 +34616,7 @@
     },
     {
       "root": "pemindai",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "scanner"
     },
     {
@@ -34836,7 +34866,7 @@
     },
     {
       "root": "pendapatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "income, revenue"
     },
     {
@@ -35108,6 +35138,11 @@
       "root": "pengetahuan",
       "pos": "derived",
       "gloss": "knowledge"
+    },
+    {
+      "root": "penggal",
+      "pos": "word",
+      "gloss": "to cut off, sever (bound root)"
     },
     {
       "root": "penggelapan",
@@ -35991,7 +36026,7 @@
     },
     {
       "root": "perlakuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "treatment"
     },
     {
@@ -36336,7 +36371,7 @@
     },
     {
       "root": "pertumbuhan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "growth"
     },
     {
@@ -36655,8 +36690,13 @@
       "gloss": "move"
     },
     {
-      "root": "pindaian",
+      "root": "pindai",
       "pos": "word",
+      "gloss": "to scan (bound root)"
+    },
+    {
+      "root": "pindaian",
+      "pos": "derived",
       "gloss": "scan"
     },
     {
@@ -39020,8 +39060,13 @@
       "gloss": "low"
     },
     {
-      "root": "rengekan",
+      "root": "rengek",
       "pos": "word",
+      "gloss": "to whine (bound root)"
+    },
+    {
+      "root": "rengekan",
+      "pos": "derived",
       "gloss": "whine"
     },
     {
@@ -40125,6 +40170,11 @@
       "gloss": "sangria"
     },
     {
+      "root": "sanjung",
+      "pos": "word",
+      "gloss": "to flatter, compliment (bound root)"
+    },
+    {
       "root": "sanksi",
       "pos": "word",
       "gloss": "sanction"
@@ -40505,6 +40555,11 @@
       "gloss": "promptly, soon, upcoming"
     },
     {
+      "root": "segi",
+      "pos": "word",
+      "gloss": "side, facet, angle (bound root)"
+    },
+    {
       "root": "segitiga",
       "pos": "word",
       "gloss": "triangle"
@@ -40833,6 +40888,11 @@
       "root": "selofan",
       "pos": "word",
       "gloss": "cellophane"
+    },
+    {
+      "root": "selokan",
+      "pos": "word",
+      "gloss": "ditch, gutter, drain"
     },
     {
       "root": "selongsong",
@@ -45206,7 +45266,7 @@
     },
     {
       "root": "tersanjung",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "flattered"
     },
     {
@@ -46375,6 +46435,11 @@
       "gloss": "write, written"
     },
     {
+      "root": "tumbuh",
+      "pos": "word",
+      "gloss": "to grow (bound root)"
+    },
+    {
       "root": "tumenggung",
       "pos": "word",
       "gloss": "marquess"
@@ -46540,8 +46605,13 @@
       "gloss": "pine"
     },
     {
-      "root": "tusukan",
+      "root": "tusuk",
       "pos": "word",
+      "gloss": "to stab, pierce (bound root)"
+    },
+    {
+      "root": "tusukan",
+      "pos": "derived",
       "gloss": "puncture"
     },
     {
@@ -46790,8 +46860,13 @@
       "gloss": "excellent"
     },
     {
-      "root": "ungkapan",
+      "root": "ungkap",
       "pos": "word",
+      "gloss": "to express, reveal (bound root)"
+    },
+    {
+      "root": "ungkapan",
+      "pos": "derived",
       "gloss": "expression"
     },
     {
