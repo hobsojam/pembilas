@@ -2520,6 +2520,11 @@
       "gloss": "you"
     },
     {
+      "root": "andal",
+      "pos": "word",
+      "gloss": "to rely, reliable (bound root)"
+    },
+    {
       "root": "andesit",
       "pos": "word",
       "gloss": "andesite"
@@ -12055,6 +12060,11 @@
       "gloss": "ecumenical"
     },
     {
+      "root": "elak",
+      "pos": "word",
+      "gloss": "to dodge, evade (bound root)"
+    },
+    {
       "root": "elang",
       "pos": "word",
       "gloss": "eagle"
@@ -18765,6 +18775,11 @@
       "gloss": "struggle"
     },
     {
+      "root": "juara",
+      "pos": "word",
+      "gloss": "champion, winner"
+    },
+    {
       "root": "juba",
       "pos": "proper",
       "gloss": "juba"
@@ -20886,7 +20901,7 @@
     },
     {
       "root": "kejuaraan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "championship"
     },
     {
@@ -22001,7 +22016,7 @@
     },
     {
       "root": "kesamaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "parity, equality"
     },
     {
@@ -26835,8 +26850,13 @@
       "gloss": "keel"
     },
     {
-      "root": "luncuran",
+      "root": "luncur",
       "pos": "word",
+      "gloss": "to slide, glide, launch (bound root)"
+    },
+    {
+      "root": "luncuran",
+      "pos": "derived",
       "gloss": "glide"
     },
     {
@@ -28226,7 +28246,7 @@
     },
     {
       "root": "meluncurkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "launch"
     },
     {
@@ -28311,7 +28331,7 @@
     },
     {
       "root": "memanjat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "climb"
     },
     {
@@ -28996,7 +29016,7 @@
     },
     {
       "root": "mengandalkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "rely on"
     },
     {
@@ -29286,7 +29306,7 @@
     },
     {
       "root": "mengobrol",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "chat"
     },
     {
@@ -31983,6 +32003,11 @@
       "root": "obor",
       "pos": "word",
       "gloss": "torch"
+    },
+    {
+      "root": "obrol",
+      "pos": "word",
+      "gloss": "to chat (bound root)"
     },
     {
       "root": "obrolan",

@@ -46,7 +46,8 @@ nyenyak pirang rak dragon babak tong padang galaksi bijak
 emosional lembah anti bersikeras marinir konferensi house
 imbalan merunduk pertanda buronan dewi avatar perwira festival
 ronde homo porno fajar berengsek fantastis tragedi krisis brilian
-liga'''.split())
+liga komisaris jantan artis kongres dermaga kiamat teks klan mafia
+efektif ekstra'''.split())
 
 
 def main():

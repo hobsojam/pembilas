@@ -11261,6 +11261,14 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): sekarang (now) is fully lexicalized, not se- + karang"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to compose, write (a story/song) (mengarang)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "author, writer (pengarang)"
     }
   },
   "tetap": {
@@ -22133,6 +22141,257 @@
     "an": {
       "state": "valid",
       "gloss": "a scratch (cakaran)"
+    }
+  },
+  "obrol": {
+    "me": {
+      "state": "valid",
+      "gloss": "to chat (mengobrol)"
+    }
+  },
+  "andal": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to rely on (mengandalkan)"
+    }
+  },
+  "elak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to dodge, evade (mengelak)"
+    }
+  },
+  "luncur": {
+    "me": {
+      "state": "valid",
+      "gloss": "to slide, glide, launch (intransitive) (meluncur)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to launch something (meluncurkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a launch (event) (peluncuran)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a glide (luncuran)"
+    }
+  },
+  "arang": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengarang mechanically also derives from karang.me (to compose), the real word; arang (charcoal) has no real me- derivation"
+    },
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengarang mechanically also derives from karang.pe (author), the real word; arang (charcoal) has no real pe- derivation"
+    }
+  },
+  "juara": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "championship (kejuaraan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to win, become champion of (menjuarai)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the champion, winner (juaranya)"
+    }
+  },
+  "bab": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the chapter (babnya)"
+    }
+  },
+  "mempekerjakan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "employing him/her (mempekerjakannya)"
+    }
+  },
+  "struktur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the structure (strukturnya)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "structured (stative) (terstruktur)"
+    }
+  },
+  "guncang": {
+    "ter": {
+      "state": "valid",
+      "gloss": "shaken (stative) (terguncang)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to shake, rock (something) (mengguncang)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a shock, tremor (guncangan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "shaking, trembling (berguncang)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to cause to shake, rock (mengguncangkan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be shaken (passive) (diguncang)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "shake it! (imperative, guncangkan)"
+    }
+  },
+  "firasat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have a premonition, feeling (berfirasat)"
+    }
+  },
+  "tenda": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tent (tendanya)"
+    }
+  },
+  "wali": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the guardian (walinya)"
+    }
+  },
+  "jagung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the maize, corn (jagungnya)"
+    }
+  },
+  "jangka": {
+    "ber": {
+      "state": "valid",
+      "gloss": "having a term/duration of (berjangka)"
+    }
+  },
+  "seri": {
+    "an": {
+      "state": "valid",
+      "gloss": "a series, edition (serian)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to shine, glow; to be a draw/tie (berseri)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the series (serinya)"
+    }
+  },
+  "jimat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the amulet (jimatnya)"
+    }
+  },
+  "sutradara": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the film director (sutradaranya)"
+    }
+  },
+  "gen": {
+    "ber": {
+      "state": "valid",
+      "gloss": "having a gene, genetic (bergen)"
+    }
+  },
+  "bimbing": {
+    "me": {
+      "state": "valid",
+      "gloss": "to guide, mentor (membimbing)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "guidance, mentorship (bimbingan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "mentor, supervisor (pembimbing)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be guided (passive) (dibimbing)"
+    }
+  },
+  "sengat": {
+    "me": {
+      "state": "valid",
+      "gloss": "to sting (menyengat)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a sting (sengatan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "stung (stative) (tersengat)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be stung (passive) (disengat)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "stinger (penyengat)"
+    }
+  },
+  "ladang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the field (ladangnya)"
+    }
+  },
+  "prioritas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the priority (prioritasnya)"
+    }
+  },
+  "kawanan": {
+    "se": {
+      "state": "valid",
+      "gloss": "a herd, gang of (sekawanan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the herd, gang (kawanannya)"
+    }
+  },
+  "banteng": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bull, banteng (bantengnya)"
+    }
+  },
+  "kelak": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengelak mechanically also derives from elak.me (to dodge), the real word; kelak (later, in the future) has no real me- derivation"
     }
   }
 }
