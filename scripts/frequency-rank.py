@@ -58,7 +58,8 @@ ilusi percuma mode wiski spt aktris rupee hore imam sarjana biologi doktor vodka
 mesum phoenix kopral antik bandit baku naif griffin tradisional labu pemilu mempesona
 perempat kepemilikan
 tokoh zat otoritas panda pastor formasi katolik paranoid duyung pendekar beasiswa angsa bal keberhasilan
-rutin kartel aria karbon nelayan yen koridor opera manajemen'''.split())
+rutin kartel aria karbon nelayan yen koridor opera manajemen
+troll tupai skandal korupsi fiksi koloni segitiga fatal psikologi pipis benua digital mual samurai penasehat'''.split())
 
 
 def main():
