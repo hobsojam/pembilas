@@ -10726,7 +10726,7 @@
     },
     {
       "root": "dikurangi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "minus"
     },
     {
@@ -21471,7 +21471,7 @@
     },
     {
       "root": "kemiskinan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "poverty"
     },
     {
@@ -21851,7 +21851,7 @@
     },
     {
       "root": "kepunahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "extinction"
     },
     {
@@ -21891,7 +21891,7 @@
     },
     {
       "root": "kerahasiaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "concealment, secrecy"
     },
     {
@@ -22191,7 +22191,7 @@
     },
     {
       "root": "kesempurnaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "perfection"
     },
     {
@@ -28586,7 +28586,7 @@
     },
     {
       "root": "memerah",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "redden"
     },
     {
@@ -29581,7 +29581,7 @@
     },
     {
       "root": "menjinakkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "tame"
     },
     {
@@ -29601,7 +29601,7 @@
     },
     {
       "root": "menonaktifkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "deactivate"
     },
     {
@@ -35506,7 +35506,7 @@
     },
     {
       "root": "penyesuaian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "adjustment"
     },
     {
@@ -35661,7 +35661,7 @@
     },
     {
       "root": "perantara",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "fence"
     },
     {
@@ -35741,7 +35741,7 @@
     },
     {
       "root": "perbesar",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "zoom"
     },
     {
@@ -36061,7 +36061,7 @@
     },
     {
       "root": "pernapasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "respiration, respiratory"
     },
     {

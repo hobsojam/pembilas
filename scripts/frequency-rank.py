@@ -59,7 +59,11 @@ mesum phoenix kopral antik bandit baku naif griffin tradisional labu pemilu memp
 perempat kepemilikan
 tokoh zat otoritas panda pastor formasi katolik paranoid duyung pendekar beasiswa angsa bal keberhasilan
 rutin kartel aria karbon nelayan yen koridor opera manajemen
-troll tupai skandal korupsi fiksi koloni segitiga fatal psikologi pipis benua digital mual samurai penasehat'''.split())
+troll tupai skandal korupsi fiksi koloni segitiga fatal psikologi pipis benua digital mual samurai penasehat
+mint ark kuantum hidrogen rial talk mad lev tesla thai pascal pub audio finansial regional konstan
+intens dokumenter prototipe antibiotik diabetes farmasi konstitusi institusi keripik subuh senja
+fosil kontainer ayat firman aspirin orkestra timah pramugari santo sekte tsunami satpam pakar tabel
+kosmos wahyu genetika'''.split())
 
 
 def main():
