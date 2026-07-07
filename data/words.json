@@ -15310,8 +15310,13 @@
       "gloss": "candy floss"
     },
     {
-      "root": "gulungan",
+      "root": "gulung",
       "pos": "word",
+      "gloss": "to roll up (bound root)"
+    },
+    {
+      "root": "gulungan",
+      "pos": "derived",
       "gloss": "scroll"
     },
     {
@@ -20491,7 +20496,7 @@
     },
     {
       "root": "kebangkitan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "awakening"
     },
     {
@@ -21431,7 +21436,7 @@
     },
     {
       "root": "kemerdekaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "independence"
     },
     {
@@ -21860,6 +21865,11 @@
       "gloss": "ape"
     },
     {
+      "root": "kerabat",
+      "pos": "word",
+      "gloss": "relative, kin"
+    },
+    {
       "root": "keracunan",
       "pos": "word",
       "gloss": "poisoning"
@@ -21946,7 +21956,7 @@
     },
     {
       "root": "kerentanan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "vulnerability"
     },
     {
@@ -26520,8 +26530,13 @@
       "gloss": "leech"
     },
     {
-      "root": "lintasan",
+      "root": "lintas",
       "pos": "word",
+      "gloss": "to pass, cross (bound root)"
+    },
+    {
+      "root": "lintasan",
+      "pos": "derived",
       "gloss": "pathway"
     },
     {
@@ -28766,7 +28781,7 @@
     },
     {
       "root": "menampar",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "slap"
     },
     {
@@ -29801,7 +29816,7 @@
     },
     {
       "root": "menyusuri",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "wind"
     },
     {
@@ -33201,7 +33216,7 @@
     },
     {
       "root": "panduan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "guide, manual, wizard"
     },
     {
@@ -34651,7 +34666,7 @@
     },
     {
       "root": "penampungan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "reservoir, shelter"
     },
     {
@@ -36517,7 +36532,7 @@
     {
       "root": "pikat",
       "pos": "word",
-      "gloss": "horsefly"
+      "gloss": "to attract, charm, lure (bound root)"
     },
     {
       "root": "pikir",
@@ -43480,6 +43495,11 @@
       "gloss": "to infiltrate (bound root)"
     },
     {
+      "root": "susur",
+      "pos": "word",
+      "gloss": "to trace, follow along (bound root)"
+    },
+    {
       "root": "sutra",
       "pos": "word",
       "gloss": "silk"
@@ -43990,8 +44010,13 @@
       "gloss": "handsome"
     },
     {
-      "root": "tamparan",
+      "root": "tampar",
       "pos": "word",
+      "gloss": "to slap (bound root)"
+    },
+    {
+      "root": "tamparan",
+      "pos": "derived",
       "gloss": "slap"
     },
     {
@@ -44003,6 +44028,11 @@
       "root": "tampon",
       "pos": "word",
       "gloss": "tampon"
+    },
+    {
+      "root": "tampung",
+      "pos": "word",
+      "gloss": "to accommodate, hold (bound root)"
     },
     {
       "root": "tamu",

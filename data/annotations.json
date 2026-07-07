@@ -22507,6 +22507,10 @@
     "pe": {
       "state": "valid",
       "gloss": "guide (pemandu)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a guide, manual (panduan)"
     }
   },
   "bijak": {
@@ -24675,6 +24679,242 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): menguapkan (evaporate) belongs to uap.me_kan"
+    }
+  },
+  "sebal": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "annoying, irritating (menyebalkan)"
+    }
+  },
+  "kebal": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "immunity, invulnerability (kekebalan)"
+    }
+  },
+  "merdeka": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "independence (kemerdekaan)"
+    }
+  },
+  "mogok": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a strike, walkout (pemogokan)"
+    }
+  },
+  "maksimal": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to maximize (memaksimalkan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "as maximally as possible (semaksimal)"
+    }
+  },
+  "basmi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to exterminate, eradicate (membasmi)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an exterminator (pembasmi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be exterminated (passive) (dibasmi)"
+    }
+  },
+  "keping": {
+    "an": {
+      "state": "valid",
+      "gloss": "a piece, fragment (kepingan)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "a piece, coin of (sekeping)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "in pieces, fragmented (berkeping)"
+    }
+  },
+  "kumis": {
+    "ber": {
+      "state": "valid",
+      "gloss": "mustached (berkumis)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the mustache (kumisnya)"
+    }
+  },
+  "pikat": {
+    "me": {
+      "state": "valid",
+      "gloss": "to attract, charm, lure (memikat)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "attracted, charmed, captivated (terpikat)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an attraction, charmer (pemikat)"
+    }
+  },
+  "rentan": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "vulnerability (kerentanan)"
+    }
+  },
+  "sembah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to worship, pay homage to (menyembah)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a worshipper (penyembah)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be worshipped (passive) (disembah)"
+    }
+  },
+  "adaptasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to adapt (beradaptasi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be adapted (passive) (diadaptasi)"
+    }
+  },
+  "karantina": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be quarantined (passive) (dikarantina)"
+    }
+  },
+  "tema": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the theme (temanya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "themed (bertema)"
+    }
+  },
+  "tampar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to slap (menampar)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a slap (tamparan)"
+    }
+  },
+  "susur": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to trace, follow along (menyusuri)"
+    }
+  },
+  "gulung": {
+    "an": {
+      "state": "valid",
+      "gloss": "a roll, scroll (gulungan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to roll up (menggulung)"
+    }
+  },
+  "lintas": {
+    "an": {
+      "state": "valid",
+      "gloss": "a route, pathway, trajectory (lintasan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to pass by (melintas)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to cross, pass through (melintasi)"
+    }
+  },
+  "tampung": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a shelter, reservoir, holding facility (penampungan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to accommodate, hold (menampung)"
+    }
+  },
+  "humor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the humor (humornya)"
+    }
+  },
+  "komisi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the commission (komisinya)"
+    }
+  },
+  "biskuit": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the biscuit (biskuitnya)"
+    }
+  },
+  "pita": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ribbon, tape (pitanya)"
+    }
+  },
+  "ginjal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the kidney (ginjalnya)"
+    }
+  },
+  "kentut": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fart (kentutnya)"
+    }
+  },
+  "ventilasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the ventilation (ventilasinya)"
+    }
+  },
+  "visual": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the visual aspect of it (visualnya)"
+    }
+  },
+  "kepiting": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the crab (kepitingnya)"
     }
   }
 }

@@ -57,7 +57,8 @@ kedai fisika roman laksamana bisbol deputi karenanya kesalahpahaman
 ilusi percuma mode wiski spt aktris rupee hore imam sarjana biologi doktor vodka pilu biara
 mesum phoenix kopral antik bandit baku naif griffin tradisional labu pemilu mempesona
 perempat kepemilikan
-tokoh zat otoritas panda pastor formasi katolik paranoid duyung pendekar beasiswa angsa bal keberhasilan'''.split())
+tokoh zat otoritas panda pastor formasi katolik paranoid duyung pendekar beasiswa angsa bal keberhasilan
+rutin kartel aria karbon nelayan yen koridor opera manajemen'''.split())
 
 
 def main():
