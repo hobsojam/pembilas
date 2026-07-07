@@ -54,7 +54,9 @@ insinyur psikopat lembaga dimensi mitos teater kutub pon biksu waras
 aula teknisi jurang kelelawar astronot bioskop distrik elektronik semester kritis agresif
 banci komite sultan kompleks konflik flu nabi ninja barangkali seterusnya gol
 kedai fisika roman laksamana bisbol deputi karenanya kesalahpahaman
-ilusi percuma mode wiski spt aktris rupee hore imam sarjana biologi doktor vodka pilu biara'''.split())
+ilusi percuma mode wiski spt aktris rupee hore imam sarjana biologi doktor vodka pilu biara
+mesum phoenix kopral antik bandit baku naif griffin tradisional labu pemilu mempesona
+perempat kepemilikan'''.split())
 
 
 def main():

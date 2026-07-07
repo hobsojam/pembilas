@@ -2636,6 +2636,10 @@
     "se": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "an intersection, crossroads (perempatan)"
     }
   },
   "lima": {
@@ -24298,6 +24302,178 @@
     "nya": {
       "state": "valid",
       "gloss": "the condom (kondomnya)"
+    }
+  },
+  "lunas": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to pay off, settle (a debt) (melunasi)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "pay it off! (imperative, lunasi)"
+    }
+  },
+  "selisih": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "a dispute, disagreement (perselisihan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to disagree, differ (berselisih)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the difference (selisihnya)"
+    }
+  },
+  "karung": {
+    "se": {
+      "state": "valid",
+      "gloss": "a sackful of (sekarung)"
+    },
+    "me_i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengarungi belongs to arung.me_i, not karung"
+    }
+  },
+  "kilat": {
+    "an": {
+      "state": "valid",
+      "gloss": "a flash, streak (kilatan)"
+    }
+  },
+  "tiri": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the stepchild/stepparent (tirinya)"
+    }
+  },
+  "bara": {
+    "me": {
+      "state": "valid",
+      "gloss": "to blaze, smolder (membara)"
+    }
+  },
+  "gerombol": {
+    "an": {
+      "state": "valid",
+      "gloss": "a horde, gang, band (gerombolan)"
+    }
+  },
+  "arung": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to cross, sail across, wade through (mengarungi)"
+    }
+  },
+  "pasok": {
+    "an": {
+      "state": "valid",
+      "gloss": "a supply (pasokan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to supply (memasok)"
+    }
+  },
+  "lebih": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "an advantage, excess, surplus (kelebihan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to exceed (melebihi)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "excessive (berlebihan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the excess, remainder (lebihnya)"
+    }
+  },
+  "merpati": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the dove, pigeon (merpatinya)"
+    }
+  },
+  "editor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the editor (editornya)"
+    }
+  },
+  "haram": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the forbidden thing (haramnya)"
+    }
+  },
+  "panel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the panel (panelnya)"
+    }
+  },
+  "parfum": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the perfume (parfumnya)"
+    }
+  },
+  "populasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the population (populasinya)"
+    }
+  },
+  "busur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the bow, arc (busurnya)"
+    }
+  },
+  "isyarat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the signal, cue (isyaratnya)"
+    }
+  },
+  "tomat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tomato (tomatnya)"
+    }
+  },
+  "praktis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the practical aspect of it (praktisnya)"
+    }
+  },
+  "donat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the donut (donatnya)"
+    }
+  },
+  "pinggang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the waist, hip (pinggangnya)"
+    }
+  },
+  "perempat": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): perempatan belongs to empat.per_an, not perempat"
     }
   }
 }

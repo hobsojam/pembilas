@@ -3945,6 +3945,11 @@
       "gloss": "arugula"
     },
     {
+      "root": "arung",
+      "pos": "word",
+      "gloss": "to cross, sail across, wade through (bound root)"
+    },
+    {
       "root": "arus",
       "pos": "word",
       "gloss": "current"
@@ -6156,7 +6161,7 @@
     },
     {
       "root": "belanda",
-      "pos": "adjective",
+      "pos": "proper",
       "gloss": "dutch, netherlands"
     },
     {
@@ -14730,8 +14735,13 @@
       "gloss": "pimp"
     },
     {
-      "root": "gerombolan",
+      "root": "gerombol",
       "pos": "word",
+      "gloss": "to flock, band together (bound root)"
+    },
+    {
+      "root": "gerombolan",
+      "pos": "derived",
       "gloss": "horde"
     },
     {
@@ -21156,8 +21166,8 @@
     },
     {
       "root": "kelebihan",
-      "pos": "word",
-      "gloss": "vantage"
+      "pos": "derived",
+      "gloss": "advantage, excess, surplus"
     },
     {
       "root": "keledai",
@@ -22236,7 +22246,7 @@
     },
     {
       "root": "kesukaan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "favourite"
     },
     {
@@ -25880,6 +25890,11 @@
       "gloss": "wide, width"
     },
     {
+      "root": "lebih",
+      "pos": "word",
+      "gloss": "more, excess"
+    },
+    {
       "root": "lecek",
       "pos": "word",
       "gloss": "crumple"
@@ -28331,7 +28346,7 @@
     },
     {
       "root": "memalsukan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "counterfeit"
     },
     {
@@ -33715,9 +33730,14 @@
       "gloss": "easter, passover"
     },
     {
-      "root": "pasokan",
+      "root": "pasok",
       "pos": "word",
-      "gloss": "feed"
+      "gloss": "to supply (bound root)"
+    },
+    {
+      "root": "pasokan",
+      "pos": "derived",
+      "gloss": "supply"
     },
     {
       "root": "paspor",
@@ -34291,7 +34311,7 @@
     },
     {
       "root": "pemalsuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "forgery"
     },
     {
@@ -41208,6 +41228,11 @@
       "root": "seperdelapan",
       "pos": "word",
       "gloss": "one-eighth"
+    },
+    {
+      "root": "seperempat",
+      "pos": "word",
+      "gloss": "one-fourth, a quarter"
     },
     {
       "root": "seperti",
