@@ -49,7 +49,8 @@ ronde homo porno fajar berengsek fantastis tragedi krisis brilian
 liga komisaris jantan artis kongres dermaga kiamat teks klan mafia
 efektif ekstra laki trauma sesi sektor gong kilometer ton
 gelandangan romawi dini alergi
-peringkat bedebah tuli biro kera akademi ganteng depresi atom teluk alkitab'''.split())
+peringkat bedebah tuli biro kera akademi ganteng depresi atom teluk alkitab
+insinyur psikopat lembaga dimensi mitos teater kutub pon biksu waras'''.split())
 
 
 def main():

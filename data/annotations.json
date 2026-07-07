@@ -13466,6 +13466,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to defeat, beat (mengalahkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "defeat (kekalahan)"
     }
   },
   "merah": {
@@ -13535,6 +13539,10 @@
     "ber": {
       "state": "valid",
       "gloss": "to testify, give witness (bersaksi)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "testimony (kesaksian)"
     }
   },
   "hantu": {
@@ -23191,6 +23199,242 @@
     "nya": {
       "state": "valid",
       "gloss": "the casino (kasinonya)"
+    }
+  },
+  "aktif": {
+    "kan": {
+      "state": "valid",
+      "gloss": "activate it! (imperative, aktifkan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to activate (mengaktifkan)"
+    }
+  },
+  "bantai": {
+    "me": {
+      "state": "valid",
+      "gloss": "to slaughter, massacre (membantai)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a massacre, slaughter (pembantaian)"
+    }
+  },
+  "asuh": {
+    "an": {
+      "state": "valid",
+      "gloss": "the act/manner of raising a child (asuhan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "childcare, upbringing (pengasuhan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "caregiver, nanny (pengasuh)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to raise, take care of (mengasuh)"
+    }
+  },
+  "desah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to sigh, moan (mendesah)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a sigh, moan (desahan)"
+    }
+  },
+  "bulat": {
+    "an": {
+      "state": "valid",
+      "gloss": "a circle, round shape (bulatan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to round out, finalize (membulatkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "round it out! (imperative, bulatkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "unanimity, consensus (kebulatan)"
+    }
+  },
+  "unggul": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "superiority, excellence (keunggulan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a seed, favorite (in a competition) (unggulan)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to outdo, surpass (mengungguli)"
+    }
+  },
+  "mahir": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "proficiency, skill (kemahiran)"
+    }
+  },
+  "batuk": {
+    "ter": {
+      "state": "valid",
+      "gloss": "to cough (involuntarily) (terbatuk)"
+    }
+  },
+  "genggam": {
+    "me": {
+      "state": "valid",
+      "gloss": "to grip, grasp (menggenggam)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a grip, grasp (genggaman)"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "a handful of (segenggam)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the grip of it (genggamnya)"
+    }
+  },
+  "tanduk": {
+    "ber": {
+      "state": "valid",
+      "gloss": "horned, having antlers (bertanduk)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the horn, antler (tanduknya)"
+    }
+  },
+  "hasrat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to desire, long for (berhasrat)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the desire (hasratnya)"
+    }
+  },
+  "laju": {
+    "me": {
+      "state": "valid",
+      "gloss": "to speed along, accelerate (melaju)"
+    }
+  },
+  "bidik": {
+    "me": {
+      "state": "valid",
+      "gloss": "to aim at, target (membidik)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a target, shot (bidikan)"
+    }
+  },
+  "sengsara": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "suffering, misery (kesengsaraan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to make (someone) suffer (menyengsarakan)"
+    }
+  },
+  "palu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the hammer (palunya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to hammer (memalu)"
+    }
+  },
+  "sulap": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the magic trick (sulapnya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to conjure, magically transform (menyulap)"
+    }
+  },
+  "botak": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "baldness (kebotakan)"
+    }
+  },
+  "kawat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the wire (kawatnya)"
+    }
+  },
+  "laser": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the laser (lasernya)"
+    }
+  },
+  "armada": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fleet, armada (armadanya)"
+    }
+  },
+  "sampanye": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the champagne (sampanyenya)"
+    }
+  },
+  "magnet": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the magnet (magnetnya)"
+    }
+  },
+  "betina": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the female (animal) (betinanya)"
+    }
+  },
+  "naskah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the manuscript, script (naskahnya)"
+    }
+  },
+  "belati": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the dagger (belatinya)"
+    }
+  },
+  "materi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the material, content (materinya)"
     }
   }
 }

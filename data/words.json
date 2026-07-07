@@ -1330,6 +1330,11 @@
       "gloss": "certificate"
     },
     {
+      "root": "aktif",
+      "pos": "word",
+      "gloss": "active"
+    },
+    {
       "root": "aktin",
       "pos": "word",
       "gloss": "actin"
@@ -4340,8 +4345,13 @@
       "gloss": "astrocytoma"
     },
     {
-      "root": "asuhan",
+      "root": "asuh",
       "pos": "word",
+      "gloss": "to raise, care for (a child) (bound root)"
+    },
+    {
+      "root": "asuhan",
+      "pos": "derived",
       "gloss": "care"
     },
     {
@@ -5538,6 +5548,11 @@
       "root": "banner",
       "pos": "word",
       "gloss": "banner"
+    },
+    {
+      "root": "bantai",
+      "pos": "word",
+      "gloss": "to slaughter, massacre (bound root)"
     },
     {
       "root": "bantal",
@@ -10273,6 +10288,11 @@
       "root": "desa",
       "pos": "adjective",
       "gloss": "country, village"
+    },
+    {
+      "root": "desah",
+      "pos": "word",
+      "gloss": "to sigh, moan (bound root)"
     },
     {
       "root": "desain",
@@ -20936,7 +20956,7 @@
     },
     {
       "root": "kekalahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "defeat"
     },
     {
@@ -21981,7 +22001,7 @@
     },
     {
       "root": "kesadaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "awareness, consciousness"
     },
     {
@@ -22001,7 +22021,7 @@
     },
     {
       "root": "kesaksian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "testimony"
     },
     {
@@ -28376,7 +28396,7 @@
     },
     {
       "root": "membantai",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "massacre"
     },
     {
@@ -28651,7 +28671,7 @@
     },
     {
       "root": "memuaskan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "satisfactory, satisfy"
     },
     {
@@ -28886,7 +28906,7 @@
     },
     {
       "root": "mendesah",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "moan"
     },
     {
@@ -29001,7 +29021,7 @@
     },
     {
       "root": "mengaktifkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "activate"
     },
     {
@@ -34301,7 +34321,7 @@
     },
     {
       "root": "pembantaian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "bloodbath, massacre"
     },
     {
@@ -40997,7 +41017,7 @@
     {
       "root": "sengsara",
       "pos": "word",
-      "gloss": "passion"
+      "gloss": "suffering, misery"
     },
     {
       "root": "seni",
