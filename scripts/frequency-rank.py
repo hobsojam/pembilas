@@ -47,7 +47,12 @@ emosional lembah anti bersikeras marinir konferensi house
 imbalan merunduk pertanda buronan dewi avatar perwira festival
 ronde homo porno fajar berengsek fantastis tragedi krisis brilian
 liga komisaris jantan artis kongres dermaga kiamat teks klan mafia
-efektif ekstra laki trauma sesi sektor gong kilometer ton'''.split())
+efektif ekstra laki trauma sesi sektor gong kilometer ton
+gelandangan romawi dini alergi
+peringkat bedebah tuli biro kera akademi ganteng depresi atom teluk alkitab
+insinyur psikopat lembaga dimensi mitos teater kutub pon biksu waras
+aula teknisi jurang kelelawar astronot bioskop distrik elektronik semester kritis agresif
+banci komite sultan kompleks konflik flu nabi ninja barangkali seterusnya gol'''.split())
 
 
 def main():

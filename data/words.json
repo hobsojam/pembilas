@@ -751,7 +751,7 @@
     },
     {
       "root": "afghanistan",
-      "pos": "adjective",
+      "pos": "proper",
       "gloss": "afghan, afghanistan"
     },
     {
@@ -1328,6 +1328,11 @@
       "root": "akta",
       "pos": "word",
       "gloss": "certificate"
+    },
+    {
+      "root": "aktif",
+      "pos": "word",
+      "gloss": "active"
     },
     {
       "root": "aktin",
@@ -4340,8 +4345,13 @@
       "gloss": "astrocytoma"
     },
     {
-      "root": "asuhan",
+      "root": "asuh",
       "pos": "word",
+      "gloss": "to raise, care for (a child) (bound root)"
+    },
+    {
+      "root": "asuhan",
+      "pos": "derived",
       "gloss": "care"
     },
     {
@@ -5540,6 +5550,11 @@
       "gloss": "banner"
     },
     {
+      "root": "bantai",
+      "pos": "word",
+      "gloss": "to slaughter, massacre (bound root)"
+    },
+    {
       "root": "bantal",
       "pos": "word",
       "gloss": "cushion, pillow"
@@ -6695,6 +6710,11 @@
       "gloss": "gutsy"
     },
     {
+      "root": "berontak",
+      "pos": "word",
+      "gloss": "to rebel, revolt (bound root)"
+    },
+    {
       "root": "berpaling",
       "pos": "derived",
       "gloss": "turn, turn away"
@@ -6726,7 +6746,7 @@
     },
     {
       "root": "berselingkuh",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "cheat on"
     },
     {
@@ -8965,6 +8985,11 @@
       "gloss": "clear, bright, sunny"
     },
     {
+      "root": "cerai",
+      "pos": "word",
+      "gloss": "to divorce (bound root)"
+    },
+    {
       "root": "cerdas",
       "pos": "adjective",
       "gloss": "smart"
@@ -10268,6 +10293,11 @@
       "root": "desa",
       "pos": "adjective",
       "gloss": "country, village"
+    },
+    {
+      "root": "desah",
+      "pos": "word",
+      "gloss": "to sigh, moan (bound root)"
     },
     {
       "root": "desain",
@@ -16645,8 +16675,13 @@
       "gloss": "humour"
     },
     {
-      "root": "hunian",
+      "root": "huni",
       "pos": "word",
+      "gloss": "to inhabit, occupy (bound root)"
+    },
+    {
+      "root": "hunian",
+      "pos": "derived",
       "gloss": "residence"
     },
     {
@@ -20581,7 +20616,7 @@
     },
     {
       "root": "kecerdasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "intelligence"
     },
     {
@@ -20696,7 +20731,7 @@
     },
     {
       "root": "kediaman",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "residence"
     },
     {
@@ -20931,7 +20966,7 @@
     },
     {
       "root": "kekalahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "defeat"
     },
     {
@@ -21966,7 +22001,7 @@
     },
     {
       "root": "kesabaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "patience"
     },
     {
@@ -21976,7 +22011,7 @@
     },
     {
       "root": "kesadaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "awareness, consciousness"
     },
     {
@@ -21996,7 +22031,7 @@
     },
     {
       "root": "kesaksian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "testimony"
     },
     {
@@ -22056,7 +22091,7 @@
     },
     {
       "root": "keseimbangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "balance"
     },
     {
@@ -22166,7 +22201,7 @@
     },
     {
       "root": "kesimpulan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "conclusion"
     },
     {
@@ -22516,8 +22551,8 @@
     },
     {
       "root": "kewajiban",
-      "pos": "word",
-      "gloss": "liabilities"
+      "pos": "derived",
+      "gloss": "obligation, duty"
     },
     {
       "root": "kewalahan",
@@ -27557,7 +27592,7 @@
     {
       "root": "manja",
       "pos": "word",
-      "gloss": "spoil"
+      "gloss": "spoiled, pampered"
     },
     {
       "root": "manjusri",
@@ -28111,7 +28146,7 @@
     },
     {
       "root": "melampaui",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "exceed"
     },
     {
@@ -28371,7 +28406,7 @@
     },
     {
       "root": "membantai",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "massacre"
     },
     {
@@ -28646,7 +28681,7 @@
     },
     {
       "root": "memuaskan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "satisfactory, satisfy"
     },
     {
@@ -28881,7 +28916,7 @@
     },
     {
       "root": "mendesah",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "moan"
     },
     {
@@ -28996,7 +29031,7 @@
     },
     {
       "root": "mengaktifkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "activate"
     },
     {
@@ -29676,12 +29711,12 @@
     },
     {
       "root": "menyesal",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "regret"
     },
     {
       "root": "menyesuaikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "customize"
     },
     {
@@ -29721,7 +29756,7 @@
     },
     {
       "root": "menyusup",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "intrude"
     },
     {
@@ -29756,7 +29791,7 @@
     },
     {
       "root": "merancang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "plan"
     },
     {
@@ -29821,7 +29856,7 @@
     },
     {
       "root": "meretas",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "hack"
     },
     {
@@ -30056,7 +30091,7 @@
     },
     {
       "root": "mewujudkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "realize"
     },
     {
@@ -30838,6 +30873,11 @@
       "root": "muktazilah",
       "pos": "proper",
       "gloss": "mu'tazila"
+    },
+    {
+      "root": "mula",
+      "pos": "word",
+      "gloss": "origin, beginning (bound root)"
     },
     {
       "root": "mulai",
@@ -32980,8 +33020,13 @@
       "gloss": "uncle"
     },
     {
-      "root": "pameran",
+      "root": "pamer",
       "pos": "word",
+      "gloss": "to show off (bound root)"
+    },
+    {
+      "root": "pameran",
+      "pos": "derived",
       "gloss": "exhibit, exhibition"
     },
     {
@@ -34291,12 +34336,12 @@
     },
     {
       "root": "pembalasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "retaliation"
     },
     {
       "root": "pembantaian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "bloodbath, massacre"
     },
     {
@@ -34331,7 +34376,7 @@
     },
     {
       "root": "pemberontakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "revolt, rebellion"
     },
     {
@@ -34476,7 +34521,7 @@
     },
     {
       "root": "pemula",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "beginner"
     },
     {
@@ -35031,7 +35076,7 @@
     },
     {
       "root": "penghinaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "humiliation, abasement"
     },
     {
@@ -35041,7 +35086,7 @@
     },
     {
       "root": "penghuni",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "resident"
     },
     {
@@ -35111,7 +35156,7 @@
     },
     {
       "root": "peningkatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "improvement"
     },
     {
@@ -35376,7 +35421,7 @@
     },
     {
       "root": "penyesalan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "regret"
     },
     {
@@ -35436,7 +35481,7 @@
     },
     {
       "root": "penyusup",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "mole, intruder"
     },
     {
@@ -35636,7 +35681,7 @@
     },
     {
       "root": "perceraian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "divorce"
     },
     {
@@ -35846,7 +35891,7 @@
     },
     {
       "root": "perkumpulan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "society"
     },
     {
@@ -36166,7 +36211,7 @@
     },
     {
       "root": "pertengahan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "middle"
     },
     {
@@ -38350,6 +38395,11 @@
       "gloss": "domain"
     },
     {
+      "root": "rancang",
+      "pos": "word",
+      "gloss": "to design, plan (bound root)"
+    },
+    {
       "root": "ranggas",
       "pos": "adjective",
       "gloss": "leafless"
@@ -39023,6 +39073,11 @@
       "root": "resultan",
       "pos": "adjective",
       "gloss": "resultant"
+    },
+    {
+      "root": "retas",
+      "pos": "word",
+      "gloss": "to hack, break through (bound root)"
     },
     {
       "root": "retensi",
@@ -40640,6 +40695,11 @@
       "gloss": "blanket"
     },
     {
+      "root": "selingkuh",
+      "pos": "word",
+      "gloss": "to have an affair, cheat (bound root)"
+    },
+    {
       "root": "selir",
       "pos": "word",
       "gloss": "concubine"
@@ -40977,7 +41037,7 @@
     {
       "root": "sengsara",
       "pos": "word",
-      "gloss": "passion"
+      "gloss": "suffering, misery"
     },
     {
       "root": "seni",
@@ -41222,7 +41282,7 @@
     {
       "root": "sergap",
       "pos": "word",
-      "gloss": "catch"
+      "gloss": "to ambush, catch by surprise"
     },
     {
       "root": "seri",
@@ -41300,6 +41360,11 @@
       "gloss": "service"
     },
     {
+      "root": "sesal",
+      "pos": "word",
+      "gloss": "to regret (bound root)"
+    },
+    {
       "root": "sesat",
       "pos": "word",
       "gloss": "astray, misguided"
@@ -41345,13 +41410,18 @@
       "gloss": "satanyahu"
     },
     {
+      "root": "setel",
+      "pos": "word",
+      "gloss": "to tune, set, adjust (bound root)"
+    },
+    {
       "root": "setelah",
       "pos": "word",
       "gloss": "after"
     },
     {
       "root": "setelan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "setting, suit"
     },
     {
@@ -43170,8 +43240,13 @@
       "gloss": "barbel"
     },
     {
-      "root": "suntikan",
+      "root": "suntik",
       "pos": "word",
+      "gloss": "to inject (bound root)"
+    },
+    {
+      "root": "suntikan",
+      "pos": "derived",
       "gloss": "injection"
     },
     {
@@ -43318,6 +43393,11 @@
       "root": "susu",
       "pos": "word",
       "gloss": "milk; to breastfeed, nurse; (informal) breast"
+    },
+    {
+      "root": "susup",
+      "pos": "word",
+      "gloss": "to infiltrate (bound root)"
     },
     {
       "root": "sutra",
@@ -44245,8 +44325,13 @@
       "gloss": "tegal"
     },
     {
-      "root": "tegangan",
+      "root": "tegang",
       "pos": "word",
+      "gloss": "tense, taut, tight"
+    },
+    {
+      "root": "tegangan",
+      "pos": "derived",
       "gloss": "tension"
     },
     {
@@ -45283,6 +45368,11 @@
       "root": "tinggi",
       "pos": "adjective",
       "gloss": "high, tall"
+    },
+    {
+      "root": "tingkat",
+      "pos": "word",
+      "gloss": "level, degree, story (of a building)"
     },
     {
       "root": "tingtur",
