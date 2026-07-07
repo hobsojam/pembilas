@@ -15055,6 +15055,11 @@
       "gloss": "gong"
     },
     {
+      "root": "gonggong",
+      "pos": "word",
+      "gloss": "to bark (bound root)"
+    },
+    {
       "root": "gongseng",
       "pos": "word",
       "gloss": "jingle bell, stir-fry"
@@ -21591,7 +21596,7 @@
     },
     {
       "root": "kenaikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "rise"
     },
     {
@@ -26060,6 +26065,11 @@
       "gloss": "neck"
     },
     {
+      "root": "lekat",
+      "pos": "word",
+      "gloss": "stuck, attached (bound root)"
+    },
+    {
       "root": "leksionari",
       "pos": "word",
       "gloss": "lectionary"
@@ -28301,7 +28311,7 @@
     },
     {
       "root": "melekat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "adhere, resonate"
     },
     {
@@ -28606,7 +28616,7 @@
     },
     {
       "root": "memenggal",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "behead"
     },
     {
@@ -29311,7 +29321,7 @@
     },
     {
       "root": "menggonggong",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "bark"
     },
     {
@@ -29931,7 +29941,7 @@
     },
     {
       "root": "merengek",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "whine"
     },
     {
@@ -34556,7 +34566,7 @@
     },
     {
       "root": "pemerasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "blackmail, extortion"
     },
     {
@@ -35128,6 +35138,11 @@
       "root": "pengetahuan",
       "pos": "derived",
       "gloss": "knowledge"
+    },
+    {
+      "root": "penggal",
+      "pos": "word",
+      "gloss": "to cut off, sever (bound root)"
     },
     {
       "root": "penggelapan",
@@ -36011,7 +36026,7 @@
     },
     {
       "root": "perlakuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "treatment"
     },
     {
@@ -39045,8 +39060,13 @@
       "gloss": "low"
     },
     {
-      "root": "rengekan",
+      "root": "rengek",
       "pos": "word",
+      "gloss": "to whine (bound root)"
+    },
+    {
+      "root": "rengekan",
+      "pos": "derived",
       "gloss": "whine"
     },
     {
@@ -40868,6 +40888,11 @@
       "root": "selofan",
       "pos": "word",
       "gloss": "cellophane"
+    },
+    {
+      "root": "selokan",
+      "pos": "word",
+      "gloss": "ditch, gutter, drain"
     },
     {
       "root": "selongsong",
@@ -46580,8 +46605,13 @@
       "gloss": "pine"
     },
     {
-      "root": "tusukan",
+      "root": "tusuk",
       "pos": "word",
+      "gloss": "to stab, pierce (bound root)"
+    },
+    {
+      "root": "tusukan",
+      "pos": "derived",
       "gloss": "puncture"
     },
     {

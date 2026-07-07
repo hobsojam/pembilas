@@ -25822,5 +25822,186 @@
       "gloss": "",
       "notes": "collision triage (#48): geli (ticklish) is mechanically gel + i but is an unrelated word, added as its own headword; gel (the substance) has no attested productive derivation"
     }
+  },
+  "punah": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "extinction (kepunahan)"
+    }
+  },
+  "ideal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "ideally; the ideal thing (idealnya)"
+    }
+  },
+  "gema": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to echo, resonate (bergema)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to echo, resound (menggema)"
+    }
+  },
+  "bubur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the porridge (buburnya)"
+    }
+  },
+  "penggal": {
+    "me": {
+      "state": "valid",
+      "gloss": "to cut off, behead (memenggal)"
+    }
+  },
+  "kapsul": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the capsule (kapsulnya)"
+    }
+  },
+  "rengek": {
+    "me": {
+      "state": "valid",
+      "gloss": "to whine (merengek)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a whine, whining (rengekan)"
+    }
+  },
+  "piknik": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to picnic (berpiknik)"
+    }
+  },
+  "lekat": {
+    "me": {
+      "state": "valid",
+      "gloss": "to adhere, stick, resonate (melekat)"
+    }
+  },
+  "anugerah": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to bestow, grant (menganugerahkan)"
+    }
+  },
+  "dialog": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the dialogue (dialognya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to have a dialogue (berdialog)"
+    }
+  },
+  "kelapa": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the coconut (kelapanya)"
+    }
+  },
+  "selo": {
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): selokan (ditch, gutter, drain) is mechanically selo + kan but is an unrelated word, added as its own headword; selo (cello) has no attested productive derivation"
+    }
+  },
+  "bengkel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the garage, workshop (bengkelnya)"
+    }
+  },
+  "kurir": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the courier (kurirnya)"
+    }
+  },
+  "tusuk": {
+    "an": {
+      "state": "valid",
+      "gloss": "a puncture, prick (tusukan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a stabbing (penusukan)"
+    }
+  },
+  "gonggong": {
+    "me": {
+      "state": "valid",
+      "gloss": "to bark (menggonggong)"
+    }
+  },
+  "enkripsi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be encrypted (passive) (dienkripsi)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "encrypted (terenkripsi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the encryption (enkripsinya)"
+    }
+  },
+  "kompas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the compass (kompasnya)"
+    }
+  },
+  "baptis": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be baptized (passive) (dibaptis)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a baptism ceremony (pembaptisan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to baptize (membaptis)"
+    }
+  },
+  "berkah": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to bless (memberkahi)"
+    }
+  },
+  "tornado": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tornado (tornadonya)"
+    }
+  },
+  "lambung": {
+    "me": {
+      "state": "valid",
+      "gloss": "to soar, bounce high (melambung)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to make something soar, bounce (melambungkan)"
+    }
+  },
+  "peluit": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the whistle (peluitnya)"
+    }
   }
 }

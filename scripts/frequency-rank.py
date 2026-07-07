@@ -66,7 +66,8 @@ fosil kontainer ayat firman aspirin orkestra timah pramugari santo sekte tsunami
 kosmos wahyu genetika
 gatal kadal pramuka alibi jazz senat reaktor relevan harfiah terminal ham ungu mekanik pensil bilik apak dahlia
 narapidana persegi diskon lem pelangi nat amber atlet tetua radius jerami segi
-selai alias lesbian euro piramida beta demokrasi sutra logis dinas bug kursus asosiasi uskup salon fenomena geli'''.split())
+selai alias lesbian euro piramida beta demokrasi sutra logis dinas bug kursus asosiasi uskup salon fenomena geli
+gray newton mutan dukun iklim tos ups galeri jurnalis tol atmosfer investor tisu selokan'''.split())
 
 
 def main():
