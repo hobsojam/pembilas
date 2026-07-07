@@ -13680,6 +13680,10 @@
     "nya": {
       "state": "valid",
       "gloss": "his/her personal side, personality (pribadinya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "personality (kepribadian)"
     }
   },
   "anggota": {
@@ -13892,6 +13896,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "specialty, distinctive feature (kekhususan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "especially, particularly (khususnya)"
     }
   },
   "utara": {
@@ -21859,6 +21867,272 @@
     "nya": {
       "state": "valid",
       "gloss": "the trunk, stick (batangnya)"
+    }
+  },
+  "waris": {
+    "an": {
+      "state": "valid",
+      "gloss": "legacy, inheritance (warisan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "successor, heir (pewaris)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to inherit (mewarisi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to bequeath, pass down (mewariskan)"
+    }
+  },
+  "tumpuk": {
+    "an": {
+      "state": "valid",
+      "gloss": "a pile, stack (tumpukan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "the act of stacking, piling up (penumpukan)"
+    }
+  },
+  "paling": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to turn, turn away (berpaling)"
+    }
+  },
+  "supir": {
+    "me": {
+      "state": "valid",
+      "gloss": "(informal, spelling variant of sopir) to drive (menyupir)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the driver (supirnya)"
+    }
+  },
+  "cuti": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to take leave (bercuti)"
+    }
+  },
+  "paku": {
+    "ter": {
+      "state": "valid",
+      "gloss": "nailed, fixed, riveted (idiomatic: stuck in place) (terpaku)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to nail (memaku)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be nailed (passive) (dipaku)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the nail (pakunya)"
+    }
+  },
+  "roket": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the rocket (roketnya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "(idiomatic) to skyrocket, rise rapidly (meroket)"
+    }
+  },
+  "seru": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to exclaim, call out (berseru)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to call for, urge (menyerukan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a call, appeal (seruan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "how exciting/intense it is (serunya)"
+    }
+  },
+  "kuku": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the nail, hoof (kukunya)"
+    }
+  },
+  "komando": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the commando, command (komandonya)"
+    }
+  },
+  "elang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the eagle (elangnya)"
+    }
+  },
+  "meriam": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cannon (meriamnya)"
+    }
+  },
+  "organ": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the organ (organnya)"
+    }
+  },
+  "kaleng": {
+    "se": {
+      "state": "valid",
+      "gloss": "a can of (sekaleng)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "canned (goods) (kalengan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the can, tin (kalengnya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "the canning process (pengalengan)"
+    }
+  },
+  "lalat": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fly (lalatnya)"
+    }
+  },
+  "republik": {
+    "an": {
+      "state": "valid",
+      "gloss": "republican (republikan)"
+    }
+  },
+  "mawar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the rose (mawarnya)"
+    }
+  },
+  "nasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the rice (nasinya)"
+    }
+  },
+  "kitab": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the scripture (kitabnya)"
+    }
+  },
+  "jas": {
+    "ber": {
+      "state": "valid",
+      "gloss": "wearing a suit/jacket (berjas)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the jacket, suit (jasnya)"
+    }
+  },
+  "komitmen": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to commit, be committed (berkomitmen)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the commitment (komitmennya)"
+    }
+  },
+  "geledah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to search, raid (menggeledah)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a search, raid (the act) (penggeledahan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be searched (passive) (digeledah)"
+    }
+  },
+  "keledai": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the donkey (keledainya)"
+    }
+  },
+  "vagina": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the vagina (vaginanya)"
+    }
+  },
+  "cabang": {
+    "ber": {
+      "state": "valid",
+      "gloss": "branching, forked (bercabang)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the branch (cabangnya)"
+    }
+  },
+  "acak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to randomize, shuffle (mengacak)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "randomizer (pengacak)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be randomized (passive) (diacak)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "randomization (pengacakan)"
+    }
+  },
+  "cakar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to claw, scratch (mencakar)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the claw, paw (cakarnya)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "scratcher (e.g. pencakar langit, skyscraper) (pencakar)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a scratch (cakaran)"
     }
   }
 }

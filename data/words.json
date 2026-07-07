@@ -6691,7 +6691,7 @@
     },
     {
       "root": "berpaling",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "turn, turn away"
     },
     {
@@ -21721,7 +21721,7 @@
     },
     {
       "root": "kepribadian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "personality"
     },
     {
@@ -22646,7 +22646,7 @@
     },
     {
       "root": "khususnya",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "typically"
     },
     {
@@ -29026,7 +29026,7 @@
     },
     {
       "root": "mengarahkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "refer"
     },
     {
@@ -32900,6 +32900,11 @@
       "gloss": "palindrome"
     },
     {
+      "root": "paling",
+      "pos": "word",
+      "gloss": "most (superlative marker); to turn, face (bound root, as in berpaling)"
+    },
+    {
       "root": "palium",
       "pos": "word",
       "gloss": "pallium"
@@ -34736,7 +34741,7 @@
     },
     {
       "root": "pengacakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "randomization"
     },
     {
@@ -36306,7 +36311,7 @@
     },
     {
       "root": "pewaris",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "successor, heir"
     },
     {
@@ -46120,8 +46125,13 @@
       "gloss": "to ride along, lodge, hitch a ride (bound root)"
     },
     {
-      "root": "tumpukan",
+      "root": "tumpuk",
       "pos": "word",
+      "gloss": "to stack, pile (bound root)"
+    },
+    {
+      "root": "tumpukan",
+      "pos": "derived",
       "gloss": "pile"
     },
     {
@@ -47250,8 +47260,13 @@
       "gloss": "lemur"
     },
     {
-      "root": "warisan",
+      "root": "waris",
       "pos": "word",
+      "gloss": "heir, inheritance (bound root)"
+    },
+    {
+      "root": "warisan",
+      "pos": "derived",
       "gloss": "legacy"
     },
     {
