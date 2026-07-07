@@ -1778,6 +1778,10 @@
     "ke_an": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "exchange, interchange (pertukaran)"
     }
   },
   "ubah": {
@@ -21290,6 +21294,271 @@
     "nya": {
       "state": "valid",
       "gloss": "the ambulance (ambulansnya)"
+    }
+  },
+  "hias": {
+    "me": {
+      "state": "valid",
+      "gloss": "to decorate, adorn (menghias)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be decorated (passive) (dihias)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a decoration (hiasan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "jewelry, adornment (perhiasan)"
+    }
+  },
+  "timbul": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to give rise to, cause (menimbulkan)"
+    }
+  },
+  "adab": {
+    "ber": {
+      "state": "valid",
+      "gloss": "civil, civilized (beradab)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "civilization (peradaban)"
+    }
+  },
+  "hibur": {
+    "me": {
+      "state": "valid",
+      "gloss": "to entertain, comfort (menghibur)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "comforted, entertained (stative) (terhibur)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "amusement, entertainment (hiburan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "consolation, comforting (penghiburan)"
+    }
+  },
+  "erang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to groan, moan (mengerang)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a groan, moan (erangan)"
+    }
+  },
+  "kerang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the shellfish (kerangnya)"
+    },
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengerang mechanically also derives from erang.me (to groan), the real word; kerang (shellfish) has no real me- derivation"
+    }
+  },
+  "ekonomi": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "the economy (as a system) (perekonomian)"
+    }
+  },
+  "jus": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the juice (jusnya)"
+    }
+  },
+  "televisi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the television (televisinya)"
+    }
+  },
+  "ilmiah": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the scientific aspect of it (ilmiahnya)"
+    }
+  },
+  "cacing": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the worm (cacingnya)"
+    }
+  },
+  "tengkorak": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the skull (tengkoraknya)"
+    }
+  },
+  "akting": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to act, perform (berakting)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the acting (aktingnya)"
+    }
+  },
+  "gosip": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to gossip (bergosip)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the gossip (gosipnya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "(informal) to gossip about (menggosip)"
+    }
+  },
+  "klinik": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the clinic (kliniknya)"
+    }
+  },
+  "siluman": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the demon (silumannya)"
+    }
+  },
+  "metode": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the method (metodenya)"
+    }
+  },
+  "lumpur": {
+    "ber": {
+      "state": "valid",
+      "gloss": "muddy (berlumpur)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the mud (lumpurnya)"
+    }
+  },
+  "koki": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cook (kokinya)"
+    }
+  },
+  "nafsu": {
+    "ber": {
+      "state": "valid",
+      "gloss": "lustful, having desire (bernafsu)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the lust, desire (nafsunya)"
+    }
+  },
+  "reputasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the reputation (reputasinya)"
+    }
+  },
+  "email": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the email (emailnya)"
+    }
+  },
+  "cucu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the grandchild (cucunya)"
+    }
+  },
+  "layang": {
+    "me": {
+      "state": "valid",
+      "gloss": "to fly, hover, soar (melayang)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a kite (toy) (layangan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to send flying, to throw/toss (melayangkan)"
+    }
+  },
+  "otomatis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the automatic aspect of it (otomatisnya)"
+    }
+  },
+  "komunitas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the community (komunitasnya)"
+    }
+  },
+  "komentar": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to comment (berkomentar)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the comment (komentarnya)"
+    }
+  },
+  "pompa": {
+    "me": {
+      "state": "valid",
+      "gloss": "to pump (memompa)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the pump (pompanya)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be pumped (passive) (dipompa)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "pumped (stative) (terpompa)"
+    }
+  },
+  "karet": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the rubber (karetnya)"
+    }
+  },
+  "koleksi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to collect (mengoleksi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the collection (koleksinya)"
     }
   }
 }

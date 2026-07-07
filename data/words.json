@@ -350,6 +350,11 @@
       "gloss": "there is, exist"
     },
     {
+      "root": "adab",
+      "pos": "word",
+      "gloss": "civility, culture, manners (bound root)"
+    },
+    {
       "root": "adam",
       "pos": "proper",
       "gloss": "adam"
@@ -6411,7 +6416,7 @@
     },
     {
       "root": "beradab",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "civil"
     },
     {
@@ -12580,6 +12585,11 @@
       "gloss": "epic"
     },
     {
+      "root": "erang",
+      "pos": "word",
+      "gloss": "to groan, moan (bound root)"
+    },
+    {
       "root": "ercis",
       "pos": "word",
       "gloss": "pea"
@@ -16000,6 +16010,11 @@
       "gloss": "heuristic"
     },
     {
+      "root": "hias",
+      "pos": "word",
+      "gloss": "to decorate, adorn (bound root)"
+    },
+    {
       "root": "hiatus",
       "pos": "word",
       "gloss": "hiatus"
@@ -16010,8 +16025,13 @@
       "gloss": "hibernate"
     },
     {
-      "root": "hiburan",
+      "root": "hibur",
       "pos": "word",
+      "gloss": "to entertain, comfort (bound root)"
+    },
+    {
+      "root": "hiburan",
+      "pos": "derived",
       "gloss": "amusement, entertainment"
     },
     {
@@ -20766,7 +20786,7 @@
     },
     {
       "root": "kegilaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "madness"
     },
     {
@@ -29376,7 +29396,7 @@
     },
     {
       "root": "menimbulkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "give rise to"
     },
     {
@@ -35236,7 +35256,7 @@
     },
     {
       "root": "penyanyi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "singer"
     },
     {
@@ -35406,7 +35426,7 @@
     },
     {
       "root": "peradaban",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "civilization"
     },
     {
@@ -35661,8 +35681,8 @@
     },
     {
       "root": "perhiasan",
-      "pos": "word",
-      "gloss": "jeweler"
+      "pos": "derived",
+      "gloss": "jewelry, adornment"
     },
     {
       "root": "peri",
@@ -36131,7 +36151,7 @@
     },
     {
       "root": "pertukaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "exchange"
     },
     {
@@ -45153,6 +45173,11 @@
       "root": "timbangan",
       "pos": "derived",
       "gloss": "scales"
+    },
+    {
+      "root": "timbul",
+      "pos": "word",
+      "gloss": "to arise, emerge (bound root)"
     },
     {
       "root": "timika",
