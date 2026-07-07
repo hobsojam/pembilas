@@ -20350,6 +20350,11 @@
       "gloss": "cable, wire"
     },
     {
+      "root": "kawin",
+      "pos": "word",
+      "gloss": "to marry, mate"
+    },
+    {
       "root": "kawista",
       "pos": "word",
       "gloss": "wood apple"
@@ -20746,7 +20751,7 @@
     },
     {
       "root": "kedokteran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "medicine"
     },
     {
@@ -20826,7 +20831,7 @@
     },
     {
       "root": "kegembiraan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "joy"
     },
     {
@@ -25495,8 +25500,13 @@
       "gloss": "home page"
     },
     {
-      "root": "lamaran",
+      "root": "lamar",
       "pos": "word",
+      "gloss": "to propose (marriage), apply (bound root)"
+    },
+    {
+      "root": "lamaran",
+      "pos": "derived",
       "gloss": "proposal"
     },
     {
@@ -28141,7 +28151,7 @@
     },
     {
       "root": "melamar",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "propose"
     },
     {
@@ -28677,7 +28687,7 @@
     {
       "root": "mempesona",
       "pos": "word",
-      "gloss": "entrance"
+      "gloss": "charming, captivating, enchanting"
     },
     {
       "root": "memuaskan",
@@ -34466,7 +34476,7 @@
     },
     {
       "root": "pemicu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "trigger"
     },
     {
@@ -34483,6 +34493,11 @@
       "root": "pemilik",
       "pos": "derived",
       "gloss": "owner, possessor"
+    },
+    {
+      "root": "pemilu",
+      "pos": "word",
+      "gloss": "general election"
     },
     {
       "root": "pemindahan",
@@ -35866,7 +35881,7 @@
     },
     {
       "root": "perkawinan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "marriage"
     },
     {
@@ -36056,7 +36071,7 @@
     },
     {
       "root": "persamaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "equation"
     },
     {
@@ -36320,6 +36335,11 @@
       "gloss": "pessimistic"
     },
     {
+      "root": "pesona",
+      "pos": "word",
+      "gloss": "charm, enchantment (bound root)"
+    },
+    {
       "root": "pesta",
       "pos": "word",
       "gloss": "feast, party"
@@ -36428,6 +36448,11 @@
       "root": "piano",
       "pos": "word",
       "gloss": "piano"
+    },
+    {
+      "root": "picu",
+      "pos": "word",
+      "gloss": "to trigger (bound root)"
     },
     {
       "root": "pidato",

@@ -3874,6 +3874,10 @@
     "ber": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "an equation, formal similarity (persamaan)"
     }
   },
   "sedih": {
@@ -12400,6 +12404,10 @@
     "nya": {
       "state": "valid",
       "gloss": "his/her doctor (dokternya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "medicine, the medical field (kedokteran)"
     }
   },
   "serius": {
@@ -24154,6 +24162,142 @@
     "nya": {
       "state": "valid",
       "gloss": "the banana (pisangnya)"
+    }
+  },
+  "pesona": {
+    "me": {
+      "state": "valid",
+      "gloss": "to charm, enchant (regular form, memesona)"
+    }
+  },
+  "lamar": {
+    "me": {
+      "state": "valid",
+      "gloss": "to propose (marriage), apply (melamar)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a marriage proposal, job application (lamaran)"
+    }
+  },
+  "picu": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a trigger (pemicu)"
+    }
+  },
+  "kawin": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "a marriage, wedding (perkawinan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the marriage, wedding (kawinnya)"
+    }
+  },
+  "lelang": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an auction (pelelangan)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be auctioned (passive) (dilelang)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to auction off (melelang)"
+    }
+  },
+  "pucat": {
+    "me": {
+      "state": "valid",
+      "gloss": "to turn pale (memucat)"
+    }
+  },
+  "motivasi": {
+    "ter": {
+      "state": "valid",
+      "gloss": "motivated (termotivasi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to motivate (memotivasi)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the motivation (motivasinya)"
+    }
+  },
+  "rok": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the skirt (roknya)"
+    }
+  },
+  "ember": {
+    "se": {
+      "state": "valid",
+      "gloss": "a bucketful of (seember)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the bucket (embernya)"
+    }
+  },
+  "payung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the umbrella (payungnya)"
+    }
+  },
+  "kulkas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the refrigerator (kulkasnya)"
+    }
+  },
+  "khas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the distinctive/characteristic quality of it (khasnya)"
+    }
+  },
+  "jurnal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the journal (jurnalnya)"
+    }
+  },
+  "serum": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the serum (serumnya)"
+    }
+  },
+  "benih": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the seed, seedling (benihnya)"
+    }
+  },
+  "sumur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the well (sumurnya)"
+    }
+  },
+  "sabun": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the soap (sabunnya)"
+    }
+  },
+  "kondom": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the condom (kondomnya)"
     }
   }
 }
