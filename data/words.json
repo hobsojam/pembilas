@@ -20061,7 +20061,7 @@
     },
     {
       "root": "kardiologi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "cardiology"
     },
     {
@@ -20081,7 +20081,7 @@
     },
     {
       "root": "karenanya",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "hence"
     },
     {
@@ -20186,7 +20186,7 @@
     },
     {
       "root": "kartografi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "cartography"
     },
     {
@@ -20526,7 +20526,7 @@
     },
     {
       "root": "kawalan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "control"
     },
     {
@@ -21126,7 +21126,7 @@
     },
     {
       "root": "kejantanan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "manliness"
     },
     {
@@ -21141,7 +21141,7 @@
     },
     {
       "root": "kejijikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "disgust"
     },
     {
@@ -21196,12 +21196,12 @@
     },
     {
       "root": "kekerabatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "kinship"
     },
     {
       "root": "kekeramatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "holiness"
     },
     {
@@ -21221,12 +21221,12 @@
     },
     {
       "root": "kekiralan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "chirality"
     },
     {
       "root": "kekocakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "quirk"
     },
     {
@@ -21236,7 +21236,7 @@
     },
     {
       "root": "kekompleksan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "complexity"
     },
     {
@@ -21251,7 +21251,7 @@
     },
     {
       "root": "kekucingan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "feline"
     },
     {
@@ -21291,7 +21291,7 @@
     },
     {
       "root": "kelajuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "speed"
     },
     {
@@ -21306,7 +21306,7 @@
     },
     {
       "root": "kelaksamanaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "admiralty"
     },
     {
@@ -21391,12 +21391,12 @@
     },
     {
       "root": "kelembapan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "humidity"
     },
     {
       "root": "kelengkapan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "completeness"
     },
     {
@@ -25931,7 +25931,7 @@
     },
     {
       "root": "laparoskopi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "laparoscopy"
     },
     {
@@ -29396,7 +29396,7 @@
     },
     {
       "root": "mengawinkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "marry"
     },
     {
@@ -29606,7 +29606,7 @@
     },
     {
       "root": "mengipasi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "fan"
     },
     {
@@ -29651,12 +29651,12 @@
     },
     {
       "root": "mengomentari",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "comment"
     },
     {
       "root": "mengonfigurasikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "configure"
     },
     {
@@ -29691,7 +29691,7 @@
     },
     {
       "root": "menguap",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "yawn, evaporate, vaporize"
     },
     {
@@ -34421,7 +34421,7 @@
     },
     {
       "root": "pelahiran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "delivery"
     },
     {
@@ -34481,7 +34481,7 @@
     },
     {
       "root": "pelebihan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "comparative"
     },
     {
@@ -34501,7 +34501,7 @@
     },
     {
       "root": "pelekat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "patch"
     },
     {
@@ -35346,7 +35346,7 @@
     },
     {
       "root": "pengepungan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "siege"
     },
     {
@@ -35356,7 +35356,7 @@
     },
     {
       "root": "pengeringan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "seasoning"
     },
     {
@@ -35566,7 +35566,7 @@
     },
     {
       "root": "penjamin",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "guarantee"
     },
     {
@@ -35576,7 +35576,7 @@
     },
     {
       "root": "penjarah",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "looter"
     },
     {
@@ -36266,7 +36266,7 @@
     },
     {
       "root": "perlambatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "deceleration"
     },
     {
