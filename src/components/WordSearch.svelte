@@ -1,7 +1,7 @@
 <script>
   import { affixes } from '../lib/affixEngine.js'
 
-  let { words, onSelect } = $props()
+  let { words, onSelect, resetToken = 0 } = $props()
 
   // The index stores affix ids (stable join keys); labels are display-only.
   const affixLabels = new Map(affixes.map(a => [a.id, a.label]))
@@ -23,6 +23,14 @@
   let results = $state([])
   let activeIndex = $state(-1)
   let justSelected = false
+
+  $effect(() => {
+    resetToken
+    query = ''
+    results = []
+    activeIndex = -1
+    justSelected = false
+  })
 
   function binarySearchLeft(q) {
     let lo = 0, hi = index.length

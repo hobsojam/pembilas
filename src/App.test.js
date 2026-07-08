@@ -36,6 +36,24 @@ describe('App', () => {
     expect(screen.getByText('menulis')).toBeInTheDocument()
   })
 
+  it('clicking the logo resets the app to the home state', async () => {
+    render(App)
+    const input = screen.getByLabelText(/search root or derived form/i)
+    await fireEvent.input(input, { target: { value: 'menulis' } })
+
+    const option = await screen.findByRole('option', { name: /tulis/ }, { timeout: 3000 })
+    await fireEvent.click(option)
+    expect(screen.getByRole('heading', { name: /derived forms/i })).toBeInTheDocument()
+    expect(input).toHaveValue('tulis')
+
+    await fireEvent.click(screen.getByRole('link', { name: 'pemBILAS' }))
+
+    expect(input).toHaveValue('')
+    expect(screen.queryByRole('heading', { name: /derived forms/i })).not.toBeInTheDocument()
+    expect(screen.queryByText('write, written')).not.toBeInTheDocument()
+    expect(screen.getByText(/search for a root word above/i)).toBeInTheDocument()
+  })
+
   it('shows the searched derivation as an unreviewed row when its slot is un-annotated (#53)', async () => {
     render(App)
     const input = screen.getByLabelText(/search root or derived form/i)
