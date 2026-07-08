@@ -18961,6 +18961,10 @@
     "ber": {
       "state": "valid",
       "gloss": "to garden, farm (berkebun)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a plantation, farm (perkebunan)"
     }
   },
   "gua": {
@@ -26374,6 +26378,168 @@
     "me": {
       "state": "valid",
       "gloss": "to bury, hide, suppress (feelings) (memendam)"
+    }
+  },
+  "bangkai": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the carcass (bangkainya)"
+    }
+  },
+  "biola": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the violin (biolanya)"
+    }
+  },
+  "cerutu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cigar (cerutunya)"
+    }
+  },
+  "demonstrasi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to demonstrate (mendemonstrasikan)"
+    }
+  },
+  "hafal": {
+    "me": {
+      "state": "valid",
+      "gloss": "to memorize (menghafal)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "memorize it! (hafalkan)"
+    }
+  },
+  "citra": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the image, imagery (citranya)"
+    }
+  },
+  "konsumsi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be consumed (passive) (dikonsumsi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to consume (mengonsumsi)"
+    }
+  },
+  "rasuk": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "possession (by a spirit) (kerasukan)"
+    }
+  },
+  "antena": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the antenna (antenanya)"
+    }
+  },
+  "bot": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the boot (botnya)"
+    }
+  },
+  "klakson": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the horn, klaxon (klaksonnya)"
+    }
+  },
+  "kuras": {
+    "me": {
+      "state": "valid",
+      "gloss": "to drain, empty out (menguras)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "drained (terkuras)"
+    }
+  },
+  "rahim": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the womb (rahimnya)"
+    }
+  },
+  "ciri": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the trait, characteristic (cirinya)"
+    }
+  },
+  "agenda": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the agenda (agendanya)"
+    }
+  },
+  "debar": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to throb, pound (of a heart) (berdebar)"
+    }
+  },
+  "sumbat": {
+    "ter": {
+      "state": "valid",
+      "gloss": "plugged, blocked (tersumbat)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to plug, block (menyumbat)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a plug, stopper (penyumbat)"
+    }
+  },
+  "khotbah": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to give a sermon (berkhotbah)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a preacher (pengkhotbah)"
+    }
+  },
+  "blog": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the blog (blognya)"
+    }
+  },
+  "gerbong": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the railroad car (gerbongnya)"
+    }
+  },
+  "subur": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "fertility (kesuburan)"
+    }
+  },
+  "kepung": {
+    "me": {
+      "state": "valid",
+      "gloss": "to besiege, surround (mengepung)"
+    }
+  },
+  "sperma": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sperm (spermanya)"
     }
   }
 }

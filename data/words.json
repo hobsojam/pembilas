@@ -6521,7 +6521,7 @@
     },
     {
       "root": "berdebar",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pound"
     },
     {
@@ -9758,6 +9758,11 @@
       "root": "dbd",
       "pos": "word",
       "gloss": "dengue fever"
+    },
+    {
+      "root": "debar",
+      "pos": "word",
+      "gloss": "to throb, pound (of a heart) (bound root)"
     },
     {
       "root": "debat",
@@ -21881,8 +21886,8 @@
     },
     {
       "root": "kepuasan",
-      "pos": "word",
-      "gloss": "comfort"
+      "pos": "derived",
+      "gloss": "satisfaction"
     },
     {
       "root": "kepulaga",
@@ -21903,6 +21908,11 @@
       "root": "kepunahan",
       "pos": "derived",
       "gloss": "extinction"
+    },
+    {
+      "root": "kepung",
+      "pos": "word",
+      "gloss": "to surround, besiege (bound root)"
     },
     {
       "root": "kepustakawanan",
@@ -21996,7 +22006,7 @@
     },
     {
       "root": "kerasukan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "possession"
     },
     {
@@ -29296,7 +29306,7 @@
     },
     {
       "root": "mengepung",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "besiege"
     },
     {
@@ -36036,7 +36046,7 @@
     },
     {
       "root": "perkebunan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "plantation, farm"
     },
     {
@@ -38693,6 +38703,11 @@
       "root": "rasisme",
       "pos": "word",
       "gloss": "racism"
+    },
+    {
+      "root": "rasuk",
+      "pos": "word",
+      "gloss": "to possess, enter (of a spirit) (bound root)"
     },
     {
       "root": "rasul",
