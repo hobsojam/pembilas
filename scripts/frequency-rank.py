@@ -73,7 +73,8 @@ stadion karate kurcaci salmon hoki kompi biologis semak koi zombi cerewet faktor
 enggak horor indra kungfu dam mempersembahkan ala kardinal tahi kumbang arsitek koroner lusa balet provinsi sebelas parlemen pedesaan kepemimpinan legendaris bankir elegan gerhana lobster parit
 rasis sepakbola panci asteroid sol kafir komersial altar teleskop tenggara mineral uni almarhum instrumen tante
 psikologis kerbau maksimum narkotika norma hamburger hormon kesatria sukar permaisuri konsisten sushi supermarket duh ekspedisi radikal balkon cengeng kinerja resimen kalender selada
-basi perspektif bangsal biarawan paramedis patriot organisme mandiri oven sakura maestro astronomi gegabah relatif nyeri pincang taco federasi cukai'''.split())
+basi perspektif bangsal biarawan paramedis patriot organisme mandiri oven sakura maestro astronomi gegabah relatif nyeri pincang taco federasi cukai
+frustrasi persik koktail bordil etika adrenalin kodok wol cenayang sembrono barak sirene kanselir munafik sensei tembaga vitamin dermawan jeda bea diantaranya'''.split())
 
 
 def main():

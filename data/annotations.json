@@ -12021,6 +12021,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "destruction, devastation (kehancuran)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "demolition, destruction (penghancuran)"
     }
   },
   "hampir": {
@@ -17194,6 +17198,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to worry, be a source of anxiety for (mencemaskan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "anxiety, concern (kecemasan)"
     }
   },
   "teroris": {
@@ -22845,6 +22853,14 @@
     "me": {
       "state": "valid",
       "gloss": "to hack, break through (meretas)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a hacker (peretas)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a hack, hacking (peretasan)"
     }
   },
   "setel": {
@@ -26396,6 +26412,10 @@
     "an": {
       "state": "valid",
       "gloss": "a quote, citation (kutipan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to quote, cite (mengutip)"
     }
   },
   "pendam": {
@@ -26831,6 +26851,104 @@
     "an": {
       "state": "valid",
       "gloss": "a whistle, whistling sound (siulan)"
+    }
+  },
+  "biadab": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "savagery (kebiadaban)"
+    }
+  },
+  "netral": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to neutralize (menetralkan)"
+    }
+  },
+  "ketik": {
+    "me": {
+      "state": "valid",
+      "gloss": "to type (mengetik)"
+    }
+  },
+  "semen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cement (semennya)"
+    }
+  },
+  "mikrofon": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the microphone (mikrofonnya)"
+    }
+  },
+  "bengkok": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to bend something (membengkokkan)"
+    }
+  },
+  "saing": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to compete, rival (bersaing)"
+    }
+  },
+  "ilahi": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "divinity (keilahian)"
+    }
+  },
+  "komponen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the component (komponennya)"
+    }
+  },
+  "bajik": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "virtue (kebajikan)"
+    }
+  },
+  "bujang": {
+    "an": {
+      "state": "valid",
+      "gloss": "a bachelor, young man (bujangan)"
+    }
+  },
+  "cermat": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to observe carefully (mencermati)"
+    }
+  },
+  "dengung": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to drone, hum (berdengung)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a droning, humming sound (dengungan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to drone, hum (mendengung)"
+    }
+  },
+  "serpih": {
+    "an": {
+      "state": "valid",
+      "gloss": "debris, a fragment (serpihan)"
+    }
+  },
+  "modifikasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be modified (passive) (dimodifikasi)"
     }
   }
 }

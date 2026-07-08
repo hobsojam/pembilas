@@ -5115,6 +5115,11 @@
       "gloss": "plough"
     },
     {
+      "root": "bajik",
+      "pos": "word",
+      "gloss": "virtuous (archaic, bound root)"
+    },
+    {
       "root": "bajing",
       "pos": "word",
       "gloss": "squirrel"
@@ -8155,8 +8160,13 @@
       "gloss": "bubble"
     },
     {
-      "root": "bujangan",
+      "root": "bujang",
       "pos": "word",
+      "gloss": "a bachelor; a young servant (bound root)"
+    },
+    {
+      "root": "bujangan",
+      "pos": "derived",
       "gloss": "boy"
     },
     {
@@ -20551,7 +20561,7 @@
     },
     {
       "root": "kebajikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "virtue, arete"
     },
     {
@@ -20701,7 +20711,7 @@
     },
     {
       "root": "kecemasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "anxiety, concern"
     },
     {
@@ -22588,6 +22598,11 @@
       "root": "ketigapuluh",
       "pos": "adjective",
       "gloss": "thirtieth"
+    },
+    {
+      "root": "ketik",
+      "pos": "word",
+      "gloss": "to type (bound root)"
     },
     {
       "root": "ketika",
@@ -29336,7 +29351,7 @@
     },
     {
       "root": "mengetik",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "type"
     },
     {
@@ -29586,7 +29601,7 @@
     },
     {
       "root": "mengutip",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "quote"
     },
     {
@@ -35246,7 +35261,7 @@
     },
     {
       "root": "penghancuran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "demolition"
     },
     {
@@ -35931,7 +35946,7 @@
     },
     {
       "root": "peretas",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "hacker"
     },
     {
@@ -39925,6 +39940,11 @@
       "gloss": "suhur"
     },
     {
+      "root": "saing",
+      "pos": "word",
+      "gloss": "to compete, rival (bound root)"
+    },
+    {
       "root": "sajadah",
       "pos": "word",
       "gloss": "prayer rug"
@@ -41570,8 +41590,13 @@
       "gloss": "serotonin"
     },
     {
-      "root": "serpihan",
+      "root": "serpih",
       "pos": "word",
+      "gloss": "a chip, flake, splinter (bound root)"
+    },
+    {
+      "root": "serpihan",
+      "pos": "derived",
       "gloss": "debris"
     },
     {
