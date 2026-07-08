@@ -16007,6 +16007,10 @@
     "kan": {
       "state": "valid",
       "gloss": "purify it! (sucikan -- imperative)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "chastity, purity (kesucian)"
     }
   },
   "keliling": {
@@ -26154,6 +26158,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "harassment (pelecehan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to annoy, harass (melecehkan)"
     }
   },
   "intai": {
@@ -27557,6 +27565,100 @@
     "nya": {
       "state": "valid",
       "gloss": "the sentence, verdict (vonisnya)"
+    }
+  },
+  "letus": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to detonate, set off (meletuskan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to erupt, burst (meletus)"
+    }
+  },
+  "lontar": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a thrower, launcher (pelontar)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to throw, launch (figuratively) (melontarkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "throw it! (lontarkan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "thrown, flung (terlontar)"
+    }
+  },
+  "ekstraksi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be extracted (passive) (diekstraksi)"
+    }
+  },
+  "pupuk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to fertilize (memupuk)"
+    }
+  },
+  "tumpul": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to dull, blunt (menumpulkan)"
+    }
+  },
+  "sendi": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "joints (collectively), articulation (persendian)"
+    }
+  },
+  "kias": {
+    "an": {
+      "state": "valid",
+      "gloss": "a metaphor (kiasan)"
+    }
+  },
+  "macet": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a traffic jam (kemacetan)"
+    }
+  },
+  "surel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the email (surelnya)"
+    }
+  },
+  "gizi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "nutritious (bergizi)"
+    }
+  },
+  "cukur": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to shave (bercukur)"
+    }
+  },
+  "janin": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fetus (janinnya)"
+    }
+  },
+  "singkat": {
+    "an": {
+      "state": "valid",
+      "gloss": "an abbreviation (singkatan)"
     }
   }
 }

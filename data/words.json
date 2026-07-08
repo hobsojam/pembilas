@@ -6536,7 +6536,7 @@
     },
     {
       "root": "bercukur",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "shave"
     },
     {
@@ -9428,6 +9428,11 @@
       "root": "cukup",
       "pos": "adverb",
       "gloss": "enough"
+    },
+    {
+      "root": "cukur",
+      "pos": "word",
+      "gloss": "to shave (bound root)"
     },
     {
       "root": "culik",
@@ -14968,6 +14973,11 @@
       "root": "gips",
       "pos": "word",
       "gloss": "cast"
+    },
+    {
+      "root": "gipsi",
+      "pos": "word",
+      "gloss": "gypsy"
     },
     {
       "root": "giro",
@@ -21461,7 +21471,7 @@
     },
     {
       "root": "kemacetan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "traffic jam"
     },
     {
@@ -22431,7 +22441,7 @@
     },
     {
       "root": "kesucian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "chastity"
     },
     {
@@ -22920,8 +22930,13 @@
       "gloss": "apocalypse"
     },
     {
-      "root": "kiasan",
+      "root": "kias",
       "pos": "word",
+      "gloss": "to compare, liken (bound root)"
+    },
+    {
+      "root": "kiasan",
+      "pos": "derived",
       "gloss": "metaphor"
     },
     {
@@ -26425,6 +26440,11 @@
       "gloss": "burst, bust"
     },
     {
+      "root": "letus",
+      "pos": "word",
+      "gloss": "to burst, explode (bound root)"
+    },
+    {
       "root": "leukemia",
       "pos": "word",
       "gloss": "leukemia"
@@ -27213,6 +27233,11 @@
       "root": "mabuk",
       "pos": "adjective",
       "gloss": "drunk, motion sickness, drunken"
+    },
+    {
+      "root": "macet",
+      "pos": "word",
+      "gloss": "jammed, stuck (bound root)"
     },
     {
       "root": "mad",
@@ -28431,7 +28456,7 @@
     },
     {
       "root": "melecehkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "annoy"
     },
     {
@@ -28476,7 +28501,7 @@
     },
     {
       "root": "meletus",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "erupt"
     },
     {
@@ -28576,7 +28601,7 @@
     },
     {
       "root": "memanaskan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "heat"
     },
     {
@@ -29266,7 +29291,7 @@
     },
     {
       "root": "mengaduk",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "whip"
     },
     {
@@ -42325,8 +42350,13 @@
       "gloss": "touch on"
     },
     {
-      "root": "singkatan",
+      "root": "singkat",
       "pos": "word",
+      "gloss": "short, brief (bound root)"
+    },
+    {
+      "root": "singkatan",
+      "pos": "derived",
       "gloss": "abbreviation"
     },
     {
