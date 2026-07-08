@@ -12473,6 +12473,10 @@
     "nya": {
       "state": "valid",
       "gloss": "his/her book (bukunya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "bookkeeping (pembukuan)"
     }
   },
   "jahat": {
@@ -16007,6 +16011,10 @@
     "kan": {
       "state": "valid",
       "gloss": "purify it! (sucikan -- imperative)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "chastity, purity (kesucian)"
     }
   },
   "keliling": {
@@ -16273,6 +16281,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the minister (menterinya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "ministry (kementerian)"
     }
   },
   "sebar": {
@@ -18511,6 +18523,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to cancel, void, annul (membatalkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "cancellation, abrogation (pembatalan)"
     }
   },
   "padu": {
@@ -19542,6 +19558,10 @@
     "ber": {
       "state": "valid",
       "gloss": "compounded, doubled (berganda)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to double, duplicate (menggandakan)"
     }
   },
   "puisi": {
@@ -26154,6 +26174,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "harassment (pelecehan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to annoy, harass (melecehkan)"
     }
   },
   "intai": {
@@ -27557,6 +27581,379 @@
     "nya": {
       "state": "valid",
       "gloss": "the sentence, verdict (vonisnya)"
+    }
+  },
+  "letus": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to detonate, set off (meletuskan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to erupt, burst (meletus)"
+    }
+  },
+  "lontar": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a thrower, launcher (pelontar)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to throw, launch (figuratively) (melontarkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "throw it! (lontarkan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "thrown, flung (terlontar)"
+    }
+  },
+  "ekstraksi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be extracted (passive) (diekstraksi)"
+    }
+  },
+  "pupuk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to fertilize (memupuk)"
+    }
+  },
+  "tumpul": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to dull, blunt (menumpulkan)"
+    }
+  },
+  "sendi": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "joints (collectively), articulation (persendian)"
+    }
+  },
+  "kias": {
+    "an": {
+      "state": "valid",
+      "gloss": "a metaphor (kiasan)"
+    }
+  },
+  "macet": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a traffic jam (kemacetan)"
+    }
+  },
+  "surel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the email (surelnya)"
+    }
+  },
+  "gizi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "nutritious (bergizi)"
+    }
+  },
+  "cukur": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to shave (bercukur)"
+    }
+  },
+  "janin": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fetus (janinnya)"
+    }
+  },
+  "singkat": {
+    "an": {
+      "state": "valid",
+      "gloss": "an abbreviation (singkatan)"
+    }
+  },
+  "siku": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the elbow (sikunya)"
+    }
+  },
+  "gigil": {
+    "me": {
+      "state": "valid",
+      "gloss": "to shiver (menggigil)"
+    }
+  },
+  "bungsu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the lastborn (bungsunya)"
+    }
+  },
+  "deportasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be deported (passive) (dideportasi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to deport (mendeportasi)"
+    }
+  },
+  "polong": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pod (polongnya)"
+    }
+  },
+  "spesifikasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the specification (spesifikasinya)"
+    }
+  },
+  "lucut": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to strip, disarm (melucuti)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to strip, disarm (melucut)"
+    }
+  },
+  "slogan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the slogan (slogannya)"
+    }
+  },
+  "puasa": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to fast (berpuasa)"
+    }
+  },
+  "gagang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the hilt, handle (gagangnya)"
+    }
+  },
+  "kental": {
+    "me": {
+      "state": "valid",
+      "gloss": "to thicken, congeal (mengental)"
+    }
+  },
+  "lumbung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the granary (lumbungnya)"
+    }
+  },
+  "lamun": {
+    "me": {
+      "state": "valid",
+      "gloss": "to daydream (melamun)"
+    }
+  },
+  "ental": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengental is a phonological convergence -- both kental (k-initial, deletes k) and ental (vowel-initial, adds ng) mechanically produce the same string; the real word (to thicken) is kental.me, ental (frond) has no such verb"
+    }
+  },
+  "salahguna": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "abuse, misuse (penyalahgunaan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to misuse, abuse (menyalahgunakan)"
+    }
+  },
+  "kremasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be cremated (passive) (dikremasi)"
+    }
+  },
+  "melodi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the melody (melodinya)"
+    }
+  },
+  "angguk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to nod (mengangguk)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a nod (anggukan)"
+    }
+  },
+  "santap": {
+    "an": {
+      "state": "valid",
+      "gloss": "a meal, dish (santapan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to dine, eat (menyantap)"
+    }
+  },
+  "rakus": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "greed (kerakusan)"
+    }
+  },
+  "refleksi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to reflect on (merefleksikan)"
+    }
+  },
+  "komposisi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the composition (komposisinya)"
+    }
+  },
+  "noda": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to desecrate, stain, tarnish (menodai)"
+    }
+  },
+  "pedal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pedal (pedalnya)"
+    }
+  },
+  "longsor": {
+    "an": {
+      "state": "valid",
+      "gloss": "a landslide (longsoran)"
+    }
+  },
+  "lolong": {
+    "me": {
+      "state": "valid",
+      "gloss": "to howl (melolong)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a howl (lolongan)"
+    }
+  },
+  "ringkas": {
+    "an": {
+      "state": "valid",
+      "gloss": "a summary (ringkasan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to summarize (meringkas)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "in a nutshell, in short (ringkasnya)"
+    }
+  },
+  "wawas": {
+    "an": {
+      "state": "valid",
+      "gloss": "insight, vision, perspective (wawasan)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "having insight, visionary (berwawasan)"
+    }
+  },
+  "ironi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the irony (ironinya)"
+    }
+  },
+  "makelar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the broker (makelarnya)"
+    }
+  },
+  "cemooh": {
+    "me": {
+      "state": "valid",
+      "gloss": "to denigrate, mock (mencemooh)"
+    }
+  },
+  "unduh": {
+    "me": {
+      "state": "valid",
+      "gloss": "to download (mengunduh)"
+    }
+  },
+  "dosen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the lecturer (dosennya)"
+    }
+  },
+  "rajut": {
+    "me": {
+      "state": "valid",
+      "gloss": "to knit (merajut)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "knitwork (rajutan)"
+    }
+  },
+  "beber": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to disclose (membeberkan)"
+    }
+  },
+  "diskualifikasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be disqualified (passive) (didiskualifikasi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to disqualify (mendiskualifikasi)"
+    }
+  },
+  "pikul": {
+    "me": {
+      "state": "valid",
+      "gloss": "to carry on the shoulder (memikul)"
+    }
+  },
+  "testis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the testicle (testisnya)"
+    }
+  },
+  "brosur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the brochure (brosurnya)"
     }
   }
 }

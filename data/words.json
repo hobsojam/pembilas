@@ -2680,8 +2680,13 @@
       "gloss": "orchid"
     },
     {
-      "root": "anggukan",
+      "root": "angguk",
       "pos": "word",
+      "gloss": "to nod (bound root)"
+    },
+    {
+      "root": "anggukan",
+      "pos": "derived",
       "gloss": "nod"
     },
     {
@@ -6015,6 +6020,11 @@
       "gloss": "duck"
     },
     {
+      "root": "beber",
+      "pos": "word",
+      "gloss": "to spread out, disclose (bound root)"
+    },
+    {
       "root": "beberan",
       "pos": "word",
       "gloss": "spoiler"
@@ -6536,7 +6546,7 @@
     },
     {
       "root": "bercukur",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "shave"
     },
     {
@@ -8965,6 +8975,11 @@
       "gloss": "envy, jealous"
     },
     {
+      "root": "cemooh",
+      "pos": "word",
+      "gloss": "mockery, derision (bound root)"
+    },
+    {
       "root": "cempaka",
       "pos": "word",
       "gloss": "champac"
@@ -9428,6 +9443,11 @@
       "root": "cukup",
       "pos": "adverb",
       "gloss": "enough"
+    },
+    {
+      "root": "cukur",
+      "pos": "word",
+      "gloss": "to shave (bound root)"
     },
     {
       "root": "culik",
@@ -14915,6 +14935,11 @@
       "gloss": "tooth"
     },
     {
+      "root": "gigil",
+      "pos": "word",
+      "gloss": "to shiver (bound root)"
+    },
+    {
       "root": "gigit",
       "pos": "word",
       "gloss": "bite"
@@ -14968,6 +14993,11 @@
       "root": "gips",
       "pos": "word",
       "gloss": "cast"
+    },
+    {
+      "root": "gipsi",
+      "pos": "word",
+      "gloss": "gypsy"
     },
     {
       "root": "giro",
@@ -21181,7 +21211,7 @@
     },
     {
       "root": "kekeringan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "drought"
     },
     {
@@ -21461,7 +21491,7 @@
     },
     {
       "root": "kemacetan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "traffic jam"
     },
     {
@@ -21581,7 +21611,7 @@
     },
     {
       "root": "kementerian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "ministry, ministration"
     },
     {
@@ -21686,7 +21716,7 @@
     },
     {
       "root": "kemunduran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "decline, slowdown"
     },
     {
@@ -21996,7 +22026,7 @@
     },
     {
       "root": "kepulauan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "archipelago"
     },
     {
@@ -22431,7 +22461,7 @@
     },
     {
       "root": "kesucian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "chastity"
     },
     {
@@ -22920,8 +22950,13 @@
       "gloss": "apocalypse"
     },
     {
-      "root": "kiasan",
+      "root": "kias",
       "pos": "word",
+      "gloss": "to compare, liken (bound root)"
+    },
+    {
+      "root": "kiasan",
+      "pos": "derived",
       "gloss": "metaphor"
     },
     {
@@ -25767,7 +25802,7 @@
     {
       "root": "lamun",
       "pos": "word",
-      "gloss": "seagrass"
+      "gloss": "seagrass; (as bound root) to daydream"
     },
     {
       "root": "lancip",
@@ -26425,6 +26460,11 @@
       "gloss": "burst, bust"
     },
     {
+      "root": "letus",
+      "pos": "word",
+      "gloss": "to burst, explode (bound root)"
+    },
+    {
       "root": "leukemia",
       "pos": "word",
       "gloss": "leukemia"
@@ -27060,6 +27100,11 @@
       "gloss": "funny"
     },
     {
+      "root": "lucut",
+      "pos": "word",
+      "gloss": "to strip, disarm (bound root)"
+    },
+    {
       "root": "ludah",
       "pos": "word",
       "gloss": "spit"
@@ -27213,6 +27258,11 @@
       "root": "mabuk",
       "pos": "adjective",
       "gloss": "drunk, motion sickness, drunken"
+    },
+    {
+      "root": "macet",
+      "pos": "word",
+      "gloss": "jammed, stuck (bound root)"
     },
     {
       "root": "mad",
@@ -28431,7 +28481,7 @@
     },
     {
       "root": "melecehkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "annoy"
     },
     {
@@ -28476,7 +28526,7 @@
     },
     {
       "root": "meletus",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "erupt"
     },
     {
@@ -28521,7 +28571,7 @@
     },
     {
       "root": "melucut",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "discharge"
     },
     {
@@ -28576,7 +28626,7 @@
     },
     {
       "root": "memanaskan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "heat"
     },
     {
@@ -28666,7 +28716,7 @@
     },
     {
       "root": "membeberkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "disclose"
     },
     {
@@ -29051,7 +29101,7 @@
     },
     {
       "root": "mencemooh",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "denigrate"
     },
     {
@@ -29266,7 +29316,7 @@
     },
     {
       "root": "mengaduk",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "whip"
     },
     {
@@ -29306,7 +29356,7 @@
     },
     {
       "root": "mengangguk",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "nod"
     },
     {
@@ -29431,7 +29481,7 @@
     },
     {
       "root": "menggandakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "double"
     },
     {
@@ -29451,7 +29501,7 @@
     },
     {
       "root": "menggigil",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "dither"
     },
     {
@@ -29656,7 +29706,7 @@
     },
     {
       "root": "menguliti",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "skinning"
     },
     {
@@ -29671,7 +29721,7 @@
     },
     {
       "root": "mengunduh",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "download"
     },
     {
@@ -29766,7 +29816,7 @@
     },
     {
       "root": "menodai",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "desecrate"
     },
     {
@@ -29876,7 +29926,7 @@
     },
     {
       "root": "menyalahgunakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "abuse, misuse"
     },
     {
@@ -31993,6 +32043,11 @@
       "root": "nocebo",
       "pos": "word",
       "gloss": "nocebo"
+    },
+    {
+      "root": "noda",
+      "pos": "word",
+      "gloss": "a stain, blemish (bound root)"
     },
     {
       "root": "nodus",
@@ -34636,7 +34691,7 @@
     },
     {
       "root": "pembatalan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "abrogation, cancellation"
     },
     {
@@ -34701,7 +34756,7 @@
     },
     {
       "root": "pembukuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "bookkeeping"
     },
     {
@@ -35261,7 +35316,7 @@
     },
     {
       "root": "pengembalian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "refund"
     },
     {
@@ -35636,7 +35691,7 @@
     },
     {
       "root": "penyalahgunaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "abuse, misuse"
     },
     {
@@ -35936,7 +35991,7 @@
     },
     {
       "root": "perbandingan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "comparison"
     },
     {
@@ -39581,7 +39636,7 @@
     },
     {
       "root": "ringkasnya",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "in a nutshell"
     },
     {
@@ -40138,6 +40193,11 @@
       "root": "salah",
       "pos": "word",
       "gloss": "be wrong, false, wrong"
+    },
+    {
+      "root": "salahguna",
+      "pos": "word",
+      "gloss": "to misuse (bound compound: salah + guna)"
     },
     {
       "root": "salak",
@@ -42325,8 +42385,13 @@
       "gloss": "touch on"
     },
     {
-      "root": "singkatan",
+      "root": "singkat",
       "pos": "word",
+      "gloss": "short, brief (bound root)"
+    },
+    {
+      "root": "singkatan",
+      "pos": "derived",
       "gloss": "abbreviation"
     },
     {
@@ -47125,6 +47190,11 @@
       "gloss": "underscore"
     },
     {
+      "root": "unduh",
+      "pos": "word",
+      "gloss": "to download (bound root)"
+    },
+    {
       "root": "unggah",
       "pos": "word",
       "gloss": "upload"
@@ -47995,8 +48065,13 @@
       "gloss": "interview"
     },
     {
-      "root": "wawasan",
+      "root": "wawas",
       "pos": "word",
+      "gloss": "to view, envision (bound root)"
+    },
+    {
+      "root": "wawasan",
+      "pos": "derived",
       "gloss": "insight"
     },
     {
