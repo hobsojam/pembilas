@@ -27470,5 +27470,93 @@
       "state": "valid",
       "gloss": "to devote, dedicate (membaktikan)"
     }
+  },
+  "wenang": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "jurisdiction, authority (kewenangan)"
+    }
+  },
+  "bengkak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to swell (membengkak)"
+    }
+  },
+  "receh": {
+    "an": {
+      "state": "valid",
+      "gloss": "small change, petty cash (recehan)"
+    }
+  },
+  "tandu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sedan chair, stretcher (tandunya)"
+    }
+  },
+  "teropong": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the binoculars (teropongnya)"
+    }
+  },
+  "diktator": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "dictatorship (kediktatoran)"
+    }
+  },
+  "serbet": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the napkin (serbetnya)"
+    }
+  },
+  "barel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the barrel (barelnya)"
+    }
+  },
+  "mutilasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be mutilated (passive) (dimutilasi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to mutilate (memutilasi)"
+    }
+  },
+  "debut": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the debut (debutnya)"
+    }
+  },
+  "kedok": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the mask, front (kedoknya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "disguised as (berkedok)"
+    }
+  },
+  "vonis": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be sentenced (passive) (divonis)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to sentence, convict (memvonis)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the sentence, verdict (vonisnya)"
+    }
   }
 }

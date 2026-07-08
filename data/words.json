@@ -6355,6 +6355,11 @@
       "gloss": "benghazi"
     },
     {
+      "root": "bengkak",
+      "pos": "word",
+      "gloss": "swollen (bound root)"
+    },
+    {
       "root": "bengkel",
       "pos": "word",
       "gloss": "garage, workshop"
@@ -7451,7 +7456,7 @@
     },
     {
       "root": "bisikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "whisper"
     },
     {
@@ -21276,7 +21281,7 @@
     },
     {
       "root": "kelambatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "slowness"
     },
     {
@@ -22051,7 +22056,7 @@
     },
     {
       "root": "kerajinan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "handicraft"
     },
     {
@@ -22781,7 +22786,7 @@
     },
     {
       "root": "kewenangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "jurisdiction"
     },
     {
@@ -28686,7 +28691,7 @@
     },
     {
       "root": "membengkak",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "swell"
     },
     {
@@ -48018,6 +48023,11 @@
       "root": "weda",
       "pos": "proper",
       "gloss": "veda"
+    },
+    {
+      "root": "wenang",
+      "pos": "word",
+      "gloss": "authorized, competent (bound root)"
     },
     {
       "root": "wesel",
