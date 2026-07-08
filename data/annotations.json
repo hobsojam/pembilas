@@ -2554,6 +2554,10 @@
     "ke": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a riser, one who ascends (penaik)"
     }
   },
   "turun": {
@@ -3547,6 +3551,10 @@
     "ber": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a young person, youth (pemuda)"
     }
   },
   "mudah": {
@@ -9057,6 +9065,11 @@
       "state": "valid",
       "gloss": "how could it possibly be? (expresses disbelief; literary)",
       "notes": "collision triage (#48): from the interjection sense of masa, not the 'period' sense glossed in words.json; judgment call, see issue discussion"
+    },
+    "lah": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): masalah (problem) is an unrelated word; masa (period, time) has no such derivation"
     }
   },
   "pintu": {
@@ -9802,6 +9815,10 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48/#56): keluaran is treated here as keluar + -an (already annotated); the ke-...-an parse from luar is the same word, kept unused to avoid a duplicate entry"
+    },
+    "ke": {
+      "state": "valid",
+      "gloss": "to go out, exit (keluar)"
     }
   },
   "tahanan": {
@@ -10270,6 +10287,11 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): menilai is from nilai; nila (indigo) has no me-...-i verb"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): nilai (value, grade) is an unrelated word; nila (indigo dye) has no such derivation"
     }
   },
   "penilai": {
@@ -12750,6 +12772,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to honor, glorify (memuliakan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "breeding, ennoblement (pemuliaan)"
     }
   },
   "penjara": {
@@ -12910,6 +12936,10 @@
     "ber_an": {
       "state": "valid",
       "gloss": "emerging one after another, popping up all over (bermunculan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "an emergence, appearance (kemunculan)"
     }
   },
   "saudara": {
@@ -14394,6 +14424,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the hero (pahlawannya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "heroism, chivalry (kepahlawanan)"
     }
   },
   "kopi": {
@@ -15022,6 +15056,11 @@
     "nya": {
       "state": "valid",
       "gloss": "the mile (milnya)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): milan (the city) is an unrelated proper noun; mil (mile) has no such derivation"
     }
   },
   "kue": {
@@ -17207,6 +17246,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to show, make visible, reveal (menampakkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "an appearance, manifestation (kenampakan)"
     }
   },
   "boneka": {
@@ -17934,6 +17977,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the model (modelnya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "modeling (pemodelan)"
     }
   },
   "permen": {
@@ -18036,6 +18083,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the crown (mahkotanya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a coronation (pemahkotaan)"
     }
   },
   "sepeda": {
@@ -19158,6 +19209,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to utilize, cash in, take advantage of (memanfaatkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "utilization (pemanfaatan)"
     }
   },
   "lingkar": {
@@ -19264,6 +19319,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the tax (pajaknya)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "taxation (perpajakan)"
     }
   },
   "sarang": {
@@ -19965,6 +20024,10 @@
     "nya": {
       "state": "valid",
       "gloss": "his/her parents (orangtuanya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "parenthood, parenting (keorangtuaan)"
     }
   },
   "umpan": {
@@ -22124,6 +22187,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the partner (mitranya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a partnership (kemitraan)"
     }
   },
   "lusin": {
@@ -22316,6 +22383,10 @@
     "ber": {
       "state": "valid",
       "gloss": "to turn, turn away (berpaling)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to turn away (something) (memalingkan)"
     }
   },
   "supir": {
@@ -23899,6 +23970,10 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): permulaan belongs to mulai.per_an, not mula"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "to begin (mulai)"
     }
   },
   "suntik": {
@@ -23977,6 +24052,10 @@
     "nya": {
       "state": "valid",
       "gloss": "how soft/lenient it is (lunaknya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "leniency, moderation (kelunakan)"
     }
   },
   "rata": {
@@ -24933,6 +25012,10 @@
     "se": {
       "state": "valid",
       "gloss": "equivalent, comparable, commensurate (sepadan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a matching, equivalence process (pemadanan)"
     }
   },
   "sisir": {
@@ -25257,6 +25340,10 @@
     "me_i": {
       "state": "valid",
       "gloss": "to cross, pass through (melintasi)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a passage, crossing (perlintasan)"
     }
   },
   "tampung": {
@@ -26060,6 +26147,10 @@
     "me": {
       "state": "valid",
       "gloss": "to chatter, prattle (mengoceh)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "chatter, twaddle (ocehan)"
     }
   },
   "sekop": {
@@ -26967,6 +27058,14 @@
     "kan": {
       "state": "valid",
       "gloss": "tilt it! (miringkan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to tilt, lean something (memiringkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a slope, gradient (kemiringan)"
     }
   },
   "acuh": {
@@ -27497,6 +27596,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "a settlement (pemukiman)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a (residential) settlement (permukiman)"
     }
   },
   "pulpen": {
@@ -28709,6 +28812,159 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): lesbian is the whole borrowed English word, not a real lesbi + an Indonesian derivation"
+    }
+  },
+  "luntur": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "fadedness (kelunturan)"
+    }
+  },
+  "mandiri": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "autonomy, independence (kemandirian)"
+    }
+  },
+  "marinade": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a marinating process (pemarinadean)"
+    }
+  },
+  "merosot": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "decline, deterioration (kemerosotan)"
+    }
+  },
+  "modern": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to modernize (memodernkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "modernity (kemodernan)"
+    }
+  },
+  "mufakat": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "consensus-building, unanimity (permufakatan)"
+    }
+  },
+  "munafik": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "hypocrisy (kemunafikan)"
+    }
+  },
+  "murtad": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "apostasy (kemurtadan)"
+    }
+  },
+  "mutakhir": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to upgrade (memutakhirkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an update (pemutakhiran)"
+    }
+  },
+  "onkolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "oncology (onkologi)"
+    }
+  },
+  "otonom": {
+    "i": {
+      "state": "valid",
+      "gloss": "autonomy (otonomi)"
+    }
+  },
+  "parau": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "hoarseness (keparauan)"
+    }
+  },
+  "pasrah": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to surrender, forgo (something) (memasrahkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "fatalism, resignation (kepasrahan)"
+    }
+  },
+  "lot": {
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): selot (latch) is an unrelated word; lot (batch, loanword) has no such derivation"
+    }
+  },
+  "maja": {
+    "lah": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): majalah (magazine) is an unrelated word; maja (bael fruit) has no such derivation"
+    }
+  },
+  "maling": {
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memalingkan (turn away) genuinely belongs to paling.me_kan (paling already has ber -> berpaling); maling (thief) has no such derivation"
+    }
+  },
+  "mau": {
+    "ke_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kemauan is treated as its own standalone word (see batch 51 notes); mau is a modal/function word excluded from the affix system"
+    }
+  },
+  "nan": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kenan (birthmark, its own established root) is unrelated to nan (naan bread)"
+    }
+  },
+  "nat": {
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): senat (senate) is an unrelated word; nat (grout) has no such derivation"
+    }
+  },
+  "nyam": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): nyaman (comfortable, its own long-established root) is unrelated to nyam (eating onomatopoeia)"
+    }
+  },
+  "pala": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kepala (head) is an unrelated word; pala (nutmeg) has no such derivation"
+    }
+  },
+  "panda": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pandai (clever, skilled) is an unrelated word; panda (the animal) has no such derivation"
     }
   }
 }
