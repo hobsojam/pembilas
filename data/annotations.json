@@ -19663,6 +19663,10 @@
     "se": {
       "state": "valid",
       "gloss": "as bright as (secerah)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "enlightenment (pencerahan)"
     }
   },
   "konfirmasi": {
@@ -20612,6 +20616,10 @@
     "nya": {
       "state": "valid",
       "gloss": "all of it, in its entirety (seluruhnya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "full, overarching, thorough (menyeluruh)"
     }
   },
   "giat": {
@@ -25616,6 +25624,10 @@
     "an": {
       "state": "valid",
       "gloss": "a scan (pindaian)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to scan (memindai)"
     }
   },
   "senter": {
@@ -26694,6 +26706,131 @@
     "pe": {
       "state": "valid",
       "gloss": "a rake, scraper (penggaruk)"
+    }
+  },
+  "cuka": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): cukai (tax, duty, excise) is mechanically cuka + i but is an unrelated word, added as its own headword; cuka (vinegar) has no attested productive derivation"
+    }
+  },
+  "manipulasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be manipulated (passive) (dimanipulasi)"
+    }
+  },
+  "telusur": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to trace, browse (menelusuri)"
+    }
+  },
+  "tegar": {
+    "lah": {
+      "state": "valid",
+      "gloss": "be strong! stay resilient! (tegarlah)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "steadfastness, resilience (ketegaran)"
+    }
+  },
+  "renovasi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to renovate (merenovasi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be renovated (passive) (direnovasi)"
+    }
+  },
+  "jinak": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a tamer, defuser (penjinak)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "tame it! (jinakkan)"
+    }
+  },
+  "ganjil": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "oddity, strangeness (keganjilan)"
+    }
+  },
+  "sabotase": {
+    "me": {
+      "state": "valid",
+      "gloss": "to sabotage (menyabotase)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be sabotaged (passive) (disabotase)"
+    }
+  },
+  "navigasi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to navigate (menavigasi)"
+    }
+  },
+  "grafik": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the graph (grafiknya)"
+    }
+  },
+  "kerangka": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the framework, skeleton (kerangkanya)"
+    }
+  },
+  "sejahtera": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "welfare, well-being (kesejahteraan)"
+    }
+  },
+  "katup": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the valve (katupnya)"
+    }
+  },
+  "lawak": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a comedian (pelawak)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to joke, perform comedy (melawak)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a comedy routine, joke (lawakan)"
+    }
+  },
+  "murung": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a moody, gloomy person (pemurung)"
+    }
+  },
+  "siul": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to whistle (bersiul)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a whistle, whistling sound (siulan)"
     }
   }
 }

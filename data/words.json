@@ -106,8 +106,8 @@
     },
     {
       "root": "abel",
-      "pos": "word",
-      "gloss": "able"
+      "pos": "proper",
+      "gloss": "Abel (biblical name)"
     },
     {
       "root": "abetalipoproteinemia",
@@ -6776,7 +6776,7 @@
     },
     {
       "root": "bersiul",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "whistle"
     },
     {
@@ -9378,6 +9378,11 @@
       "root": "cuka",
       "pos": "word",
       "gloss": "vinegar"
+    },
+    {
+      "root": "cukai",
+      "pos": "word",
+      "gloss": "tax, duty, excise"
     },
     {
       "root": "cukup",
@@ -20951,7 +20956,7 @@
     },
     {
       "root": "kehangatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "warmth"
     },
     {
@@ -22211,7 +22216,7 @@
     },
     {
       "root": "kesejahteraan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "welfare, well-being"
     },
     {
@@ -28706,7 +28711,7 @@
     },
     {
       "root": "memindai",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "scan"
     },
     {
@@ -29106,7 +29111,7 @@
     },
     {
       "root": "menelusuri",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "browse"
     },
     {
@@ -29836,7 +29841,7 @@
     },
     {
       "root": "menyeluruh",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "full, overarching"
     },
     {
@@ -34651,7 +34656,7 @@
     },
     {
       "root": "pemindahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "dislodgement"
     },
     {
@@ -34846,7 +34851,7 @@
     },
     {
       "root": "pencerahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "enlightenment"
     },
     {
@@ -40665,6 +40670,11 @@
       "gloss": "seismology"
     },
     {
+      "root": "sejahtera",
+      "pos": "word",
+      "gloss": "prosperous, well (bound root)"
+    },
+    {
       "root": "sejarah",
       "pos": "word",
       "gloss": "history"
@@ -42425,8 +42435,13 @@
       "gloss": "site"
     },
     {
-      "root": "siulan",
+      "root": "siul",
       "pos": "word",
+      "gloss": "to whistle (bound root)"
+    },
+    {
+      "root": "siulan",
+      "pos": "derived",
       "gloss": "whistle"
     },
     {
@@ -44818,6 +44833,11 @@
       "root": "telur",
       "pos": "word",
       "gloss": "egg"
+    },
+    {
+      "root": "telusur",
+      "pos": "word",
+      "gloss": "to trace, browse (bound root)"
     },
     {
       "root": "tema",
