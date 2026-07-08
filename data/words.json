@@ -335,8 +335,13 @@
       "gloss": "acidaemia"
     },
     {
-      "root": "acuan",
+      "root": "acu",
       "pos": "word",
+      "gloss": "to refer, aim, point (bound root)"
+    },
+    {
+      "root": "acuan",
+      "pos": "derived",
       "gloss": "reference"
     },
     {
@@ -15415,8 +15420,13 @@
       "gloss": "quoll"
     },
     {
-      "root": "gumpalan",
+      "root": "gumpal",
       "pos": "word",
+      "gloss": "a clump, mass (bound root)"
+    },
+    {
+      "root": "gumpalan",
+      "pos": "derived",
       "gloss": "column"
     },
     {
@@ -20811,7 +20821,7 @@
     },
     {
       "root": "kecocokan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "fitness"
     },
     {
@@ -21365,6 +21375,11 @@
       "gloss": "gland"
     },
     {
+      "root": "kelereng",
+      "pos": "word",
+      "gloss": "marble (the toy)"
+    },
+    {
       "root": "keliling",
       "pos": "word",
       "gloss": "around; circumference"
@@ -21761,7 +21776,7 @@
     },
     {
       "root": "kengerian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "terror"
     },
     {
@@ -29861,7 +29876,7 @@
     },
     {
       "root": "menyalurkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "canalise"
     },
     {
@@ -31785,6 +31800,11 @@
       "gloss": "ass, bang"
     },
     {
+      "root": "ngeri",
+      "pos": "word",
+      "gloss": "horrified, terrified (bound root)"
+    },
+    {
       "root": "ngok",
       "pos": "word",
       "gloss": "oink"
@@ -33040,6 +33060,11 @@
       "gloss": "whereas, although (contrastive)"
     },
     {
+      "root": "padam",
+      "pos": "word",
+      "gloss": "extinguished, off (bound root)"
+    },
+    {
       "root": "padan",
       "pos": "word",
       "gloss": "equivalent, match"
@@ -33140,8 +33165,13 @@
       "gloss": "pakistan"
     },
     {
-      "root": "paksaan",
+      "root": "paksa",
       "pos": "word",
+      "gloss": "to force, coerce (bound root)"
+    },
+    {
+      "root": "paksaan",
+      "pos": "derived",
       "gloss": "coercion"
     },
     {
@@ -34486,7 +34516,7 @@
     },
     {
       "root": "pemadaman",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "quenching"
     },
     {
@@ -35316,7 +35346,7 @@
     },
     {
       "root": "penghakiman",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "judgment"
     },
     {
@@ -40193,6 +40223,11 @@
       "root": "salon",
       "pos": "word",
       "gloss": "salon"
+    },
+    {
+      "root": "salur",
+      "pos": "word",
+      "gloss": "to channel, direct (bound root)"
     },
     {
       "root": "salwar",

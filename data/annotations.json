@@ -13688,6 +13688,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "matching, verification (pencocokan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "fitness, compatibility (kecocokan)"
     }
   },
   "cahaya": {
@@ -15300,6 +15304,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the judge (hakimnya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "judgment (penghakiman)"
     }
   },
   "ciptaan": {
@@ -27339,6 +27347,128 @@
     "ber": {
       "state": "valid",
       "gloss": "veiled, covered (bertudung)"
+    }
+  },
+  "lereng": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kelereng (marble, the toy) is mechanically lereng + ke but is an unrelated word, added as its own headword; lereng (slope) has no attested productive ke- derivation"
+    }
+  },
+  "acu": {
+    "me": {
+      "state": "valid",
+      "gloss": "to refer to (mengacu)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a reference, standard (acuan)"
+    }
+  },
+  "kacu": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengacu is a phonological convergence -- both kacu (k-initial, deletes k) and acu (vowel-initial, adds ng) mechanically produce the same string; the real word (to refer to) is acu.me, kacu (tissue) has no such verb"
+    }
+  },
+  "papar": {
+    "ter": {
+      "state": "valid",
+      "gloss": "exposed (terpapar)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "an exposition, presentation (paparan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to present, expose (memaparkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a presentation (pemaparan)"
+    }
+  },
+  "padam": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "quenching, a blackout (pemadaman)"
+    }
+  },
+  "balut": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a bandage, sanitary pad (pembalut)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to wrap, bandage (membalut)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a wrapping, bandage (balutan)"
+    }
+  },
+  "jongkok": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to squat (berjongkok)"
+    }
+  },
+  "guci": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the jar, urn (gucinya)"
+    }
+  },
+  "salur": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to channel, direct (menyalurkan)"
+    }
+  },
+  "ekstrak": {
+    "me": {
+      "state": "valid",
+      "gloss": "to extract (mengekstrak)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be extracted (passive) (diekstrak)"
+    }
+  },
+  "gumpal": {
+    "an": {
+      "state": "valid",
+      "gloss": "a clump, mass (gumpalan)"
+    }
+  },
+  "ngeri": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "terror (kengerian)"
+    }
+  },
+  "paksa": {
+    "an": {
+      "state": "valid",
+      "gloss": "coercion (paksaan)"
+    }
+  },
+  "bakti": {
+    "ber": {
+      "state": "valid",
+      "gloss": "devoted, dutiful (berbakti)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a church service, devotion (kebaktian)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to devote, dedicate (membaktikan)"
     }
   }
 }

@@ -77,7 +77,8 @@ basi perspektif bangsal biarawan paramedis patriot organisme mandiri oven sakura
 frustrasi persik koktail bordil etika adrenalin kodok wol cenayang sembrono barak sirene kanselir munafik sensei tembaga vitamin dermawan jeda bea diantaranya
 firaun siput guntur obligasi bunda misa musang artefak artileri analis beton mukjizat gelanggang antusias lengket cebol balok gurita trotoar pelit tepung imigran serat nekat pesaing kecapi
 jahanam absen drastis konduktor sekrup muslihat tulip piyama deras gubuk lipstik tembakau amnesia peleton belalang keberangkatan
-dekan lembek bahtera adat fitur bersin bikini hipotek monumen badak eksotis opini platform teladan genius sereal puan sindrom heroik berkenan faksi kalori'''.split())
+dekan lembek bahtera adat fitur bersin bikini hipotek monumen badak eksotis opini platform teladan genius sereal puan sindrom heroik berkenan faksi kalori
+mempercayakan petak operasional ranting wisatawan instan bego gram kapur magis akhirat angkuh diplomatik klise pribumi cerobong germo liter sake karaoke sekoci zaitun geologi cakrawala cream kelereng'''.split())
 
 
 def main():
