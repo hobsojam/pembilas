@@ -11,6 +11,7 @@
   // The {form, via} of the search result that led here, so the affix table
   // can show that derivation even when its slot is un-annotated (#53).
   let searchContext = $state(null)
+  let searchResetToken = $state(0)
   const selectedWord = $derived(words.find(w => w.root === selectedRoot))
 
   let guideOpen = $state(false)
@@ -20,11 +21,20 @@
     guideOpen = false
     guideButtonEl?.focus()
   }
+
+  function resetHome(event) {
+    event.preventDefault()
+    selectedRoot = null
+    searchContext = null
+    searchResetToken += 1
+  }
 </script>
 
 <header>
   <div class="brand">
-    <img src="{import.meta.env.BASE_URL}logo.svg" alt="pemBILAS" class="logo" />
+    <a href={import.meta.env.BASE_URL} class="home-link" onclick={resetHome}>
+      <img src="{import.meta.env.BASE_URL}logo.svg" alt="pemBILAS" class="logo" />
+    </a>
     <h1>Bahasa Indonesia Language Affix System</h1>
   </div>
   <button class="guide-btn" bind:this={guideButtonEl} onclick={() => guideOpen = true}>
@@ -38,7 +48,11 @@
 
 <main>
   <div class="search-wrapper">
-    <WordSearch {words} onSelect={(root, ctx) => { selectedRoot = root; searchContext = ctx ?? null }} />
+    <WordSearch
+      {words}
+      resetToken={searchResetToken}
+      onSelect={(root, ctx) => { selectedRoot = root; searchContext = ctx ?? null }}
+    />
   </div>
 
   <div class="sr-only" role="status">
@@ -89,10 +103,17 @@
     min-width: 0;
   }
 
+  .home-link {
+    flex-shrink: 0;
+    display: block;
+    border-radius: 4px;
+  }
+
+  .home-link:focus-visible { outline: 2px solid white; outline-offset: 3px; }
+
   .logo {
     height: 40px;
     width: auto;
-    flex-shrink: 0;
     border-radius: 4px;
     background: white;
     padding: 3px;
