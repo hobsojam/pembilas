@@ -27871,5 +27871,89 @@
       "state": "valid",
       "gloss": "in a nutshell, in short (ringkasnya)"
     }
+  },
+  "wawas": {
+    "an": {
+      "state": "valid",
+      "gloss": "insight, vision, perspective (wawasan)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "having insight, visionary (berwawasan)"
+    }
+  },
+  "ironi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the irony (ironinya)"
+    }
+  },
+  "makelar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the broker (makelarnya)"
+    }
+  },
+  "cemooh": {
+    "me": {
+      "state": "valid",
+      "gloss": "to denigrate, mock (mencemooh)"
+    }
+  },
+  "unduh": {
+    "me": {
+      "state": "valid",
+      "gloss": "to download (mengunduh)"
+    }
+  },
+  "dosen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the lecturer (dosennya)"
+    }
+  },
+  "rajut": {
+    "me": {
+      "state": "valid",
+      "gloss": "to knit (merajut)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "knitwork (rajutan)"
+    }
+  },
+  "beber": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to disclose (membeberkan)"
+    }
+  },
+  "diskualifikasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be disqualified (passive) (didiskualifikasi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to disqualify (mendiskualifikasi)"
+    }
+  },
+  "pikul": {
+    "me": {
+      "state": "valid",
+      "gloss": "to carry on the shoulder (memikul)"
+    }
+  },
+  "testis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the testicle (testisnya)"
+    }
+  },
+  "brosur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the brochure (brosurnya)"
+    }
   }
 }

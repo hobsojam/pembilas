@@ -6020,6 +6020,11 @@
       "gloss": "duck"
     },
     {
+      "root": "beber",
+      "pos": "word",
+      "gloss": "to spread out, disclose (bound root)"
+    },
+    {
       "root": "beberan",
       "pos": "word",
       "gloss": "spoiler"
@@ -8968,6 +8973,11 @@
       "root": "cemburu",
       "pos": "word",
       "gloss": "envy, jealous"
+    },
+    {
+      "root": "cemooh",
+      "pos": "word",
+      "gloss": "mockery, derision (bound root)"
     },
     {
       "root": "cempaka",
@@ -21201,7 +21211,7 @@
     },
     {
       "root": "kekeringan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "drought"
     },
     {
@@ -28706,7 +28716,7 @@
     },
     {
       "root": "membeberkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "disclose"
     },
     {
@@ -29091,7 +29101,7 @@
     },
     {
       "root": "mencemooh",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "denigrate"
     },
     {
@@ -29696,7 +29706,7 @@
     },
     {
       "root": "menguliti",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "skinning"
     },
     {
@@ -29711,7 +29721,7 @@
     },
     {
       "root": "mengunduh",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "download"
     },
     {
@@ -47180,6 +47190,11 @@
       "gloss": "underscore"
     },
     {
+      "root": "unduh",
+      "pos": "word",
+      "gloss": "to download (bound root)"
+    },
+    {
       "root": "unggah",
       "pos": "word",
       "gloss": "upload"
@@ -48050,8 +48065,13 @@
       "gloss": "interview"
     },
     {
-      "root": "wawasan",
+      "root": "wawas",
       "pos": "word",
+      "gloss": "to view, envision (bound root)"
+    },
+    {
+      "root": "wawasan",
+      "pos": "derived",
       "gloss": "insight"
     },
     {
