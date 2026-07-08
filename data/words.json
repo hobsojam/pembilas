@@ -6310,8 +6310,13 @@
       "gloss": "banner, flag"
     },
     {
-      "root": "bendungan",
+      "root": "bendung",
       "pos": "word",
+      "gloss": "to dam, block (a river) (bound root)"
+    },
+    {
+      "root": "bendungan",
+      "pos": "derived",
       "gloss": "dam"
     },
     {
@@ -21941,7 +21946,7 @@
     },
     {
       "root": "keracunan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "poisoning"
     },
     {
@@ -22176,7 +22181,7 @@
     },
     {
       "root": "kesatria",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "kshatriya"
     },
     {
@@ -28656,7 +28661,7 @@
     },
     {
       "root": "memenjarakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "imprison"
     },
     {
@@ -35051,7 +35056,7 @@
     },
     {
       "root": "pengangguran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "unemployment"
     },
     {
@@ -35531,7 +35536,7 @@
     },
     {
       "root": "penyebaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "propagation"
     },
     {
@@ -40385,6 +40390,11 @@
       "gloss": "security guard"
     },
     {
+      "root": "satria",
+      "pos": "word",
+      "gloss": "knight, hero, warrior"
+    },
+    {
       "root": "satu",
       "pos": "word",
       "gloss": "one"
@@ -40833,6 +40843,11 @@
       "root": "sel",
       "pos": "word",
       "gloss": "cell"
+    },
+    {
+      "root": "selada",
+      "pos": "word",
+      "gloss": "lettuce"
     },
     {
       "root": "selai",
@@ -44265,8 +44280,13 @@
       "gloss": "date"
     },
     {
-      "root": "tangisan",
+      "root": "tangis",
       "pos": "word",
+      "gloss": "to cry (bound root)"
+    },
+    {
+      "root": "tangisan",
+      "pos": "derived",
       "gloss": "crying"
     },
     {

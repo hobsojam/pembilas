@@ -12679,6 +12679,10 @@
     "kan": {
       "state": "valid",
       "gloss": "imprison him/her! (penjarakan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to imprison (memenjarakan)"
     }
   },
   "awas": {
@@ -15644,6 +15648,10 @@
       "state": "valid",
       "gloss": "to be unemployed, idle (menganggur)",
       "notes": "an older, distinct sense from anggur 'grape, wine'"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "unemployment (pengangguran)"
     }
   },
   "energi": {
@@ -16259,6 +16267,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to spread (something) (menyebarkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "propagation, dissemination (penyebaran)"
     }
   },
   "kacau": {
@@ -26540,6 +26552,148 @@
     "nya": {
       "state": "valid",
       "gloss": "the sperm (spermanya)"
+    }
+  },
+  "satria": {
+    "ke": {
+      "state": "valid",
+      "gloss": "a knight, warrior (kesatria)"
+    }
+  },
+  "harum": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "fragrance (keharuman)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to spread the fame of, glorify (mengharumkan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an air freshener (pengharum)"
+    }
+  },
+  "miring": {
+    "kan": {
+      "state": "valid",
+      "gloss": "tilt it! (miringkan)"
+    }
+  },
+  "acuh": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to heed, pay attention to (mengacuhkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "heed it! (acuhkan)"
+    }
+  },
+  "tangis": {
+    "an": {
+      "state": "valid",
+      "gloss": "crying, weeping (tangisan)"
+    }
+  },
+  "setrum": {
+    "me": {
+      "state": "valid",
+      "gloss": "to electrocute, shock (menyetrum)"
+    },
+    "ke": {
+      "state": "valid",
+      "gloss": "to get shocked (kesetrum)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be shocked (passive) (disetrum)"
+    }
+  },
+  "taring": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fang, canine tooth (taringnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having fangs (bertaring)"
+    }
+  },
+  "profesi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the profession (profesinya)"
+    }
+  },
+  "sponsor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sponsor (sponsornya)"
+    }
+  },
+  "cela": {
+    "ter": {
+      "state": "valid",
+      "gloss": "disgraceful (tercela)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to criticize, reproach (mencela)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a criticism, reproach (celaan)"
+    }
+  },
+  "gagap": {
+    "ter": {
+      "state": "valid",
+      "gloss": "to stammer suddenly (tergagap)"
+    }
+  },
+  "gendong": {
+    "me": {
+      "state": "valid",
+      "gloss": "to carry, piggyback (menggendong)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be carried, piggybacked (passive) (digendong)"
+    }
+  },
+  "toleransi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be tolerated (passive) (ditoleransi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to tolerate (menoleransi)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to be tolerant (bertoleransi)"
+    }
+  },
+  "bendung": {
+    "an": {
+      "state": "valid",
+      "gloss": "a dam (bendungan)"
+    }
+  },
+  "garuk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to scratch (menggaruk)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be scratched (passive) (digaruk)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a rake, scraper (penggaruk)"
     }
   }
 }
