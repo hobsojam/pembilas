@@ -17695,6 +17695,11 @@
       "gloss": "insulin"
     },
     {
+      "root": "intai",
+      "pos": "word",
+      "gloss": "to spy on, observe (bound root)"
+    },
+    {
       "root": "intak",
       "pos": "adjective",
       "gloss": "intact"
@@ -19673,6 +19678,11 @@
       "root": "kantor",
       "pos": "word",
       "gloss": "office"
+    },
+    {
+      "root": "kantuk",
+      "pos": "word",
+      "gloss": "drowsiness, sleepiness (bound root)"
     },
     {
       "root": "kanyon",
@@ -25965,6 +25975,11 @@
       "gloss": "more, excess"
     },
     {
+      "root": "leceh",
+      "pos": "word",
+      "gloss": "to belittle, harass (bound root)"
+    },
+    {
       "root": "lecek",
       "pos": "word",
       "gloss": "crumple"
@@ -29181,7 +29196,7 @@
     },
     {
       "root": "mengantuk",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "sleepy"
     },
     {
@@ -29491,7 +29506,7 @@
     },
     {
       "root": "mengosongkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "deplete"
     },
     {
@@ -34276,7 +34291,7 @@
     },
     {
       "root": "peleceh",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "harasser"
     },
     {
@@ -34861,7 +34876,7 @@
     },
     {
       "root": "pendaftaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "application"
     },
     {
@@ -35221,7 +35236,7 @@
     },
     {
       "root": "pengintaian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "reconnaissance"
     },
     {
@@ -35566,7 +35581,7 @@
     },
     {
       "root": "penyidik",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "investigator"
     },
     {
@@ -41765,6 +41780,11 @@
       "gloss": "busy"
     },
     {
+      "root": "sidik",
+      "pos": "word",
+      "gloss": "to investigate (bound root)"
+    },
+    {
       "root": "sidon",
       "pos": "proper",
       "gloss": "sidon"
@@ -45675,8 +45695,13 @@
       "gloss": "step-"
     },
     {
-      "root": "tiruan",
+      "root": "tiru",
       "pos": "word",
+      "gloss": "to imitate, copy (bound root)"
+    },
+    {
+      "root": "tiruan",
+      "pos": "derived",
       "gloss": "counterfeit"
     },
     {

@@ -67,7 +67,8 @@ kosmos wahyu genetika
 gatal kadal pramuka alibi jazz senat reaktor relevan harfiah terminal ham ungu mekanik pensil bilik apak dahlia
 narapidana persegi diskon lem pelangi nat amber atlet tetua radius jerami segi
 selai alias lesbian euro piramida beta demokrasi sutra logis dinas bug kursus asosiasi uskup salon fenomena geli
-gray newton mutan dukun iklim tos ups galeri jurnalis tol atmosfer investor tisu selokan'''.split())
+gray newton mutan dukun iklim tos ups galeri jurnalis tol atmosfer investor tisu selokan
+protein liang bakteri administrasi lila tar molekul mutlak komet fase usang biarawati sadis rasional tenis dungu hawa nyamuk eksklusif tower buruh teras syair keterlibatan'''.split())
 
 
 def main():

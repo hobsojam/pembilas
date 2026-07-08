@@ -12393,6 +12393,10 @@
     "nya": {
       "state": "valid",
       "gloss": "its emptiness (kosongnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to empty, deplete, vacate (mengosongkan)"
     }
   },
   "acara": {
@@ -26002,6 +26006,106 @@
     "nya": {
       "state": "valid",
       "gloss": "the whistle (peluitnya)"
+    }
+  },
+  "rekayasa": {
+    "me": {
+      "state": "valid",
+      "gloss": "to engineer, fabricate (merekayasa)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be engineered, fabricated (passive) (direkayasa)"
+    }
+  },
+  "isu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the issue (isunya)"
+    }
+  },
+  "kontribusi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to contribute (berkontribusi)"
+    }
+  },
+  "tiru": {
+    "an": {
+      "state": "valid",
+      "gloss": "a counterfeit, imitation (tiruan)"
+    }
+  },
+  "parasut": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the parachute (parasutnya)"
+    }
+  },
+  "leceh": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a harasser (peleceh)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "harassment (pelecehan)"
+    }
+  },
+  "intai": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "reconnaissance, surveillance (pengintaian)"
+    }
+  },
+  "kantuk": {
+    "me": {
+      "state": "valid",
+      "gloss": "sleepy, drowsy (mengantuk)"
+    }
+  },
+  "minimal": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to minimize (meminimalkan)"
+    }
+  },
+  "sidik": {
+    "pe": {
+      "state": "valid",
+      "gloss": "an investigator (penyidik)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an investigation (penyidikan)"
+    }
+  },
+  "murka": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "wrath, fury (kemurkaan)"
+    }
+  },
+  "visa": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the visa (visanya)"
+    }
+  },
+  "kancing": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the button (kancingnya)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "button it up! (kancingkan)"
+    }
+  },
+  "kompromi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to compromise (berkompromi)"
     }
   }
 }
