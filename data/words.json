@@ -6566,7 +6566,7 @@
     },
     {
       "root": "bergumam",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "mumble"
     },
     {
@@ -14050,8 +14050,13 @@
       "gloss": "galaxy"
     },
     {
-      "root": "galangan",
+      "root": "galang",
       "pos": "word",
+      "gloss": "to mobilize, rally; to prop up (bound root)"
+    },
+    {
+      "root": "galangan",
+      "pos": "derived",
       "gloss": "shipyard, slipway"
     },
     {
@@ -15368,6 +15373,11 @@
       "root": "gulungan",
       "pos": "derived",
       "gloss": "scroll"
+    },
+    {
+      "root": "gumam",
+      "pos": "word",
+      "gloss": "to mumble (bound root)"
     },
     {
       "root": "gumbem",
@@ -20705,6 +20715,11 @@
       "gloss": "soy sauce"
     },
     {
+      "root": "kecapi",
+      "pos": "word",
+      "gloss": "kecapi (a plucked zither instrument)"
+    },
+    {
       "root": "kecelakaan",
       "pos": "word",
       "gloss": "accident"
@@ -21796,7 +21811,7 @@
     },
     {
       "root": "kepanikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "panic"
     },
     {
@@ -33400,6 +33415,11 @@
       "gloss": "wonton"
     },
     {
+      "root": "panik",
+      "pos": "word",
+      "gloss": "to panic; panicked (bound root)"
+    },
+    {
       "root": "panipuri",
       "pos": "word",
       "gloss": "panipuri"
@@ -34930,6 +34950,11 @@
       "gloss": "to bury, hide, suppress (feelings) (bound root)"
     },
     {
+      "root": "pendapat",
+      "pos": "word",
+      "gloss": "opinion, view"
+    },
+    {
       "root": "pendapatan",
       "pos": "derived",
       "gloss": "income, revenue"
@@ -36376,7 +36401,7 @@
     },
     {
       "root": "pertambangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "mining"
     },
     {
@@ -41185,8 +41210,13 @@
       "gloss": "abacus"
     },
     {
-      "root": "semprotan",
+      "root": "semprot",
       "pos": "word",
+      "gloss": "to spray (bound root)"
+    },
+    {
+      "root": "semprotan",
+      "pos": "derived",
       "gloss": "syringe"
     },
     {
@@ -41446,7 +41476,7 @@
     },
     {
       "root": "sependapat",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "unanimous"
     },
     {

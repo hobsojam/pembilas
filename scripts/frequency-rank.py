@@ -74,7 +74,8 @@ enggak horor indra kungfu dam mempersembahkan ala kardinal tahi kumbang arsitek 
 rasis sepakbola panci asteroid sol kafir komersial altar teleskop tenggara mineral uni almarhum instrumen tante
 psikologis kerbau maksimum narkotika norma hamburger hormon kesatria sukar permaisuri konsisten sushi supermarket duh ekspedisi radikal balkon cengeng kinerja resimen kalender selada
 basi perspektif bangsal biarawan paramedis patriot organisme mandiri oven sakura maestro astronomi gegabah relatif nyeri pincang taco federasi cukai
-frustrasi persik koktail bordil etika adrenalin kodok wol cenayang sembrono barak sirene kanselir munafik sensei tembaga vitamin dermawan jeda bea diantaranya'''.split())
+frustrasi persik koktail bordil etika adrenalin kodok wol cenayang sembrono barak sirene kanselir munafik sensei tembaga vitamin dermawan jeda bea diantaranya
+firaun siput guntur obligasi bunda misa musang artefak artileri analis beton mukjizat gelanggang antusias lengket cebol balok gurita trotoar pelit tepung imigran serat nekat pesaing kecapi'''.split())
 
 
 def main():

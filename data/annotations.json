@@ -18077,6 +18077,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "mining (penambangan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "mining (industry/sector) (pertambangan)"
     }
   },
   "gemar": {
@@ -26949,6 +26953,115 @@
     "di": {
       "state": "valid",
       "gloss": "to be modified (passive) (dimodifikasi)"
+    }
+  },
+  "pendapat": {
+    "se": {
+      "state": "valid",
+      "gloss": "unanimous, of the same opinion (sependapat)"
+    }
+  },
+  "liontin": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pendant (liontinnya)"
+    }
+  },
+  "busa": {
+    "ber": {
+      "state": "valid",
+      "gloss": "foamy, to foam (berbusa)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the foam (busanya)"
+    }
+  },
+  "manuver": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to maneuver (bermanuver)"
+    }
+  },
+  "jangkar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the anchor (jangkarnya)"
+    }
+  },
+  "kecap": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kecapi (a zither instrument) is mechanically kecap + i but is an unrelated word, added as its own headword; kecap (soy sauce) has no attested productive -i derivation"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to taste (mengecap)"
+    }
+  },
+  "galang": {
+    "an": {
+      "state": "valid",
+      "gloss": "a shipyard, slipway (galangan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "mobilization, rallying (e.g. fundraising) (penggalangan)"
+    }
+  },
+  "bibit": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "seedling cultivation (pembibitan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the sapling, seed (bibitnya)"
+    }
+  },
+  "syal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the scarf, shawl (syalnya)"
+    }
+  },
+  "sejuk": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "cooling, refreshing (menyejukkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "coolness (kesejukan)"
+    }
+  },
+  "semprot": {
+    "an": {
+      "state": "valid",
+      "gloss": "a spray, syringe (semprotan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "spraying (penyemprotan)"
+    }
+  },
+  "anggun": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "elegance (keanggunan)"
+    }
+  },
+  "gumam": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to mumble (bergumam)"
+    }
+  },
+  "panik": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "panic (kepanikan)"
     }
   }
 }
