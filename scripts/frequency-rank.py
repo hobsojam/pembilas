@@ -80,7 +80,8 @@ jahanam absen drastis konduktor sekrup muslihat tulip piyama deras gubuk lipstik
 dekan lembek bahtera adat fitur bersin bikini hipotek monumen badak eksotis opini platform teladan genius sereal puan sindrom heroik berkenan faksi kalori
 mempercayakan petak operasional ranting wisatawan instan bego gram kapur magis akhirat angkuh diplomatik klise pribumi cerobong germo liter sake karaoke sekoci zaitun geologi cakrawala cream kelereng
 kamerad telegram fotografi politikus astronom haluan kincir anomali helium ceri dadah jutawan una mumi pilar direksi dot kavaleri keterlambatan lot rosemary arsitektur kalajengking kidal lobak mayoritas
-poni surgawi kari legiun psikolog sirup ereksi lintah masjid sulung arak kabinet kewalahan dobel kapel memperbolehkan ons takhayul tiram bedak mercusuar strategis gipsi'''.split())
+poni surgawi kari legiun psikolog sirup ereksi lintah masjid sulung arak kabinet kewalahan dobel kapel memperbolehkan ons takhayul tiram bedak mercusuar strategis gipsi
+radioaktif tropis anonim kanibal adapun kuartal paten babu barikade kubis arkeolog kedap reptil hipotesis samudra akuarium kawah kedelai mega perunggu bambu detektor fakultas kudeta aborsi'''.split())
 
 
 def main():

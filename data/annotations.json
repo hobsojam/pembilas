@@ -19546,6 +19546,10 @@
     "ber": {
       "state": "valid",
       "gloss": "compounded, doubled (berganda)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to double, duplicate (menggandakan)"
     }
   },
   "puisi": {
@@ -27659,6 +27663,99 @@
     "an": {
       "state": "valid",
       "gloss": "an abbreviation (singkatan)"
+    }
+  },
+  "siku": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the elbow (sikunya)"
+    }
+  },
+  "gigil": {
+    "me": {
+      "state": "valid",
+      "gloss": "to shiver (menggigil)"
+    }
+  },
+  "bungsu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the lastborn (bungsunya)"
+    }
+  },
+  "deportasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be deported (passive) (dideportasi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to deport (mendeportasi)"
+    }
+  },
+  "polong": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pod (polongnya)"
+    }
+  },
+  "spesifikasi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the specification (spesifikasinya)"
+    }
+  },
+  "lucut": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to strip, disarm (melucuti)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to strip, disarm (melucut)"
+    }
+  },
+  "slogan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the slogan (slogannya)"
+    }
+  },
+  "puasa": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to fast (berpuasa)"
+    }
+  },
+  "gagang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the hilt, handle (gagangnya)"
+    }
+  },
+  "kental": {
+    "me": {
+      "state": "valid",
+      "gloss": "to thicken, congeal (mengental)"
+    }
+  },
+  "lumbung": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the granary (lumbungnya)"
+    }
+  },
+  "lamun": {
+    "me": {
+      "state": "valid",
+      "gloss": "to daydream (melamun)"
+    }
+  },
+  "ental": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengental is a phonological convergence -- both kental (k-initial, deletes k) and ental (vowel-initial, adds ng) mechanically produce the same string; the real word (to thicken) is kental.me, ental (frond) has no such verb"
     }
   }
 }

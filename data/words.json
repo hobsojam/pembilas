@@ -14920,6 +14920,11 @@
       "gloss": "tooth"
     },
     {
+      "root": "gigil",
+      "pos": "word",
+      "gloss": "to shiver (bound root)"
+    },
+    {
       "root": "gigit",
       "pos": "word",
       "gloss": "bite"
@@ -25782,7 +25787,7 @@
     {
       "root": "lamun",
       "pos": "word",
-      "gloss": "seagrass"
+      "gloss": "seagrass; (as bound root) to daydream"
     },
     {
       "root": "lancip",
@@ -27078,6 +27083,11 @@
       "root": "lucu",
       "pos": "adjective",
       "gloss": "funny"
+    },
+    {
+      "root": "lucut",
+      "pos": "word",
+      "gloss": "to strip, disarm (bound root)"
     },
     {
       "root": "ludah",
@@ -28546,7 +28556,7 @@
     },
     {
       "root": "melucut",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "discharge"
     },
     {
@@ -29456,7 +29466,7 @@
     },
     {
       "root": "menggandakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "double"
     },
     {
@@ -29476,7 +29486,7 @@
     },
     {
       "root": "menggigil",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "dither"
     },
     {
@@ -35286,7 +35296,7 @@
     },
     {
       "root": "pengembalian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "refund"
     },
     {
