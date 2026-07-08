@@ -71,7 +71,11 @@ gray newton mutan dukun iklim tos ups galeri jurnalis tol atmosfer investor tisu
 protein liang bakteri administrasi lila tar molekul mutlak komet fase usang biarawati sadis rasional tenis dungu hawa nyamuk eksklusif tower buruh teras syair keterlibatan penyair seperempat
 stadion karate kurcaci salmon hoki kompi biologis semak koi zombi cerewet faktor orgasme terorisme wewenang bebatuan kejang lap untai kasi pening
 enggak horor indra kungfu dam mempersembahkan ala kardinal tahi kumbang arsitek koroner lusa balet provinsi sebelas parlemen pedesaan kepemimpinan legendaris bankir elegan gerhana lobster parit
-rasis sepakbola panci asteroid sol kafir komersial altar teleskop tenggara mineral uni almarhum instrumen tante'''.split())
+rasis sepakbola panci asteroid sol kafir komersial altar teleskop tenggara mineral uni almarhum instrumen tante
+psikologis kerbau maksimum narkotika norma hamburger hormon kesatria sukar permaisuri konsisten sushi supermarket duh ekspedisi radikal balkon cengeng kinerja resimen kalender selada
+basi perspektif bangsal biarawan paramedis patriot organisme mandiri oven sakura maestro astronomi gegabah relatif nyeri pincang taco federasi cukai
+frustrasi persik koktail bordil etika adrenalin kodok wol cenayang sembrono barak sirene kanselir munafik sensei tembaga vitamin dermawan jeda bea diantaranya
+firaun siput guntur obligasi bunda misa musang artefak artileri analis beton mukjizat gelanggang antusias lengket cebol balok gurita trotoar pelit tepung imigran serat nekat pesaing kecapi'''.split())
 
 
 def main():

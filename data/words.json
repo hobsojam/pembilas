@@ -106,8 +106,8 @@
     },
     {
       "root": "abel",
-      "pos": "word",
-      "gloss": "able"
+      "pos": "proper",
+      "gloss": "Abel (biblical name)"
     },
     {
       "root": "abetalipoproteinemia",
@@ -5115,6 +5115,11 @@
       "gloss": "plough"
     },
     {
+      "root": "bajik",
+      "pos": "word",
+      "gloss": "virtuous (archaic, bound root)"
+    },
+    {
       "root": "bajing",
       "pos": "word",
       "gloss": "squirrel"
@@ -6310,8 +6315,13 @@
       "gloss": "banner, flag"
     },
     {
-      "root": "bendungan",
+      "root": "bendung",
       "pos": "word",
+      "gloss": "to dam, block (a river) (bound root)"
+    },
+    {
+      "root": "bendungan",
+      "pos": "derived",
       "gloss": "dam"
     },
     {
@@ -6556,7 +6566,7 @@
     },
     {
       "root": "bergumam",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "mumble"
     },
     {
@@ -6771,7 +6781,7 @@
     },
     {
       "root": "bersiul",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "whistle"
     },
     {
@@ -8150,8 +8160,13 @@
       "gloss": "bubble"
     },
     {
-      "root": "bujangan",
+      "root": "bujang",
       "pos": "word",
+      "gloss": "a bachelor; a young servant (bound root)"
+    },
+    {
+      "root": "bujangan",
+      "pos": "derived",
       "gloss": "boy"
     },
     {
@@ -9373,6 +9388,11 @@
       "root": "cuka",
       "pos": "word",
       "gloss": "vinegar"
+    },
+    {
+      "root": "cukai",
+      "pos": "word",
+      "gloss": "tax, duty, excise"
     },
     {
       "root": "cukup",
@@ -14030,8 +14050,13 @@
       "gloss": "galaxy"
     },
     {
-      "root": "galangan",
+      "root": "galang",
       "pos": "word",
+      "gloss": "to mobilize, rally; to prop up (bound root)"
+    },
+    {
+      "root": "galangan",
+      "pos": "derived",
       "gloss": "shipyard, slipway"
     },
     {
@@ -15348,6 +15373,11 @@
       "root": "gulungan",
       "pos": "derived",
       "gloss": "scroll"
+    },
+    {
+      "root": "gumam",
+      "pos": "word",
+      "gloss": "to mumble (bound root)"
     },
     {
       "root": "gumbem",
@@ -20541,7 +20571,7 @@
     },
     {
       "root": "kebajikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "virtue, arete"
     },
     {
@@ -20685,13 +20715,18 @@
       "gloss": "soy sauce"
     },
     {
+      "root": "kecapi",
+      "pos": "word",
+      "gloss": "kecapi (a plucked zither instrument)"
+    },
+    {
       "root": "kecelakaan",
       "pos": "word",
       "gloss": "accident"
     },
     {
       "root": "kecemasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "anxiety, concern"
     },
     {
@@ -20946,7 +20981,7 @@
     },
     {
       "root": "kehangatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "warmth"
     },
     {
@@ -21776,7 +21811,7 @@
     },
     {
       "root": "kepanikan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "panic"
     },
     {
@@ -21941,7 +21976,7 @@
     },
     {
       "root": "keracunan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "poisoning"
     },
     {
@@ -22176,7 +22211,7 @@
     },
     {
       "root": "kesatria",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "kshatriya"
     },
     {
@@ -22206,7 +22241,7 @@
     },
     {
       "root": "kesejahteraan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "welfare, well-being"
     },
     {
@@ -22578,6 +22613,11 @@
       "root": "ketigapuluh",
       "pos": "adjective",
       "gloss": "thirtieth"
+    },
+    {
+      "root": "ketik",
+      "pos": "word",
+      "gloss": "to type (bound root)"
     },
     {
       "root": "ketika",
@@ -28656,7 +28696,7 @@
     },
     {
       "root": "memenjarakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "imprison"
     },
     {
@@ -28701,7 +28741,7 @@
     },
     {
       "root": "memindai",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "scan"
     },
     {
@@ -29101,7 +29141,7 @@
     },
     {
       "root": "menelusuri",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "browse"
     },
     {
@@ -29326,7 +29366,7 @@
     },
     {
       "root": "mengetik",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "type"
     },
     {
@@ -29576,7 +29616,7 @@
     },
     {
       "root": "mengutip",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "quote"
     },
     {
@@ -29831,7 +29871,7 @@
     },
     {
       "root": "menyeluruh",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "full, overarching"
     },
     {
@@ -33375,6 +33415,11 @@
       "gloss": "wonton"
     },
     {
+      "root": "panik",
+      "pos": "word",
+      "gloss": "to panic; panicked (bound root)"
+    },
+    {
       "root": "panipuri",
       "pos": "word",
       "gloss": "panipuri"
@@ -34646,7 +34691,7 @@
     },
     {
       "root": "pemindahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "dislodgement"
     },
     {
@@ -34841,7 +34886,7 @@
     },
     {
       "root": "pencerahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "enlightenment"
     },
     {
@@ -34903,6 +34948,11 @@
       "root": "pendam",
       "pos": "word",
       "gloss": "to bury, hide, suppress (feelings) (bound root)"
+    },
+    {
+      "root": "pendapat",
+      "pos": "word",
+      "gloss": "opinion, view"
     },
     {
       "root": "pendapatan",
@@ -35051,7 +35101,7 @@
     },
     {
       "root": "pengangguran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "unemployment"
     },
     {
@@ -35236,7 +35286,7 @@
     },
     {
       "root": "penghancuran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "demolition"
     },
     {
@@ -35531,7 +35581,7 @@
     },
     {
       "root": "penyebaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "propagation"
     },
     {
@@ -35921,7 +35971,7 @@
     },
     {
       "root": "peretas",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "hacker"
     },
     {
@@ -36351,7 +36401,7 @@
     },
     {
       "root": "pertambangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "mining"
     },
     {
@@ -39915,6 +39965,11 @@
       "gloss": "suhur"
     },
     {
+      "root": "saing",
+      "pos": "word",
+      "gloss": "to compete, rival (bound root)"
+    },
+    {
       "root": "sajadah",
       "pos": "word",
       "gloss": "prayer rug"
@@ -40385,6 +40440,11 @@
       "gloss": "security guard"
     },
     {
+      "root": "satria",
+      "pos": "word",
+      "gloss": "knight, hero, warrior"
+    },
+    {
       "root": "satu",
       "pos": "word",
       "gloss": "one"
@@ -40655,6 +40715,11 @@
       "gloss": "seismology"
     },
     {
+      "root": "sejahtera",
+      "pos": "word",
+      "gloss": "prosperous, well (bound root)"
+    },
+    {
       "root": "sejarah",
       "pos": "word",
       "gloss": "history"
@@ -40833,6 +40898,11 @@
       "root": "sel",
       "pos": "word",
       "gloss": "cell"
+    },
+    {
+      "root": "selada",
+      "pos": "word",
+      "gloss": "lettuce"
     },
     {
       "root": "selai",
@@ -41140,8 +41210,13 @@
       "gloss": "abacus"
     },
     {
-      "root": "semprotan",
+      "root": "semprot",
       "pos": "word",
+      "gloss": "to spray (bound root)"
+    },
+    {
+      "root": "semprotan",
+      "pos": "derived",
       "gloss": "syringe"
     },
     {
@@ -41401,7 +41476,7 @@
     },
     {
       "root": "sependapat",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "unanimous"
     },
     {
@@ -41545,8 +41620,13 @@
       "gloss": "serotonin"
     },
     {
-      "root": "serpihan",
+      "root": "serpih",
       "pos": "word",
+      "gloss": "a chip, flake, splinter (bound root)"
+    },
+    {
+      "root": "serpihan",
+      "pos": "derived",
       "gloss": "debris"
     },
     {
@@ -42410,8 +42490,13 @@
       "gloss": "site"
     },
     {
-      "root": "siulan",
+      "root": "siul",
       "pos": "word",
+      "gloss": "to whistle (bound root)"
+    },
+    {
+      "root": "siulan",
+      "pos": "derived",
       "gloss": "whistle"
     },
     {
@@ -44265,8 +44350,13 @@
       "gloss": "date"
     },
     {
-      "root": "tangisan",
+      "root": "tangis",
       "pos": "word",
+      "gloss": "to cry (bound root)"
+    },
+    {
+      "root": "tangisan",
+      "pos": "derived",
       "gloss": "crying"
     },
     {
@@ -44798,6 +44888,11 @@
       "root": "telur",
       "pos": "word",
       "gloss": "egg"
+    },
+    {
+      "root": "telusur",
+      "pos": "word",
+      "gloss": "to trace, browse (bound root)"
     },
     {
       "root": "tema",

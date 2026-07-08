@@ -12021,6 +12021,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "destruction, devastation (kehancuran)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "demolition, destruction (penghancuran)"
     }
   },
   "hampir": {
@@ -12679,6 +12683,10 @@
     "kan": {
       "state": "valid",
       "gloss": "imprison him/her! (penjarakan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to imprison (memenjarakan)"
     }
   },
   "awas": {
@@ -15644,6 +15652,10 @@
       "state": "valid",
       "gloss": "to be unemployed, idle (menganggur)",
       "notes": "an older, distinct sense from anggur 'grape, wine'"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "unemployment (pengangguran)"
     }
   },
   "energi": {
@@ -16259,6 +16271,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to spread (something) (menyebarkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "propagation, dissemination (penyebaran)"
     }
   },
   "kacau": {
@@ -17182,6 +17198,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to worry, be a source of anxiety for (mencemaskan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "anxiety, concern (kecemasan)"
     }
   },
   "teroris": {
@@ -18057,6 +18077,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "mining (penambangan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "mining (industry/sector) (pertambangan)"
     }
   },
   "gemar": {
@@ -19651,6 +19675,10 @@
     "se": {
       "state": "valid",
       "gloss": "as bright as (secerah)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "enlightenment (pencerahan)"
     }
   },
   "konfirmasi": {
@@ -20600,6 +20628,10 @@
     "nya": {
       "state": "valid",
       "gloss": "all of it, in its entirety (seluruhnya)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "full, overarching, thorough (menyeluruh)"
     }
   },
   "giat": {
@@ -22825,6 +22857,14 @@
     "me": {
       "state": "valid",
       "gloss": "to hack, break through (meretas)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a hacker (peretas)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a hack, hacking (peretasan)"
     }
   },
   "setel": {
@@ -25604,6 +25644,10 @@
     "an": {
       "state": "valid",
       "gloss": "a scan (pindaian)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to scan (memindai)"
     }
   },
   "senter": {
@@ -26372,6 +26416,10 @@
     "an": {
       "state": "valid",
       "gloss": "a quote, citation (kutipan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to quote, cite (mengutip)"
     }
   },
   "pendam": {
@@ -26540,6 +26588,480 @@
     "nya": {
       "state": "valid",
       "gloss": "the sperm (spermanya)"
+    }
+  },
+  "satria": {
+    "ke": {
+      "state": "valid",
+      "gloss": "a knight, warrior (kesatria)"
+    }
+  },
+  "harum": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "fragrance (keharuman)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to spread the fame of, glorify (mengharumkan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an air freshener (pengharum)"
+    }
+  },
+  "miring": {
+    "kan": {
+      "state": "valid",
+      "gloss": "tilt it! (miringkan)"
+    }
+  },
+  "acuh": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to heed, pay attention to (mengacuhkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "heed it! (acuhkan)"
+    }
+  },
+  "tangis": {
+    "an": {
+      "state": "valid",
+      "gloss": "crying, weeping (tangisan)"
+    }
+  },
+  "setrum": {
+    "me": {
+      "state": "valid",
+      "gloss": "to electrocute, shock (menyetrum)"
+    },
+    "ke": {
+      "state": "valid",
+      "gloss": "to get shocked (kesetrum)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be shocked (passive) (disetrum)"
+    }
+  },
+  "taring": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fang, canine tooth (taringnya)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "having fangs (bertaring)"
+    }
+  },
+  "profesi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the profession (profesinya)"
+    }
+  },
+  "sponsor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sponsor (sponsornya)"
+    }
+  },
+  "cela": {
+    "ter": {
+      "state": "valid",
+      "gloss": "disgraceful (tercela)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to criticize, reproach (mencela)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a criticism, reproach (celaan)"
+    }
+  },
+  "gagap": {
+    "ter": {
+      "state": "valid",
+      "gloss": "to stammer suddenly (tergagap)"
+    }
+  },
+  "gendong": {
+    "me": {
+      "state": "valid",
+      "gloss": "to carry, piggyback (menggendong)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be carried, piggybacked (passive) (digendong)"
+    }
+  },
+  "toleransi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be tolerated (passive) (ditoleransi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to tolerate (menoleransi)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to be tolerant (bertoleransi)"
+    }
+  },
+  "bendung": {
+    "an": {
+      "state": "valid",
+      "gloss": "a dam (bendungan)"
+    }
+  },
+  "garuk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to scratch (menggaruk)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be scratched (passive) (digaruk)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a rake, scraper (penggaruk)"
+    }
+  },
+  "cuka": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): cukai (tax, duty, excise) is mechanically cuka + i but is an unrelated word, added as its own headword; cuka (vinegar) has no attested productive derivation"
+    }
+  },
+  "manipulasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be manipulated (passive) (dimanipulasi)"
+    }
+  },
+  "telusur": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to trace, browse (menelusuri)"
+    }
+  },
+  "tegar": {
+    "lah": {
+      "state": "valid",
+      "gloss": "be strong! stay resilient! (tegarlah)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "steadfastness, resilience (ketegaran)"
+    }
+  },
+  "renovasi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to renovate (merenovasi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be renovated (passive) (direnovasi)"
+    }
+  },
+  "jinak": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a tamer, defuser (penjinak)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "tame it! (jinakkan)"
+    }
+  },
+  "ganjil": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "oddity, strangeness (keganjilan)"
+    }
+  },
+  "sabotase": {
+    "me": {
+      "state": "valid",
+      "gloss": "to sabotage (menyabotase)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be sabotaged (passive) (disabotase)"
+    }
+  },
+  "navigasi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to navigate (menavigasi)"
+    }
+  },
+  "grafik": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the graph (grafiknya)"
+    }
+  },
+  "kerangka": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the framework, skeleton (kerangkanya)"
+    }
+  },
+  "sejahtera": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "welfare, well-being (kesejahteraan)"
+    }
+  },
+  "katup": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the valve (katupnya)"
+    }
+  },
+  "lawak": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a comedian (pelawak)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to joke, perform comedy (melawak)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a comedy routine, joke (lawakan)"
+    }
+  },
+  "murung": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a moody, gloomy person (pemurung)"
+    }
+  },
+  "siul": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to whistle (bersiul)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a whistle, whistling sound (siulan)"
+    }
+  },
+  "biadab": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "savagery (kebiadaban)"
+    }
+  },
+  "netral": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to neutralize (menetralkan)"
+    }
+  },
+  "ketik": {
+    "me": {
+      "state": "valid",
+      "gloss": "to type (mengetik)"
+    }
+  },
+  "semen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cement (semennya)"
+    }
+  },
+  "mikrofon": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the microphone (mikrofonnya)"
+    }
+  },
+  "bengkok": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to bend something (membengkokkan)"
+    }
+  },
+  "saing": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to compete, rival (bersaing)"
+    }
+  },
+  "ilahi": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "divinity (keilahian)"
+    }
+  },
+  "komponen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the component (komponennya)"
+    }
+  },
+  "bajik": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "virtue (kebajikan)"
+    }
+  },
+  "bujang": {
+    "an": {
+      "state": "valid",
+      "gloss": "a bachelor, young man (bujangan)"
+    }
+  },
+  "cermat": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to observe carefully (mencermati)"
+    }
+  },
+  "dengung": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to drone, hum (berdengung)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a droning, humming sound (dengungan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to drone, hum (mendengung)"
+    }
+  },
+  "serpih": {
+    "an": {
+      "state": "valid",
+      "gloss": "debris, a fragment (serpihan)"
+    }
+  },
+  "modifikasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be modified (passive) (dimodifikasi)"
+    }
+  },
+  "pendapat": {
+    "se": {
+      "state": "valid",
+      "gloss": "unanimous, of the same opinion (sependapat)"
+    }
+  },
+  "liontin": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pendant (liontinnya)"
+    }
+  },
+  "busa": {
+    "ber": {
+      "state": "valid",
+      "gloss": "foamy, to foam (berbusa)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the foam (busanya)"
+    }
+  },
+  "manuver": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to maneuver (bermanuver)"
+    }
+  },
+  "jangkar": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the anchor (jangkarnya)"
+    }
+  },
+  "kecap": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kecapi (a zither instrument) is mechanically kecap + i but is an unrelated word, added as its own headword; kecap (soy sauce) has no attested productive -i derivation"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to taste (mengecap)"
+    }
+  },
+  "galang": {
+    "an": {
+      "state": "valid",
+      "gloss": "a shipyard, slipway (galangan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "mobilization, rallying (e.g. fundraising) (penggalangan)"
+    }
+  },
+  "bibit": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "seedling cultivation (pembibitan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the sapling, seed (bibitnya)"
+    }
+  },
+  "syal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the scarf, shawl (syalnya)"
+    }
+  },
+  "sejuk": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "cooling, refreshing (menyejukkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "coolness (kesejukan)"
+    }
+  },
+  "semprot": {
+    "an": {
+      "state": "valid",
+      "gloss": "a spray, syringe (semprotan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "spraying (penyemprotan)"
+    }
+  },
+  "anggun": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "elegance (keanggunan)"
+    }
+  },
+  "gumam": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to mumble (bergumam)"
+    }
+  },
+  "panik": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "panic (kepanikan)"
     }
   }
 }
