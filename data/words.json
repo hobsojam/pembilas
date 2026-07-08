@@ -20155,6 +20155,11 @@
       "gloss": "kashkaval"
     },
     {
+      "root": "kasi",
+      "pos": "word",
+      "gloss": "(colloquial) to give"
+    },
+    {
       "root": "kasidah",
       "pos": "word",
       "gloss": "qasida"
@@ -22421,7 +22426,7 @@
     },
     {
       "root": "ketenaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "celebrity"
     },
     {
@@ -28471,8 +28476,8 @@
     },
     {
       "root": "memandu",
-      "pos": "word",
-      "gloss": "hand"
+      "pos": "derived",
+      "gloss": "to guide, steer; to host (a program)"
     },
     {
       "root": "memanfaatkan",
@@ -35021,7 +35026,7 @@
     },
     {
       "root": "pengambilan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "adoption"
     },
     {
@@ -35300,6 +35305,11 @@
       "gloss": "underwriter"
     },
     {
+      "root": "pening",
+      "pos": "word",
+      "gloss": "dizzy, having a headache"
+    },
+    {
       "root": "peningkatan",
       "pos": "derived",
       "gloss": "improvement"
@@ -35526,7 +35536,7 @@
     },
     {
       "root": "penyelesaian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "settlement"
     },
     {
@@ -41657,7 +41667,7 @@
     {
       "root": "setubuh",
       "pos": "word",
-      "gloss": "know"
+      "gloss": "to have intercourse (euphemism: \"to know\")"
     },
     {
       "root": "setuhuk",
@@ -44875,6 +44885,11 @@
       "gloss": "imperturbable"
     },
     {
+      "root": "tenar",
+      "pos": "word",
+      "gloss": "famous, well-known (bound root)"
+    },
+    {
       "root": "tenda",
       "pos": "word",
       "gloss": "tent"
@@ -46968,6 +46983,11 @@
       "root": "unta",
       "pos": "word",
       "gloss": "camel"
+    },
+    {
+      "root": "untai",
+      "pos": "word",
+      "gloss": "a strand, string (e.g. of beads)"
     },
     {
       "root": "untuk",

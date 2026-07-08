@@ -68,7 +68,8 @@ gatal kadal pramuka alibi jazz senat reaktor relevan harfiah terminal ham ungu m
 narapidana persegi diskon lem pelangi nat amber atlet tetua radius jerami segi
 selai alias lesbian euro piramida beta demokrasi sutra logis dinas bug kursus asosiasi uskup salon fenomena geli
 gray newton mutan dukun iklim tos ups galeri jurnalis tol atmosfer investor tisu selokan
-protein liang bakteri administrasi lila tar molekul mutlak komet fase usang biarawati sadis rasional tenis dungu hawa nyamuk eksklusif tower buruh teras syair keterlibatan'''.split())
+protein liang bakteri administrasi lila tar molekul mutlak komet fase usang biarawati sadis rasional tenis dungu hawa nyamuk eksklusif tower buruh teras syair keterlibatan penyair seperempat
+stadion karate kurcaci salmon hoki kompi biologis semak koi zombi cerewet faktor orgasme terorisme wewenang bebatuan kejang lap untai kasi pening'''.split())
 
 
 def main():
