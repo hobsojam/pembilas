@@ -6521,7 +6521,7 @@
     },
     {
       "root": "berdebar",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pound"
     },
     {
@@ -6661,7 +6661,7 @@
     },
     {
       "root": "berkhianat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "collaborate"
     },
     {
@@ -9758,6 +9758,11 @@
       "root": "dbd",
       "pos": "word",
       "gloss": "dengue fever"
+    },
+    {
+      "root": "debar",
+      "pos": "word",
+      "gloss": "to throb, pound (of a heart) (bound root)"
     },
     {
       "root": "debat",
@@ -17695,6 +17700,11 @@
       "gloss": "insulin"
     },
     {
+      "root": "intai",
+      "pos": "word",
+      "gloss": "to spy on, observe (bound root)"
+    },
+    {
       "root": "intak",
       "pos": "adjective",
       "gloss": "intact"
@@ -19675,6 +19685,11 @@
       "gloss": "office"
     },
     {
+      "root": "kantuk",
+      "pos": "word",
+      "gloss": "drowsiness, sleepiness (bound root)"
+    },
+    {
       "root": "kanyon",
       "pos": "word",
       "gloss": "canyon"
@@ -20143,6 +20158,11 @@
       "root": "kashkaval",
       "pos": "word",
       "gloss": "kashkaval"
+    },
+    {
+      "root": "kasi",
+      "pos": "word",
+      "gloss": "(colloquial) to give"
     },
     {
       "root": "kasidah",
@@ -21866,8 +21886,8 @@
     },
     {
       "root": "kepuasan",
-      "pos": "word",
-      "gloss": "comfort"
+      "pos": "derived",
+      "gloss": "satisfaction"
     },
     {
       "root": "kepulaga",
@@ -21888,6 +21908,11 @@
       "root": "kepunahan",
       "pos": "derived",
       "gloss": "extinction"
+    },
+    {
+      "root": "kepung",
+      "pos": "word",
+      "gloss": "to surround, besiege (bound root)"
     },
     {
       "root": "kepustakawanan",
@@ -21981,7 +22006,7 @@
     },
     {
       "root": "kerasukan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "possession"
     },
     {
@@ -22411,7 +22436,7 @@
     },
     {
       "root": "ketenaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "celebrity"
     },
     {
@@ -25370,8 +25395,13 @@
       "gloss": "wart"
     },
     {
-      "root": "kutipan",
+      "root": "kutip",
       "pos": "word",
+      "gloss": "to quote, cite (bound root)"
+    },
+    {
+      "root": "kutipan",
+      "pos": "derived",
       "gloss": "quote"
     },
     {
@@ -25963,6 +25993,11 @@
       "root": "lebih",
       "pos": "word",
       "gloss": "more, excess"
+    },
+    {
+      "root": "leceh",
+      "pos": "word",
+      "gloss": "to belittle, harass (bound root)"
     },
     {
       "root": "lecek",
@@ -28306,7 +28341,7 @@
     },
     {
       "root": "melegakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "soothe"
     },
     {
@@ -28456,8 +28491,8 @@
     },
     {
       "root": "memandu",
-      "pos": "word",
-      "gloss": "hand"
+      "pos": "derived",
+      "gloss": "to guide, steer; to host (a program)"
     },
     {
       "root": "memanfaatkan",
@@ -29086,7 +29121,7 @@
     },
     {
       "root": "menenggelamkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "drown, immerse"
     },
     {
@@ -29181,7 +29216,7 @@
     },
     {
       "root": "mengantuk",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "sleepy"
     },
     {
@@ -29271,7 +29306,7 @@
     },
     {
       "root": "mengepung",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "besiege"
     },
     {
@@ -29491,7 +29526,7 @@
     },
     {
       "root": "mengosongkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "deplete"
     },
     {
@@ -29836,7 +29871,7 @@
     },
     {
       "root": "menyimpang",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "aberrant"
     },
     {
@@ -34276,7 +34311,7 @@
     },
     {
       "root": "peleceh",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "harasser"
     },
     {
@@ -34861,8 +34896,13 @@
     },
     {
       "root": "pendaftaran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "application"
+    },
+    {
+      "root": "pendam",
+      "pos": "word",
+      "gloss": "to bury, hide, suppress (feelings) (bound root)"
     },
     {
       "root": "pendapatan",
@@ -34956,7 +34996,7 @@
     },
     {
       "root": "pengacau",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "undesirable"
     },
     {
@@ -35006,7 +35046,7 @@
     },
     {
       "root": "pengambilan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "adoption"
     },
     {
@@ -35221,7 +35261,7 @@
     },
     {
       "root": "pengintaian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "reconnaissance"
     },
     {
@@ -35283,6 +35323,11 @@
       "root": "penilai",
       "pos": "derived",
       "gloss": "underwriter"
+    },
+    {
+      "root": "pening",
+      "pos": "word",
+      "gloss": "dizzy, having a headache"
     },
     {
       "root": "peningkatan",
@@ -35511,7 +35556,7 @@
     },
     {
       "root": "penyelesaian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "settlement"
     },
     {
@@ -35566,7 +35611,7 @@
     },
     {
       "root": "penyidik",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "investigator"
     },
     {
@@ -35716,7 +35761,7 @@
     },
     {
       "root": "perapian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "fireplace, hearth"
     },
     {
@@ -36001,7 +36046,7 @@
     },
     {
       "root": "perkebunan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "plantation, farm"
     },
     {
@@ -38658,6 +38703,11 @@
       "root": "rasisme",
       "pos": "word",
       "gloss": "racism"
+    },
+    {
+      "root": "rasuk",
+      "pos": "word",
+      "gloss": "to possess, enter (of a spirit) (bound root)"
     },
     {
       "root": "rasul",
@@ -41642,7 +41692,7 @@
     {
       "root": "setubuh",
       "pos": "word",
-      "gloss": "know"
+      "gloss": "to have intercourse (euphemism: \"to know\")"
     },
     {
       "root": "setuhuk",
@@ -41763,6 +41813,11 @@
       "root": "sibuk",
       "pos": "word",
       "gloss": "busy"
+    },
+    {
+      "root": "sidik",
+      "pos": "word",
+      "gloss": "to investigate (bound root)"
     },
     {
       "root": "sidon",
@@ -43365,8 +43420,13 @@
       "gloss": "sumatra"
     },
     {
-      "root": "sumbangan",
+      "root": "sumbang",
       "pos": "word",
+      "gloss": "to donate, contribute (bound root)"
+    },
+    {
+      "root": "sumbangan",
+      "pos": "derived",
       "gloss": "donation"
     },
     {
@@ -44855,6 +44915,11 @@
       "gloss": "imperturbable"
     },
     {
+      "root": "tenar",
+      "pos": "word",
+      "gloss": "famous, well-known (bound root)"
+    },
+    {
       "root": "tenda",
       "pos": "word",
       "gloss": "tent"
@@ -45675,8 +45740,13 @@
       "gloss": "step-"
     },
     {
-      "root": "tiruan",
+      "root": "tiru",
       "pos": "word",
+      "gloss": "to imitate, copy (bound root)"
+    },
+    {
+      "root": "tiruan",
+      "pos": "derived",
       "gloss": "counterfeit"
     },
     {
@@ -46943,6 +47013,11 @@
       "root": "unta",
       "pos": "word",
       "gloss": "camel"
+    },
+    {
+      "root": "untai",
+      "pos": "word",
+      "gloss": "a strand, string (e.g. of beads)"
     },
     {
       "root": "untuk",

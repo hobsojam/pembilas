@@ -12393,6 +12393,10 @@
     "nya": {
       "state": "valid",
       "gloss": "its emptiness (kosongnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to empty, deplete, vacate (mengosongkan)"
     }
   },
   "acara": {
@@ -12635,6 +12639,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "ignition (pengapian, e.g. an automotive term)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a fireplace, hearth (perapian)"
     }
   },
   "bayi": {
@@ -13492,6 +13500,18 @@
     "di": {
       "state": "valid",
       "gloss": "to be operated on; to be operated (dioperasi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to operate (a machine) (mengoperasi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to operate, run (something) (mengoperasikan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "operation, functioning (pengoperasian)"
     }
   },
   "kalah": {
@@ -16245,6 +16265,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "chaos (kekacauan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a troublemaker (pengacau)"
     }
   },
   "tarung": {
@@ -16868,6 +16892,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the sinking of it; its sinking (tenggelamnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to drown, immerse (something) (menenggelamkan)"
     }
   },
   "lingkungan": {
@@ -18521,6 +18549,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "treason, betrayal (pengkhianatan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to betray, be treacherous (berkhianat)"
     }
   },
   "jamin": {
@@ -18929,6 +18961,10 @@
     "ber": {
       "state": "valid",
       "gloss": "to garden, farm (berkebun)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a plantation, farm (perkebunan)"
     }
   },
   "gua": {
@@ -21253,6 +21289,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "relief (kelegaan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to soothe, relieve (melegakan)"
     }
   },
   "garasi": {
@@ -22523,6 +22563,10 @@
     "an": {
       "state": "valid",
       "gloss": "a guide, manual (panduan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to guide, steer; to host (a program) (memandu)"
     }
   },
   "bijak": {
@@ -23978,6 +24022,10 @@
     "per_an": {
       "state": "valid",
       "gloss": "an intersection, crossroads (persimpangan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to deviate, branch off (menyimpang)"
     }
   },
   "tikam": {
@@ -26002,6 +26050,496 @@
     "nya": {
       "state": "valid",
       "gloss": "the whistle (peluitnya)"
+    }
+  },
+  "rekayasa": {
+    "me": {
+      "state": "valid",
+      "gloss": "to engineer, fabricate (merekayasa)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be engineered, fabricated (passive) (direkayasa)"
+    }
+  },
+  "isu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the issue (isunya)"
+    }
+  },
+  "kontribusi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to contribute (berkontribusi)"
+    }
+  },
+  "tiru": {
+    "an": {
+      "state": "valid",
+      "gloss": "a counterfeit, imitation (tiruan)"
+    }
+  },
+  "parasut": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the parachute (parasutnya)"
+    }
+  },
+  "leceh": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a harasser (peleceh)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "harassment (pelecehan)"
+    }
+  },
+  "intai": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "reconnaissance, surveillance (pengintaian)"
+    }
+  },
+  "kantuk": {
+    "me": {
+      "state": "valid",
+      "gloss": "sleepy, drowsy (mengantuk)"
+    }
+  },
+  "minimal": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to minimize (meminimalkan)"
+    }
+  },
+  "sidik": {
+    "pe": {
+      "state": "valid",
+      "gloss": "an investigator (penyidik)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an investigation (penyidikan)"
+    }
+  },
+  "murka": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "wrath, fury (kemurkaan)"
+    }
+  },
+  "visa": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the visa (visanya)"
+    }
+  },
+  "kancing": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the button (kancingnya)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "button it up! (kancingkan)"
+    }
+  },
+  "kompromi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to compromise (berkompromi)"
+    }
+  },
+  "injil": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the gospel (injilnya)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an evangelist (penginjil)"
+    }
+  },
+  "denda": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be fined (passive) (didenda)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the fine (dendanya)"
+    }
+  },
+  "gergaji": {
+    "me": {
+      "state": "valid",
+      "gloss": "to saw (menggergaji)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the saw (gergajinya)"
+    }
+  },
+  "unta": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): untai (a strand, string) is mechanically unta + i but is an unrelated word, added as its own headword; unta (camel) has no attested productive derivation"
+    }
+  },
+  "intimidasi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to intimidate (mengintimidasi)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "intimidated (terintimidasi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be intimidated (passive) (diintimidasi)"
+    }
+  },
+  "asma": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the asthma (asmanya)"
+    }
+  },
+  "kas": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kasi (colloquial: to give) is mechanically kas + i but is an unrelated word, added as its own headword; kas (cash, treasury) has no attested productive derivation"
+    }
+  },
+  "rehabilitasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be rehabilitated (passive) (direhabilitasi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to rehabilitate (merehabilitasi)"
+    }
+  },
+  "kapasitas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the capacity (kapasitasnya)"
+    }
+  },
+  "tenar": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "celebrity, fame (ketenaran)"
+    }
+  },
+  "paha": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the thigh (pahanya)"
+    }
+  },
+  "pusar": {
+    "an": {
+      "state": "valid",
+      "gloss": "a whirlpool, vortex; something that spins (pusaran)"
+    }
+  },
+  "akuntan": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the accountant (akuntannya)"
+    }
+  },
+  "koperasi": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengoperasi is a phonological convergence -- both koperasi (k-initial, deletes k) and operasi (vowel-initial, adds ng) mechanically produce the same string; the real word is operasi.me (to operate a machine), koperasi (cooperative) has no such verb"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): mengoperasikan is a phonological convergence with operasi.me_kan (see me slot note)"
+    },
+    "pe_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengoperasian is a phonological convergence with operasi.pe_an (see me slot note)"
+    }
+  },
+  "teguh": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "firmness, steadfastness (keteguhan)"
+    }
+  },
+  "ting": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pening (dizzy) is mechanically ting + pe (t-initial nasal substitution) but is an unrelated word, added as its own headword; ting (onomatopoeia) has no attested productive derivation"
+    }
+  },
+  "obor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the torch (obornya)"
+    }
+  },
+  "setubuh": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to have intercourse (bersetubuh)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "to have intercourse with (setubuhi)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to have intercourse with (menyetubuhi)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "sexual intercourse (persetubuhan)"
+    }
+  },
+  "rusuk": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the rib (rusuknya)"
+    }
+  },
+  "komedi": {
+    "an": {
+      "state": "valid",
+      "gloss": "a comedian (komedian)"
+    }
+  },
+  "rahang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the jaw (rahangnya)"
+    }
+  },
+  "antisipasi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to anticipate (mengantisipasi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be anticipated (passive) (diantisipasi)"
+    }
+  },
+  "kipas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fan (kipasnya)"
+    }
+  },
+  "sumbang": {
+    "an": {
+      "state": "valid",
+      "gloss": "a donation, contribution (sumbangan)"
+    }
+  },
+  "wortel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the carrot (wortelnya)"
+    }
+  },
+  "makmur": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "prosperity (kemakmuran)"
+    }
+  },
+  "ransel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the backpack (ranselnya)"
+    }
+  },
+  "kutip": {
+    "an": {
+      "state": "valid",
+      "gloss": "a quote, citation (kutipan)"
+    }
+  },
+  "pendam": {
+    "me": {
+      "state": "valid",
+      "gloss": "to bury, hide, suppress (feelings) (memendam)"
+    }
+  },
+  "bangkai": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the carcass (bangkainya)"
+    }
+  },
+  "biola": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the violin (biolanya)"
+    }
+  },
+  "cerutu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the cigar (cerutunya)"
+    }
+  },
+  "demonstrasi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to demonstrate (mendemonstrasikan)"
+    }
+  },
+  "hafal": {
+    "me": {
+      "state": "valid",
+      "gloss": "to memorize (menghafal)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "memorize it! (hafalkan)"
+    }
+  },
+  "citra": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the image, imagery (citranya)"
+    }
+  },
+  "konsumsi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be consumed (passive) (dikonsumsi)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to consume (mengonsumsi)"
+    }
+  },
+  "rasuk": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "possession (by a spirit) (kerasukan)"
+    }
+  },
+  "antena": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the antenna (antenanya)"
+    }
+  },
+  "bot": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the boot (botnya)"
+    }
+  },
+  "klakson": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the horn, klaxon (klaksonnya)"
+    }
+  },
+  "kuras": {
+    "me": {
+      "state": "valid",
+      "gloss": "to drain, empty out (menguras)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "drained (terkuras)"
+    }
+  },
+  "rahim": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the womb (rahimnya)"
+    }
+  },
+  "ciri": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the trait, characteristic (cirinya)"
+    }
+  },
+  "agenda": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the agenda (agendanya)"
+    }
+  },
+  "debar": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to throb, pound (of a heart) (berdebar)"
+    }
+  },
+  "sumbat": {
+    "ter": {
+      "state": "valid",
+      "gloss": "plugged, blocked (tersumbat)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to plug, block (menyumbat)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a plug, stopper (penyumbat)"
+    }
+  },
+  "khotbah": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to give a sermon (berkhotbah)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a preacher (pengkhotbah)"
+    }
+  },
+  "blog": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the blog (blognya)"
+    }
+  },
+  "gerbong": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the railroad car (gerbongnya)"
+    }
+  },
+  "subur": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "fertility (kesuburan)"
+    }
+  },
+  "kepung": {
+    "me": {
+      "state": "valid",
+      "gloss": "to besiege, surround (mengepung)"
+    }
+  },
+  "sperma": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sperm (spermanya)"
     }
   }
 }
