@@ -6661,7 +6661,7 @@
     },
     {
       "root": "berkhianat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "collaborate"
     },
     {
@@ -25385,8 +25385,13 @@
       "gloss": "wart"
     },
     {
-      "root": "kutipan",
+      "root": "kutip",
       "pos": "word",
+      "gloss": "to quote, cite (bound root)"
+    },
+    {
+      "root": "kutipan",
+      "pos": "derived",
       "gloss": "quote"
     },
     {
@@ -28326,7 +28331,7 @@
     },
     {
       "root": "melegakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "soothe"
     },
     {
@@ -29106,7 +29111,7 @@
     },
     {
       "root": "menenggelamkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "drown, immerse"
     },
     {
@@ -29856,7 +29861,7 @@
     },
     {
       "root": "menyimpang",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "aberrant"
     },
     {
@@ -34885,6 +34890,11 @@
       "gloss": "application"
     },
     {
+      "root": "pendam",
+      "pos": "word",
+      "gloss": "to bury, hide, suppress (feelings) (bound root)"
+    },
+    {
       "root": "pendapatan",
       "pos": "derived",
       "gloss": "income, revenue"
@@ -34976,7 +34986,7 @@
     },
     {
       "root": "pengacau",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "undesirable"
     },
     {
@@ -35741,7 +35751,7 @@
     },
     {
       "root": "perapian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "fireplace, hearth"
     },
     {
@@ -43395,8 +43405,13 @@
       "gloss": "sumatra"
     },
     {
-      "root": "sumbangan",
+      "root": "sumbang",
       "pos": "word",
+      "gloss": "to donate, contribute (bound root)"
+    },
+    {
+      "root": "sumbangan",
+      "pos": "derived",
       "gloss": "donation"
     },
     {

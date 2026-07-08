@@ -12639,6 +12639,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "ignition (pengapian, e.g. an automotive term)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a fireplace, hearth (perapian)"
     }
   },
   "bayi": {
@@ -16261,6 +16265,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "chaos (kekacauan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a troublemaker (pengacau)"
     }
   },
   "tarung": {
@@ -16884,6 +16892,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the sinking of it; its sinking (tenggelamnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to drown, immerse (something) (menenggelamkan)"
     }
   },
   "lingkungan": {
@@ -18537,6 +18549,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "treason, betrayal (pengkhianatan)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "to betray, be treacherous (berkhianat)"
     }
   },
   "jamin": {
@@ -21269,6 +21285,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "relief (kelegaan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to soothe, relieve (melegakan)"
     }
   },
   "garasi": {
@@ -23998,6 +24018,10 @@
     "per_an": {
       "state": "valid",
       "gloss": "an intersection, crossroads (persimpangan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to deviate, branch off (menyimpang)"
     }
   },
   "tikam": {
@@ -26286,6 +26310,70 @@
     "nya": {
       "state": "valid",
       "gloss": "the rib (rusuknya)"
+    }
+  },
+  "komedi": {
+    "an": {
+      "state": "valid",
+      "gloss": "a comedian (komedian)"
+    }
+  },
+  "rahang": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the jaw (rahangnya)"
+    }
+  },
+  "antisipasi": {
+    "me": {
+      "state": "valid",
+      "gloss": "to anticipate (mengantisipasi)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be anticipated (passive) (diantisipasi)"
+    }
+  },
+  "kipas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fan (kipasnya)"
+    }
+  },
+  "sumbang": {
+    "an": {
+      "state": "valid",
+      "gloss": "a donation, contribution (sumbangan)"
+    }
+  },
+  "wortel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the carrot (wortelnya)"
+    }
+  },
+  "makmur": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "prosperity (kemakmuran)"
+    }
+  },
+  "ransel": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the backpack (ranselnya)"
+    }
+  },
+  "kutip": {
+    "an": {
+      "state": "valid",
+      "gloss": "a quote, citation (kutipan)"
+    }
+  },
+  "pendam": {
+    "me": {
+      "state": "valid",
+      "gloss": "to bury, hide, suppress (feelings) (memendam)"
     }
   }
 }
