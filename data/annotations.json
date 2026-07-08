@@ -151,8 +151,8 @@
       "gloss": "to lift for someone; to raise (a topic)"
     },
     "ber": {
-      "state": "unused",
-      "gloss": ""
+      "state": "valid",
+      "gloss": "to depart, leave (berangkat)"
     },
     "ke_an": {
       "state": "unused",
@@ -27062,6 +27062,156 @@
     "ke_an": {
       "state": "valid",
       "gloss": "panic (kepanikan)"
+    }
+  },
+  "keran": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the faucet (kerannya)"
+    }
+  },
+  "dengkur": {
+    "me": {
+      "state": "valid",
+      "gloss": "to snore (mendengkur)"
+    }
+  },
+  "sekutu": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "an alliance (persekutuan)"
+    }
+  },
+  "terus": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a successor (penerus)"
+    }
+  },
+  "petik": {
+    "me": {
+      "state": "valid",
+      "gloss": "to pick, pluck (memetik)"
+    }
+  },
+  "cenderung": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a tendency (kecenderungan)"
+    }
+  },
+  "mewah": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "luxury (kemewahan)"
+    }
+  },
+  "idola": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to idolize (mengidolakan)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the idol (idolanya)"
+    }
+  },
+  "tuas": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the lever (tuasnya)"
+    }
+  },
+  "alis": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the eyebrow (alisnya)"
+    }
+  },
+  "mukim": {
+    "pe": {
+      "state": "valid",
+      "gloss": "a settler (pemukim)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a settlement (pemukiman)"
+    }
+  },
+  "pulpen": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the fountain pen (pulpennya)"
+    }
+  },
+  "janggut": {
+    "ber": {
+      "state": "valid",
+      "gloss": "bearded (berjanggut)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "the beard (janggutnya)"
+    }
+  },
+  "sandal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the sandal (sandalnya)"
+    }
+  },
+  "alur": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the flow, plot (alurnya)"
+    }
+  },
+  "bimbang": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "hesitation, indecision (kebimbangan)"
+    }
+  },
+  "dagu": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the chin (dagunya)"
+    }
+  },
+  "peleset": {
+    "ter": {
+      "state": "valid",
+      "gloss": "to slip (terpeleset)"
+    }
+  },
+  "imigrasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to immigrate (berimigrasi)"
+    }
+  },
+  "enggan": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "reluctance (keengganan)"
+    }
+  },
+  "tumit": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the heel (tumitnya)"
+    }
+  },
+  "selir": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the concubine (selirnya)"
+    }
+  },
+  "kualifikasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "qualified (berkualifikasi)"
     }
   }
 }

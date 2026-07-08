@@ -8975,6 +8975,11 @@
       "gloss": "bird of paradise"
     },
     {
+      "root": "cenderung",
+      "pos": "word",
+      "gloss": "to tend, be inclined to (bound root)"
+    },
+    {
       "root": "cendol",
       "pos": "word",
       "gloss": "cendol"
@@ -10173,6 +10178,11 @@
       "root": "dengki",
       "pos": "word",
       "gloss": "evil eye"
+    },
+    {
+      "root": "dengkur",
+      "pos": "word",
+      "gloss": "to snore (bound root)"
     },
     {
       "root": "dengung",
@@ -20731,7 +20741,7 @@
     },
     {
       "root": "kecenderungan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "tendency"
     },
     {
@@ -21101,7 +21111,7 @@
     },
     {
       "root": "kekecewaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "disappointment"
     },
     {
@@ -21541,7 +21551,7 @@
     },
     {
       "root": "kemewahan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "luxury"
     },
     {
@@ -28711,7 +28721,7 @@
     },
     {
       "root": "memetik",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pick"
     },
     {
@@ -29086,7 +29096,7 @@
     },
     {
       "root": "mendengkur",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "snore"
     },
     {
@@ -30270,6 +30280,11 @@
       "gloss": "methuselah"
     },
     {
+      "root": "mewah",
+      "pos": "word",
+      "gloss": "luxurious (bound root)"
+    },
+    {
       "root": "mewujudkan",
       "pos": "derived",
       "gloss": "realize"
@@ -31037,7 +31052,7 @@
     {
       "root": "mukim",
       "pos": "word",
-      "gloss": "mukim"
+      "gloss": "to settle, reside (bound root)"
     },
     {
       "root": "mukjizat",
@@ -34370,6 +34385,11 @@
       "gloss": "patch"
     },
     {
+      "root": "peleset",
+      "pos": "word",
+      "gloss": "to slip (bound root)"
+    },
+    {
       "root": "peleton",
       "pos": "word",
       "gloss": "platoon"
@@ -35026,7 +35046,7 @@
     },
     {
       "root": "penerus",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "successor"
     },
     {
@@ -35106,8 +35126,8 @@
     },
     {
       "root": "pengangkatan",
-      "pos": "word",
-      "gloss": "levitation"
+      "pos": "derived",
+      "gloss": "appointment, inauguration; adoption (of a child)"
     },
     {
       "root": "penganiayaan",
@@ -36296,7 +36316,7 @@
     },
     {
       "root": "persekutuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "alliance"
     },
     {
@@ -36583,6 +36603,11 @@
       "root": "peti",
       "pos": "word",
       "gloss": "box, crate, chest"
+    },
+    {
+      "root": "petik",
+      "pos": "word",
+      "gloss": "to pick, pluck (bound root)"
     },
     {
       "root": "petir",
@@ -40893,6 +40918,11 @@
       "root": "sekunder",
       "pos": "adjective",
       "gloss": "secondary"
+    },
+    {
+      "root": "sekutu",
+      "pos": "word",
+      "gloss": "ally, accomplice (bound root)"
     },
     {
       "root": "sel",
@@ -45401,7 +45431,7 @@
     },
     {
       "root": "terpeleset",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "slip"
     },
     {
@@ -45473,6 +45503,11 @@
       "root": "terumbu",
       "pos": "word",
       "gloss": "reef"
+    },
+    {
+      "root": "terus",
+      "pos": "word",
+      "gloss": "to continue, go straight on (bound root)"
     },
     {
       "root": "terusan",
