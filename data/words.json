@@ -2446,7 +2446,7 @@
     },
     {
       "root": "analogi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "analogy"
     },
     {
@@ -3321,7 +3321,7 @@
     },
     {
       "root": "antropologi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "anthropology"
     },
     {
@@ -3821,7 +3821,7 @@
     },
     {
       "root": "arkeologi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "archaeology"
     },
     {
@@ -3956,7 +3956,7 @@
     },
     {
       "root": "artroskopi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "arthroscopy"
     },
     {
@@ -4341,7 +4341,7 @@
     },
     {
       "root": "astrologi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "astrology"
     },
     {
@@ -4356,7 +4356,7 @@
     },
     {
       "root": "astronomi",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "astronomy"
     },
     {
@@ -4791,7 +4791,7 @@
     },
     {
       "root": "awamnya",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "in layman's terms"
     },
     {
@@ -6026,7 +6026,7 @@
     },
     {
       "root": "beberan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "spoiler"
     },
     {
@@ -20596,7 +20596,7 @@
     },
     {
       "root": "keadvokatan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "advocacy"
     },
     {
@@ -20606,7 +20606,7 @@
     },
     {
       "root": "kealpaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "absenteeism"
     },
     {
@@ -20616,7 +20616,7 @@
     },
     {
       "root": "keandalan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "reliability"
     },
     {
@@ -20626,12 +20626,12 @@
     },
     {
       "root": "keanggotaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "membership"
     },
     {
       "root": "keangkuhan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "hubris"
     },
     {
@@ -20676,7 +20676,7 @@
     },
     {
       "root": "kebangsaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "nationalism, nationality"
     },
     {
@@ -20701,7 +20701,7 @@
     },
     {
       "root": "kebentaraan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "heraldic"
     },
     {
@@ -28726,7 +28726,7 @@
     },
     {
       "root": "membelokkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "deflect"
     },
     {
@@ -29306,7 +29306,7 @@
     },
     {
       "root": "mengabstrakkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "abstract"
     },
     {
@@ -29381,7 +29381,7 @@
     },
     {
       "root": "mengarsipkan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "archive"
     },
     {
@@ -34686,7 +34686,7 @@
     },
     {
       "root": "pembaruan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "update"
     },
     {
@@ -34696,7 +34696,7 @@
     },
     {
       "root": "pembatasan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "limitation"
     },
     {
@@ -35171,7 +35171,7 @@
     },
     {
       "root": "pengabjadan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "alphabetization"
     },
     {
@@ -35206,7 +35206,7 @@
     },
     {
       "root": "pengajak",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "inviter"
     },
     {
@@ -35871,7 +35871,7 @@
     },
     {
       "root": "perabuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "urn"
     },
     {
@@ -35881,7 +35881,7 @@
     },
     {
       "root": "peradilan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "justice"
     },
     {
@@ -35911,7 +35911,7 @@
     },
     {
       "root": "peralihan",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "interim"
     },
     {
@@ -35996,12 +35996,12 @@
     },
     {
       "root": "perbankan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "banking"
     },
     {
       "root": "perbanyakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "propagation"
     },
     {
@@ -36016,12 +36016,12 @@
     },
     {
       "root": "perbendaharaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "treasury, treasury department"
     },
     {
       "root": "perbentaraan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "heraldry"
     },
     {

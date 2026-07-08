@@ -2740,6 +2740,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "court, tribunal (pengadilan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "the judiciary, justice system (peradilan)"
     }
   },
   "aman": {
@@ -2908,6 +2912,10 @@
     "ber": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "renewal, update, reform (pembaruan)"
     }
   },
   "bebas": {
@@ -8872,6 +8880,11 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): membeli is from beli; ringing a bell is membunyikan bel, membeli from bel is not a word"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): beli (to buy, its own established root) is unrelated to bel (bell)"
     }
   },
   "asar": {
@@ -9716,6 +9729,10 @@
     "an": {
       "state": "valid",
       "gloss": "an appeal, call to action (ajakan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an inviter, instigator (pengajak)"
     }
   },
   "pes": {
@@ -11048,6 +11065,10 @@
       "state": "unused",
       "gloss": "",
       "notes": "increasing something is memperbanyak (memper-, not a modeled affix)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "propagation, multiplication (perbanyakan)"
     }
   },
   "lain": {
@@ -11759,6 +11780,11 @@
     "per_an": {
       "state": "valid",
       "gloss": "waters, a body of water (perairan)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): airan's own headword gloss is an unhelpful placeholder ('airan'); no clear real relationship to air established"
     }
   },
   "ruang": {
@@ -12651,6 +12677,11 @@
     "per_an": {
       "state": "valid",
       "gloss": "a fireplace, hearth (perapian)"
+    },
+    "ter": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): terapi (therapy) is an unrelated loanword; api (fire) has no such derivation"
     }
   },
   "bayi": {
@@ -13780,6 +13811,10 @@
     "nya": {
       "state": "valid",
       "gloss": "its member(s) (anggotanya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "membership (keanggotaan)"
     }
   },
   "sistem": {
@@ -14144,6 +14179,10 @@
     "per_an": {
       "state": "valid",
       "gloss": "border, boundary area (perbatasan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a limitation, restriction (pembatasan)"
     }
   },
   "pandang": {
@@ -14625,6 +14664,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the bank (banknya)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "banking (perbankan)"
     }
   },
   "normal": {
@@ -15294,6 +15337,11 @@
     "nya": {
       "state": "valid",
       "gloss": "the bar (barnya)"
+    },
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): sebar (to spread, its own established root) is unrelated to bar"
     }
   },
   "hakim": {
@@ -16908,6 +16956,11 @@
     "nya": {
       "state": "valid",
       "gloss": "the trace/remnant of it; its former (owner/user) (bekasnya)"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): bekasi (the city) is an unrelated proper noun; bekas has no such derivation"
     }
   },
   "parkir": {
@@ -18003,6 +18056,10 @@
     "se": {
       "state": "valid",
       "gloss": "of the same nation/kind (sebangsa)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "nationality, nationhood (kebangsaan)"
     }
   },
   "paus": {
@@ -18041,6 +18098,10 @@
     "kan": {
       "state": "valid",
       "gloss": "turn it! (imperative, informal, belokkan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to deflect, turn something (membelokkan)"
     }
   },
   "cair": {
@@ -19115,6 +19176,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the ash (abunya)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "an urn, columbarium (perabuan)"
     }
   },
   "misteri": {
@@ -20996,6 +21061,10 @@
     "pe": {
       "state": "valid",
       "gloss": "one who/something that diverts; distraction (pengalih)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a transition, transfer period (peralihan)"
     }
   },
   "desain": {
@@ -22352,6 +22421,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to rely on (mengandalkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "reliability (keandalan)"
     }
   },
   "elak": {
@@ -22408,6 +22481,21 @@
     "nya": {
       "state": "valid",
       "gloss": "the chapter (babnya)"
+    },
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kebab is an unrelated loanword (food); bab (chapter) has no such derivation"
+    },
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): sebab (cause, reason) is an unrelated word; bab (chapter) has no such derivation"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): babi (pig) is an unrelated word; bab (chapter) has no such derivation"
     }
   },
   "mempekerjakan": {
@@ -23844,6 +23932,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the archive (arsipnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to archive (mengarsipkan)"
     }
   },
   "catur": {
@@ -26756,6 +26848,10 @@
     "an": {
       "state": "valid",
       "gloss": "a dam (bendungan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to dam, block (membendung)"
     }
   },
   "garuk": {
@@ -27926,6 +28022,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to disclose (membeberkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "something disclosed, a spoiler (beberan)"
     }
   },
   "diskualifikasi": {
@@ -27954,6 +28054,151 @@
     "nya": {
       "state": "valid",
       "gloss": "the brochure (brosurnya)"
+    }
+  },
+  "abjad": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "alphabetization (pengabjadan)"
+    }
+  },
+  "abstrak": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to abstract, summarize (mengabstrakkan)"
+    }
+  },
+  "advokat": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "advocacy (keadvokatan)"
+    }
+  },
+  "alpa": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "negligence, absenteeism (kealpaan)"
+    }
+  },
+  "analog": {
+    "i": {
+      "state": "valid",
+      "gloss": "an analogy (analogi)"
+    }
+  },
+  "angkuh": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "hubris, arrogance (keangkuhan)"
+    }
+  },
+  "antropolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "anthropology (antropologi)"
+    }
+  },
+  "arkeolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "archaeology (arkeologi)"
+    }
+  },
+  "artroskop": {
+    "i": {
+      "state": "valid",
+      "gloss": "arthroscopy (artroskopi)"
+    }
+  },
+  "astrolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "astrology (astrologi)"
+    }
+  },
+  "astronom": {
+    "i": {
+      "state": "valid",
+      "gloss": "astronomy (astronomi)"
+    }
+  },
+  "awam": {
+    "nya": {
+      "state": "valid",
+      "gloss": "in layman's terms (awamnya)"
+    }
+  },
+  "bendahara": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "a treasury (perbendaharaan)"
+    }
+  },
+  "bentara": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "heraldry (perbentaraan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "heraldic (kebentaraan)"
+    }
+  },
+  "anal": {
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menganalkan is an unrelated near-miss; 'canalise' has no real connection to anal (loanword)"
+    }
+  },
+  "asi": {
+    "ter": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): terasi (shrimp paste) is an unrelated word; asi (breast milk, ASI) has no such derivation"
+    }
+  },
+  "bajing": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): bajingan (scoundrel, vulgar) is not a transparent derivation of bajing (squirrel) for a learner's purposes"
+    }
+  },
+  "bal": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kebal (immune) is an unrelated word; bal (bale) has no such derivation"
+    },
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): sebal (annoyed) is an unrelated word; bal (bale) has no such derivation"
+    },
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): balkan (Balkans) is an unrelated proper noun; bal (bale) has no such derivation"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): bali (Bali) is an unrelated proper noun; bal (bale) has no such derivation"
+    }
+  },
+  "ark": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): arki and ark both appear to be combining-form fragments ('-archy'/'arch'), not real standalone words"
+    }
+  },
+  "ase": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): asean is an unrelated acronym/proper noun; ase appears to be a low-quality headword"
     }
   }
 }
