@@ -2680,8 +2680,13 @@
       "gloss": "orchid"
     },
     {
-      "root": "anggukan",
+      "root": "angguk",
       "pos": "word",
+      "gloss": "to nod (bound root)"
+    },
+    {
+      "root": "anggukan",
+      "pos": "derived",
       "gloss": "nod"
     },
     {
@@ -21596,7 +21601,7 @@
     },
     {
       "root": "kementerian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "ministry, ministration"
     },
     {
@@ -21701,7 +21706,7 @@
     },
     {
       "root": "kemunduran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "decline, slowdown"
     },
     {
@@ -22011,7 +22016,7 @@
     },
     {
       "root": "kepulauan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "archipelago"
     },
     {
@@ -29341,7 +29346,7 @@
     },
     {
       "root": "mengangguk",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "nod"
     },
     {
@@ -29801,7 +29806,7 @@
     },
     {
       "root": "menodai",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "desecrate"
     },
     {
@@ -29911,7 +29916,7 @@
     },
     {
       "root": "menyalahgunakan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "abuse, misuse"
     },
     {
@@ -32028,6 +32033,11 @@
       "root": "nocebo",
       "pos": "word",
       "gloss": "nocebo"
+    },
+    {
+      "root": "noda",
+      "pos": "word",
+      "gloss": "a stain, blemish (bound root)"
     },
     {
       "root": "nodus",
@@ -34671,7 +34681,7 @@
     },
     {
       "root": "pembatalan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "abrogation, cancellation"
     },
     {
@@ -34736,7 +34746,7 @@
     },
     {
       "root": "pembukuan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "bookkeeping"
     },
     {
@@ -35671,7 +35681,7 @@
     },
     {
       "root": "penyalahgunaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "abuse, misuse"
     },
     {
@@ -35971,7 +35981,7 @@
     },
     {
       "root": "perbandingan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "comparison"
     },
     {
@@ -39616,7 +39626,7 @@
     },
     {
       "root": "ringkasnya",
-      "pos": "adverb",
+      "pos": "derived",
       "gloss": "in a nutshell"
     },
     {
@@ -40173,6 +40183,11 @@
       "root": "salah",
       "pos": "word",
       "gloss": "be wrong, false, wrong"
+    },
+    {
+      "root": "salahguna",
+      "pos": "word",
+      "gloss": "to misuse (bound compound: salah + guna)"
     },
     {
       "root": "salak",

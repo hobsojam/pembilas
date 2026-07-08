@@ -12473,6 +12473,10 @@
     "nya": {
       "state": "valid",
       "gloss": "his/her book (bukunya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "bookkeeping (pembukuan)"
     }
   },
   "jahat": {
@@ -16277,6 +16281,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the minister (menterinya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "ministry (kementerian)"
     }
   },
   "sebar": {
@@ -18515,6 +18523,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to cancel, void, annul (membatalkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "cancellation, abrogation (pembatalan)"
     }
   },
   "padu": {
@@ -27756,6 +27768,108 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): mengental is a phonological convergence -- both kental (k-initial, deletes k) and ental (vowel-initial, adds ng) mechanically produce the same string; the real word (to thicken) is kental.me, ental (frond) has no such verb"
+    }
+  },
+  "salahguna": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "abuse, misuse (penyalahgunaan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to misuse, abuse (menyalahgunakan)"
+    }
+  },
+  "kremasi": {
+    "di": {
+      "state": "valid",
+      "gloss": "to be cremated (passive) (dikremasi)"
+    }
+  },
+  "melodi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the melody (melodinya)"
+    }
+  },
+  "angguk": {
+    "me": {
+      "state": "valid",
+      "gloss": "to nod (mengangguk)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a nod (anggukan)"
+    }
+  },
+  "santap": {
+    "an": {
+      "state": "valid",
+      "gloss": "a meal, dish (santapan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to dine, eat (menyantap)"
+    }
+  },
+  "rakus": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "greed (kerakusan)"
+    }
+  },
+  "refleksi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to reflect on (merefleksikan)"
+    }
+  },
+  "komposisi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the composition (komposisinya)"
+    }
+  },
+  "noda": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to desecrate, stain, tarnish (menodai)"
+    }
+  },
+  "pedal": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the pedal (pedalnya)"
+    }
+  },
+  "longsor": {
+    "an": {
+      "state": "valid",
+      "gloss": "a landslide (longsoran)"
+    }
+  },
+  "lolong": {
+    "me": {
+      "state": "valid",
+      "gloss": "to howl (melolong)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a howl (lolongan)"
+    }
+  },
+  "ringkas": {
+    "an": {
+      "state": "valid",
+      "gloss": "a summary (ringkasan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to summarize (meringkas)"
+    },
+    "nya": {
+      "state": "valid",
+      "gloss": "in a nutshell, in short (ringkasnya)"
     }
   }
 }
