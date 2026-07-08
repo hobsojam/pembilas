@@ -12791,6 +12791,10 @@
     "se": {
       "state": "valid",
       "gloss": "a pair of (sepasang)"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "in pairs, paired up (berpasangan)"
     }
   },
   "kelas": {
@@ -26122,6 +26126,10 @@
     "an": {
       "state": "valid",
       "gloss": "a counterfeit, imitation (tiruan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an imitator, copycat (peniru)"
     }
   },
   "parasut": {
@@ -27212,6 +27220,125 @@
     "ber": {
       "state": "valid",
       "gloss": "qualified (berkualifikasi)"
+    }
+  },
+  "kenan": {
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): berkenan (to be pleased, willing) is mechanically kenan + ber but is an unrelated formal word, added as its own headword; kenan (birthmark) has no attested productive derivation"
+    }
+  },
+  "faks": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): faksi (faction) is mechanically faks + i but is an unrelated word, added as its own headword; faks (fax) has no attested productive derivation"
+    }
+  },
+  "kalor": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kalori (calorie) is mechanically kalor + i but is a distinct unit word, added as its own headword; kalor (heat) has no attested productive derivation"
+    }
+  },
+  "lentera": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the lantern (lenteranya)"
+    }
+  },
+  "traktor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the tractor (traktornya)"
+    }
+  },
+  "adon": {
+    "an": {
+      "state": "valid",
+      "gloss": "dough, batter (adonan)"
+    }
+  },
+  "campak": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to throw away, discard (mencampakkan)"
+    },
+    "kan": {
+      "state": "valid",
+      "gloss": "throw it away! (campakkan)"
+    }
+  },
+  "lowong": {
+    "an": {
+      "state": "valid",
+      "gloss": "a vacancy, job opening (lowongan)"
+    }
+  },
+  "tunjang": {
+    "an": {
+      "state": "valid",
+      "gloss": "support, an allowance (tunjangan)"
+    }
+  },
+  "kompeten": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to be competent (berkompeten)"
+    }
+  },
+  "dahi": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the forehead (dahinya)"
+    }
+  },
+  "anjung": {
+    "an": {
+      "state": "valid",
+      "gloss": "a platform (anjungan)"
+    }
+  },
+  "kompor": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the stove (kompornya)"
+    }
+  },
+  "logo": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the logo (logonya)"
+    }
+  },
+  "rumus": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the formula (rumusnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to formulate (merumuskan)"
+    }
+  },
+  "jarah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to pillage, plunder (menjarah)"
+    }
+  },
+  "modus": {
+    "nya": {
+      "state": "valid",
+      "gloss": "the mode (modusnya)"
+    }
+  },
+  "tudung": {
+    "ber": {
+      "state": "valid",
+      "gloss": "veiled, covered (bertudung)"
     }
   }
 }

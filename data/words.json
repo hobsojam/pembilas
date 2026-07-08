@@ -595,8 +595,13 @@
       "gloss": "adolescence"
     },
     {
-      "root": "adonan",
+      "root": "adon",
       "pos": "word",
+      "gloss": "to mix, knead (dough) (bound root)"
+    },
+    {
+      "root": "adonan",
+      "pos": "derived",
       "gloss": "dough"
     },
     {
@@ -2845,8 +2850,13 @@
       "gloss": "dog"
     },
     {
-      "root": "anjungan",
+      "root": "anjung",
       "pos": "word",
+      "gloss": "a raised platform, prow (bound root)"
+    },
+    {
+      "root": "anjungan",
+      "pos": "derived",
       "gloss": "platform"
     },
     {
@@ -6670,6 +6680,11 @@
       "gloss": "sustainable"
     },
     {
+      "root": "berkenan",
+      "pos": "word",
+      "gloss": "to be pleased, willing (formal)"
+    },
+    {
       "root": "berkhianat",
       "pos": "derived",
       "gloss": "collaborate"
@@ -6736,7 +6751,7 @@
     },
     {
       "root": "berpasangan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "double"
     },
     {
@@ -8652,7 +8667,7 @@
     {
       "root": "campak",
       "pos": "word",
-      "gloss": "measles"
+      "gloss": "to throw away, discard (verb); measles (noun, unrelated homograph)"
     },
     {
       "root": "campur",
@@ -13033,6 +13048,11 @@
       "root": "faks",
       "pos": "word",
       "gloss": "fax"
+    },
+    {
+      "root": "faksi",
+      "pos": "word",
+      "gloss": "faction"
     },
     {
       "root": "faksionalisme",
@@ -18515,6 +18535,11 @@
       "gloss": "sprat"
     },
     {
+      "root": "jarah",
+      "pos": "word",
+      "gloss": "to pillage, plunder (bound root)"
+    },
+    {
       "root": "jarak",
       "pos": "word",
       "gloss": "distance"
@@ -19423,6 +19448,11 @@
       "root": "kalor",
       "pos": "word",
       "gloss": "heat"
+    },
+    {
+      "root": "kalori",
+      "pos": "word",
+      "gloss": "calorie"
     },
     {
       "root": "kalorimetri",
@@ -22616,7 +22646,7 @@
     },
     {
       "root": "ketiduran",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "fall asleep"
     },
     {
@@ -29681,7 +29711,7 @@
     },
     {
       "root": "menjarah",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pillage, plunder"
     },
     {
@@ -35411,7 +35441,7 @@
     },
     {
       "root": "peniru",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "copycat, imitator"
     },
     {
@@ -46740,8 +46770,13 @@
       "gloss": "tunisia"
     },
     {
-      "root": "tunjangan",
+      "root": "tunjang",
       "pos": "word",
+      "gloss": "to support, prop up (bound root)"
+    },
+    {
+      "root": "tunjangan",
+      "pos": "derived",
       "gloss": "support, allowance"
     },
     {
