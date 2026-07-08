@@ -1964,6 +1964,11 @@
     "ke_an": {
       "state": "unused",
       "gloss": ""
+    },
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kediri (the city) is an unrelated proper noun; diri (self) has no such derivation"
     }
   },
   "gerak": {
@@ -2455,6 +2460,10 @@
     "ke_an": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a displacement (perpindahan)"
     }
   },
   "datang": {
@@ -2549,6 +2558,10 @@
     "ke": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a riser, one who ascends (penaik)"
     }
   },
   "turun": {
@@ -2700,6 +2713,10 @@
     "se": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a tithe (persepuluhan)"
     }
   },
   "ratus": {
@@ -2740,6 +2757,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "court, tribunal (pengadilan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "the judiciary, justice system (peradilan)"
     }
   },
   "aman": {
@@ -2908,6 +2929,10 @@
     "ber": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "renewal, update, reform (pembaruan)"
     }
   },
   "bebas": {
@@ -2960,6 +2985,10 @@
     "me_kan": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "acceleration (percepatan)"
     }
   },
   "damai": {
@@ -3004,6 +3033,10 @@
     "ber": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "cooling, quenching (pendinginan)"
     }
   },
   "gelap": {
@@ -3026,6 +3059,10 @@
     "ber": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "embezzlement (penggelapan)"
     }
   },
   "halus": {
@@ -3048,6 +3085,10 @@
     "ber": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "smoothing (penghalusan)"
     }
   },
   "hangat": {
@@ -3248,6 +3289,10 @@
     "ber": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "drying, the drying process (pengeringan)"
     }
   },
   "kotor": {
@@ -3326,6 +3371,10 @@
     "ber": {
       "state": "unused",
       "gloss": ""
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "deceleration (perlambatan)"
     }
   },
   "lama": {
@@ -3510,6 +3559,10 @@
     "ber": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a young person, youth (pemuda)"
     }
   },
   "mudah": {
@@ -3650,6 +3703,10 @@
     "ber": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a shortening (pemendekan)"
     }
   },
   "penuh": {
@@ -4170,6 +4227,14 @@
     "me_kan": {
       "state": "unused",
       "gloss": ""
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "aging (penuaan)"
+    },
+    "ke": {
+      "state": "valid",
+      "gloss": "a chairman, chairperson (ketua)"
     }
   },
   "alam": {
@@ -8742,6 +8807,10 @@
     "ber": {
       "state": "valid",
       "gloss": "to have hair (of a certain length/type), e.g. berambut panjang = long-haired"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "rambutan (etymologically \"the hairy fruit\")"
     }
   },
   "lutut": {
@@ -8829,6 +8898,16 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): menangkan (win it!) is menang + kan; tang (pliers) has no me-...-kan verb form (nasal assimilation coincidentally produces the same string as menang)"
+    },
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menang (win) is a phonological near-coincidence (nasal assimilation); tang (pliers) has no such verb, see also tang.me_kan"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): tangan (hand) is an unrelated word; tang (pliers) has no such derivation, see also tang.ber_an"
     }
   },
   "rubah": {
@@ -8872,6 +8951,11 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): membeli is from beli; ringing a bell is membunyikan bel, membeli from bel is not a word"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): beli (to buy, its own established root) is unrelated to bel (bell)"
     }
   },
   "asar": {
@@ -9015,6 +9099,11 @@
       "state": "valid",
       "gloss": "how could it possibly be? (expresses disbelief; literary)",
       "notes": "collision triage (#48): from the interjection sense of masa, not the 'period' sense glossed in words.json; judgment call, see issue discussion"
+    },
+    "lah": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): masalah (problem) is an unrelated word; masa (period, time) has no such derivation"
     }
   },
   "pintu": {
@@ -9269,6 +9358,11 @@
     "an": {
       "state": "valid",
       "gloss": "disc, platter (piringan hitam = vinyl record)"
+    },
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memiringkan is a phonological convergence with miring.me_kan (both piring and miring mechanically produce the same string); the real word (to tilt) belongs to miring"
     }
   },
   "sendok": {
@@ -9331,6 +9425,11 @@
       "state": "unused",
       "gloss": "",
       "notes": "jaman is a nonstandard spelling of zaman (era), not jam + -an"
+    },
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kejam (cruel) is an unrelated word; jam (clock, hour) has no such derivation"
     }
   },
   "sebut": {
@@ -9716,6 +9815,10 @@
     "an": {
       "state": "valid",
       "gloss": "an appeal, call to action (ajakan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an inviter, instigator (pengajak)"
     }
   },
   "pes": {
@@ -9723,6 +9826,11 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): berpesan is from pesan; pes (plague) has no ber-...-an form"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pesan (message) is an unrelated word; pes (plague) has no such derivation"
     }
   },
   "laporan": {
@@ -9751,6 +9859,10 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48/#56): keluaran is treated here as keluar + -an (already annotated); the ke-...-an parse from luar is the same word, kept unused to avoid a duplicate entry"
+    },
+    "ke": {
+      "state": "valid",
+      "gloss": "to go out, exit (keluar)"
     }
   },
   "tahanan": {
@@ -10219,6 +10331,11 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): menilai is from nilai; nila (indigo) has no me-...-i verb"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): nilai (value, grade) is an unrelated word; nila (indigo dye) has no such derivation"
     }
   },
   "penilai": {
@@ -10574,6 +10691,26 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): perasan is from peras (to squeeze); ras (race) has no per-...-an form either (the r-elision makes both affixes land on the same string)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): beras (uncooked rice) is an unrelated word; ras (race) has no such derivation"
+    },
+    "ter": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): teras (terrace, its own established root) is unrelated to ras (race)"
+    },
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): peras (to wring, its own established root) is unrelated to ras (race)"
+    },
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): keras (hard, violent) is an unrelated word; ras (race) has no such derivation"
     }
   },
   "lompat": {
@@ -11048,6 +11185,10 @@
       "state": "unused",
       "gloss": "",
       "notes": "increasing something is memperbanyak (memper-, not a modeled affix)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "propagation, multiplication (perbanyakan)"
     }
   },
   "lain": {
@@ -11438,6 +11579,10 @@
     "nya": {
       "state": "valid",
       "gloss": "its fruit, the result (buahnya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "fertilization (pembuahan)"
     }
   },
   "cara": {
@@ -11759,6 +11904,11 @@
     "per_an": {
       "state": "valid",
       "gloss": "waters, a body of water (perairan)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): airan's own headword gloss is an unhelpful placeholder ('airan'); no clear real relationship to air established"
     }
   },
   "ruang": {
@@ -11987,6 +12137,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "bleeding, hemorrhage (pendarahan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a hemorrhage (perdarahan)"
     }
   },
   "besok": {
@@ -12108,6 +12262,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "misfortune, bad luck (kesialan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a curse expression, \"damn it\" (sialan)"
     }
   },
   "sialan": {
@@ -12651,6 +12809,11 @@
     "per_an": {
       "state": "valid",
       "gloss": "a fireplace, hearth (perapian)"
+    },
+    "ter": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): terapi (therapy) is an unrelated loanword; api (fire) has no such derivation"
     }
   },
   "bayi": {
@@ -12677,6 +12840,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to honor, glorify (memuliakan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "breeding, ennoblement (pemuliaan)"
     }
   },
   "penjara": {
@@ -12837,6 +13004,10 @@
     "ber_an": {
       "state": "valid",
       "gloss": "emerging one after another, popping up all over (bermunculan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "an emergence, appearance (kemunculan)"
     }
   },
   "saudara": {
@@ -13163,6 +13334,10 @@
     "me_i": {
       "state": "valid",
       "gloss": "to award, give a gift to (menghadiahi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to give as a gift, reward (menghadiahkan)"
     }
   },
   "informasi": {
@@ -13234,6 +13409,10 @@
     "me_i": {
       "state": "valid",
       "gloss": "to follow, accompany; to join (mengikuti)"
+    },
+    "ber": {
+      "state": "valid",
+      "gloss": "following, next (berikut)"
     }
   },
   "berani": {
@@ -13581,6 +13760,10 @@
     "me": {
       "state": "valid",
       "gloss": "to turn, rotate, play (a recording) (memutar)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "circulation, rotation (perputaran)"
     }
   },
   "bintang": {
@@ -13780,6 +13963,10 @@
     "nya": {
       "state": "valid",
       "gloss": "its member(s) (anggotanya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "membership (keanggotaan)"
     }
   },
   "sistem": {
@@ -13798,6 +13985,11 @@
     "nya": {
       "state": "valid",
       "gloss": "the boss (bosnya)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): bosan (bored) is an unrelated word; bos (boss) has no such derivation"
     }
   },
   "presiden": {
@@ -14019,6 +14211,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to give birth to (melahirkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "delivery, childbirth (pelahiran)"
     }
   },
   "jumlah": {
@@ -14144,6 +14340,10 @@
     "per_an": {
       "state": "valid",
       "gloss": "border, boundary area (perbatasan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a limitation, restriction (pembatasan)"
     }
   },
   "pandang": {
@@ -14296,6 +14496,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the hero (pahlawannya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "heroism, chivalry (kepahlawanan)"
     }
   },
   "kopi": {
@@ -14332,6 +14536,10 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): mengemasi (to tidy/pack up) is from kemas; emas (gold) has no me-...-i form"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "golden (keemasan)"
     }
   },
   "nikmat": {
@@ -14401,6 +14609,10 @@
     "kan": {
       "state": "valid",
       "gloss": "bring it before, present it! (imperative, informal, hadapkan)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "toward, regarding (terhadap)"
     }
   },
   "selatan": {
@@ -14491,6 +14703,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to centralize (memusatkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "centralization, concentration (pemusatan)"
     }
   },
   "semangat": {
@@ -14625,6 +14841,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the bank (banknya)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "banking (perbankan)"
     }
   },
   "normal": {
@@ -14912,6 +15132,11 @@
     "nya": {
       "state": "valid",
       "gloss": "the mile (milnya)"
+    },
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): milan (the city) is an unrelated proper noun; mil (mile) has no such derivation"
     }
   },
   "kue": {
@@ -14964,6 +15189,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the cat (kucingnya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "catlike, feline (kekucingan)"
     }
   },
   "titik": {
@@ -15018,6 +15247,11 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): mengutuk/mengutukkan (to curse) is from kutuk; kutu (louse) has no me-...-kan form of its own (mengutukan is a nonsense near-miss of mengutuk)"
+    },
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): sekutu (ally, its own established root) is unrelated to kutu (louse)"
     }
   },
   "kelompok": {
@@ -15046,6 +15280,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "amazement, wonder (ketakjuban)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "amazed (tertakjub)"
     }
   },
   "cipta": {
@@ -15228,6 +15466,10 @@
       "state": "valid",
       "gloss": "take it off! (tanggalkan -- imperative)",
       "notes": "distinct sense from tanggal 'date'"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "dating (penanggalan)"
     }
   },
   "tes": {
@@ -15252,6 +15494,10 @@
     "nya": {
       "state": "valid",
       "gloss": "its rays, its light (sinarnya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "exposure, irradiation (penyinaran)"
     }
   },
   "teh": {
@@ -15294,6 +15540,11 @@
     "nya": {
       "state": "valid",
       "gloss": "the bar (barnya)"
+    },
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): sebar (to spread, its own established root) is unrelated to bar"
     }
   },
   "hakim": {
@@ -15571,6 +15822,11 @@
     "ke_an": {
       "state": "valid",
       "gloss": "desire (keinginan)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): beringin (banyan tree) is an unrelated word; ingin (to want) has no such derivation"
     }
   },
   "rawat": {
@@ -15957,6 +16213,10 @@
     "ber": {
       "state": "valid",
       "gloss": "to be ready, willing (bersedia)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a provision (penyediaan)"
     }
   },
   "hindar": {
@@ -15987,6 +16247,11 @@
     "an": {
       "state": "valid",
       "gloss": "rusted, rusty (karatan, colloq.)"
+    },
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): sekarat (dying) is an unrelated word; karat (carat, rust) has no such derivation"
     }
   },
   "tanam": {
@@ -16015,6 +16280,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "chastity, purity (kesucian)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "purification (penyucian)"
     }
   },
   "keliling": {
@@ -16177,6 +16446,10 @@
     "ke_an": {
       "state": "valid",
       "gloss": "pregnancy (kehamilan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "impregnation (penghamilan)"
     }
   },
   "aksi": {
@@ -16207,6 +16480,10 @@
     "ber": {
       "state": "valid",
       "gloss": "to function (berfungsi)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to make function, enable (memfungsikan)"
     }
   },
   "hijau": {
@@ -16360,6 +16637,10 @@
     "me": {
       "state": "valid",
       "gloss": "to fire, dismiss (someone) (memecat)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a dismissal (pemecatan)"
     }
   },
   "ujung": {
@@ -16398,6 +16679,10 @@
     "nya": {
       "state": "valid",
       "gloss": "in full, completely (lengkapnya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "completeness (kelengkapan)"
     }
   },
   "akibat": {
@@ -16908,6 +17193,11 @@
     "nya": {
       "state": "valid",
       "gloss": "the trace/remnant of it; its former (owner/user) (bekasnya)"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): bekasi (the city) is an unrelated proper noun; bekas has no such derivation"
     }
   },
   "parkir": {
@@ -17056,6 +17346,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to show, make visible, reveal (menampakkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "an appearance, manifestation (kenampakan)"
     }
   },
   "boneka": {
@@ -17411,6 +17705,10 @@
     "i": {
       "state": "valid",
       "gloss": "strip him/her! (imperative, informal, telanjangi)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "nakedness (ketelanjangan)"
     }
   },
   "angka": {
@@ -17471,6 +17769,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the tribe (sukunya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "ethnicity (kesukuan)"
     }
   },
   "infeksi": {
@@ -17631,6 +17933,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "disgusting (menjijikkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "disgust (kejijikan)"
     }
   },
   "setia": {
@@ -17673,6 +17979,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the schedule (jadwalnya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "scheduling (penjadwalan)"
     }
   },
   "cegah": {
@@ -17775,6 +18085,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the model (modelnya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "modeling (pemodelan)"
     }
   },
   "permen": {
@@ -17801,6 +18115,14 @@
     "ber": {
       "state": "valid",
       "gloss": "to be neighbours (bertetangga)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a neighborhood (pertetanggaan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a neighborhood, neighborliness (ketetanggaan)"
     }
   },
   "monyet": {
@@ -17877,6 +18199,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the crown (mahkotanya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a coronation (pemahkotaan)"
     }
   },
   "sepeda": {
@@ -18003,6 +18329,10 @@
     "se": {
       "state": "valid",
       "gloss": "of the same nation/kind (sebangsa)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "nationality, nationhood (kebangsaan)"
     }
   },
   "paus": {
@@ -18041,6 +18371,10 @@
     "kan": {
       "state": "valid",
       "gloss": "turn it! (imperative, informal, belokkan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to deflect, turn something (membelokkan)"
     }
   },
   "cair": {
@@ -18135,6 +18469,11 @@
     "nya": {
       "state": "valid",
       "gloss": "the vision (visinya)"
+    },
+    "di": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): divisi (division) is an unrelated word; visi (vision) has no such derivation"
     }
   },
   "keberadaan": {
@@ -18165,6 +18504,10 @@
     "nya": {
       "state": "valid",
       "gloss": "how stupid it is (tololnya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "stupidity, fatuity (ketololan)"
     }
   },
   "senapan": {
@@ -18177,6 +18520,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the technical aspect of it (teknisnya)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "a technician (teknisi)"
     }
   },
   "nuklir": {
@@ -18245,6 +18592,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "escort, protection (the act) (pengawalan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "an escort, control (kawalan)"
     }
   },
   "ragam": {
@@ -18269,6 +18620,11 @@
     "se": {
       "state": "valid",
       "gloss": "sharing a bed (e.g. teman seranjang, bedmate) (seranjang)"
+    },
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): keranjang (basket) is an unrelated word; ranjang (bed) has no such derivation"
     }
   },
   "berkas": {
@@ -18389,6 +18745,10 @@
     "kan": {
       "state": "valid",
       "gloss": "(informal) make time for it! (imperative, sempatkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "an opportunity, chance (kesempatan)"
     }
   },
   "topeng": {
@@ -18559,6 +18919,10 @@
     "me": {
       "state": "valid",
       "gloss": "to collect payment, demand payment (menagih)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "an invoice, bill (tagihan)"
     }
   },
   "halang": {
@@ -18623,6 +18987,10 @@
     "ter": {
       "state": "valid",
       "gloss": "guaranteed, assured (stative) (terjamin)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a guarantor (penjamin)"
     }
   },
   "pancing": {
@@ -18983,6 +19351,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to utilize, cash in, take advantage of (memanfaatkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "utilization (pemanfaatan)"
     }
   },
   "lingkar": {
@@ -19089,6 +19461,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the tax (pajaknya)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "taxation (perpajakan)"
     }
   },
   "sarang": {
@@ -19115,6 +19491,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the ash (abunya)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "an urn, columbarium (perabuan)"
     }
   },
   "misteri": {
@@ -19157,6 +19537,10 @@
     "i": {
       "state": "valid",
       "gloss": "obey it! (imperative, patuhi)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "compliance, obedience (kepatuhan)"
     }
   },
   "bidang": {
@@ -19256,6 +19640,11 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): persenan mechanically also derives from persen.an (informal tip/percentage cut), the real word; sen (cent) has no real per_an derivation"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): seni (art) is an unrelated word; sen (cent) has no such derivation"
     }
   },
   "tunang": {
@@ -19396,6 +19785,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the facility (fasilitasnya)"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "facilitation (fasilitasi)"
     }
   },
   "drama": {
@@ -19416,6 +19809,10 @@
     "ber": {
       "state": "valid",
       "gloss": "to advertise (beriklan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to advertise (mengiklankan)"
     }
   },
   "perak": {
@@ -19446,6 +19843,11 @@
     "di": {
       "state": "valid",
       "gloss": "(informal) to be made (passive) (dibikin)"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): bikini (swimsuit, loanword) is unrelated to bikin (to make)"
     }
   },
   "judi": {
@@ -19660,6 +20062,10 @@
     "ter": {
       "state": "valid",
       "gloss": "challenged (feeling motivated) (tertantang)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a challenger (penantang)"
     }
   },
   "ramal": {
@@ -19773,6 +20179,10 @@
     "nya": {
       "state": "valid",
       "gloss": "his/her parents (orangtuanya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "parenthood, parenting (keorangtuaan)"
     }
   },
   "umpan": {
@@ -20334,6 +20744,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "translation (the act) (penerjemahan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a translation (terjemahan)"
     }
   },
   "siar": {
@@ -20866,6 +21280,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "worrying, unsettling (menggelisahkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "anxiety, uneasiness (kegelisahan)"
     }
   },
   "perawan": {
@@ -20922,6 +21340,10 @@
     "an": {
       "state": "valid",
       "gloss": "a circular, memo (edaran)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "circulation (peredaran)"
     }
   },
   "perkosa": {
@@ -20996,6 +21418,10 @@
     "pe": {
       "state": "valid",
       "gloss": "one who/something that diverts; distraction (pengalih)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a transition, transfer period (peralihan)"
     }
   },
   "desain": {
@@ -21016,6 +21442,11 @@
     "nya": {
       "state": "valid",
       "gloss": "the tour (turnya)"
+    },
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): setur's gloss ('sturgeon') looks like low-quality data; no clear real relationship to tur (tour)"
     }
   },
   "lidah": {
@@ -21094,6 +21525,16 @@
     "se": {
       "state": "valid",
       "gloss": "equivalent, on par with (setara)"
+    },
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menara (tower) is an unrelated word; tara (tare, weight measurement) has no such derivation"
+    },
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): tarakan (the city) is an unrelated proper noun; tara has no such derivation"
     }
   },
   "spesies": {
@@ -21375,6 +21816,10 @@
     "ter": {
       "state": "valid",
       "gloss": "most popular (terpopuler)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "popularity (kepopuleran)"
     }
   },
   "versi": {
@@ -21429,6 +21874,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the recipe, prescription (resepnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to prescribe (meresepkan)"
     }
   },
   "rekrut": {
@@ -21493,6 +21942,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the term (istilahnya)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "terminology (peristilahan)"
     }
   },
   "saku": {
@@ -21736,6 +22189,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the comment (komentarnya)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to comment on (mengomentari)"
     }
   },
   "pompa": {
@@ -21912,6 +22369,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the partner (mitranya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a partnership (kemitraan)"
     }
   },
   "lusin": {
@@ -21992,6 +22453,11 @@
     "nya": {
       "state": "valid",
       "gloss": "the brake (remnya)"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): remi (rummy, the card game) is an unrelated loanword; rem (brake) has no such derivation"
     }
   },
   "sayur": {
@@ -22104,6 +22570,10 @@
     "ber": {
       "state": "valid",
       "gloss": "to turn, turn away (berpaling)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to turn away (something) (memalingkan)"
     }
   },
   "supir": {
@@ -22352,6 +22822,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to rely on (mengandalkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "reliability (keandalan)"
     }
   },
   "elak": {
@@ -22408,6 +22882,21 @@
     "nya": {
       "state": "valid",
       "gloss": "the chapter (babnya)"
+    },
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kebab is an unrelated loanword (food); bab (chapter) has no such derivation"
+    },
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): sebab (cause, reason) is an unrelated word; bab (chapter) has no such derivation"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): babi (pig) is an unrelated word; bab (chapter) has no such derivation"
     }
   },
   "mempekerjakan": {
@@ -22472,6 +22961,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the guardian (walinya)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "guardianship, trusteeship (perwalian)"
     }
   },
   "jagung": {
@@ -22510,6 +23003,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the film director (sutradaranya)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to direct (a film) (menyutradarai)"
     }
   },
   "gen": {
@@ -22903,6 +23400,10 @@
     "an": {
       "state": "valid",
       "gloss": "a set, outfit, suit (setelan)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an adjuster, tuner (penyetel)"
     }
   },
   "berontak": {
@@ -23523,6 +24024,10 @@
     "me": {
       "state": "valid",
       "gloss": "to speed along, accelerate (melaju)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "speed (kelajuan)"
     }
   },
   "bidik": {
@@ -23664,6 +24169,10 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): permulaan belongs to mulai.per_an, not mula"
+    },
+    "i": {
+      "state": "valid",
+      "gloss": "to begin (mulai)"
     }
   },
   "suntik": {
@@ -23742,6 +24251,10 @@
     "nya": {
       "state": "valid",
       "gloss": "how soft/lenient it is (lunaknya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "leniency, moderation (kelunakan)"
     }
   },
   "rata": {
@@ -23844,6 +24357,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the archive (arsipnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to archive (mengarsipkan)"
     }
   },
   "catur": {
@@ -24210,6 +24727,11 @@
     "di": {
       "state": "valid",
       "gloss": "to be stamped, labeled (passive) (dicap)"
+    },
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kecap (soy sauce) is an unrelated word; cap (stamp) has no such derivation"
     }
   },
   "basis": {
@@ -24334,6 +24856,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the marriage, wedding (kawinnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to marry off, mate (mengawinkan)"
     }
   },
   "lelang": {
@@ -24531,6 +25057,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the excess, remainder (lebihnya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "excess, exaggeration (pelebihan)"
     }
   },
   "merpati": {
@@ -24579,6 +25109,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the signal, cue (isyaratnya)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to signal, hint (mengisyaratkan)"
     }
   },
   "tomat": {
@@ -24610,6 +25144,10 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): perempatan belongs to empat.per_an, not perempat"
+    },
+    "se": {
+      "state": "valid",
+      "gloss": "one-fourth, a quarter (seperempat)"
     }
   },
   "nanti": {
@@ -24642,6 +25180,11 @@
     "di": {
       "state": "valid",
       "gloss": "to be welded (passive) (dilas)"
+    },
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kelas (class, grade) is an unrelated word; las (welding) has no such derivation"
     }
   },
   "anggar": {
@@ -24662,12 +25205,20 @@
     "pe_an": {
       "state": "valid",
       "gloss": "evaporation (penguapan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to evaporate, vaporize; also (from kuap) to yawn (menguap)"
     }
   },
   "padan": {
     "se": {
       "state": "valid",
       "gloss": "equivalent, comparable, commensurate (sepadan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a matching, equivalence process (pemadanan)"
     }
   },
   "sisir": {
@@ -24804,6 +25355,11 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): penguapan (evaporation) belongs to uap.pe_an, not kuap (yawn)"
+    },
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menguap is a genuine dual-homograph (yawn AND evaporate); linked via uap.me for the primary entry, see uap.me"
     }
   },
   "menguap": {
@@ -24987,6 +25543,10 @@
     "me_i": {
       "state": "valid",
       "gloss": "to cross, pass through (melintasi)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a passage, crossing (perlintasan)"
     }
   },
   "tampung": {
@@ -25057,12 +25617,20 @@
     "nya": {
       "state": "valid",
       "gloss": "the relative (kerabatnya)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "kinship (kekerabatan)"
     }
   },
   "sita": {
     "me": {
       "state": "valid",
       "gloss": "to confiscate, seize (menyita)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a seizure, sequestration (penyitaan)"
     }
   },
   "embara": {
@@ -25209,6 +25777,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the puppeteer, mastermind (dalangnya)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to mastermind (mendalangi)"
     }
   },
   "menantu": {
@@ -25393,6 +25965,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the thorn (durinya)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "durian (etymologically \"the thorny fruit\")"
     }
   },
   "jeram": {
@@ -25500,6 +26076,15 @@
     "an": {
       "state": "valid",
       "gloss": "an assembly, something assembled (rakitan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "an assembly (perakitan)"
+    },
+    "pe_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pe_an and per_an mechanically converge to the same string (perakitan) for this r-initial root; per_an is used as the canonical valid slot, see rakit.per_an"
     }
   },
   "kemauan": {
@@ -25536,6 +26121,10 @@
     "kan": {
       "state": "valid",
       "gloss": "cross it out! (silangkan)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "crossbreeding, an intersection (persilangan)"
     }
   },
   "evaluasi": {
@@ -25778,6 +26367,10 @@
     "me": {
       "state": "valid",
       "gloss": "to chatter, prattle (mengoceh)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "chatter, twaddle (ocehan)"
     }
   },
   "sekop": {
@@ -25945,6 +26538,11 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): geli (ticklish) is mechanically gel + i but is an unrelated word, added as its own headword; gel (the substance) has no attested productive derivation"
+    },
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): segel (a seal) is an unrelated word; gel (the substance) has no such derivation"
     }
   },
   "punah": {
@@ -26007,6 +26605,10 @@
     "me": {
       "state": "valid",
       "gloss": "to adhere, stick, resonate (melekat)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "an adhesive, patch (pelekat)"
     }
   },
   "anugerah": {
@@ -26298,6 +26900,11 @@
       "state": "unused",
       "gloss": "",
       "notes": "collision triage (#48): kasi (colloquial: to give) is mechanically kas + i but is an unrelated word, added as its own headword; kas (cash, treasury) has no attested productive derivation"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): berkas (a file) is an unrelated word; kas (cash) has no such derivation"
     }
   },
   "rehabilitasi": {
@@ -26426,6 +27033,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the fan (kipasnya)"
+    },
+    "me_i": {
+      "state": "valid",
+      "gloss": "to fan (someone/something) (mengipasi)"
     }
   },
   "sumbang": {
@@ -26506,6 +27117,10 @@
     "nya": {
       "state": "valid",
       "gloss": "the image, imagery (citranya)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "image-building, a facade (pencitraan)"
     }
   },
   "konsumsi": {
@@ -26534,6 +27149,11 @@
     "nya": {
       "state": "valid",
       "gloss": "the boot (botnya)"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): boti's gloss ('bottom') looks like low-quality data; no clear real relationship to bot (boot)"
     }
   },
   "klakson": {
@@ -26622,6 +27242,10 @@
     "me": {
       "state": "valid",
       "gloss": "to besiege, surround (mengepung)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a siege (pengepungan)"
     }
   },
   "sperma": {
@@ -26654,6 +27278,14 @@
     "kan": {
       "state": "valid",
       "gloss": "tilt it! (miringkan)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to tilt, lean something (memiringkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a slope, gradient (kemiringan)"
     }
   },
   "acuh": {
@@ -26670,6 +27302,10 @@
     "an": {
       "state": "valid",
       "gloss": "crying, weeping (tangisan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to cry, weep (menangis)"
     }
   },
   "setrum": {
@@ -26756,6 +27392,10 @@
     "an": {
       "state": "valid",
       "gloss": "a dam (bendungan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to dam, block (membendung)"
     }
   },
   "garuk": {
@@ -26967,6 +27607,10 @@
     "me_i": {
       "state": "valid",
       "gloss": "to observe carefully (mencermati)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "scrutiny, careful examination (pencermatan)"
     }
   },
   "dengung": {
@@ -27126,6 +27770,15 @@
     "pe": {
       "state": "valid",
       "gloss": "a successor (penerus)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "a canal (terusan)"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): terusi (copper sulfate) is an unrelated word; terus (to continue) has no such derivation"
     }
   },
   "petik": {
@@ -27176,6 +27829,10 @@
     "pe_an": {
       "state": "valid",
       "gloss": "a settlement (pemukiman)"
+    },
+    "per_an": {
+      "state": "valid",
+      "gloss": "a (residential) settlement (permukiman)"
     }
   },
   "pulpen": {
@@ -27313,6 +27970,10 @@
     "an": {
       "state": "valid",
       "gloss": "support, an allowance (tunjangan)"
+    },
+    "me": {
+      "state": "valid",
+      "gloss": "to support, prop up (menunjang)"
     }
   },
   "kompeten": {
@@ -27359,6 +28020,15 @@
     "me": {
       "state": "valid",
       "gloss": "to pillage, plunder (menjarah)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a looter (penjarah)"
+    },
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): sejarah (history) is an unrelated word; jarah (to pillage) has no such derivation"
     }
   },
   "modus": {
@@ -27904,6 +28574,10 @@
     "me": {
       "state": "valid",
       "gloss": "to download (mengunduh)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "a downloader (pengunduh)"
     }
   },
   "dosen": {
@@ -27926,6 +28600,10 @@
     "me_kan": {
       "state": "valid",
       "gloss": "to disclose (membeberkan)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "something disclosed, a spoiler (beberan)"
     }
   },
   "diskualifikasi": {
@@ -27954,6 +28632,798 @@
     "nya": {
       "state": "valid",
       "gloss": "the brochure (brosurnya)"
+    }
+  },
+  "abjad": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "alphabetization (pengabjadan)"
+    }
+  },
+  "abstrak": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to abstract, summarize (mengabstrakkan)"
+    }
+  },
+  "advokat": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "advocacy (keadvokatan)"
+    }
+  },
+  "alpa": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "negligence, absenteeism (kealpaan)"
+    }
+  },
+  "analog": {
+    "i": {
+      "state": "valid",
+      "gloss": "an analogy (analogi)"
+    }
+  },
+  "angkuh": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "hubris, arrogance (keangkuhan)"
+    }
+  },
+  "antropolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "anthropology (antropologi)"
+    }
+  },
+  "arkeolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "archaeology (arkeologi)"
+    }
+  },
+  "artroskop": {
+    "i": {
+      "state": "valid",
+      "gloss": "arthroscopy (artroskopi)"
+    }
+  },
+  "astrolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "astrology (astrologi)"
+    }
+  },
+  "astronom": {
+    "i": {
+      "state": "valid",
+      "gloss": "astronomy (astronomi)"
+    }
+  },
+  "awam": {
+    "nya": {
+      "state": "valid",
+      "gloss": "in layman's terms (awamnya)"
+    }
+  },
+  "bendahara": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "a treasury (perbendaharaan)"
+    }
+  },
+  "bentara": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "heraldry (perbentaraan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "heraldic (kebentaraan)"
+    }
+  },
+  "anal": {
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): menganalkan is an unrelated near-miss; 'canalise' has no real connection to anal (loanword)"
+    }
+  },
+  "asi": {
+    "ter": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): terasi (shrimp paste) is an unrelated word; asi (breast milk, ASI) has no such derivation"
+    }
+  },
+  "bajing": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): bajingan (scoundrel, vulgar) is not a transparent derivation of bajing (squirrel) for a learner's purposes"
+    }
+  },
+  "bal": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kebal (immune) is an unrelated word; bal (bale) has no such derivation"
+    },
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): sebal (annoyed) is an unrelated word; bal (bale) has no such derivation"
+    },
+    "kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): balkan (Balkans) is an unrelated proper noun; bal (bale) has no such derivation"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): bali (Bali) is an unrelated proper noun; bal (bale) has no such derivation"
+    }
+  },
+  "ark": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): arki and ark both appear to be combining-form fragments ('-archy'/'arch'), not real standalone words"
+    }
+  },
+  "ase": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): asean is an unrelated acronym/proper noun; ase appears to be a low-quality headword"
+    }
+  },
+  "bidan": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "midwifery (kebidanan)"
+    }
+  },
+  "bronkoskop": {
+    "i": {
+      "state": "valid",
+      "gloss": "bronchoscopy (bronkoskopi)"
+    }
+  },
+  "cangkok": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "transplantation (pencangkokan)"
+    }
+  },
+  "dungu": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "fatuity, stupidity (kedunguan)"
+    }
+  },
+  "ekonom": {
+    "i": {
+      "state": "valid",
+      "gloss": "economy, economics (ekonomi)"
+    }
+  },
+  "elektrokardiograf": {
+    "i": {
+      "state": "valid",
+      "gloss": "electrocardiography (elektrokardiografi)"
+    }
+  },
+  "endoskop": {
+    "i": {
+      "state": "valid",
+      "gloss": "endoscopy (endoskopi)"
+    }
+  },
+  "farmakolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "pharmacology (farmakologi)"
+    }
+  },
+  "fotograf": {
+    "i": {
+      "state": "valid",
+      "gloss": "photography (fotografi)"
+    }
+  },
+  "fusi": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "fusion (pemfusian)"
+    }
+  },
+  "ideolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "ideology (ideologi)"
+    }
+  },
+  "inggris": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "Englishness (keinggrisan)"
+    }
+  },
+  "bun": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kebun (garden, its own established root) is unrelated to bun (father)"
+    }
+  },
+  "dam": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pendam (to bury, its own established root) is unrelated to dam (draughts/checkers)"
+    }
+  },
+  "dot": {
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): sedot (to suck, siphon) is an unrelated word; dot (pacifier) has no such derivation"
+    }
+  },
+  "duh": {
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): seduh (to brew, steep) is an unrelated word; duh has no such derivation"
+    }
+  },
+  "duma": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): dumai (the city) is an unrelated proper noun; duma has no such derivation"
+    }
+  },
+  "gips": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): gipsi (gypsy) is an unrelated word, already added as its own headword; gips (cast) has no such derivation"
+    }
+  },
+  "graf": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): grafi and graf both appear to be combining-form fragments ('-graphy'/'graph'), not real standalone words"
+    }
+  },
+  "jantan": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "manliness, virility (kejantanan)"
+    },
+    "per_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): perjantanan's gloss is unclear/questionable; not a transparent derivation worth teaching"
+    }
+  },
+  "kardiolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "cardiology (kardiologi)"
+    }
+  },
+  "karena": {
+    "nya": {
+      "state": "valid",
+      "gloss": "hence, because of that (karenanya)"
+    }
+  },
+  "kartograf": {
+    "i": {
+      "state": "valid",
+      "gloss": "cartography (kartografi)"
+    }
+  },
+  "keramat": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "holiness, sanctity (kekeramatan)"
+    }
+  },
+  "kiral": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "chirality (kekiralan)"
+    }
+  },
+  "kocak": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "quirkiness, a quirk (kekocakan)"
+    }
+  },
+  "kompleks": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "complexity (kekompleksan)"
+    }
+  },
+  "konfigurasi": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to configure (mengonfigurasikan)"
+    }
+  },
+  "laksamana": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "admiralty (kelaksamanaan)"
+    }
+  },
+  "laparoskop": {
+    "i": {
+      "state": "valid",
+      "gloss": "laparoscopy (laparoskopi)"
+    }
+  },
+  "lembap": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "humidity (kelembapan)"
+    }
+  },
+  "kantin": {
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pengantin (bride, groom) is an unrelated word; kantin (canteen) has no such derivation"
+    }
+  },
+  "kok": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kekok is unrelated to the matched gloss (ribbit); appears to be noise"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): koki (cook, chef) is an unrelated word; kok (shuttlecock) has no such derivation"
+    }
+  },
+  "kop": {
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): sekop (spade, trowel, its own established root) is unrelated to kop (letterhead)"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kopi (coffee) is an unrelated word; kop (letterhead) has no such derivation"
+    }
+  },
+  "kor": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): koran (newspaper) is an unrelated word; kor (choir) has no such derivation"
+    }
+  },
+  "kuk": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kuki (an HTTP cookie, modern loanword) is unrelated to kuk (yoke)"
+    }
+  },
+  "kurs": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kursi (chair, seat) is an unrelated word; kurs (exchange rate) has no such derivation"
+    }
+  },
+  "lada": {
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): selada (lettuce, its own established headword) is unrelated to lada (pepper)"
+    }
+  },
+  "lak": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kelak (later, in future) is an unrelated word; lak (lacquer) has no such derivation"
+    },
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): laki (husband, man) is an unrelated word; lak (lacquer) has no such derivation"
+    }
+  },
+  "lesbi": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): lesbian is the whole borrowed English word, not a real lesbi + an Indonesian derivation"
+    }
+  },
+  "luntur": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "fadedness (kelunturan)"
+    }
+  },
+  "mandiri": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "autonomy, independence (kemandirian)"
+    }
+  },
+  "marinade": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "a marinating process (pemarinadean)"
+    }
+  },
+  "merosot": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "decline, deterioration (kemerosotan)"
+    }
+  },
+  "modern": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to modernize (memodernkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "modernity (kemodernan)"
+    }
+  },
+  "mufakat": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "consensus-building, unanimity (permufakatan)"
+    }
+  },
+  "munafik": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "hypocrisy (kemunafikan)"
+    }
+  },
+  "murtad": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "apostasy (kemurtadan)"
+    }
+  },
+  "mutakhir": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to upgrade (memutakhirkan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an update (pemutakhiran)"
+    }
+  },
+  "onkolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "oncology (onkologi)"
+    }
+  },
+  "otonom": {
+    "i": {
+      "state": "valid",
+      "gloss": "autonomy (otonomi)"
+    }
+  },
+  "parau": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "hoarseness (keparauan)"
+    }
+  },
+  "pasrah": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to surrender, forgo (something) (memasrahkan)"
+    },
+    "ke_an": {
+      "state": "valid",
+      "gloss": "fatalism, resignation (kepasrahan)"
+    }
+  },
+  "lot": {
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): selot (latch) is an unrelated word; lot (batch, loanword) has no such derivation"
+    }
+  },
+  "maja": {
+    "lah": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): majalah (magazine) is an unrelated word; maja (bael fruit) has no such derivation"
+    }
+  },
+  "maling": {
+    "me_kan": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): memalingkan (turn away) genuinely belongs to paling.me_kan (paling already has ber -> berpaling); maling (thief) has no such derivation"
+    }
+  },
+  "mau": {
+    "ke_an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kemauan is treated as its own standalone word (see batch 51 notes); mau is a modal/function word excluded from the affix system"
+    }
+  },
+  "nan": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kenan (birthmark, its own established root) is unrelated to nan (naan bread)"
+    }
+  },
+  "nat": {
+    "se": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): senat (senate) is an unrelated word; nat (grout) has no such derivation"
+    }
+  },
+  "nyam": {
+    "an": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): nyaman (comfortable, its own long-established root) is unrelated to nyam (eating onomatopoeia)"
+    }
+  },
+  "pala": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kepala (head) is an unrelated word; pala (nutmeg) has no such derivation"
+    }
+  },
+  "panda": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pandai (clever, skilled) is an unrelated word; panda (the animal) has no such derivation"
+    }
+  },
+  "pilu": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to sadden (memilukan)"
+    },
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): pemilu (general election, an abbreviation of pemilihan umum) is unrelated to pilu (grief)"
+    }
+  },
+  "psikolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "psychology (psikologi)"
+    }
+  },
+  "pustaka": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "a library (perpustakaan)"
+    }
+  },
+  "pustakawan": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "librarianship (kepustakawanan)"
+    }
+  },
+  "sakral": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "sacredness, sanctity (kesakralan)"
+    }
+  },
+  "saling": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "reciprocity (kesalingan)"
+    }
+  },
+  "sarjana": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "having a bachelor's degree, scholarliness (kesarjanaan)"
+    }
+  },
+  "seismolog": {
+    "i": {
+      "state": "valid",
+      "gloss": "seismology (seismologi)"
+    }
+  },
+  "sembrono": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "recklessness (kesembronoan)"
+    }
+  },
+  "semua": {
+    "nya": {
+      "state": "valid",
+      "gloss": "everything, all of it (semuanya)"
+    }
+  },
+  "serikat": {
+    "per_an": {
+      "state": "valid",
+      "gloss": "an alliance (perserikatan)"
+    }
+  },
+  "sinkron": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to synchronize (menyinkronkan)"
+    }
+  },
+  "sportif": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "sportsmanship (kesportifan)"
+    }
+  },
+  "sukar": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "difficulty (kesukaran)"
+    }
+  },
+  "pon": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): poni (bangs, hair fringe, already added as its own headword) is unrelated to pon (pound)"
+    }
+  },
+  "rabat": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): kerabat (relative, kin, its own established root) is unrelated to rabat (rebate)"
+    }
+  },
+  "rak": {
+    "me": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): merak (peacock) is an unrelated word; rak (shelf) has no such derivation"
+    },
+    "pe": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): perak (silver) is an unrelated word; rak (shelf) has no such derivation"
+    }
+  },
+  "ruh": {
+    "ke": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): keruh (turbid, murky) is an unrelated word; ruh (soul, spirit) has no such derivation"
+    }
+  },
+  "sultan": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a sultanate (kesultanan)"
+    }
+  },
+  "tabel": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to tabulate (menabelkan)"
+    }
+  },
+  "tafsir": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to interpret, render (menafsirkan)"
+    }
+  },
+  "tahbis": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to consecrate (menahbiskan)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "an ordination (penahbisan)"
+    }
+  },
+  "teladan": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "exemplarity (keteladanan)"
+    }
+  },
+  "tenteram": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "serenity (ketenteraman)"
+    }
+  },
+  "tokoh": {
+    "pe_an": {
+      "state": "valid",
+      "gloss": "characterization (penokohan)"
+    }
+  },
+  "tuli": {
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to deafen (menulikan)"
+    }
+  },
+  "usang": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "obsolescence (keusangan)"
+    }
+  },
+  "uskup": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "a bishopric, diocese (keuskupan)"
+    }
+  },
+  "waras": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "sanity (kewarasan)"
+    }
+  },
+  "waskita": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "clairvoyance (kewaskitaan)"
+    }
+  },
+  "wirausaha": {
+    "ke_an": {
+      "state": "valid",
+      "gloss": "entrepreneurship (kewirausahaan)"
+    }
+  },
+  "tar": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): tari (dance) is an unrelated word; tar (tart, pastry) has no such derivation"
+    }
+  },
+  "teras": {
+    "i": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "collision triage (#48): terasi (shrimp paste) is an unrelated word (a second, independent coincidental path to the same wrong string as asi.ter, see batch 1); teras (terrace) has no such derivation"
     }
   }
 }
