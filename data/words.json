@@ -3977,7 +3977,7 @@
     {
       "root": "asah",
       "pos": "word",
-      "gloss": "grind"
+      "gloss": "sharpen, hone"
     },
     {
       "root": "asai",
@@ -6591,7 +6591,7 @@
     },
     {
       "root": "bergulat",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "wrestle"
     },
     {
@@ -8711,7 +8711,7 @@
     },
     {
       "root": "candaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "joke"
     },
     {
@@ -14867,7 +14867,7 @@
     {
       "root": "gesek",
       "pos": "word",
-      "gloss": "friction"
+      "gloss": "rub, scrape; bow (a string instrument)"
     },
     {
       "root": "gesper",
@@ -22386,7 +22386,7 @@
     },
     {
       "root": "kesendirian",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "loneliness"
     },
     {
@@ -28706,7 +28706,7 @@
     },
     {
       "root": "membebani",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "burden"
     },
     {
@@ -35036,7 +35036,7 @@
     },
     {
       "root": "pencernaan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "digestion"
     },
     {
@@ -35201,7 +35201,7 @@
     },
     {
       "root": "pengagum",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "admirer"
     },
     {
@@ -48683,6 +48683,26 @@
       "root": "zulkaidah",
       "pos": "proper",
       "gloss": "dhu'l-qa'da"
+    },
+    {
+      "root": "beban",
+      "pos": "word",
+      "gloss": "burden, load"
+    },
+    {
+      "root": "gulat",
+      "pos": "word",
+      "gloss": "wrestle, wrestling"
+    },
+    {
+      "root": "cerna",
+      "pos": "word",
+      "gloss": "digest"
+    },
+    {
+      "root": "canda",
+      "pos": "word",
+      "gloss": "joke, jest, kid around"
     }
   ]
 }
