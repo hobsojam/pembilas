@@ -81,6 +81,7 @@ dekan lembek bahtera adat fitur bersin bikini hipotek monumen badak eksotis opin
 mempercayakan petak operasional ranting wisatawan instan bego gram kapur magis akhirat angkuh diplomatik klise pribumi cerobong germo liter sake karaoke sekoci zaitun geologi cakrawala cream kelereng
 kamerad telegram fotografi politikus astronom haluan kincir anomali helium ceri dadah jutawan una mumi pilar direksi dot kavaleri keterlambatan lot rosemary arsitektur kalajengking kidal lobak mayoritas
 poni surgawi kari legiun psikolog sirup ereksi lintah masjid sulung arak kabinet kewalahan dobel kapel memperbolehkan ons takhayul tiram bedak mercusuar strategis gipsi
+slip pinguin plankton vas kubus mentor selongsong ulat ledeng diplomat intervensi resolusi kompetitif lava mandarin kabupaten konseling giok spesimen kafein konsul prostitusi esai milisi gawang map lema
 radioaktif tropis anonim kanibal adapun kuartal paten babu barikade kubis arkeolog kedap reptil hipotesis samudra akuarium kawah kedelai mega perunggu bambu detektor fakultas kudeta aborsi
 konselor filsafat pustakawan statis institut kamus cawan feri banner batubara kilang konsulat mangga wastafel komplikasi katalog kuman menstabilkan rewel inspeksi
 survei gletser lada erotis halte pelat sirip telak hub kerikil personel rakun bursa dehidrasi jahe universal petisi bakso nanas zebra kuis magnetik mitologi opsi apotek batalyon'''.split())

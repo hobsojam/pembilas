@@ -29425,5 +29425,105 @@
       "gloss": "",
       "notes": "collision triage (#48): terasi (shrimp paste) is an unrelated word (a second, independent coincidental path to the same wrong string as asi.ter, see batch 1); teras (terrace) has no such derivation"
     }
+  },
+  "beban": {
+    "me_i": {
+      "state": "valid",
+      "gloss": "to burden, weigh down (someone) (membebani)"
+    },
+    "me_kan": {
+      "state": "valid",
+      "gloss": "to charge, impose as a burden (membebankan)"
+    }
+  },
+  "gulat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to wrestle, grapple (bergulat)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "wrestler (pegulat)",
+      "form": "pegulat",
+      "notes": "irregular: no nasal (the rule would give penggulat), like pedagang/pekerja"
+    }
+  },
+  "cerna": {
+    "me": {
+      "state": "valid",
+      "gloss": "to digest (mencerna)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be digested (dicerna)"
+    },
+    "pe_an": {
+      "state": "valid",
+      "gloss": "digestion (pencernaan)"
+    }
+  },
+  "canda": {
+    "an": {
+      "state": "valid",
+      "gloss": "joke, jest (candaan)"
+    }
+  },
+  "asah": {
+    "me": {
+      "state": "valid",
+      "gloss": "to sharpen, hone; to hone (a skill) (mengasah)"
+    },
+    "di": {
+      "state": "valid",
+      "gloss": "to be sharpened (diasah)"
+    }
+  },
+  "cabik": {
+    "me": {
+      "state": "valid",
+      "gloss": "to tear, shred (mencabik)"
+    },
+    "ter": {
+      "state": "valid",
+      "gloss": "torn, shredded (tercabik)"
+    },
+    "pe": {
+      "state": "valid",
+      "gloss": "shredder; one who tears (pencabik)"
+    }
+  },
+  "gesek": {
+    "me": {
+      "state": "valid",
+      "gloss": "to rub, scrape; to bow (a violin) (menggesek)"
+    },
+    "an": {
+      "state": "valid",
+      "gloss": "friction; rubbing; bowing (gesekan)"
+    }
+  },
+  "sosialisasi": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to socialize, mingle (bersosialisasi)"
+    }
+  },
+  "ingus": {
+    "an": {
+      "state": "valid",
+      "gloss": "childish, inexperienced, wet-behind-the-ears (colloq., lit. 'snotty') (ingusan)"
+    }
+  },
+  "bundar": {
+    "an": {
+      "state": "valid",
+      "gloss": "roundabout, traffic circle (bundaran)"
+    }
+  },
+  "memperingati": {
+    "nya": {
+      "state": "valid",
+      "gloss": "(colloq.) commemorating it (memperingatinya)"
+    }
   }
 }
