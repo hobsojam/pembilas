@@ -6,6 +6,12 @@ updates:
       interval: weekly
     cooldown:
       default-days: 7
+    groups:
+      # @vitest/* packages pin vitest as an exact peer, so they must bump together
+      vitest:
+        patterns:
+          - vitest
+          - "@vitest/*"
 
   - package-ecosystem: github-actions
     directory: /
