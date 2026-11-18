@@ -11,6 +11,7 @@
     "build:index": "node scripts/build-index.mjs",
     "test": "node scripts/build-index.mjs && vitest run",
     "coverage": "node scripts/build-index.mjs && vitest run --coverage",
+    "audit:ci": "node scripts/audit-ci.mjs",
     "lint": "eslint .",
     "validate:data": "node scripts/validate-annotations.mjs"
   },
