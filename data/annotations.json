@@ -23980,6 +23980,11 @@
     "ter": {
       "state": "valid",
       "gloss": "to cough (involuntarily) (terbatuk)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "berbatuk is not standard; involuntary coughing is terbatuk / terbatuk-batuk"
     }
   },
   "genggam": {
@@ -27306,6 +27311,15 @@
     "me": {
       "state": "valid",
       "gloss": "to cry, weep (menangis)"
+    },
+    "ber": {
+      "state": "unused",
+      "gloss": "",
+      "notes": "bertangis is not used on its own; only the reciprocal bertangisan / bertangis-tangisan"
+    },
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to weep together, cry with one another (bertangisan; also bertangis-tangisan)"
     }
   },
   "setrum": {
