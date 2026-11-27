@@ -29539,5 +29539,85 @@
       "state": "valid",
       "gloss": "(colloq.) commemorating it (memperingatinya)"
     }
+  },
+  "belasungkawa": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to offer one's condolences (berbelasungkawa)"
+    }
+  },
+  "daulat": {
+    "ber": {
+      "state": "valid",
+      "gloss": "sovereign; to hold sovereignty (berdaulat)"
+    }
+  },
+  "deru": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to roar, whoosh, rumble (berderu)"
+    }
+  },
+  "hingga": {
+    "ber": {
+      "state": "valid",
+      "gloss": "finite, limited (berhingga); mostly in tak/tidak berhingga \"infinite\"",
+      "notes": "hingga is mainly a preposition/conjunction; added as a root to carry berhingga (#52)"
+    }
+  },
+  "jangkit": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to be contagious; to spread (of a disease) (berjangkit)"
+    }
+  },
+  "nyali": {
+    "ber": {
+      "state": "valid",
+      "gloss": "gutsy, daring (bernyali)"
+    }
+  },
+  "piksel": {
+    "ber": {
+      "state": "valid",
+      "gloss": "pixelated; having pixels (berpiksel)"
+    }
+  },
+  "sujud": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to prostrate oneself, bow down in prayer (bersujud)"
+    }
+  },
+  "sulang": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to toast, raise a glass (bersulang)"
+    }
+  },
+  "suruk": {
+    "ber_an": {
+      "state": "valid",
+      "gloss": "to hide from one another; play hide-and-seek (bersurukan)"
+    }
+  },
+  "swafoto": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to take a selfie (berswafoto)"
+    }
+  },
+  "ziarah": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to make a pilgrimage; to visit a grave (berziarah)"
+    }
+  },
+  "gadang": {
+    "ber": {
+      "state": "valid",
+      "gloss": "to stay up late (bergadang)",
+      "notes": "KBBI standard spelling is begadang; bergadang is the common variant and the existing headword"
+    }
   }
 }

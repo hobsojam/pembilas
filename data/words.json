@@ -6531,7 +6531,7 @@
     },
     {
       "root": "berbelasungkawa",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "offer one's condolences"
     },
     {
@@ -6556,7 +6556,7 @@
     },
     {
       "root": "berdaulat",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "sovereign"
     },
     {
@@ -6566,7 +6566,7 @@
     },
     {
       "root": "berderu",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "whine"
     },
     {
@@ -6586,7 +6586,7 @@
     },
     {
       "root": "bergadang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "stay up late"
     },
     {
@@ -6621,7 +6621,7 @@
     },
     {
       "root": "berhingga",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "finite"
     },
     {
@@ -6661,7 +6661,7 @@
     },
     {
       "root": "berjangkit",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "communicable"
     },
     {
@@ -6756,7 +6756,7 @@
     },
     {
       "root": "bernyali",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "gutsy"
     },
     {
@@ -6781,7 +6781,7 @@
     },
     {
       "root": "berpiksel",
-      "pos": "adjective",
+      "pos": "derived",
       "gloss": "pixelly"
     },
     {
@@ -6821,22 +6821,22 @@
     },
     {
       "root": "bersujud",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "prostrate"
     },
     {
       "root": "bersulang",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "toast"
     },
     {
       "root": "bersurukan",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "hide and seek"
     },
     {
       "root": "berswafoto",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "selfie"
     },
     {
@@ -6861,7 +6861,7 @@
     },
     {
       "root": "berziarah",
-      "pos": "word",
+      "pos": "derived",
       "gloss": "pilgrimage"
     },
     {
@@ -48703,6 +48703,71 @@
       "root": "canda",
       "pos": "word",
       "gloss": "joke, jest, kid around"
+    },
+    {
+      "root": "belasungkawa",
+      "pos": "word",
+      "gloss": "condolence(s), sympathy"
+    },
+    {
+      "root": "daulat",
+      "pos": "word",
+      "gloss": "sovereignty; (royal) authority, blessing"
+    },
+    {
+      "root": "deru",
+      "pos": "word",
+      "gloss": "roar, whoosh, rumble (of wind, engines, waves)"
+    },
+    {
+      "root": "hingga",
+      "pos": "word",
+      "gloss": "until, up to; limit"
+    },
+    {
+      "root": "jangkit",
+      "pos": "word",
+      "gloss": "spread (of disease) (bound root)"
+    },
+    {
+      "root": "nyali",
+      "pos": "word",
+      "gloss": "courage, nerve, guts"
+    },
+    {
+      "root": "piksel",
+      "pos": "word",
+      "gloss": "pixel"
+    },
+    {
+      "root": "sujud",
+      "pos": "word",
+      "gloss": "prostration (in prayer)"
+    },
+    {
+      "root": "sulang",
+      "pos": "word",
+      "gloss": "toast (with drinks); feed by hand (bound root)"
+    },
+    {
+      "root": "suruk",
+      "pos": "word",
+      "gloss": "hide, slip under (bound root)"
+    },
+    {
+      "root": "swafoto",
+      "pos": "word",
+      "gloss": "selfie"
+    },
+    {
+      "root": "ziarah",
+      "pos": "word",
+      "gloss": "pilgrimage; visit to a grave or holy place"
+    },
+    {
+      "root": "gadang",
+      "pos": "word",
+      "gloss": "stay awake at night (bound root)"
     }
   ]
 }
